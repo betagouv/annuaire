@@ -1,5 +1,7 @@
 # API Annuaire de l’administration
 
+> Le contenu de cet annuaire est généré automatiquement par le script d'import disponible à l'adresse [https://github.com/sgmap/annuaire-import](https://github.com/sgmap/annuaire-import)
+
 ## /organismes - Liste des organismes par couple _(département, pivot)_
 
   Retourne une [FeatureCollection](https://tools.ietf.org/html/rfc7946#section-3.3) des établissements d'un type donné pour un département donné.
