@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0817625,
+          14.6144058
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-97209-01",
+          "codeInsee": "97209",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Fort-de-France",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Route de Cluny",
+            "CodePostal": "97261",
+            "NomCommune": "Fort de France Cedex",
+            "Localisation": {
+              "Latitude": "14.6144058",
+              "Longitude": "-61.0817625",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+596 5 96 59 55 82",
+            "Télécopie": "+596 5 96 59 71 37",
+            "Email": "spf.fort-de-france@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:15:00",
+                "fin": "12:15:00"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

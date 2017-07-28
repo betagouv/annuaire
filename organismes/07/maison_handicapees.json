@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.59887981415,
+          44.7346229553
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "maison_handicapees-07186-01",
+          "codeInsee": "07186",
+          "dateMiseAJour": "2013-04-25",
+          "pivotLocal": "maison_handicapees",
+          "Nom": "Maison départementale des personnes handicapées (MDPH) - Ardèche",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Pôle Astier Froment",
+              "BP 606"
+            ],
+            "CodePostal": "07006",
+            "NomCommune": "Privas Cedex",
+            "Localisation": {
+              "Latitude": "44.7346229553",
+              "Longitude": "4.59887981415",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+              "$t": "0800 07 07 00"
+            },
+            "Télécopie": "+33 4 75 64 71 58",
+            "Email": "mdph@ardeche.fr",
+            "Url": "http://www.ardeche.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

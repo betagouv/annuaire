@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5886069,
+          48.8505722
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-77083-01",
+          "codeInsee": "77083",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Champs-sur-Marne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "67-69 avenue du Général-de-Gaulle",
+            "CodePostal": "77420",
+            "NomCommune": "Champs-sur-Marne",
+            "Localisation": {
+              "Latitude": "48.8505722",
+              "Longitude": "2.5886069",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.idf.afpa.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:15:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9128946,
+          48.9544812
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-77284-01",
+          "codeInsee": "77284",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Meaux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "30 boulevard du Chevalier-Bayard",
+            "CodePostal": "77100",
+            "NomCommune": "Meaux",
+            "Localisation": {
+              "Latitude": "48.9544812",
+              "Longitude": "2.9128946",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.idf.afpa.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

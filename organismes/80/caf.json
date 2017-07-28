@@ -1,0 +1,609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07629990578,
+          49.7429008484
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80410-01",
+          "codeInsee": "80410",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil de Ham",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "12 rue Louis-Braille",
+              "CodePostal": "80400",
+              "NomCommune": "Ham",
+              "Localisation": {
+                "Latitude": "49.7429008484",
+                "Longitude": "3.07629990578",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "09:30:00",
+                  "fin": "11:30:00"
+                }
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "09:30:00",
+                  "fin": "11:30:00"
+                },
+                "Note": "Borne en libre service du lundi au vendredi de 8h30 à 12h15 et de 13h30 à 17h30 et le samedi de 13h30 à 17h."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9421412,
+          49.925257
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80620-01",
+          "codeInsee": "80620",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil de Péronne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Maison de quartier de Mont-Saint-Quentin",
+                "5 Rue Jules-Ferry"
+              ],
+              "CodePostal": "80200",
+              "NomCommune": "Péronne",
+              "Localisation": {
+                "Latitude": "49.925257",
+                "Longitude": "2.9421412",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "13:45:00",
+                  "fin": "16:30:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                },
+                "Note": "Accueil ouvert le 2e et 4e vendredi du mois uniquement sur rendez-vous."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33797001839,
+          50.1563987732
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80253-01",
+          "codeInsee": "80253",
+          "dateMiseAJour": "2016-02-08",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de la Somme - accueil de Doullens",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Agora",
+                "2 rue des Soeurs-Grises"
+              ],
+              "CodePostal": "80600",
+              "NomCommune": "Doullens",
+              "Localisation": {
+                "Latitude": "50.1563987732",
+                "Longitude": "2.33797001839",
+                "Précision": "6"
+              },
+              "Accessibilité": {
+                "type": "NAC"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de la Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9",
+              "Localisation": {
+                "Latitude": "49.8898010254",
+                "Longitude": "2.29282999039",
+                "Précision": "8"
+              }
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Fermeture au mois d'Août."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6456136,
+          50.0047397
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80016-01",
+          "codeInsee": "80016",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil d'Albert",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "2 A rue Émile-Zola",
+              "CodePostal": "80300",
+              "NomCommune": "Albert",
+              "Localisation": {
+                "Latitude": "50.0047397",
+                "Longitude": "2.6456136",
+                "Précision": "6"
+              },
+              "Accessibilité": {
+                "type": "ACC"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                },
+                "Note": "Accueil uniquement sur rendez-vous."
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil uniquement sur rendez-vous."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.827515,
+          50.10625
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80001-01",
+          "codeInsee": "80001",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil d'Abbeville",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre Caf",
+                "Quai du Pont-Neuf"
+              ],
+              "CodePostal": "80100",
+              "NomCommune": "Abbeville",
+              "Localisation": {
+                "Latitude": "50.10625",
+                "Longitude": "1.827515",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 60 80"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:30:00"
+                  }
+                ],
+                "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h15."
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ],
+                "Note": "Accueil ouvert uniquement sur rendez-vous."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.55011999607,
+          50.0904998779
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80368-01",
+          "codeInsee": "80368",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil de Friville-Escarbotin",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Caisse primaire d'assurance maladie",
+                "71 rue Voltaire"
+              ],
+              "CodePostal": "80130",
+              "NomCommune": "Friville-Escarbotin",
+              "Localisation": {
+                "Latitude": "50.0904998779",
+                "Longitude": "1.55011999607",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7887198925,
+          49.6980018616
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80685-01",
+          "codeInsee": "80685",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil de Roye",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Mairie",
+                "Place de l'Hôtel-de-Ville"
+              ],
+              "CodePostal": "80700",
+              "NomCommune": "Roye",
+              "Localisation": {
+                "Latitude": "49.6980018616",
+                "Longitude": "2.7887198925",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.98011004925,
+          49.7802009583
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80630-01",
+          "codeInsee": "80630",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - accueil de Poix-de-Picardie",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "Rue du Viaduc",
+              "CodePostal": "80290",
+              "NomCommune": "Poix-de-Picardie",
+              "Localisation": {
+                "Latitude": "49.7802009583",
+                "Longitude": "1.98011004925",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales de Somme",
+                "9 boulevard Maignan-Larivière"
+              ],
+              "CodePostal": "80022",
+              "NomCommune": "Amiens Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Commentaire": "La permanence du technicien conseil est suspendue."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29282999039,
+          49.8898010254
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-80021-01",
+          "codeInsee": "80021",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Somme - siège d'Amiens",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "9 boulevard Maignan-Larivière",
+            "CodePostal": "80022",
+            "NomCommune": "Amiens Cedex 9",
+            "Localisation": {
+              "Latitude": "49.8898010254",
+              "Longitude": "2.29282999039",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 80 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

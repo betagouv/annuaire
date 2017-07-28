@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.400936,
+          43.571977
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "31555",
+          "dateMiseAJour": "2010-02-03",
+          "id": "mjd-31555-01",
+          "idPresta": "51b08cc8b473e41478000ee5",
+          "pivotLocal": "mjd",
+          "Nom": "Maison de justice et du droit  de Toulouse-Reynerie",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 impasse Abbé Salvat",
+            "CodePostal": "31100",
+            "NomCommune": "TOULOUSE",
+            "Localisation": {
+              "Latitude": "43.571977",
+              "Longitude": "1.400936",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 61 43 06 94",
+            "Télécopie": "+33 5 61 43 07 02",
+            "Email": "mailto:mjd-toulouse-reynerie@justice.fr",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.431538,
+          43.6617
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "31555",
+          "dateMiseAJour": "2010-02-03",
+          "id": "mjd-31555-02",
+          "idPresta": "51b08ca2b473e414780006a3",
+          "pivotLocal": "mjd",
+          "Nom": "Maison de justice et du droit  de Toulouse-Nord",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "217 route de Fronton",
+            "CodePostal": "31200",
+            "NomCommune": "TOULOUSE",
+            "Localisation": {
+              "Latitude": "43.6617",
+              "Longitude": "1.431538",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 34 42 29 50",
+            "Télécopie": "+33 5 34 42 29 51",
+            "Email": "mailto:mjd-toulouse-lalande@justice.fr",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.328256,
+          43.577005
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "31557",
+          "dateMiseAJour": "2010-02-03",
+          "id": "mjd-31557-01",
+          "idPresta": "51b08ca6b473e41478000758",
+          "pivotLocal": "mjd",
+          "Nom": "Maison de justice et du droit  de Toulouse-Tournefeuille",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "7 rue Paul Valéry",
+            "CodePostal": "31170",
+            "NomCommune": "TOURNEFEUILLE",
+            "Localisation": {
+              "Latitude": "43.577005",
+              "Longitude": "1.328256",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 61 78 69 18",
+            "Télécopie": "+33 5 61 78 69 38",
+            "Email": "mailto:mjd-toulouse-tournefeuille@justice.fr",
+            "Url": "http://www.cdad-hautegaronne.justice.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

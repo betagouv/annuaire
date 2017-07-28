@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5640272,
+          47.7936637
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-89024-01",
+          "codeInsee": "89024",
+          "dateMiseAJour": "2015-06-25",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques d'Auxerre",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "8, rue des Moreaux",
+              "BP 29"
+            ],
+            "CodePostal": "89010",
+            "NomCommune": "Auxerre Cedex",
+            "Localisation": {
+              "Latitude": "47.7936637",
+              "Longitude": "3.5640272",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 86 72 50 00",
+            "Email": "sip.auxerre@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3994537,
+          47.980928
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-89206-01",
+          "codeInsee": "89206",
+          "dateMiseAJour": "2015-06-25",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Joigny",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Quai du Premier-Dragon",
+              "BP 227"
+            ],
+            "CodePostal": "89306",
+            "NomCommune": "Joigny Cedex",
+            "Localisation": {
+              "Latitude": "47.980928",
+              "Longitude": "3.3994537",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 86 92 47 00",
+            "Email": "sip-sie.joigny@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9078141,
+          47.4915811
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-89025-01",
+          "codeInsee": "89025",
+          "dateMiseAJour": "2015-06-25",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques d'Avallon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "41, rue de Paris",
+              "BP 176"
+            ],
+            "CodePostal": "89206",
+            "NomCommune": "Avallon Cedex",
+            "Localisation": {
+              "Latitude": "47.4915811",
+              "Longitude": "3.9078141",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 86 34 80 00",
+            "Email": "sip-sie.avallon@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9759354,
+          47.857638
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-89418-01",
+          "codeInsee": "89418",
+          "dateMiseAJour": "2017-06-23",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Tonnerre",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "12, rue du Pont",
+            "CodePostal": "89700",
+            "NomCommune": "Tonnerre",
+            "Localisation": {
+              "Latitude": "47.857638",
+              "Longitude": "3.9759354",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 86 54 65 20",
+            "Email": "sip-sie.tonnerre@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2748689,
+          48.207606
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-89387-01",
+          "codeInsee": "89387",
+          "dateMiseAJour": "2015-06-25",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Sens",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "26, quai de Nancy",
+            "CodePostal": "89091",
+            "NomCommune": "Sens Cedex",
+            "Localisation": {
+              "Latitude": "48.207606",
+              "Longitude": "3.2748689",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 86 95 54 00",
+            "Email": "sip.sens@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

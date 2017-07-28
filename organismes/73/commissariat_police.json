@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9149289,
+          45.5768485
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-73065-01",
+          "codeInsee": "73065",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Hôtel de police de Chambéry",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "585 avenue de la Boisse",
+            "CodePostal": "73000",
+            "NomCommune": "Chambéry",
+            "Localisation": {
+              "Latitude": "45.5768485",
+              "Longitude": "5.9149289",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 62 84 00",
+            "Email": "ddsp73@interieur.gouv.fr",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9173354,
+          45.5919301
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-73065-02",
+          "codeInsee": "73065",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat subdivisionnaire de police de Chambéry-le-Haut",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "293 rue du Mâconnais",
+            "CodePostal": "73000",
+            "NomCommune": "Chambéry",
+            "Localisation": {
+              "Latitude": "45.5919301",
+              "Longitude": "5.9173354",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 75 26 26",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3909649,
+          45.6740646
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-73011-01",
+          "codeInsee": "73011",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police d'Albertville",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 rue Jacques-Porraz",
+            "CodePostal": "73200",
+            "NomCommune": "Albertville",
+            "Localisation": {
+              "Latitude": "45.6740646",
+              "Longitude": "6.3909649",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 32 43 57",
+            "Télécopie": "04 79 32 46 97",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9156529,
+          45.6894983
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-73008-01",
+          "codeInsee": "73008",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police d'Aix-les-Bains",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "9 bis avenue Victoria",
+              "BP 450"
+            ],
+            "CodePostal": "73104",
+            "NomCommune": "Aix-les-Bains",
+            "Localisation": {
+              "Latitude": "45.6894983",
+              "Longitude": "5.9156529",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 35 00 25",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

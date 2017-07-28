@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0743301,
+          48.2739386
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-10387-01",
+          "codeInsee": "10387",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Aube",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "16 avenue des Lombards",
+            "CodePostal": "10000",
+            "NomCommune": "Troyes",
+            "Localisation": {
+              "Latitude": "48.2739386",
+              "Longitude": "4.0743301",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 25 71 23 80",
+            "Télécopie": "03 25 71 23 89",
+            "Email": "contact@gretasudchampagne.com",
+            "Url": "http://www.dafco.ac-reims.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

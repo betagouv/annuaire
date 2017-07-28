@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87106199999994,
+          46.176778
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-23096-01",
+          "codeInsee": "23096",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) de Creuse - siège de Guéret",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Rue Marcel-Brunet",
+              "BP 109"
+            ],
+            "CodePostal": "23014",
+            "NomCommune": "Guéret Cedex",
+            "Localisation": {
+              "Latitude": "46.176778",
+              "Longitude": "1.87106199999994",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "08:45:00",
+                  "fin": "17:00:00"
+                },
+                "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:45:00",
+                  "fin": "16:00:00"
+                },
+                "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

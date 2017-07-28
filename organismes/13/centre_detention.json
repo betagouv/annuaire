@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.657525,
+          43.806042
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "13108",
+          "dateMiseAJour": "2017-07-24",
+          "id": "centre_detention-13108-01",
+          "idPresta": "4eb262982935944ef50000cb",
+          "pivotLocal": "centre_detention",
+          "Nom": "Centre de détention de Tarascon",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "BP 82",
+            "CodePostal": "13155",
+            "NomCommune": "TARASCON CEDEX",
+            "Localisation": {
+              "Latitude": "43.806042",
+              "Longitude": "4.657525",
+              "Précision": "4"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 90 99 10 00",
+            "Télécopie": "+33 4 90 99 10 30",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.085174,
+          43.643274
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "13103",
+          "dateMiseAJour": "2017-07-24",
+          "id": "centre_detention-13103-01",
+          "idPresta": "4eb262982935944ef50000cc",
+          "pivotLocal": "centre_detention",
+          "Nom": "Centre de détention de Salon-de-Provence",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "BP 369",
+            "CodePostal": "13668",
+            "NomCommune": "SALON DE PROVENCE CEDEX",
+            "Localisation": {
+              "Latitude": "43.643274",
+              "Longitude": "5.085174",
+              "Précision": "4"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 90 44 61 00",
+            "Télécopie": "+33 4 90 44 61 19",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    }
+  ]
+}

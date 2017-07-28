@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29947,
+          48.833281
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "prefecture_greffe_associations-75056-01",
+          "codeInsee": "75056",
+          "dateMiseAJour": "2017-02-23",
+          "pivotLocal": "prefecture_greffe_associations",
+          "Nom": "Greffe des associations de Paris",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Préfecture de police de Paris",
+                "Section des associations",
+                "36 rue des Morillons"
+              ],
+              "CodePostal": "75015",
+              "NomCommune": "Paris",
+              "Localisation": {
+                "Latitude": "48.833281",
+                "Longitude": "2.29947",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Préfecture de police",
+                "Bureau des associations",
+                "9 boulevard du Palais"
+              ],
+              "CodePostal": "75195",
+              "NomCommune": "Paris Cedex 4"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+              "$t": "08 21 36 19 01"
+            },
+            "Email": "pp-dpg-association@interieur.gouv.fr",
+            "Url": "http://www.prefectures-regions.gouv.fr/ile-de-france"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil ouvert uniquement sur rendez-vous."
+              },
+              {
+                "début": "mercredi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil ouvert uniquement sur rendez-vous."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

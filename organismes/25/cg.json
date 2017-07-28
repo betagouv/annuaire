@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02277708054,
+          47.2322998047
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cg-25056-01",
+          "codeInsee": "25056",
+          "dateMiseAJour": "2016-07-06",
+          "pivotLocal": "cg",
+          "Nom": "Conseil départemental - Doubs",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Hôtel du département",
+              "7 avenue de la Gare-d'Eau"
+            ],
+            "CodePostal": "25031",
+            "NomCommune": "Besançon Cedex",
+            "Localisation": {
+              "Latitude": "47.2322998047",
+              "Longitude": "6.02277708054",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 81 25 81 25",
+            "Url": "http://www.doubs.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "'09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

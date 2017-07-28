@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.558054983616,
+          44.8958015442
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "carsat-33063-01",
+          "codeInsee": "33063",
+          "dateMiseAJour": "2017-05-03",
+          "pivotLocal": "carsat",
+          "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Aquitaine",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "80 avenue de la Jallère",
+            "CodePostal": "33053",
+            "NomCommune": "Bordeaux Cedex",
+            "Localisation": {
+              "Latitude": "44.8958015442",
+              "Longitude": "-0.558054983616",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "6 centimes d’euro par minute plus le prix de l’appel.",
+              "$t": "3960"
+            },
+            "Email": "http://www.carsat-aquitaine.fr/12-nous-contacter.html",
+            "Url": "http://www.carsat-aquitaine.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          },
+          "Commentaire": "La Carsat Aquitaine est compétente pour les départements suivants : Dordogne (24), Gironde (33), Landes (40), Lot-et-Garonne (47), Pyrénées-Atlantiques (64)."
+        }
+      }
+    }
+  ]
+}

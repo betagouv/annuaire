@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38068,
+          46.58633
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "urssaf-86194-01",
+          "codeInsee": "86194",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "urssaf",
+          "Nom": "Urssaf Poitou-Charentes - siège social - site de Poitiers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "3 avenue de la Révolution",
+            "CodePostal": "86046",
+            "NomCommune": "Poitiers Cedex 9",
+            "Localisation": {
+              "Latitude": "46.58633",
+              "Longitude": "0.38068",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : 12 centimes d'euro  la minute + le prix d'un appel. Écoutez le tarif en début d'appel.",
+              "$t": "3957"
+            },
+            "Télécopie": "05 49 44 55 89",
+            "Email": "http://www.contact.urssaf.fr",
+            "Url": "http://www.poitoucharentes.urssaf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "17:00:00"
+                }
+              },
+              {
+                "début": "mardi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                "Note": "Accueil physique sur rendez-vous de 12h30 à 17h, le vendredi jusqu'à 16h. Accueil téléphonique du lundi au vendredi de 9h à 17h."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

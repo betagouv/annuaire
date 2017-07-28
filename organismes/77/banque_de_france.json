@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6568215,
+          48.5338158
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-77288-01",
+          "codeInsee": "77288",
+          "dateMiseAJour": "2017-06-08",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Melun",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "24, rue Saint-Ambroise",
+              "CS 60206"
+            ],
+            "CodePostal": "77002",
+            "NomCommune": "Melun Cedex",
+            "Localisation": {
+              "Latitude": "48.5338158",
+              "Longitude": "2.6568215",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 1 64 87 67 00"
+            },
+            "Télécopie": "+33 1 64 87 67 39",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Sur rendez-vous du lundi au vendredi de 09h à 12h et de 13h30 à 17h au 01 64 87 67 32"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6383305,
+          48.8358962
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-77083-01",
+          "codeInsee": "77083",
+          "dateMiseAJour": "2017-06-08",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Marne-la-Vallée",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "2 bis, avenue Pierre-Mendès-France",
+              "CS 40207"
+            ],
+            "CodePostal": "77431",
+            "NomCommune": "Noisiel",
+            "Localisation": {
+              "Latitude": "48.8358962",
+              "Longitude": "2.6383305",
+              "Précision": "9"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 1 64 80 28 00"
+            },
+            "Télécopie": "+33 1 64 80 28 12",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Sur rendez-vous du lundi au vendredi de 09h à 12h et de 13h30 à 17h au 01 64 87 67 32"
+            }
+          },
+          "Commentaire": "Échange de billets de 13h30 à 15h30."
+        }
+      }
+    }
+  ]
+}

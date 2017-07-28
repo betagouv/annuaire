@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3276573,
+          47.5958287
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-41018-01",
+          "codeInsee": "41018",
+          "dateMiseAJour": "2016-07-06",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale de Blois",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "15 avenue de Vendôme",
+            "CodePostal": "41000",
+            "NomCommune": "Blois",
+            "Localisation": {
+              "Latitude": "47.5958287",
+              "Longitude": "1.3276573",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 54 52 40 40",
+            "Télécopie": "02 54 42 07 00",
+            "Email": "secretariat@mlblois.com",
+            "Url": "http://www.mlblois.com"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "'09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "'09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0691037999999935,
+          47.7990145
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-41269-01",
+          "codeInsee": "41269",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale du Vendômois",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "71 faubourg Chartrain",
+            "CodePostal": "41100",
+            "NomCommune": "Vendôme",
+            "Localisation": {
+              "Latitude": "47.7990145",
+              "Longitude": "1.0691037999999935",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 54 77 14 87",
+            "Télécopie": "02 54 77 56 80",
+            "Email": "missionlocale@ml-vendomois.fr",
+            "Url": "http://www.ml-vendomois.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.74629998207,
+          47.3586997986
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-41194-01",
+          "codeInsee": "41194",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale de Romorantin",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "L'Atelier",
+              "3 rue Jean-Monnet"
+            ],
+            "CodePostal": "41200",
+            "NomCommune": "Romorantin-Lanthenay",
+            "Localisation": {
+              "Latitude": "47.3586997986",
+              "Longitude": "1.74629998207",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 54 76 23 22",
+            "Email": "mlromo@orange.fr",
+            "Url": "http://www.mlromorantin.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

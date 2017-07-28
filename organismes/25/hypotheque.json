@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80344009399,
+          47.4998016357
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-25388-01",
+          "codeInsee": "25388",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Montbéliard",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 rue Pierre-Brossolette",
+            "CodePostal": "25214",
+            "NomCommune": "Montbéliard Cedex",
+            "Localisation": {
+              "Latitude": "47.4998016357",
+              "Longitude": "6.80344009399",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 81 32 62 02",
+            "Télécopie": "03 81 32 60 20",
+            "Email": "spf.montbeliard@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0240539,
+          47.237829
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-25056-02",
+          "codeInsee": "25056",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Besançon 2",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Le Major",
+              "83 rue de Dôle"
+            ],
+            "CodePostal": "25042",
+            "NomCommune": "Besançon Cedex",
+            "Localisation": {
+              "Latitude": "47.237829",
+              "Longitude": "6.0240539",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 81 47 24 08",
+            "Télécopie": "03 81 47 24 38",
+            "Email": "spf.besancon2@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0240539,
+          47.237829
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-25056-01",
+          "codeInsee": "25056",
+          "dateMiseAJour": "2016-10-28",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière de Besançon 1",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Le Major",
+              "83, rue de Dôle"
+            ],
+            "CodePostal": "25042",
+            "NomCommune": "Besançon Cedex",
+            "Localisation": {
+              "Latitude": "47.237829",
+              "Longitude": "6.0240539",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 81 47 24 03",
+            "Télécopie": "03 81 88 60 65",
+            "Email": "spf.besancon1@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

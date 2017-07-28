@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4985238,
+          44.5180049
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-48095-01",
+          "codeInsee": "48095",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de Lozère - siège de Mende",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Caisse commune de sécurité sociale de la Lozère",
+              "Quartier des Carmes",
+              "BP 144"
+            ],
+            "CodePostal": "48000",
+            "NomCommune": "Mende",
+            "Localisation": {
+              "Latitude": "44.5180049",
+              "Longitude": "3.4985238",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 48 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Possibilité de rencontrer une assistante sociale le jeudi de 8h15 à 12h et de 13h15 à 16h30. Accueil téléphonique du lundi au vendredi de 8h15 à 11h45 et de 13h30 à 16h30."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

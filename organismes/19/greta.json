@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0601459,
+          45.4064845
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-19073-01",
+          "codeInsee": "19073",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta d'Égletons",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Lycée Traminot",
+              "28 avenue de Ventadour"
+            ],
+            "CodePostal": "19300",
+            "NomCommune": "Égletons",
+            "Localisation": {
+              "Latitude": "45.4064845",
+              "Longitude": "2.0601459",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 55 93 00 33",
+            "Télécopie": "05 55 93 34 10",
+            "Email": "ce.greta.hte-correze@ac-limoges.fr",
+            "Url": "http://www.greta-haute-correze.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5232601,
+          45.1600812
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-19031-01",
+          "codeInsee": "19031",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Corrèze Sud",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Lycée Cabanis",
+              "6 boulevard Henri-de-Jouvenel"
+            ],
+            "CodePostal": "19100",
+            "NomCommune": "Brive-la-Gaillarde",
+            "Localisation": {
+              "Latitude": "45.1600812",
+              "Longitude": "1.5232601",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 55 88 25 76",
+            "Télécopie": "05 55 88 90 48",
+            "Email": "ce.greta.correze-sud@ac-limoges.fr",
+            "Url": "http://www.ac-limoges.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

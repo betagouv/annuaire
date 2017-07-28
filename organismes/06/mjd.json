@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.501325,
+          43.776546
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "06083",
+          "dateMiseAJour": "2013-12-17",
+          "id": "mjd-06083-01",
+          "idPresta": "51b08cb9b473e41478000bb3",
+          "pivotLocal": "mjd",
+          "Nom": "Maison de justice et du droit  de Menton",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "38 rue Henri Greville",
+            "CodePostal": "06500",
+            "NomCommune": "MENTON",
+            "Localisation": {
+              "Latitude": "43.776546",
+              "Longitude": "7.501325",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 93 78 03 57",
+            "Télécopie": "+33 4 93 78 42 70",
+            "Email": "mailto:mjd-menton@justice.fr",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mardi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.30050769906,
+          43.7371191564
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "06088",
+          "dateMiseAJour": "2015-08-28",
+          "id": "mjd-06088-01",
+          "idPresta": "51b08cd9b473e41478001286",
+          "pivotLocal": "mjd",
+          "Nom": "Maison de justice et du droit  de Nice (Ariane)",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "52 rue Anatole de Monzie",
+              "Résidence St Pierre BT 3 RDC"
+            ],
+            "CodePostal": "06300",
+            "NomCommune": "NICE",
+            "Localisation": {
+              "Latitude": "43.7371191564",
+              "Longitude": "7.30050769906",
+              "Précision": "9"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 97 00 03 90",
+            "Télécopie": "+33 4 97 00 03 99",
+            "Email": "mailto:mjd-nice@justice.fr",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

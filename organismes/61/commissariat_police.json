@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5619162,
+          48.7516959
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-61169-01",
+          "codeInsee": "61169",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Flers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 rue Paul-Bert",
+            "CodePostal": "61100",
+            "NomCommune": "Flers-de-L'Orne",
+            "Localisation": {
+              "Latitude": "48.7516959",
+              "Longitude": "-0.5619162",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 33 62 30 30",
+            "Télécopie": "02 33 62 30 33",
+            "Email": "ddsp61-csp-flers@interieur.gouv.fr",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0228893,
+          48.7464978
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-61006-01",
+          "codeInsee": "61006",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police d'Argentan",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "35 rue Saint-Martin",
+            "CodePostal": "61202",
+            "NomCommune": "Argentan",
+            "Localisation": {
+              "Latitude": "48.7464978",
+              "Longitude": "-0.0228893",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 33 12 14 60",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0932529,
+          48.4322331
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-61001-01",
+          "codeInsee": "61001",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Hôtel de police d'Alençon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "62 place Bonet",
+            "CodePostal": "61014",
+            "NomCommune": "Alençon",
+            "Localisation": {
+              "Latitude": "48.4322331",
+              "Longitude": "0.0932529",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 33 82 10 10",
+            "Télécopie": "02 33 82 10 67",
+            "Email": "ddsp61@interieur.gouv.fr",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:45:00",
+                    "fin": "18:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "samedi",
+                "fin": "samedi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "18:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

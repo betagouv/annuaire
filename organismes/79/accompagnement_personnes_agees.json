@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250355,
+          46.6464
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "accompagnement_personnes_agees-79202-01",
+          "codeInsee": "79202",
+          "dateMiseAJour": "2015-07-10",
+          "pivotLocal": "accompagnement_personnes_agees",
+          "idPresta": "clic-955",
+          "Nom": "Plateforme d'accompagnement et de répit - Parthenay",
+          "EditeurSource": "Caisse nationale de solidarité pour l'autonomie",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "33 rue Louis-Aguillon",
+            "CodePostal": "79200",
+            "NomCommune": "Châtillon-sur-Thouet",
+            "Localisation": {
+              "Latitude": "46.6464",
+              "Longitude": "-0.250355",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 49 95 06 09",
+            "Email": "clic-gatine@orange.fr",
+            "Url": "http://clic-reseau-gatine.jimdo.com/maladie-d-alzheimer-aide-aux-aidants-familiaux/"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          },
+          "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        }
+      }
+    }
+  ]
+}

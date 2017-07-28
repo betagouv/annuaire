@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.884902,
+          42.703347
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "66136",
+          "dateMiseAJour": "2014-09-22",
+          "id": "tgi-66136-01",
+          "idPresta": "4cac9e6a293594648a0017b1",
+          "pivotLocal": "tgi",
+          "Nom": "Tribunal de grande instance de Perpignan",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "place Arago",
+              "BP 80921"
+            ],
+            "CodePostal": "66020",
+            "NomCommune": "PERPIGNAN CEDEX",
+            "Localisation": {
+              "Latitude": "42.703347",
+              "Longitude": "2.884902",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 30 19 61 00",
+            "Télécopie": "+33 4 30 19 61 72",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7332412,
+          48.553332
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "carsat-67482-01",
+          "codeInsee": "67482",
+          "dateMiseAJour": "2017-05-03",
+          "pivotLocal": "carsat",
+          "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Alsace - Moselle",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "36 rue du Doubs",
+            "CodePostal": "67011",
+            "NomCommune": "Strasbourg Cedex 1",
+            "Localisation": {
+              "Latitude": "48.553332",
+              "Longitude": "7.7332412",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "6 centimes d’euro par minute plus le prix de l’appel.",
+              "$t": "3960"
+            },
+            "Email": "http://www.carsat-alsacemoselle.fr/formulaires/contacter-la-carsat-et-ses-services",
+            "Url": "http://www.carsat-alsacemoselle.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          },
+          "Commentaire": "La CARSAT Alsace-Moselle est compétente pour les départements suivants : Moselle (57), Bas-Rhin (67), Haut-Rhin (68)."
+        }
+      }
+    }
+  ]
+}

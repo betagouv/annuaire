@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.88103079999996,
+          -21.5477237
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "gendarmerie-98815-01",
+          "codeInsee": "98815",
+          "dateMiseAJour": "2017-03-02",
+          "pivotLocal": "gendarmerie",
+          "Nom": "Gendarmerie - Brigade territoriale autonome de Tadine",
+          "EditeurSource": "Ministère de l'Intérieur",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Île Maré",
+            "CodePostal": "Tadine",
+            "NomCommune": "98828",
+            "Localisation": {
+              "Latitude": "-21.5477237",
+              "Longitude": "167.88103079999996",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+687 45 53 00",
+            "Télécopie": "+687 45 53 02",
+            "Url": "http://www.gendarmerie.interieur.gouv.fr",
+            "Sve": "http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.49855209999998,
+          -21.5669347
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "gendarmerie-98803-01",
+          "codeInsee": "98803",
+          "dateMiseAJour": "2017-03-02",
+          "pivotLocal": "gendarmerie",
+          "Nom": "Gendarmerie - Brigade territoriale autonome de Bourail",
+          "EditeurSource": "Ministère de l'Intérieur",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Village",
+              "73 Rue Sacot"
+            ],
+            "CodePostal": "98870",
+            "NomCommune": "Bourail",
+            "Localisation": {
+              "Latitude": "-21.5669347",
+              "Longitude": "165.49855209999998",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+687 44 88 10",
+            "Email": "bta.bourail@gendarmerie.interieur.gouv.fr",
+            "Url": "http://www.gendarmerie.interieur.gouv.fr",
+            "Sve": "http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"
+          }
+        }
+      }
+    }
+  ]
+}

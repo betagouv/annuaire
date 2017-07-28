@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8895963,
+          42.6984882
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-66136-01",
+          "codeInsee": "66136",
+          "dateMiseAJour": "2017-07-17",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Perpignan",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "3, place Jean-Payra",
+              "CS 60347"
+            ],
+            "CodePostal": "66853",
+            "NomCommune": "Perpignan Cedex",
+            "Localisation": {
+              "Latitude": "42.6984882",
+              "Longitude": "2.8895963",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "04 68 51 61 00"
+            },
+            "Télécopie": "04 68 51 61 28",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Sur rendez-vous au 04 68 51 61 14, du lundi au vendredi l'après-midi de 13h30 à 17h00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

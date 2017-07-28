@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0523849,
+          47.3529152
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "agefiph-21231-01",
+          "codeInsee": "21231",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "agefiph",
+          "Nom": "Agefiph - Bourgogne - Franche-Comté",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Immeuble Osiris",
+              "7 boulevard Winston-Churchill",
+              "BP 66615"
+            ],
+            "CodePostal": "21066",
+            "NomCommune": "Dijon Cedex",
+            "Localisation": {
+              "Latitude": "47.3529152",
+              "Longitude": "5.0523849",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+              "$t": "08 00 11 10 09"
+            },
+            "Télécopie": "03 80 28 04 31",
+            "Email": "bourgogne-franche-comte@agefiph.asso.fr",
+            "Url": "http://www.agefiph.fr"
+          }
+        }
+      }
+    }
+  ]
+}

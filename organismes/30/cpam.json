@@ -1,0 +1,819 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0286249,
+          44.212882
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30132-01",
+          "codeInsee": "30132",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de La Grand-Combe",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "Place de l'Arboux",
+              "CodePostal": "30110",
+              "NomCommune": "La Grand-Combe",
+              "Localisation": {
+                "Latitude": "44.212882",
+                "Longitude": "4.0286249",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6136922,
+          43.8115889
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30032-01",
+          "codeInsee": "30032",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Beaucaire",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "1145 chemin Clapas-de-Cornut",
+              "CodePostal": "30300",
+              "NomCommune": "Beaucaire",
+              "Localisation": {
+                "Latitude": "43.8115889",
+                "Longitude": "4.6136922",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ],
+                "Note": "Accueil uniquement sur rendez-vous."
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ],
+                "Note": "Accueil ouvert uniquement sur rendez-vous de 13h15 à 16h. Pour prendre rendez-vous, composez le 3646."
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ],
+                "Note": "Accueil ouvert uniquement sur rendez-vous. Pour prendre rendez-vous, composez le 3646."
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                "Note": "Accueil ouvert uniquement sur rendez-vous. Pour prendre rendez-vous, composez le 3646."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.199486,
+          44.2603028
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30227-01",
+          "codeInsee": "30227",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Saint-Ambroix",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "1 place de la République",
+              "CodePostal": "30500",
+              "NomCommune": "Saint-Ambroix",
+              "Localisation": {
+                "Latitude": "44.2603028",
+                "Longitude": "4.199486",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.796959,
+          43.96341
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30351-01",
+          "codeInsee": "30351",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Villeneuve-les-Avignon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Résidence Mont-Andaon",
+                "Place San-Miniato"
+              ],
+              "CodePostal": "30400",
+              "NomCommune": "Villeneuve-les-Avignon",
+              "Localisation": {
+                "Latitude": "43.96341",
+                "Longitude": "4.796959",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3845774,
+          43.8425016
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30189-03",
+          "codeInsee": "30189",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Nîmes - Est",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "245 avenue Bir-Hakeim",
+              "CodePostal": "30000",
+              "NomCommune": "Nîmes",
+              "Localisation": {
+                "Latitude": "43.8425016",
+                "Longitude": "4.3845774",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC",
+                "$t": "rampe"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 13h20 à 16h et accueil téléphonique du lundi au vendredi de 8h30 à 17h30. Pour prendre rendez-vous, composez le 3646."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0781601,
+          44.1274168
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30007-01",
+          "codeInsee": "30007",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil d'Alès",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "10 quai Boissier-de-Sauvages",
+              "CodePostal": "30100",
+              "NomCommune": "Alès",
+              "Localisation": {
+                "Latitude": "44.1274168",
+                "Longitude": "4.0781601",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC",
+                "$t": "rampe"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3546526,
+          43.8320236
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30189-01",
+          "codeInsee": "30189",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Nîmes - Centre",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "14 rue du Cirque-Romain",
+              "CodePostal": "30000",
+              "NomCommune": "Nîmes",
+              "Localisation": {
+                "Latitude": "43.8320236",
+                "Longitude": "4.3546526",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC",
+                "$t": "rampe d'accès"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous de 13h à 16h."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.191375999999991,
+          43.56482109999999
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30003-01",
+          "codeInsee": "30003",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil d'Aigues-Mortes",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre communal d'action sociale",
+                "50 boulevard Gambetta"
+              ],
+              "CodePostal": "30220",
+              "NomCommune": "Aigues-Mortes",
+              "Localisation": {
+                "Latitude": "43.56482109999999",
+                "Longitude": "4.191375999999991",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil uniquement sur rendez-vous."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41466,
+          44.012951
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30334-01",
+          "codeInsee": "30334",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil d'Uzès",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Les Jardins d'Uzège",
+                "Avenue Georges-Chauvin"
+              ],
+              "CodePostal": "30700",
+              "NomCommune": "Uzès",
+              "Localisation": {
+                "Latitude": "44.012951",
+                "Longitude": "4.41466",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6182841,
+          44.1622344
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30028-01",
+          "codeInsee": "30028",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Bagnols-sur-Cèze",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Espace Saint-Gilles",
+                "2 D boulevard Léon-Blum"
+              ],
+              "CodePostal": "30200",
+              "NomCommune": "Bagnols-sur-Cèze",
+              "Localisation": {
+                "Latitude": "44.1622344",
+                "Longitude": "4.6182841",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30à 17h."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2757675,
+          43.6932556
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30341-01",
+          "codeInsee": "30341",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Vauvert",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre communal d'action sociale",
+                "16 rue Montcalm"
+              ],
+              "CodePostal": "30600",
+              "NomCommune": "Vauvert",
+              "Localisation": {
+                "Latitude": "43.6932556",
+                "Longitude": "4.2757675",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil  uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6061648,
+          43.9888609
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30350-01",
+          "codeInsee": "30350",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil du Vigan",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Espace pour tous",
+                "11 rue Gorlier"
+              ],
+              "CodePostal": "30120",
+              "NomCommune": "Le Vigan",
+              "Localisation": {
+                "Latitude": "43.9888609",
+                "Longitude": "3.6061648",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC",
+                "$t": "ascenseur"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mercredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                },
+                "Note": "Accueil uniquement sur rendez-vous de 13h30 à 16h."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4344206,
+          43.6802328
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cpam-30258-01",
+          "codeInsee": "30258",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "cpam",
+          "Nom": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Saint-Gilles",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Maison des services publics",
+                "Rue des Tourterelles"
+              ],
+              "CodePostal": "30800",
+              "NomCommune": "Saint-Gilles",
+              "Localisation": {
+                "Latitude": "43.6802328",
+                "Longitude": "4.4344206",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "Caisse primaire d'assurance maladie du Gard",
+              "CodePostal": "30921",
+              "NomCommune": "Nîmes Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe plus service payant depuis un téléphone fixe ou mobile. Composez le +33 811 70 36 46 depuis l'étranger.",
+              "$t": "3646"
+            },
+            "Url": "http://www.ameli.fr"
+          },
+          "Commentaire": "Accueil ouvert uniquement sur rendez-vous. Pour prendre rendez-vous, composez le 36 46 du lundi au vendredi de 8h30 à 17h30 ou envoyer un message via votre compte Ameli."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1402344,
+          48.1152473
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-52121-01",
+          "codeInsee": "52121",
+          "dateMiseAJour": "2017-02-14",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Chaumont",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "89 rue Victoire-de-la-Marne",
+              "BP 2064"
+            ],
+            "CodePostal": "52903",
+            "NomCommune": "Chaumont Cedex 9",
+            "Localisation": {
+              "Latitude": "48.1152473",
+              "Longitude": "5.1402344",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 25 30 21 45",
+            "Email": "spf.chaumont@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Fermé les mercredi et vendredi après-midi."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9621991,
+          48.6400996
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "hypotheque-52448-01",
+          "codeInsee": "52448",
+          "dateMiseAJour": "2017-02-14",
+          "pivotLocal": "hypotheque",
+          "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Saint-Dizier",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "3 rue du Brigadier-Albert",
+              "CS 80125"
+            ],
+            "CodePostal": "52115",
+            "NomCommune": "Saint-Dizier Cedex",
+            "Localisation": {
+              "Latitude": "48.6400996",
+              "Longitude": "4.9621991",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 25 96 09 69",
+            "Email": "spf.saint-dizier@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:45:00"
+                }
+              ],
+              "Note": "Fermé les mercredi et jeudi après-midi."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

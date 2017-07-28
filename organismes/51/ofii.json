@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0347695,
+          49.2552384
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "ofii-51454-01",
+          "codeInsee": "51454",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "ofii",
+          "Nom": "Office français de l'immigration et de l'intégration (Ofii) - Direction territoriale de Reims",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 rue du Grand-Credo",
+            "CodePostal": "51100",
+            "NomCommune": "Reims",
+            "Localisation": {
+              "Latitude": "49.2552384",
+              "Longitude": "4.0347695",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 26 36 97 29",
+            "Télécopie": "03 26 36 97 38",
+            "Email": "reims@ofii.fr",
+            "Url": "http://www.ofii.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

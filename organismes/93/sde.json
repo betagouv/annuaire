@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.414965,
+          48.880891
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sde-93008-01",
+          "codeInsee": "93008",
+          "dateMiseAJour": "2017-05-19",
+          "pivotLocal": "sde",
+          "Nom": "Service départemental de l'enregistrement - Bobigny",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "13 esplanade Jean Moulin",
+            "CodePostal": "93009",
+            "NomCommune": "Bobigny Cedex",
+            "Localisation": {
+              "Latitude": "48.880891",
+              "Longitude": "2.414965",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "01 48 96 62 50",
+            "Email": "sde.bobigny@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "15:00:00"
+                }
+              ],
+              "Note": "Fermé le jeudi"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

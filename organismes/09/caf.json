@@ -1,0 +1,360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6119169,
+          43.1146088
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-09225-01",
+          "codeInsee": "09225",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de l'Ariège - accueil de Pamiers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre social",
+                "Place des Héros-de-la-Résistance"
+              ],
+              "CodePostal": "09100",
+              "NomCommune": "Pamiers",
+              "Localisation": {
+                "Latitude": "43.1146088",
+                "Longitude": "1.6119169",
+                "Précision": "6"
+              },
+              "Accessibilité": {
+                "type": "ACC"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales d'Ariège",
+                "5 rue Victor-Hugo",
+                "Peysales",
+                "BP 30014"
+              ],
+              "CodePostal": "09016",
+              "NomCommune": "Foix Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 09 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6250384,
+          42.9461304
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-09122-01",
+          "codeInsee": "09122",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de l'Ariège - siège de Foix",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Peysales",
+              "5 rue Victor-Hugo",
+              "BP 30014"
+            ],
+            "CodePostal": "09016",
+            "NomCommune": "Foix Cedex",
+            "Localisation": {
+              "Latitude": "42.9461304",
+              "Longitude": "1.6250384",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 09 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8498832,
+          42.9349064
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-09160-01",
+          "codeInsee": "09160",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de l'Ariège - accueil de Lavelanet",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre social",
+                "1 impasse Marchand"
+              ],
+              "CodePostal": "09300",
+              "NomCommune": "Lavelanet",
+              "Localisation": {
+                "Latitude": "42.9349064",
+                "Longitude": "1.8498832",
+                "Précision": "4"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales d'Ariège",
+                "5 rue Victor-Hugo",
+                "Peysales",
+                "BP 30014"
+              ],
+              "CodePostal": "09016",
+              "NomCommune": "Foix Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 09 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1464543,
+          42.9835639
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "caf-09261-01",
+          "codeInsee": "09261",
+          "dateMiseAJour": "2016-10-10",
+          "pivotLocal": "caf",
+          "Nom": "Caisse d'allocations familiales (Caf) de l'Ariège - accueil de Saint-Girons",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre social",
+                "Rue Joseph-Sentenac"
+              ],
+              "CodePostal": "09200",
+              "NomCommune": "Saint-Girons",
+              "Localisation": {
+                "Latitude": "42.9835639",
+                "Longitude": "1.1464543",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Caisse d'allocations familiales d'Ariège",
+                "5 rue Victor-Hugo",
+                "Peysales",
+                "BP 30014"
+              ],
+              "CodePostal": "09016",
+              "NomCommune": "Foix Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+              "$t": "08 10 25 09 10"
+            },
+            "Url": "http://www.caf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

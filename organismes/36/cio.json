@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0030400753,
+          46.9490013123
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-36088-01",
+          "codeInsee": "36088",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d’Issoudun",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Formapôle",
+              "Rue Georges-Brassens"
+            ],
+            "CodePostal": "36100",
+            "NomCommune": "Issoudun",
+            "Localisation": {
+              "Latitude": "46.9490013123",
+              "Longitude": "2.0030400753",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "DEM",
+              "$t": "contacter le cio afin d'être accueilli en passant par la mission locale"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 83 49 44",
+            "Email": "ce.ciodissoudun@ac-orleans-tours.fr",
+            "Url": "http://www.ac-orleans-tours.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.688903,
+          46.806673
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-36044-01",
+          "codeInsee": "36044",
+          "dateMiseAJour": "2017-01-03",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Châteauroux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "49 boulevard George-Sand",
+            "CodePostal": "36000",
+            "NomCommune": "Châteauroux",
+            "Localisation": {
+              "Latitude": "46.806673",
+              "Longitude": "1.688903",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 83 49 07",
+            "Email": "ce.ciochateauroux@ac-orleans-tours.fr",
+            "Url": "http://www.education.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:15:00"
+                  }
+                ],
+                "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h15 et de 13h30 à 17h15. Fermé le 24/12 et le 31/12."
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "10:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0644859,
+          46.6320166
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-36018-01",
+          "codeInsee": "36018",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) du Blanc",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Ville Basse",
+              "28 Grande rue",
+              "BP 115"
+            ],
+            "CodePostal": "36300",
+            "NomCommune": "Le Blanc",
+            "Localisation": {
+              "Latitude": "46.6320166",
+              "Longitude": "1.0644859",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 83 49 49",
+            "Email": "ce.cioleblanc@ac-orleans-tours.fr",
+            "Url": "http://www.ac-orleans-tours.frorientation"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

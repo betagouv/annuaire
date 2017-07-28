@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0928369,
+          49.4419111
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "76540",
+          "dateMiseAJour": "2012-07-31",
+          "id": "cour_appel-76540-01",
+          "idPresta": "4cac9e5f293594648a0001db",
+          "pivotLocal": "cour_appel",
+          "Nom": "Cour d'appel de Rouen",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "36 rue aux Juifs",
+            "CodePostal": "76037",
+            "NomCommune": "ROUEN CEDEX",
+            "Localisation": {
+              "Latitude": "49.4419111",
+              "Longitude": "1.0928369",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 35 52 87 52",
+            "Télécopie": "+33 2 35 52 87 53",
+            "Url": "http://www.ca-rouen.justice.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

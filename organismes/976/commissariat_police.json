@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2278,
+          -12.7806
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-97611-01",
+          "codeInsee": "97611",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Mamoudzou",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Rue de l'Hôpital",
+            "CodePostal": "97600",
+            "NomCommune": "Mamoudzou",
+            "Localisation": {
+              "Latitude": "-12.7806",
+              "Longitude": "45.2278",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+262 2 62 61 12 22",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    }
+  ]
+}

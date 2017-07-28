@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0882397,
+          43.6109077
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "pif-32160-01",
+          "codeInsee": "32160",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "pif",
+          "Nom": "Point info famille - Centre social multipartenarial de L'Isle-Jourdain",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Avenue du Courdé",
+            "CodePostal": "32600",
+            "NomCommune": "L'Isle-Jourdain",
+            "Localisation": {
+              "Latitude": "43.6109077",
+              "Longitude": "1.0882397",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 62 07 33 52",
+            "Télécopie": "05 62 07 33 59",
+            "Email": "social-ijo@wanadoo.fr"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5792372,
+          43.6507822
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "pif-32013-01",
+          "codeInsee": "32013",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "pif",
+          "Nom": "Point info famille - CIDFF du Gers - Auch",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "29 chemin du Baron",
+            "CodePostal": "32000",
+            "NomCommune": "Auch",
+            "Localisation": {
+              "Latitude": "43.6507822",
+              "Longitude": "0.5792372",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 62 63 40 75",
+            "Email": "pifgers@wanadoo.fr",
+            "Url": "http://www.cidff32.net"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "9:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5936928,
+          43.6368084
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "pif-32013-02",
+          "codeInsee": "32013",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "pif",
+          "Nom": "Point info famille - Centre social d'Auch",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "13 rue Montaigne",
+            "CodePostal": "32000",
+            "NomCommune": "Auch",
+            "Localisation": {
+              "Latitude": "43.6368084",
+              "Longitude": "0.5936928",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 62 05 24 42",
+            "Télécopie": "05 62 05 82 77",
+            "Email": "pif.montaigne@wanadoo.fr"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4485614,
+          48.1729265
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-88160-01",
+          "codeInsee": "88160",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d'Épinal",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "46 rue Abel-Ferry",
+            "CodePostal": "88000",
+            "NomCommune": "Épinal",
+            "Localisation": {
+              "Latitude": "48.1729265",
+              "Longitude": "6.4485614",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 82 20 94",
+            "Télécopie": "03 29 82 59 51",
+            "Email": "ce.cio88-epinal@ac-nancy-metz.fr",
+            "Url": "http://www.ac-nancy-metz.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.682534,
+          48.361806
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-88321-01",
+          "codeInsee": "88321",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Neufchâteau",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "4 rue Rebeval",
+            "CodePostal": "88300",
+            "NomCommune": "Neufchâteau",
+            "Localisation": {
+              "Latitude": "48.361806",
+              "Longitude": "5.682534",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 94 35 09",
+            "Télécopie": "03 29 06 41 38",
+            "Email": "ce.cio88-neufchateau@ac-nancy-metz.fr",
+            "Url": "http://www4.ac-nancy-metz.frcio-neufchateau"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.951746,
+          48.281521
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-88413-01",
+          "codeInsee": "88413",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Saint-Dié-des-Vosges",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "15 rue du 10e-Bataillon-des-Chasseurs-à-Pied",
+            "CodePostal": "88100",
+            "NomCommune": "Saint-Dié-des-Vosges",
+            "Localisation": {
+              "Latitude": "48.281521",
+              "Longitude": "6.951746",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 55 13 57",
+            "Télécopie": "03 29 41 26 12",
+            "Email": "ce.cio88-saintdie@ac-nancy-metz.fr",
+            "Url": "http://www.education.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              },
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "samedi",
+                "fin": "samedi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil fermé pendant les vacances scolaires."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5912399,
+          48.0163459
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-88383-01",
+          "codeInsee": "88383",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Remiremont",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "4 place de l'Abbaye",
+            "CodePostal": "88200",
+            "NomCommune": "Remiremont",
+            "Localisation": {
+              "Latitude": "48.0163459",
+              "Longitude": "6.5912399",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 62 12 05",
+            "Télécopie": "03 29 62 11 24",
+            "Email": "ce.cio88-remiremont@ac-nancy-metz.fr",
+            "Url": "http://www4.ac-nancy-metz.frcio-remiremont"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

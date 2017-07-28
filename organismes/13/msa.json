@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3924912,
+          43.2476749
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msa-13203-01",
+          "codeInsee": "13203",
+          "dateMiseAJour": "2017-06-29",
+          "pivotLocal": "msa",
+          "Nom": "Mutualité sociale agricole (MSA) Provence-Azur - accueil de Marseille",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "152 avenue de Hambourg",
+              "CS 70001"
+            ],
+            "CodePostal": "13416",
+            "NomCommune": "Marseille Cedex 20",
+            "Localisation": {
+              "Latitude": "43.2476749",
+              "Longitude": "5.3924912",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 94 60 38 38",
+            "Email": "http://www.msaprovenceazur.fr/lfr/contact",
+            "Url": "http://www.msaprovenceazur.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Du lundi au vendredi de 9h à 12h30 accueil en accès libre et de 13 h30 à 16 h uniquement sur rendez-vous"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

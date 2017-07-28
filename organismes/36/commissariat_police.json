@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6877775,
+          46.8070084
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-36044-01",
+          "codeInsee": "36044",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Châteauroux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Boulevard George-Sand",
+            "CodePostal": "36000",
+            "NomCommune": "Châteauroux",
+            "Localisation": {
+              "Latitude": "46.8070084",
+              "Longitude": "1.6877775",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 54 08 50 17",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    }
+  ]
+}

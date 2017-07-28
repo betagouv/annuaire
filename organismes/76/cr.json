@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1050699,
+          49.4380824
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cr-76540-01",
+          "codeInsee": "76540",
+          "dateMiseAJour": "2016-05-10",
+          "pivotLocal": "cr",
+          "Nom": "Conseil régional - Normandie",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "5 rue Robert-Schuman",
+              "CS 21129"
+            ],
+            "CodePostal": "76174",
+            "NomCommune": "Rouen Cedex",
+            "Localisation": {
+              "Latitude": "49.4380824",
+              "Longitude": "1.1050699",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 35 52 56 00",
+            "Télécopie": "02 35 52 56 56",
+            "Email": "communication.service@normandie.fr",
+            "Url": "http://www.normandie.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

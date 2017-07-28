@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0625488,
+          47.2877885
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-21355-01",
+          "codeInsee": "21355",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat subdivisionnaire de police de Longvic",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 rue Roland-Dorgeles",
+            "CodePostal": "21000",
+            "NomCommune": "Longvic",
+            "Localisation": {
+              "Latitude": "47.2877885",
+              "Longitude": "5.0625488",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 80 68 04 66",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0339073,
+          47.3158378
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-21231-01",
+          "codeInsee": "21231",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Hôtel de police de Dijon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 place Suquet",
+            "CodePostal": "21000",
+            "NomCommune": "Dijon",
+            "Localisation": {
+              "Latitude": "47.3158378",
+              "Longitude": "5.0339073",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 80 44 55 00",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83653909,
+          47.0167144
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-21054-01",
+          "codeInsee": "21054",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Beaune",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "5 avenue Charles-de-Gaulle",
+            "CodePostal": "21200",
+            "NomCommune": "Beaune",
+            "Localisation": {
+              "Latitude": "47.0167144",
+              "Longitude": "4.83653909",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 80 25 09 25",
+            "Télécopie": "03 80 24 95 52",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0048389,
+          47.294547
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-21166-01",
+          "codeInsee": "21166",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Chenôve",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Quartier du Mail",
+              "Rue de la Fontaine"
+            ],
+            "CodePostal": "21300",
+            "NomCommune": "Chenôve",
+            "Localisation": {
+              "Latitude": "47.294547",
+              "Longitude": "5.0048389",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 80 54 03 60",
+            "Télécopie": "03 80 54 03 60",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

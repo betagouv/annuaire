@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.16849005222,
+          49.2125015259
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-27375-01",
+          "codeInsee": "27375",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Louviers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "14 rue Tatin",
+            "CodePostal": "27400",
+            "NomCommune": "Louviers",
+            "Localisation": {
+              "Latitude": "49.2125015259",
+              "Longitude": "1.16849005222",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "DEM",
+              "$t": "un agent peut aider l'usager à entrer"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 32 08 90 21",
+            "Télécopie": "02 32 50 50 78",
+            "Email": "0271417u@ac-rouen.fr",
+            "Url": "http://www.cio.ac-rouen.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                },
+                "Note": "Accueil uniquement les lundis des semaines impaires. Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h."
+              },
+              {
+                "début": "mardi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1533777,
+          49.0283619
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-27229-01",
+          "codeInsee": "27229",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d'Évreux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 rue Georges-Bernard",
+            "CodePostal": "27000",
+            "NomCommune": "Évreux",
+            "Localisation": {
+              "Latitude": "49.0283619",
+              "Longitude": "1.1533777",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 32 39 34 48",
+            "Télécopie": "02 32 38 26 79",
+            "Email": "cio.evreux@ac-rouen.fr",
+            "Url": "http://www.ac-rouen.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil ouvert de 9h30 à 12h30 et de 14h à 17h pendant les congés scolaires."
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4875265,
+          49.0898029
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-27681-01",
+          "codeInsee": "27681",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Vernon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "34 rue de Gamilly",
+              "BP 901"
+            ],
+            "CodePostal": "27207",
+            "NomCommune": "Vernon Cedex",
+            "Localisation": {
+              "Latitude": "49.0898029",
+              "Longitude": "1.4875265",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 32 51 11 22",
+            "Télécopie": "02 32 54 08 03",
+            "Email": "0271292h@ac-rouen.fr",
+            "Url": "http://www.ac-rouen.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5183026,
+          49.355554
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-27467-01",
+          "codeInsee": "27467",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Pont-Audemer",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "10 rue Augustin-Hébert",
+            "CodePostal": "27500",
+            "NomCommune": "Pont-Audemer",
+            "Localisation": {
+              "Latitude": "49.355554",
+              "Longitude": "0.5183026",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 32 41 03 17",
+            "Télécopie": "02 32 42 38 90",
+            "Email": "0271291g@ac-rouen.fr",
+            "Url": "http://www.ac-rouen.frcio/pontaudemer"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

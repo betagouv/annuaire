@@ -1,0 +1,374 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2192813,
+          46.1963488
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01053-01",
+          "codeInsee": "01053",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Bourg-en-Bresse",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "34 rue du Général-Delestraint",
+            "CodePostal": "01000",
+            "NomCommune": "Bourg-en-Bresse",
+            "Localisation": {
+              "Latitude": "46.1963488",
+              "Longitude": "5.2192813",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 74 21 34 08",
+            "Télécopie": "04 74 21 11 86",
+            "Email": "cio-bourg@ac-lyon.fr",
+            "Url": "http://www2.ac-lyon.frorientation/ain/bourg"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mardi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              },
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34587999999997,
+          45.964058
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01004-01",
+          "codeInsee": "01004",
+          "dateMiseAJour": "2015-01-15",
+          "pivotLocal": "cio",
+          "Nom": "Centre d’information et d’orientation (CIO) d’Ambérieu-en-Bugey",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Rue Marcel-Paul",
+              "BP 512"
+            ],
+            "CodePostal": "01505",
+            "NomCommune": "Ambérieu-en-Bugey Cedex",
+            "Localisation": {
+              "Latitude": "45.964058",
+              "Longitude": "5.34587999999997",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 74 38 33 46",
+            "Email": "cio-amberieu@ac-lyon.fr",
+            "Url": "http://www2.ac-lyon.fr/orientation/1/amberieu"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8127138,
+          46.1193181
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01033-01",
+          "codeInsee": "01033",
+          "dateMiseAJour": "2015-01-15",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Bellegarde-sur-Valserine",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "12, rue Joliot-Curie",
+              "BP 612"
+            ],
+            "CodePostal": "01206",
+            "NomCommune": "Bellegarde-sur-Valserine",
+            "Localisation": {
+              "Latitude": "46.1193181",
+              "Longitude": "5.8127138",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "DEM"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 50 56 06 13",
+            "Télécopie": "+33 4 50 56 92 52",
+            "Email": "cio-bellegarde@ac-lyon.fr",
+            "Url": "http://www2.ac-lyon.fr/orientation/ain/bellegarde"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.654668,
+          46.2575592
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01283-01",
+          "codeInsee": "01283",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d’Oyonnax",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "22 rue Victor-Hugo",
+            "CodePostal": "01100",
+            "NomCommune": "Oyonnax",
+            "Localisation": {
+              "Latitude": "46.2575592",
+              "Longitude": "5.654668",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 74 77 94 22",
+            "Télécopie": "04 74 73 47 06",
+            "Email": "cio-oyonnax@ac-lyon.fr",
+            "Url": "http://www.ac-lyon.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et de 13h30 à 17h."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833023,
+          45.756435
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01034-01",
+          "codeInsee": "01034",
+          "dateMiseAJour": "2015-01-15",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Belley",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Ilôt Grammont",
+              "56, rue du Lieutenant-Argenton"
+            ],
+            "CodePostal": "01300",
+            "NomCommune": "Belley",
+            "Localisation": {
+              "Latitude": "45.756435",
+              "Longitude": "5.6833023",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 79 81 08 65",
+            "Email": "cio-belley@ac-lyon.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75873994827,
+          45.9472999573
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-01427-01",
+          "codeInsee": "01427",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Trévoux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "627 route de Jassans",
+            "CodePostal": "01600",
+            "NomCommune": "Trévoux",
+            "Localisation": {
+              "Latitude": "45.9472999573",
+              "Longitude": "4.75873994827",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 74 08 97 59",
+            "Télécopie": "04 74 08 97 61",
+            "Email": "cio-trevoux@ac-lyon.fr",
+            "Url": "http://www.ac-lyon.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

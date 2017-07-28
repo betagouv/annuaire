@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48947000504,
+          46.2383003235
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-23176-01",
+          "codeInsee": "23176",
+          "dateMiseAJour": "2016-07-06",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale de la Creuse",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Place du Conventionnel-Huguet",
+            "CodePostal": "23000",
+            "NomCommune": "Guéret",
+            "Localisation": {
+              "Latitude": "46.2383003235",
+              "Longitude": "1.48947000504",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 55 52 65 05",
+            "Télécopie": "05 55 52 02 03",
+            "Email": "mlcreuse@missionlocale23.fr",
+            "Url": "http://www.cnml.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "'09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8672467,
+          46.1708803
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-23096-01",
+          "codeInsee": "23096",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale de Guéret",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Rue du Conventionnel-Huguet",
+            "CodePostal": "23000",
+            "NomCommune": "Guéret",
+            "Localisation": {
+              "Latitude": "46.1708803",
+              "Longitude": "1.8672467",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 55 52 65 05",
+            "Télécopie": "05 55 52 02 03",
+            "Email": "mlcreuse@missionlocale23.fr",
+            "Url": "http://www.cnml.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17074990273,
+          45.9556007385
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "mission_locale-23008-01",
+          "codeInsee": "23008",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "mission_locale",
+          "Nom": "Mission locale d'Aubusson",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Maison de l'emploi et de la formation de l'arrondissment d'Aubusson",
+              "Esplanade Charles-de-Gaulle"
+            ],
+            "CodePostal": "23200",
+            "NomCommune": "Aubusson",
+            "Localisation": {
+              "Latitude": "45.9556007385",
+              "Longitude": "2.17074990273",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 55 66 82 63",
+            "Email": "mlcreuse@missionlocale23.fr",
+            "Url": "http://www.cnml.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

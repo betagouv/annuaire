@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0557193,
+          14.6045824
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "accompagnement_personnes_agees-97209-01",
+          "codeInsee": "97209",
+          "dateMiseAJour": "2016-10-11",
+          "pivotLocal": "accompagnement_personnes_agees",
+          "idPresta": "clic-979",
+          "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Fort-de-France",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "La Baie des Tourelles",
+              "Route de TSF"
+            ],
+            "CodePostal": "97200",
+            "NomCommune": "Fort-de-France",
+            "Localisation": {
+              "Latitude": "14.6045824",
+              "Longitude": "-61.0557193",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 96 76 52 68",
+            "Email": "contact.plateforme@orange.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          },
+          "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        }
+      }
+    }
+  ]
+}

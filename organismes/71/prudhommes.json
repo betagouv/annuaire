@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.833132,
+          46.308991
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "71270",
+          "dateMiseAJour": "2014-01-28",
+          "id": "prudhommes-71270-01",
+          "idPresta": "4cac9e5f293594648a0002ef",
+          "pivotLocal": "prudhommes",
+          "Nom": "Conseil de prud'hommes de Mâcon",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "11 cours moreau",
+            "CodePostal": "71000",
+            "NomCommune": "MACON",
+            "Localisation": {
+              "Latitude": "46.308991",
+              "Longitude": "4.833132",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 85 21 00 30",
+            "Télécopie": "+33 3 85 21 00 38",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8408085,
+          46.7903535
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "71076",
+          "dateMiseAJour": "2016-08-26",
+          "id": "prudhommes-71076-01",
+          "idPresta": "4cac9e6a293594648a001702",
+          "pivotLocal": "prudhommes",
+          "Nom": "Conseil de prud'hommes de Chalon-sur-Saône",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "4 rue Emiland Menand",
+            "CodePostal": "71100",
+            "NomCommune": "CHALON SUR SAONE",
+            "Localisation": {
+              "Latitude": "46.7903535",
+              "Longitude": "4.8408085",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 45 77 82 13",
+            "Télécopie": "+33 3 45 77 82 14",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

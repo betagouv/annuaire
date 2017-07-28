@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9430036,
+          49.703182
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-08409-01",
+          "codeInsee": "08409",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Sedan",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "8 place Turenne",
+            "CodePostal": "08200",
+            "NomCommune": "Sedan",
+            "Localisation": {
+              "Latitude": "49.703182",
+              "Longitude": "4.9430036",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 24 27 09 58",
+            "Télécopie": "03 24 27 94 71",
+            "Email": "ce.0080065c@ac-reims.fr",
+            "Url": "http://www.ac-reims.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert jusqu'à 16h30 pendant les vacances scolaires."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36931991577,
+          49.5149993896
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-08362-01",
+          "codeInsee": "08362",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Rethel",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "5 rue du Docteur-Gobinet",
+            "CodePostal": "08300",
+            "NomCommune": "Rethel",
+            "Localisation": {
+              "Latitude": "49.5149993896",
+              "Longitude": "4.36931991577",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 24 38 20 82",
+            "Télécopie": "03 24 72 35 40",
+            "Email": "ce.0080069g@ac-reims.fr",
+            "Url": "http://www.education.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et de 13h30 à 16h30."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7248515,
+          49.7738482
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-08105-01",
+          "codeInsee": "08105",
+          "dateMiseAJour": "2015-01-15",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Charleville-Mézières",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "23, rue d’Aubilly",
+              "BP 405"
+            ],
+            "CodePostal": "08000",
+            "NomCommune": "Charleville-Mézières",
+            "Localisation": {
+              "Latitude": "49.7738482",
+              "Longitude": "4.7248515",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 24 33 08 08",
+            "Télécopie": "+33 3 24 33 05 30",
+            "Email": "cio-charleville@ac-reims.fr",
+            "Url": "http://www.ac-reims.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "samedi",
+                "fin": "samedi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil ouvert un samedi sur deux et sur rendez-vous uniquement."
+              },
+              {
+                "début": "lundi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ],
+                "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et 13h30 à 16h30."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

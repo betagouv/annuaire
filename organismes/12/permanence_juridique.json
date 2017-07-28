@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.56912615344,
+          44.3504858736
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "12202",
+          "dateMiseAJour": "2017-03-09",
+          "id": "permanence_juridique-12202-01",
+          "idPresta": "4f7d9ec92935943c09000014",
+          "pivotLocal": "permanence_juridique",
+          "Nom": "Point d'accès au droit pénitentiaire de Rodez",
+          "EditeurSource": "Script automatique Easter-eggs",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Maison d'Arrêt",
+              "7 rue François Mazenq"
+            ],
+            "CodePostal": "12000",
+            "NomCommune": "RODEZ",
+            "Localisation": {
+              "Latitude": "44.3504858736",
+              "Longitude": "2.56912615344",
+              "Précision": "9"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "mailto:cdad-aveyron@justice.fr",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02252663217,
+          44.3593586889
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "12300",
+          "dateMiseAJour": "2017-03-09",
+          "id": "permanence_juridique-12300-01",
+          "idPresta": "4f7d5fc72935943a46000022",
+          "pivotLocal": "permanence_juridique",
+          "Nom": "Point d'accès au droit de Villefranche de Rouergue",
+          "EditeurSource": "Script automatique Easter-eggs",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Bâtiment \"INTERACTIS\" - chemin de Treize Pierres",
+            "CodePostal": "12200",
+            "NomCommune": "VILLEFRANCHE DE ROUERGUE",
+            "Localisation": {
+              "Latitude": "44.3593586889",
+              "Longitude": "2.02252663217",
+              "Précision": "9"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "mailto:cdad-aveyron@justice.fr",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    }
+  ]
+}

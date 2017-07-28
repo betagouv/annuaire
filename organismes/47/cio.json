@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.154753997922,
+          44.5074005127
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-47157-01",
+          "codeInsee": "47157",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Marmande",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "21 rue Portogruaro",
+            "CodePostal": "47200",
+            "NomCommune": "Marmande",
+            "Localisation": {
+              "Latitude": "44.5074005127",
+              "Longitude": "0.154753997922",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe d'accès"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 53 20 91 91",
+            "Télécopie": "05 53 20 91 91",
+            "Email": "ce.ciomarm@ac-bordeaux.fr",
+            "Url": "http://www.ac-bordeaux.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.704544007778,
+          44.4095001221
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-47323-01",
+          "codeInsee": "47323",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Villeneuve-sur-Lot",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "13 allée Lamartine",
+            "CodePostal": "47300",
+            "NomCommune": "Villeneuve-sur-Lot",
+            "Localisation": {
+              "Latitude": "44.4095001221",
+              "Longitude": "0.704544007778",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 53 70 36 12",
+            "Télécopie": "05 53 70 36 12",
+            "Email": "ce.ciovslot@ac-bordeaux.fr",
+            "Url": "http://www.ac-bordeaux.frcid78535/cio-villeneuve-sur-lot.html"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6230598,
+          44.1951195
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-47001-01",
+          "codeInsee": "47001",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d'Agen",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "48 bis rue René-Cassin",
+            "CodePostal": "47000",
+            "NomCommune": "Agen",
+            "Localisation": {
+              "Latitude": "44.1951195",
+              "Longitude": "0.6230598",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 53 66 51 07",
+            "Télécopie": "05 53 47 81 01",
+            "Email": "ciolotg@cg47.org",
+            "Url": "http://www.ac-bordeaux.frcio-agen"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h30 à 12h et de 14h à 17h."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

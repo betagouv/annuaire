@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3838005,
+          48.9448583
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-93072-01",
+          "codeInsee": "93072",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Stains",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 rue de la Citoyenneté",
+            "CodePostal": "93240",
+            "NomCommune": "Stains",
+            "Localisation": {
+              "Latitude": "48.9448583",
+              "Longitude": "2.3838005",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.idf.afpa.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4435848,
+          48.8615819
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-93048-01",
+          "codeInsee": "93048",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Direction régionale Île-de-France",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "3 rue Franklin",
+            "CodePostal": "93100",
+            "NomCommune": "Montreuil",
+            "Localisation": {
+              "Latitude": "48.8615819",
+              "Longitude": "2.4435848",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.idf.afpa.fr"
+          },
+          "Commentaire": "Pas d'accueil du public."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5117747,
+          48.9733795
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-93078-01",
+          "codeInsee": "93078",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Villepinte",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "23 allée des Impressionnistes",
+            "CodePostal": "93420",
+            "NomCommune": "Villepinte",
+            "Localisation": {
+              "Latitude": "48.9733795",
+              "Longitude": "2.5117747",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.idf.afpa.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

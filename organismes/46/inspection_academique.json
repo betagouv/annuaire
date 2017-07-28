@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44082999229,
+          44.4418983459
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "inspection_academique-46042-01",
+          "codeInsee": "46042",
+          "dateMiseAJour": "2016-03-10",
+          "pivotLocal": "inspection_academique",
+          "Nom": "Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Lot",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Cité administrative",
+              "127 quai Eugène Cavaignac",
+              "BP 286"
+            ],
+            "CodePostal": "46005",
+            "NomCommune": "Cahors Cedex 9",
+            "Localisation": {
+              "Latitude": "44.4418983459",
+              "Longitude": "1.44082999229",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 67 76 55 46",
+            "Télécopie": "+33 5 67 76 54 73",
+            "Email": "ia46@ac-toulouse.fr",
+            "Url": "http://www.ac-toulouse.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Accueil téléphonique du lundi au vendredi de 9h à 12h et de 13h30 à 17h."
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

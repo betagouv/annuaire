@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8340223,
+          48.2090472
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msa-88079-01",
+          "codeInsee": "88079",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "msa",
+          "Nom": "Mutualité sociale agricole (MSA) Lorraine – accueil de Bulgnéville",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "118 rue Gustave-Deleris",
+              "CodePostal": "88140",
+              "NomCommune": "Bulgnéville",
+              "Localisation": {
+                "Latitude": "48.2090472",
+                "Longitude": "5.8340223",
+                "Précision": "6"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Mutualité sociale agricole Lorraine",
+                "15 avenue Paul-Doumer"
+              ],
+              "CodePostal": "54507",
+              "NomCommune": "Vandoeuvre-lès-Nancy Cedex",
+              "Localisation": {
+                "Latitude": "48.6754208",
+                "Longitude": "6.1884889",
+                "Précision": "8"
+              }
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 09 26 40",
+            "Télécopie": "03 29 09 26 44",
+            "Email": "contact@lorraine.msa.fr",
+            "Url": "http://www.msalorraine.fr"
+          },
+          "Commentaire": "Accueil physique sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h15 à 12h15 et de 13h à 17h."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4420232,
+          48.1785527
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msa-88160-01",
+          "codeInsee": "88160",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "msa",
+          "Nom": "Mutualité sociale agricole (MSA) Lorraine - accueil d'Épinal",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "8 avenue du Général-de-Gaulle",
+              "CodePostal": "88000",
+              "NomCommune": "Épinal",
+              "Localisation": {
+                "Latitude": "48.1785527",
+                "Longitude": "6.4420232",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Mutualité sociale agricole Lorraine",
+                "15 avenue Paul-Doumer"
+              ],
+              "CodePostal": "54507",
+              "NomCommune": "Vandœuvre-lès-Nancy Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": "03 83 50 35 00",
+            "Télécopie": "03 83 50 35 40",
+            "Email": "http://www.msalorraine.fr/lfr/contact-particulier",
+            "Url": "http://www.msalorraine.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

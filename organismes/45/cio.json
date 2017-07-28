@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93158996105,
+          47.8395004272
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-45234-02",
+          "codeInsee": "45234",
+          "dateMiseAJour": "2013-04-24",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) - Orléans - La-Source",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2, rue Charles-de-Coulomb",
+            "CodePostal": "45100",
+            "NomCommune": "Orléans-la-Source",
+            "Localisation": {
+              "Latitude": "47.8395004272",
+              "Longitude": "1.93158996105",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 38 63 07 54",
+            "Télécopie": "+33 2 38 63 60 22",
+            "Email": "ce.ciolasource@ac-orleans-tours.fr",
+            "Url": "http://www.ac-orleans-tours.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73259269999994,
+          47.9937315
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-45208-01",
+          "codeInsee": "45208",
+          "dateMiseAJour": "2015-11-12",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Montargis",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "25 rue Jean Jaurès",
+            "CodePostal": "45200",
+            "NomCommune": "Montargis",
+            "Localisation": {
+              "Latitude": "47.9937315",
+              "Longitude": "2.73259269999994",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 38 93 97 10",
+            "Télécopie": "+33 2 38 93 97 11",
+            "Email": "cio.montargis@ac-orleans-tours.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil ouvert uniquement sur rendez-vous."
+              },
+              {
+                "début": "mardi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Accueil ouvert uniquement sur rendez-vous."
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2537886,
+          48.1709629
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-45252-01",
+          "codeInsee": "45252",
+          "dateMiseAJour": "2017-02-28",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Pithiviers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "9 faubourg d'Orléans",
+            "CodePostal": "45300",
+            "NomCommune": "Pithiviers",
+            "Localisation": {
+              "Latitude": "48.1709629",
+              "Longitude": "2.2537886",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 83 49 87",
+            "Email": "ce.ciopithiviers@ac-orleans-tours.fr",
+            "Url": "http://www.ac-orleans-tours.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour les horaires pendant les vacances scolaires."
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.630194,
+          47.681184
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-45155-01",
+          "codeInsee": "45155",
+          "dateMiseAJour": "2015-10-09",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Gien",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 place Foch",
+            "CodePostal": "45500",
+            "NomCommune": "Gien",
+            "Localisation": {
+              "Latitude": "47.681184",
+              "Longitude": "2.630194",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 38 67 43 08",
+            "Télécopie": "+33 2 38 38 02 61",
+            "Email": "ce.ciogien@ac-orleans-tours.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mercredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ],
+                "Note": "Rendez-vous avec les conseillers uniquement l'après-midi. Permanence pendant les congés scolaires, contacter l'accueil avant de se déplacer."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.901487,
+          47.900974
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-45234-01",
+          "codeInsee": "45234",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) d'Orléans",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "55 rue Notre-Dame-de-Recouvrance",
+              "BP 71960"
+            ],
+            "CodePostal": "45009",
+            "NomCommune": "Orléans Cedex 1",
+            "Localisation": {
+              "Latitude": "47.900974",
+              "Longitude": "1.901487",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 83 49 54",
+            "Email": "ce.cioorleans@ac-orleans-tours.fr",
+            "Url": "http://www.ac-orleans-tours.frorientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/les_cio_de_lacademie/bienvenue_au_cio_dorleans"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h."
+            }
+          }
+        }
+      }
+    }
+  ]
+}

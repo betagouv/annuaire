@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7387167,
+          48.5787336
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cg-67482-01",
+          "codeInsee": "67482",
+          "dateMiseAJour": "2016-07-06",
+          "pivotLocal": "cg",
+          "Nom": "Conseil départemental - Bas-Rhin",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Hôtel du département",
+              "Place du Quartier-Blanc"
+            ],
+            "CodePostal": "67964",
+            "NomCommune": "Strasbourg Cedex 9",
+            "Localisation": {
+              "Latitude": "48.5787336",
+              "Longitude": "7.7387167",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 88 76 67 67",
+            "Télécopie": "03 88 76 67 97",
+            "Url": "http://www.bas-rhin.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "'08:00:00",
+                  "fin": "17:00:00"
+                }
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "'08:00:00",
+                  "fin": "18:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

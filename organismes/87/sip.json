@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2037068,
+          45.5108163
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-87187-01",
+          "codeInsee": "87187",
+          "dateMiseAJour": "2015-09-01",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Saint-Yrieix-la-Perche",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "12 avenue Docteur-Lemoyne",
+            "CodePostal": "87500",
+            "NomCommune": "Saint-Yrieix-la-Perche",
+            "Localisation": {
+              "Latitude": "45.5108163",
+              "Longitude": "1.2037068",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 08 36 10",
+            "Email": "sip-sie.saint-yrieix-la-perche@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8964908,
+          45.8846669
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-87154-01",
+          "codeInsee": "87154",
+          "dateMiseAJour": "2016-12-02",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Saint-Junien",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "16 avenue Gustave-Flaubert",
+            "CodePostal": "87205",
+            "NomCommune": "Saint-Junien",
+            "Localisation": {
+              "Latitude": "45.8846669",
+              "Longitude": "0.8964908",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 43 09 20",
+            "Télécopie": "+33 5 55 43 02 89",
+            "Email": "sip-sie.saint-junien@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2576034,
+          45.8371234
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-87085-02",
+          "codeInsee": "87085",
+          "dateMiseAJour": "2016-10-05",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Limoges Ville",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "30 rue Cruveilhier",
+              "BP 61003"
+            ],
+            "CodePostal": "87050",
+            "NomCommune": "Limoges Cedex 2",
+            "Localisation": {
+              "Latitude": "45.8371234",
+              "Longitude": "1.2576034",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 45 59 00",
+            "Email": "sip.limoges-ville@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.047835,
+          46.1195659
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-87011-01",
+          "codeInsee": "87011",
+          "dateMiseAJour": "2017-02-15",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Bellac",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "1 rue Thiers",
+              "BP 58"
+            ],
+            "CodePostal": "87300",
+            "NomCommune": "Bellac Cedex",
+            "Localisation": {
+              "Latitude": "46.1195659",
+              "Longitude": "1.047835",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 60 93 80",
+            "Email": "sip-sie.bellac@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2576034,
+          45.8371234
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "sip-87085-01",
+          "codeInsee": "87085",
+          "dateMiseAJour": "2016-10-05",
+          "pivotLocal": "sip",
+          "Nom": "Service des impôts des particuliers du centre des finances publiques de Limoges Extérieur",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "30 rue Cruveilhier",
+              "BP 61003"
+            ],
+            "CodePostal": "87050",
+            "NomCommune": "Limoges Cedex 2",
+            "Localisation": {
+              "Latitude": "45.8371234",
+              "Longitude": "1.2576034",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 45 59 00",
+            "Email": "sip.limoges-exterieur@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:15:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

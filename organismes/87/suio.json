@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2629562,
+          45.8245229
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "suio-87085-01",
+          "codeInsee": "87085",
+          "dateMiseAJour": "2014-12-16",
+          "pivotLocal": "suio",
+          "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université de Limoges",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "88, rue du Pont-Saint-Martial",
+            "CodePostal": "87000",
+            "NomCommune": "Limoges",
+            "Localisation": {
+              "Latitude": "45.8245229",
+              "Longitude": "1.2629562",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 5 55 14 90 70",
+            "Télécopie": "+33 5 55 14 90 71",
+            "Email": "carrefour-des-etudiants@unilim.fr",
+            "Url": "http://www.carrefourdesetudiants.unilim.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "16:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              },
+              {
+                "début": "mardi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

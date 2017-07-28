@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6659083,
+          47.3432873
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "urssaf-37261-01",
+          "codeInsee": "37261",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "urssaf",
+          "Nom": "Urssaf Centre - site de Tours",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "1 rue Fleming",
+              "CodePostal": "37000",
+              "NomCommune": "Tours",
+              "Localisation": {
+                "Latitude": "47.3432873",
+                "Longitude": "0.6659083",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Urssaf Centre",
+                "Place du Général-de-Gaulle"
+              ],
+              "CodePostal": "45955",
+              "NomCommune": "Orléans Cedex 9"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : 12 centimes d'euro  la minute + le prix d'un appel. Écoutez le tarif en début d'appel.",
+              "$t": "3957"
+            },
+            "Email": "http://www.contact.urssaf.fr",
+            "Url": "http://www.centre.urssaf.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                "Note": "Horaires valables du 18 juillet au 2 septembre 2016. Vous pouvez aussi être reçu l'après-midi sur rendez-vous du lundi au vendredi. Accueil téléphonique du lundi au vendredi de 9h à 17h."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

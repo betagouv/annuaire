@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58760849,
+          48.0233745
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-88383-01",
+          "codeInsee": "88383",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Lorraine - Sud",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "26 faubourg d'Épinal",
+              "CodePostal": "88200",
+              "NomCommune": "Remiremont",
+              "Localisation": {
+                "Latitude": "48.0233745",
+                "Longitude": "6.58760849",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "DEM"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "13 rue de l'Épinette",
+                "BP 20160"
+              ],
+              "CodePostal": "88204",
+              "NomCommune": "Remiremont Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 62 53 56",
+            "Télécopie": "03 29 23 99 38",
+            "Email": "greta-lorraine-sud@ac-nancy-metz.fr",
+            "Url": "http://www.greta-lorraine.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4408916,
+          48.1749064
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-88160-01",
+          "codeInsee": "88160",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Lorraine - Sud",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "44 rue Abel-Ferry",
+            "CodePostal": "88000",
+            "NomCommune": "Épinal",
+            "Localisation": {
+              "Latitude": "48.1749064",
+              "Longitude": "6.4408916",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 69 51 00",
+            "Télécopie": "03 29 64 29 23",
+            "Email": "greta.lorraine.sud@ac-nancy-metz.fr",
+            "Url": "http://www.ac-nancy-metz.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96006,
+          48.2873581
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-88413-01",
+          "codeInsee": "88413",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta de Saint-Dié",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "14 rue de Thurin",
+            "CodePostal": "88100",
+            "NomCommune": "Saint-Dié-des-Vosges",
+            "Localisation": {
+              "Latitude": "48.2873581",
+              "Longitude": "6.96006",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 29 55 32 73",
+            "Email": "greta.saintdie@ac-nancy-metz.fr",
+            "Url": "http://www.ac-nancy-metz.frgreta"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

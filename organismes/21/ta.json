@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0433667,
+          47.3244633
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "ta-21231-01",
+          "codeInsee": "21231",
+          "dateMiseAJour": "2016-05-10",
+          "pivotLocal": "ta",
+          "Nom": "Tribunal administratif de Dijon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "22 rue d'Assas",
+              "BP 61616"
+            ],
+            "CodePostal": "21016",
+            "NomCommune": "Dijon Cedex",
+            "Localisation": {
+              "Latitude": "47.3244633",
+              "Longitude": "5.0433667",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 80 73 91 00",
+            "Télécopie": "+33 3 80 73 39 89",
+            "Email": "greffe.ta-dijon@juradm.fr",
+            "Url": "http://www.dijon.tribunal-administratif.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

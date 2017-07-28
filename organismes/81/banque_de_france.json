@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2436121,
+          43.6019433
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-81065-01",
+          "codeInsee": "81065",
+          "dateMiseAJour": "2017-01-03",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Castres",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "1, avenue Émilie-de-Villeneuve",
+              "CS 90231"
+            ],
+            "CodePostal": "81102",
+            "NomCommune": "Castres Cedex",
+            "Localisation": {
+              "Latitude": "43.6019433",
+              "Longitude": "2.2436121",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 5 63 72 63 00"
+            },
+            "Télécopie": "+33 5 63 72 63 03",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Egalement sur rendez-vous au 05 63 72 63 07 du lundi au vendredi de 13h30 à 17h00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1507205,
+          43.927861
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-81004-01",
+          "codeInsee": "81004",
+          "dateMiseAJour": "2017-01-03",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale d'Albi",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "17, rue Dominique-de-Florence",
+              "CS 25024"
+            ],
+            "CodePostal": "81028",
+            "NomCommune": "Albi Cedex 9",
+            "Localisation": {
+              "Latitude": "43.927861",
+              "Longitude": "2.1507205",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 5 63 49 49 70"
+            },
+            "Télécopie": "+33 5 63 49 49 69",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Egalement sur rendez-vous au 05 63 49 49 65 du lundi au vendredi de 13h30 à 17h00"
+            }
+          },
+          "Commentaire": "Échange de billets les mardis et jeudis de 9h à 12h."
+        }
+      }
+    }
+  ]
+}

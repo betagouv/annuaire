@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3807475,
+          47.7456671
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-56121-01",
+          "codeInsee": "56121",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Bretagne - Sud",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Lycée Colbert",
+              "117 boulevard Léon-Blum"
+            ],
+            "CodePostal": "56321",
+            "NomCommune": "Lorient Cedex",
+            "Localisation": {
+              "Latitude": "47.7456671",
+              "Longitude": "-3.3807475",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 97 87 15 60",
+            "Télécopie": "02 97 87 01 37",
+            "Email": "greta.bretagnesud@ac-rennes.fr",
+            "Url": "http://www.greta-bretagne.ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

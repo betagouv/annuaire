@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3489877,
+          46.9069577
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-25462-01",
+          "codeInsee": "25462",
+          "dateMiseAJour": "2015-02-24",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, bureau d'accueil et d'information de Pontarlier",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Centre communal d'action sociale",
+                "Complexe des Capucins",
+                "7, rue Rognon"
+              ],
+              "CodePostal": "25300",
+              "NomCommune": "Pontarlier",
+              "Localisation": {
+                "Latitude": "46.9069577",
+                "Longitude": "6.3489877",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": "19, rue de la Préfecture",
+              "CodePostal": "25044",
+              "NomCommune": "Besançon Cedex",
+              "Localisation": {
+                "Latitude": "47.2349657",
+                "Longitude": "6.0247065",
+                "Précision": "8"
+              }
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Besançon. Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 3 81 65 21 21"
+            },
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.024658,
+          47.233725
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-25056-01",
+          "codeInsee": "25056",
+          "dateMiseAJour": "2017-04-25",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Besançon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "19 rue de la Préfecture",
+            "CodePostal": "25044",
+            "NomCommune": "Besançon Cedex",
+            "Localisation": {
+              "Latitude": "47.233725",
+              "Longitude": "6.024658",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "03 81 65 21 21"
+            },
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Exclusivement sur rendez-vous au 03 81 65 21 39"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

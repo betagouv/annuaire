@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.951745,
+          47.9079341
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "pif-45284-01",
+          "codeInsee": "45284",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "pif",
+          "Nom": "Point info famille - Centre social du Pont Bordeau de Saint-Jean-de-Braye",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 place Avicenne",
+            "CodePostal": "45800",
+            "NomCommune": "Saint-Jean-de-Braye",
+            "Localisation": {
+              "Latitude": "47.9079341",
+              "Longitude": "1.951745",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 86 08 18",
+            "Télécopie": "02 38 86 63 83",
+            "Email": "asca7@wanadoo.fr"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73340797424,
+          47.9935035706
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "pif-45208-01",
+          "codeInsee": "45208",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "pif",
+          "Nom": "Point info famille - Montargis",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Caisse d'allocations familiales",
+              "5 allée du Docteur-Gastellier"
+            ],
+            "CodePostal": "45200",
+            "NomCommune": "Montargis",
+            "Localisation": {
+              "Latitude": "47.9935035706",
+              "Longitude": "2.73340797424",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 38 98 47 81",
+            "Email": "pif.montargis@wanadoo.fr"
+          }
+        }
+      }
+    }
+  ]
+}

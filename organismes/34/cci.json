@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.010165,
+          43.6154409
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cci-34172-01",
+          "codeInsee": "34172",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "cci",
+          "Nom": "Chambre de commerce et d'industrie (CCI) - Hérault",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Zone aéroportuaire Montpellier-Méditerranée",
+              "Chambre de commerce et d'industrie entreprises",
+              "CS 90066"
+            ],
+            "CodePostal": "34137",
+            "NomCommune": "Mauguio Cedex",
+            "Localisation": {
+              "Latitude": "43.6154409",
+              "Longitude": "4.010165",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 99 51 52 00",
+            "Télécopie": "04 89 06 99 67",
+            "Email": "info@montpellier.cci.fr",
+            "Url": "http://www.herault.cci.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

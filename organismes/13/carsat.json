@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39756011963,
+          43.298500061
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "carsat-13055-01",
+          "codeInsee": "13055",
+          "dateMiseAJour": "2017-05-03",
+          "pivotLocal": "carsat",
+          "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Sud-Est",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "35 rue George",
+            "CodePostal": "13386",
+            "NomCommune": "Marseille Cedex 20",
+            "Localisation": {
+              "Latitude": "43.298500061",
+              "Longitude": "5.39756011963",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "6 centimes d’euro par minute plus le prix de l’appel.",
+              "$t": "3960"
+            },
+            "Url": "http://www.carsat-sudest.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous au 3960."
+            }
+          },
+          "Commentaire": "La Carsat Sud-Est est compétente pour les départements suivants : Alpes de Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), Bouches-du-Rhône (13), Corse-du-Sud (2a), Haute-Corse (2b), Var (83), Vaucluse (84)."
+        }
+      }
+    }
+  ]
+}

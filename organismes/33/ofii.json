@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5824707,
+          44.8409251
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "ofii-33063-01",
+          "codeInsee": "33063",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "ofii",
+          "Nom": "Office français de l'immigration et de l'intégration (Ofii) - Direction territoriale de Bordeaux",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "55 rue Saint-Sernin",
+              "CS 90370"
+            ],
+            "CodePostal": "33002",
+            "NomCommune": "Bordeaux Cedex",
+            "Localisation": {
+              "Latitude": "44.8409251",
+              "Longitude": "-0.5824707",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "plain-pied"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "05 57 14 23 00",
+            "Télécopie": "05 57 14 23 14",
+            "Email": "bordeaux@ofii.fr",
+            "Url": "http://www.ofii.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

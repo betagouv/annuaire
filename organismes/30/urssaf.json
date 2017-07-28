@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3643411,
+          43.8272435
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "urssaf-30189-01",
+          "codeInsee": "30189",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "urssaf",
+          "Nom": "Urssaf Languedoc-Roussillon - site de Nîmes",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Parc Georges-Besse 2",
+              "77 chemin Bas-du-Mas-de-Boudan"
+            ],
+            "CodePostal": "30923",
+            "NomCommune": "Nîmes Cedex 9",
+            "Localisation": {
+              "Latitude": "43.8272435",
+              "Longitude": "4.3643411",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : 12 centimes d'euro  la minute + le prix d'un appel. Écoutez le tarif en début d'appel.",
+              "$t": "3957"
+            },
+            "Email": "http://www.contact.urssaf.fr",
+            "Url": "http://www.languedocroussillon.urssaf.fr"
+          },
+          "Commentaire": "Accueil physique uniquement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6319605,
+          49.5590115
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-02408-01",
+          "codeInsee": "02408",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta de Laon",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "19 rue Léo-Lagrange",
+            "CodePostal": "02011",
+            "NomCommune": "Laon Cedex",
+            "Localisation": {
+              "Latitude": "49.5590115",
+              "Longitude": "3.6319605",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 23 20 45 84",
+            "Télécopie": "03 23 20 35 25",
+            "Email": "greta.glt@ac-amiens.fr",
+            "Url": "http://www.greta.ac-amiens.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3074526,
+          49.3741798
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-02722-01",
+          "codeInsee": "02722",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta - Sud-Aisne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Lycée Léonard-de-Vinci",
+              "1 espace Jean-Guerland",
+              "Boulevard de Presles",
+              "BP 547"
+            ],
+            "CodePostal": "02200",
+            "NomCommune": "Soissons Cedex",
+            "Localisation": {
+              "Latitude": "49.3741798",
+              "Longitude": "3.3074526",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rez-de-chaussée"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 23 75 35 70",
+            "Télécopie": "03 23 75 35 64",
+            "Email": "greta.sda@ac-amiens.fr",
+            "Url": "http://www.greta-sudaisne.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "07:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:45:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.293589,
+          49.861713
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "greta-02691-01",
+          "codeInsee": "02691",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "greta",
+          "Nom": "Greta de Saint-Quentin - Chauny",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Lycée Condorcet",
+              "Rond-point Joliot-Curie"
+            ],
+            "CodePostal": "02100",
+            "NomCommune": "Saint-Quentin",
+            "Localisation": {
+              "Latitude": "49.861713",
+              "Longitude": "3.293589",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 23 08 44 20",
+            "Télécopie": "03 23 08 44 49",
+            "Email": "greta.sqc@ac-amiens.fr",
+            "Url": "http://www.greta-sqc.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:30:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "18:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

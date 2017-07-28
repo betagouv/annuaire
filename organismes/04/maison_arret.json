@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.234805,
+          44.09187
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "04070",
+          "dateMiseAJour": "2017-07-24",
+          "id": "maison_arret-04070-01",
+          "idPresta": "4eb263342935944ef50001ca",
+          "pivotLocal": "maison_arret",
+          "Nom": "Maison d'arrêt de Digne-les-Bains",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Montée Saint-Charles",
+              "BP 131"
+            ],
+            "CodePostal": "04004",
+            "NomCommune": "DIGNE LES BAINS CEDEX",
+            "Localisation": {
+              "Latitude": "44.09187",
+              "Longitude": "6.234805",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 4 92 31 01 25",
+            "Télécopie": "+33 4 92 32 30 12",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.089619,
+          48.461543
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29155-01",
+          "codeInsee": "29155",
+          "dateMiseAJour": "2016-10-14",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public - Ile d'Ouessant",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "physique",
+            "Ligne": "Bas du Bourg",
+            "CodePostal": "29242",
+            "NomCommune": "Ouessant",
+            "Localisation": {
+              "Latitude": "48.461543",
+              "Longitude": "-5.089619",
+              "Précision": "1"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "msap.ouessant@laposte.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/ile-douessant-bureau-de-poste"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mardi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "16:30:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "samedi",
+                "fin": "samedi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.946385,
+          48.521381
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29266-01",
+          "codeInsee": "29266",
+          "dateMiseAJour": "2017-01-10",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public (Bureau de Poste) - Saint Thegonnec",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "4 place de la Mairie",
+            "CodePostal": "29410",
+            "NomCommune": "Saint-Thégonnec",
+            "Localisation": {
+              "Latitude": "48.521381",
+              "Longitude": "-3.946385",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "msap.saint-thegonnec@laposte.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/saint-thegonnec-bureau-de-poste"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.129003,
+          47.988332
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29232-01",
+          "codeInsee": "29232",
+          "dateMiseAJour": "2016-10-14",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public - Point information mediation multi services - Quimper Cornouaille",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "physique",
+            "Ligne": "2 rue de l'Ile de Man",
+            "CodePostal": "29000",
+            "NomCommune": "Quimper",
+            "Localisation": {
+              "Latitude": "47.988332",
+              "Longitude": "-4.129003",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 98 52 77 50",
+            "Email": "pimms.quimper@orange.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-quimper-cornouaille"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.585977,
+          48.517786
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29067-01",
+          "codeInsee": "29067",
+          "dateMiseAJour": "2016-11-30",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public (bureau de Poste) - Guerlesquin",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "Place du Champ de Bataille",
+            "CodePostal": "29650",
+            "NomCommune": "Guerlesquin",
+            "Localisation": {
+              "Latitude": "48.517786",
+              "Longitude": "-3.585977",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "msap.guerlesquin@laposte.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.829742,
+          48.060816
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29041-01",
+          "codeInsee": "29041",
+          "dateMiseAJour": "2016-10-25",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public (Bureau de Poste) - Coray",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "physique",
+            "Ligne": "3 rue Grégoire le Cam",
+            "CodePostal": "29370",
+            "NomCommune": "Coray",
+            "Localisation": {
+              "Latitude": "48.060816",
+              "Longitude": "3.829742",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "msap.coray@laposte.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/coray-bureau-de-poste"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.191256,
+          48.077927
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29169-01",
+          "codeInsee": "29169",
+          "dateMiseAJour": "2017-01-10",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public (Bureau de Poste) - Plogonnec",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "place du 19 Mars 1962",
+            "CodePostal": "29180",
+            "NomCommune": "Plogonnec",
+            "Localisation": {
+              "Latitude": "48.077927",
+              "Longitude": "-4.191256",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Email": "msap.plogonnec@laposte.fr",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/plogonnec-bureau-de-poste"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471436,
+          48.409671
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "msap-29019-01",
+          "codeInsee": "29019",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "msap",
+          "Nom": "Maison de services au public - Point information mediation multi services - Brest",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "physique",
+            "Ligne": "31 rue Saint Jacques",
+            "CodePostal": "29200",
+            "NomCommune": "Brest",
+            "Localisation": {
+              "Latitude": "48.409671",
+              "Longitude": "-4.471436",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 98 41 00 66",
+            "Email": "brest.pontanezen@pimms.org",
+            "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-brest"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "samedi",
+                "fin": "samedi",
+                "PlageH": {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

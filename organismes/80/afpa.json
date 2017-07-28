@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.300716,
+          49.8875541
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-80021-03",
+          "codeInsee": "80021",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Direction régionale Picardie",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "2 rue Debray",
+            "CodePostal": "80000",
+            "NomCommune": "Amiens",
+            "Localisation": {
+              "Latitude": "49.8875541",
+              "Longitude": "2.300716",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.picardie.afpa.fr"
+          },
+          "Commentaire": "Pas d'accueil du public."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.300716,
+          49.8875541
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "afpa-80021-04",
+          "codeInsee": "80021",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "afpa",
+          "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre d'Amiens",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "30 rue de Poulainville",
+            "CodePostal": "80000",
+            "NomCommune": "Amiens",
+            "Localisation": {
+              "Latitude": "49.8875541",
+              "Longitude": "2.300716",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré.",
+              "$t": "3936"
+            },
+            "Url": "http://www.afpa.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "jeudi",
+                "PlageH": {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.344068,
+          47.753119
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "68224",
+          "dateMiseAJour": "2014-01-28",
+          "id": "maison_arret-68224-01",
+          "idPresta": "4eb262702935944ef5000086",
+          "pivotLocal": "maison_arret",
+          "Nom": "Maison d'arrêt de Mulhouse",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "59 avenue Robert Schuman",
+              "BP 3129"
+            ],
+            "CodePostal": "68063",
+            "NomCommune": "MULHOUSE CEDEX 3",
+            "Localisation": {
+              "Latitude": "47.753119",
+              "Longitude": "7.344068",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 89 36 34 00",
+            "Télécopie": "+33 3 89 36 34 31",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.357582,
+          48.076109
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "68066",
+          "dateMiseAJour": "2014-01-28",
+          "id": "maison_arret-68066-01",
+          "idPresta": "4eb263082935944ef50000f1",
+          "pivotLocal": "maison_arret",
+          "Nom": "Maison d'arrêt de Colmar",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "1 rue des Augustins",
+              "BP 485"
+            ],
+            "CodePostal": "68020",
+            "NomCommune": "COLMAR CEDEX",
+            "Localisation": {
+              "Latitude": "48.076109",
+              "Longitude": "7.357582",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 89 20 14 20",
+            "Télécopie": "+33 3 89 20 14 23",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          }
+        }
+      }
+    }
+  ]
+}

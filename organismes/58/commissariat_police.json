@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1316381,
+          46.9930726
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-58194-03",
+          "codeInsee": "58194",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat subdivisionnaire de police de Nevers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "13 rue Jules-Verne",
+            "CodePostal": "58000",
+            "NomCommune": "Nevers",
+            "Localisation": {
+              "Latitude": "46.9930726",
+              "Longitude": "3.1316381",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 86 71 09 00",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.188719,
+          46.982388
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-58194-02",
+          "codeInsee": "58194",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat subdivisionnaire de police de Nevers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "11 rue Pierre-Malardier",
+            "CodePostal": "58000",
+            "NomCommune": "Nevers",
+            "Localisation": {
+              "Latitude": "46.982388",
+              "Longitude": "3.188719",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 86 93 97 50",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1588068,
+          46.9917713
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "commissariat_police-58194-01",
+          "codeInsee": "58194",
+          "dateMiseAJour": "2017-06-13",
+          "pivotLocal": "commissariat_police",
+          "Nom": "Commissariat de police de Nevers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "6 bis avenue Marceau",
+            "CodePostal": "58000",
+            "NomCommune": "Nevers",
+            "Localisation": {
+              "Latitude": "46.9917713",
+              "Longitude": "3.1588068",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 86 60 53 00",
+            "Télécopie": "03 86 57 42 97",
+            "Email": "ddsp58@interieur.gouv.fr",
+            "Url": "http://www.police-nationale.interieur.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

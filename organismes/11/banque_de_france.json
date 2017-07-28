@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353256,
+          43.21159
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-11069-01",
+          "codeInsee": "11069",
+          "dateMiseAJour": "2017-02-15",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Carcassonne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "5 rue Jean Bringer",
+              "CS 90008"
+            ],
+            "CodePostal": "11803",
+            "NomCommune": "Carcassonne Cedex 9",
+            "Localisation": {
+              "Latitude": "43.21159",
+              "Longitude": "2.353256",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. (tarif 5 cts d'euro par mn plus le prix d'un appel). Informations générales sur la réglementation bancaire, le crédit, le surendettement (commission de surendettement, dépôt de dossier, suivi et information), les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "04 68 11 40 45"
+            },
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Sur rendez-vous au 04 68 11 40 50 du lundi au vendredi de 13h30 à 17h00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9794631,
+          43.1851158
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-11262-01",
+          "codeInsee": "11262",
+          "dateMiseAJour": "2016-05-23",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, bureau d'accueil et d'information de Narbonne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": [
+                "Mairie de Narbonne Saint-Jean Saint-Pierre",
+                "Maison des Services",
+                "1, avenue de la Naïade"
+              ],
+              "CodePostal": "11100",
+              "NomCommune": "Narbonne",
+              "Localisation": {
+                "Latitude": "43.1851158",
+                "Longitude": "2.9794631",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "5, rue Jean-Bringer",
+                "CS 90008"
+              ],
+              "CodePostal": "11890",
+              "NomCommune": "Carcassonne Cedex 9",
+              "Localisation": {
+                "Latitude": "43.2114331",
+                "Longitude": "2.3531482",
+                "Précision": "8"
+              }
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Carcassonne. Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 4 68 11 40 50"
+            },
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "09:15:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:15:00",
+                    "fin": "12:15:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "16:00:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

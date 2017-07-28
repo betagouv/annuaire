@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34738016129,
+          45.2748985291
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "centre_impots_fonciers-73248-01",
+          "codeInsee": "73248",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "centre_impots_fonciers",
+          "Nom": "Centre des impôts foncier de Saint-Jean-de-Maurienne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "422 rue de la République",
+            "CodePostal": "73300",
+            "NomCommune": "Saint-Jean-de-Maurienne",
+            "Localisation": {
+              "Latitude": "45.2748985291",
+              "Longitude": "6.34738016129",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 83 25 74",
+            "Email": "cdif.st-jmaurienne-albertville@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52631998062,
+          45.4846000671
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "centre_impots_fonciers-73181-01",
+          "codeInsee": "73181",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "centre_impots_fonciers",
+          "Nom": "Centre des impôts foncier de Moûtiers",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "47 rue de Gascogne",
+            "CodePostal": "73600",
+            "NomCommune": "Moutiers",
+            "Localisation": {
+              "Latitude": "45.4846000671",
+              "Longitude": "6.52631998062",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 22 85 30",
+            "Email": "cdif.moutiers@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91778099999999,
+          45.564601
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "centre_impots_fonciers-73029-01",
+          "codeInsee": "73029",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "centre_impots_fonciers",
+          "Nom": "Centre des impôts foncier de Chambéry",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Barberaz",
+              "51 rue de la République",
+              "BP 1114"
+            ],
+            "CodePostal": "73018",
+            "NomCommune": "Chambéry Cedex",
+            "Localisation": {
+              "Latitude": "45.564601",
+              "Longitude": "5.91778099999999",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "04 79 96 43 21",
+            "Télécopie": "04 79 96 44 70",
+            "Email": "cdif.chambery@dgfip.finances.gouv.fr",
+            "Url": "http://www.cadastre.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

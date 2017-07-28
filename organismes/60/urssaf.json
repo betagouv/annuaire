@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.475767,
+          49.2601186
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "urssaf-60175-01",
+          "codeInsee": "60175",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "urssaf",
+          "Nom": "Urssaf Picardie - site de Creil",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "4 rue de Marl",
+              "CodePostal": "60100",
+              "NomCommune": "Creil",
+              "Localisation": {
+                "Latitude": "49.2601186",
+                "Longitude": "2.475767",
+                "Précision": "8"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "Urssaf Picardie",
+                "11 rue Ambroise-Paré"
+              ],
+              "CodePostal": "60015",
+              "NomCommune": "Beauvais Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : 12 centimes d'euro  la minute + le prix d'un appel. Écoutez le tarif en début d'appel.",
+              "$t": "3957"
+            },
+            "Email": "http://www.contact.urssaf.fr",
+            "Url": "http://www.picardie.urssaf.fr"
+          },
+          "Commentaire": "Accueil sur rendez-vous uniquement, accueil téléphonique du lundi au vendredi de 9h à 17h."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1136885,
+          49.41383
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "urssaf-60057-01",
+          "codeInsee": "60057",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "urssaf",
+          "Nom": "Urssaf Picardie - site de Beauvais",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "11 rue Ambroise-Paré",
+            "CodePostal": "60015",
+            "NomCommune": "Beauvais Cedex",
+            "Localisation": {
+              "Latitude": "49.41383",
+              "Longitude": "2.1136885",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro violet ou majoré : 12 centimes d'euro  la minute + le prix d'un appel. Écoutez le tarif en début d'appel.",
+              "$t": "3957"
+            },
+            "Email": "http://www.contact.urssaf.fr",
+            "Url": "http://www.picardie.urssaf.fr"
+          },
+          "Commentaire": "Accueil sur rendez-vous uniquement, accueil téléphonique du lundi au vendredi de 9h à 17h."
+        }
+      }
+    }
+  ]
+}

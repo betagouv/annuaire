@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3844247,
+          45.4403809
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-42218-01",
+          "codeInsee": "42218",
+          "dateMiseAJour": "2017-03-24",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Saint-Étienne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "7, rue d'Arcole",
+              "CS 10501"
+            ],
+            "CodePostal": "42007",
+            "NomCommune": "Saint-Étienne Cedex 1",
+            "Localisation": {
+              "Latitude": "45.4403809",
+              "Longitude": "4.3844247",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+              "$t": "+33 4 77 43 45 45"
+            },
+            "Télécopie": "+33 4 77 43 45 07",
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Sur rendez-vous du lundi au vendredi 8h30 à 12h00 et 13h30 à 17h00 au 04 77 43 45 21"
+            }
+          },
+          "Commentaire": "Échange de billets mardi et jeudi matin de 8h45 à 12h"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0722615,
+          46.0354551
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "banque_de_france-42187-01",
+          "codeInsee": "42187",
+          "dateMiseAJour": "2017-04-14",
+          "pivotLocal": "banque_de_france",
+          "Nom": "Banque de France, succursale de Roanne",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "82, rue Jean-Jaurès",
+              "CS 91036"
+            ],
+            "CodePostal": "42308",
+            "NomCommune": "Roanne Cedex",
+            "Localisation": {
+              "Latitude": "46.0354551",
+              "Longitude": "4.0722615",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte au 0811 901 801, du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel.",
+              "$t": "04 77 44 42 00"
+            },
+            "Email": "infos@banque-france.fr",
+            "Url": "http://www.banque-france.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Sur rendez-vous du lundi au vendredi 8h45 à 12h00 et 13h30 à 17h00 au 04 77 44 42 05"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8613423,
+          47.6366628
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "centre_impots_fonciers-90010-01",
+          "codeInsee": "90010",
+          "dateMiseAJour": "2017-02-21",
+          "pivotLocal": "centre_impots_fonciers",
+          "Nom": "Centre des impôts foncier de Belfort",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "1 place de la Révolution-Française",
+            "CodePostal": "90022",
+            "NomCommune": "Belfort Cedex",
+            "Localisation": {
+              "Latitude": "47.6366628",
+              "Longitude": "6.8613423",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "03 84 58 80 02",
+            "Email": "cdif.belfort@dgfip.finances.gouv.fr",
+            "Url": "http://www.impots.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "mardi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              },
+              {
+                "début": "jeudi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "08:45:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:15:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

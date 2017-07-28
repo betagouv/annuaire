@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5718874,
+          48.2757304
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29024-01",
+          "codeInsee": "29024",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Carhaix-Plouguer",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Maison des services publics",
+              "Place de la Tour-d'Auvergne"
+            ],
+            "CodePostal": "29270",
+            "NomCommune": "Carhaix-Plouguer",
+            "Localisation": {
+              "Latitude": "48.2757304",
+              "Longitude": "-3.5718874",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 98 93 01 02",
+            "Télécopie": "02 98 99 10 13",
+            "Email": "ce.0291770s@ac-rennes.fr",
+            "Url": "http://www.education.gouv.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                },
+                "Note": "Accueil ouvert un lundi sur deux, contacter l'accueil au préalable."
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "mercredi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.831846,
+          48.583248
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29151-01",
+          "codeInsee": "29151",
+          "dateMiseAJour": "2016-05-23",
+          "pivotLocal": "cio",
+          "Nom": "Centre d’information et d’orientation (CIO) de Morlaix",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": [
+            {
+              "type": "physique",
+              "Ligne": "9 avenue de la République",
+              "CodePostal": "29600",
+              "NomCommune": "Morlaix",
+              "Localisation": {
+                "Latitude": "48.583248",
+                "Longitude": "-3.831846",
+                "Précision": "8"
+              },
+              "Accessibilité": {
+                "type": "ACC"
+              }
+            },
+            {
+              "type": "postale",
+              "Ligne": [
+                "BP 57126",
+                "CIO"
+              ],
+              "CodePostal": "29671",
+              "NomCommune": "Morlaix Cedex"
+            }
+          ],
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 98 88 16 85",
+            "Télécopie": "+33 2 98 88 22 03",
+            "Email": "cio.morlaix@ac-rennes.fr",
+            "Url": "http://www.ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3254751,
+          48.0935757
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29046-01",
+          "codeInsee": "29046",
+          "dateMiseAJour": "2013-03-05",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Douarnenez",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Maison Charles-Tillon",
+              "18, rue Anatole-France"
+            ],
+            "CodePostal": "29100",
+            "NomCommune": "Douarnenez",
+            "Localisation": {
+              "Latitude": "48.0935757",
+              "Longitude": "-4.3254751",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 98 92 15 12",
+            "Télécopie": "+33 2 98 92 15 12",
+            "Email": "ce.0290113r@ac-rennes.fr",
+            "Url": "http://www.ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Uniquement sur rendez-vous"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4839243,
+          48.3910201
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29019-01",
+          "codeInsee": "29019",
+          "dateMiseAJour": "2015-01-15",
+          "pivotLocal": "cio",
+          "Nom": "Centre d’information et d’orientation (CIO) de Brest",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "8, rue des Onze-Martyrs",
+              "BP 31256"
+            ],
+            "CodePostal": "29212",
+            "NomCommune": "Brest Cedex 1",
+            "Localisation": {
+              "Latitude": "48.3910201",
+              "Longitude": "-4.4839243",
+              "Précision": "9"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 98 44 31 74",
+            "Télécopie": "+33 2 98 46 26 30",
+            "Email": "cio.brest@ac-rennes.fr",
+            "Url": "http://www.cio-brest.org"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              },
+              {
+                "début": "mardi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:30:00"
+                  }
+                ],
+                "Note": "Accueil physique uniquement sur rendez-vous du mardi au vendredi de 9h à 12h et sans rendez-vous de 13h30 à 17h30 avec une possibilité de prise de rendez-vous le lundi et le mercredi après midi."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.087339,
+          48.1988805
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29026-01",
+          "codeInsee": "29026",
+          "dateMiseAJour": "2013-04-24",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) - Châteaulin",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Maison de l'emploi",
+              "33, quai Robert-Alba"
+            ],
+            "CodePostal": "29150",
+            "NomCommune": "Châteaulin",
+            "Localisation": {
+              "Latitude": "48.1988805",
+              "Longitude": "-4.087339",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 2 98 16 14 20",
+            "Télécopie": "+33 2 98 16 14 37",
+            "Email": "ce.0291771t@ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Horaires hors congés scolaires"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1124028,
+          47.9913552
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29232-01",
+          "codeInsee": "29232",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Quimper",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "6 rue Joseph-Halléguen",
+            "CodePostal": "29000",
+            "NomCommune": "Quimper",
+            "Localisation": {
+              "Latitude": "47.9913552",
+              "Longitude": "-4.1124028",
+              "Précision": "9"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 98 55 28 61",
+            "Télécopie": "02 98 52 95 03",
+            "Email": "cio.quimper@ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "mardi",
+                "fin": "vendredi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                },
+                "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et 14h à 17h."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5324847,
+          47.8637428
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "cio-29233-01",
+          "codeInsee": "29233",
+          "dateMiseAJour": "2016-12-19",
+          "pivotLocal": "cio",
+          "Nom": "Centre d'information et d'orientation (CIO) de Lorient",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Square de Liskeard",
+              "Place des Écoles",
+              "Porte A"
+            ],
+            "CodePostal": "29300",
+            "NomCommune": "Quimperlé",
+            "Localisation": {
+              "Latitude": "47.8637428",
+              "Longitude": "-3.5324847",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "02 97 21 02 95",
+            "Télécopie": "02 97 21 22 68",
+            "Email": "cio.lorient@ac-rennes.fr",
+            "Url": "http://www.ac-rennes.fr"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                },
+                "Note": "Accueil uniquement sur rendez-vous."
+              },
+              {
+                "début": "mercredi",
+                "fin": "mercredi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                },
+                "Note": "Accueil uniquement sur rendez-vous."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

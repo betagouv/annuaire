@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3280404,
+          49.3804223
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "02722",
+          "dateMiseAJour": "2014-01-28",
+          "id": "ti-02722-01",
+          "idPresta": "4cac9e6a293594648a0017cb",
+          "pivotLocal": "ti",
+          "Nom": "Tribunal d'instance de Soissons",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "76 rue Saint-Martin",
+            "CodePostal": "02200",
+            "NomCommune": "SOISSONS",
+            "Localisation": {
+              "Latitude": "49.3804223",
+              "Longitude": "3.3280404",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 23 76 39 39",
+            "Télécopie": "+33 3 23 76 39 30",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "lundi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                }
+              },
+              {
+                "début": "mardi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "08:30:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "13:30:00",
+                    "fin": "16:30:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.623757,
+          49.564279
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "02408",
+          "dateMiseAJour": "2017-03-24",
+          "id": "ti-02408-01",
+          "idPresta": "4cac9ed7293594648a00ee24",
+          "pivotLocal": "ti",
+          "Nom": "Tribunal d'instance de Laon",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": "43 rue Sérurier",
+            "CodePostal": "02000",
+            "NomCommune": "LAON",
+            "Localisation": {
+              "Latitude": "49.564279",
+              "Longitude": "3.623757",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 23 26 75 40",
+            "Télécopie": "+33 3 23 26 75 44",
+            "Email": "mailto:accueil.ti-laon@justice.fr",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.285475,
+          49.84719
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "codeInsee": "02691",
+          "dateMiseAJour": "2017-03-24",
+          "id": "ti-02691-01",
+          "idPresta": "4cac9e78293594648a002fe0",
+          "pivotLocal": "ti",
+          "Nom": "Tribunal d'instance de Saint-Quentin",
+          "EditeurSource": "Ministère de la justice",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "place Gracchus Babeuf",
+              "CS 60645"
+            ],
+            "CodePostal": "02100",
+            "NomCommune": "ST QUENTIN",
+            "Localisation": {
+              "Latitude": "49.84719",
+              "Longitude": "3.285475",
+              "Précision": "6"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": "+33 3 23 06 29 60",
+            "Télécopie": "+33 3 23 64 84 87",
+            "Url": "http://www.justice.gouv.fr/",
+            "Sve": "http://www.justice.gouv.fr/sve"
+          },
+          "Ouverture": {
+            "PlageJ": [
+              {
+                "début": "lundi",
+                "fin": "jeudi",
+                "PlageH": [
+                  {
+                    "début": "09:00:00",
+                    "fin": "12:00:00"
+                  },
+                  {
+                    "début": "14:00:00",
+                    "fin": "17:00:00"
+                  }
+                ]
+              },
+              {
+                "début": "vendredi",
+                "fin": "vendredi",
+                "PlageH": {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

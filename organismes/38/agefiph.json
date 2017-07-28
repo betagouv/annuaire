@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2301149,
+          45.623157
+        ]
+      },
+      "properties": {
+        "Organisme": {
+          "id": "agefiph-38193-01",
+          "codeInsee": "38193",
+          "dateMiseAJour": "2016-09-08",
+          "pivotLocal": "agefiph",
+          "Nom": "Agefiph - Rhône-Alpes",
+          "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+          "Adresse": {
+            "type": "géopostale",
+            "Ligne": [
+              "Parc d'affaires de Saint-Hubert",
+              "33 rue Saint-Théobald"
+            ],
+            "CodePostal": "38080",
+            "NomCommune": "L'Isle-d'Abeau",
+            "Localisation": {
+              "Latitude": "45.623157",
+              "Longitude": "5.2301149",
+              "Précision": "8"
+            }
+          },
+          "CoordonnéesNum": {
+            "Téléphone": {
+              "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+              "$t": "08 00 11 10 09"
+            },
+            "Télécopie": "04 74 94 08 93",
+            "Email": "rhone-alpes@agefiph.asso.fr",
+            "Url": "http://www.agefiph.fr"
+          }
+        }
+      }
+    }
+  ]
+}
