@@ -9,6 +9,8 @@
 * **URL**
 
   /organismes/**:departement**/**:type**.json
+  
+  > example: [https://sgmap.github.io/annuaire/organismes/14/maison_handicapees.json](https://sgmap.github.io/annuaire/organismes/14/maison_handicapees.json)
 
 * **Methode:**
 
