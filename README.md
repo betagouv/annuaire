@@ -1,9 +1,9 @@
 FORMAT: 1A
-HOST: https://sgmap.github.io/annuaire/
+HOST: http://annuaire.beta.gouv.fr
 
 # Annuaire de l'administration
 
-Plus de 60 000 guichets publics locaux (mairies, organismes sociaux, services de l'état, etc.). Elle fournit leurs coordonnées (adresses, téléphones, site internet, horaires d'ouverture, coordonnées de géolocalisation)
+Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes sociaux, services de l'état, etc.). Elle fournit leurs coordonnées (adresses, téléphones, site internet, horaires d'ouverture, coordonnées de géolocalisation).
 > Le contenu de cet annuaire est généré automatiquement à partir des données de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/),
 > par le script d'import disponible sur [github.com/sgmap/annuaire-import](https://github.com/sgmap/annuaire-import)
 
