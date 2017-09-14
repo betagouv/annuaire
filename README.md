@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://annuaire.beta.gouv.fr
+HOST: https://sgmap.github.io/annuaire
 
 # Annuaire de l'administration
 
