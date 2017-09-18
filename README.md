@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: https://sgmap.github.io/annuaire
+HOST: https://raw.githubusercontent.com/sgmap/annuaire/master
 
 # Annuaire de l'administration
 
