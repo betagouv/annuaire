@@ -23,10 +23,9 @@ Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes so
 
 3. La documentation de l'API est alors disponible sur `http://localhost:4000`  `http://localhost:4000/v1/organismes/13/maison_handicapees`
 
-
 ## Liste des organismes [/organismes/{departement}/{type}]
 
-### Trouver un organisme par département et par type [GET]
+### Trouver des organismes par département et par type [GET]
 
 + Parameters
 
@@ -129,7 +128,6 @@ Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes so
             + `paris_mairie` - "Mairie de Paris, Hôtel de Ville"
             + `paris_mairie_arrondissement` - "Mairie de Paris, mairie d'arrondissement"
             + `mairie_com` - Mairie des collectivités d'outre-mer
-            + `,` - Source : coordination des données locales réunissant les services suivants : Dila / SP / 393
             + `maison_centrale` - Maison centrale
             + `maison_arret` - Maison d'arrêt
             + `mjd` - Maison de justice et du droit
