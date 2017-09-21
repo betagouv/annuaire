@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: https://raw.githubusercontent.com/sgmap/annuaire/master/v1
+HOST: https://etablissements-public.api.gouv.fr/annuaire/v1
 
 # Annuaire de l'administration
 
