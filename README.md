@@ -7,7 +7,24 @@ Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes so
 > Le contenu de cet annuaire est généré automatiquement à partir des données de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/),
 > par le script d'import disponible sur [github.com/sgmap/annuaire-import](https://github.com/sgmap/annuaire-import)
 
-## Liste des organismes [/organismes/{departement}/{type}.json]
+## Lancement de l'API sur docker
+
+[Docker](https://www.docker.com/) est un logiciel libre qui automatise le déploiement d'applications dans des conteneurs logiciels.
+
+1. Construire le conteneur docker de l'API
+```bash
+  docker build -t annuaire .
+```
+
+2. Lancer le conteneur
+```bash
+  docker run -p 4000:80 annuaire  
+```
+
+3. La documentation de l'API est alors disponible sur `http://localhost:4000`  `http://localhost:4000/organismes/13/maison_handicapees`
+
+
+## Liste des organismes [/organismes/{departement}/{type}]
 
 ### Trouver un organisme par département et par type [GET]
 
