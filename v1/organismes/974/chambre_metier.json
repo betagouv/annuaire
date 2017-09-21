@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465401,
+          -20.890414
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-97411-01",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2017-07-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Champ Fleuri",
+              "42 rue Jean-Cocteau"
+            ],
+            "CodePostal": "97465",
+            "NomCommune": "Saint-Denis Cedex",
+            "Localisation": {
+              "Latitude": "-20.890414",
+              "Longitude": "55.465401",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "BP 10034",
+            "CodePostal": "97491",
+            "NomCommune": "Sainte-Clotilde Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 21 04 35",
+          "Télécopie": "+262 2 62 21 68 33",
+          "Email": "cdm@cma-reunion.fr",
+          "Url": "http://www.artisanat974.re"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "15:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

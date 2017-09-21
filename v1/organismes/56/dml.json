@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0104936,
+          47.6689126
+        ]
+      },
+      "properties": {
+        "id": "dml-56007-01",
+        "codeInsee": "56007",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Morbihan (Auray)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Zone Porte Océane 2",
+            "34 rue du Danemark",
+            "CS 30630"
+          ],
+          "CodePostal": "56404",
+          "NomCommune": "Auray Cedex",
+          "Localisation": {
+            "Latitude": "47.6689126",
+            "Longitude": "-3.0104936",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 24 01 43",
+          "Télécopie": "02 97 50 72 66",
+          "Email": "dml.secay@morbihan.gouv.fr",
+          "Url": "http://www.morbihan.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Service aménagement mer et littoral fermé le lundi après-midi."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Service activité maritime fermé au public l’après-midi."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3629305,
+          47.7312609
+        ]
+      },
+      "properties": {
+        "id": "dml-56121-01",
+        "codeInsee": "56121",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Morbihan (Lorient)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "88 avenue de la Perrière",
+            "CS 92143"
+          ],
+          "CodePostal": "56321",
+          "NomCommune": "Lorient Cedex",
+          "Localisation": {
+            "Latitude": "47.7312609",
+            "Longitude": "-3.3629305",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 37 16 22",
+          "Télécopie": "02 97 83 97 48",
+          "Email": "ddtm-dml@morbihan.gouv.fr",
+          "Url": "http://developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

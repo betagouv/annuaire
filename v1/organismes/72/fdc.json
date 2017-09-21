@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0728609,
+          47.930038
+        ]
+      },
+      "properties": {
+        "id": "fdc-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Grand-Courtu",
+          "CodePostal": "72210",
+          "NomCommune": "Voivres-lès-le-Mans",
+          "Localisation": {
+            "Latitude": "47.930038",
+            "Longitude": "0.0728609",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 82 21 46",
+          "Télécopie": "02 43 82 68 23",
+          "Email": "fd.chasseurs.72@wanadoo.fr",
+          "Url": "http://frc-paysdelaloire.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

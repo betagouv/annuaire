@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1873922348,
+          43.7129249573
+        ]
+      },
+      "properties": {
+        "id": "prefecture-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2014-05-07",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "CADAM",
+              "147, route de Grenoble"
+            ],
+            "CodePostal": "06000",
+            "NomCommune": "Nice",
+            "Localisation": {
+              "Latitude": "43.7129249573",
+              "Longitude": "7.1873922348",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Services de l'État dans les Alpes-Maritimes",
+              "Préfecture",
+              "CADAM",
+              "147, route de Grenoble"
+            ],
+            "CodePostal": "06286",
+            "NomCommune": "Nice Cedex 3"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 72 20 00",
+          "Email": "http://www.pref06.fr/depot/contact/?table=contact_bacc",
+          "Url": "http://www.alpes-maritimes.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "14:30:00"
+            },
+            "Note": "Les horaires ci-dessus sont ceux de l'accueil général. Pour consulter les horaires de chaque service, consulter cette page http://www.alpes-maritimes.gouv.fr/Outils/Horaires-et-coordonnees/Horaires-et-coordonnees-de-la-prefecture"
+          }
+        }
+      }
+    }
+  ]
+}

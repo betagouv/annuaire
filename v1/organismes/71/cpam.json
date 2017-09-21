@@ -1,0 +1,781 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8357478,
+          46.3127276
+        ]
+      },
+      "properties": {
+        "id": "cpam-71270-02",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - siège de Mâcon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "CodePostal": "71022",
+          "NomCommune": "Macon Cedex 9",
+          "Localisation": {
+            "Latitude": "46.3127276",
+            "Longitude": "4.8357478",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.118417,
+          46.452052
+        ]
+      },
+      "properties": {
+        "id": "cpam-71342-01",
+        "codeInsee": "71342",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Paray-le-Monial",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Place de l'Europe",
+            "CodePostal": "71604",
+            "NomCommune": "Paray-le-Monial",
+            "Localisation": {
+              "Latitude": "46.452052",
+              "Longitude": "4.118417",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9114174,
+          46.5634452
+        ]
+      },
+      "properties": {
+        "id": "cpam-71543-01",
+        "codeInsee": "71543",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Tournus",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "1 rue Chanay",
+              "Espace Chanay"
+            ],
+            "CodePostal": "71700",
+            "NomCommune": "Tournus",
+            "Localisation": {
+              "Latitude": "46.5634452",
+              "Longitude": "4.9114174",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.298756,
+          46.953726
+        ]
+      },
+      "properties": {
+        "id": "cpam-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil d'Autun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue des Cités",
+            "CodePostal": "71400",
+            "NomCommune": "Autun",
+            "Localisation": {
+              "Latitude": "46.953726",
+              "Longitude": "4.298756",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.055129,
+          46.602196
+        ]
+      },
+      "properties": {
+        "id": "cpam-71230-01",
+        "codeInsee": "71230",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Gueugnon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Place Général-de-Gaulle",
+              "Maison accompagnement social"
+            ],
+            "CodePostal": "71130",
+            "NomCommune": "Gueugnon",
+            "Localisation": {
+              "Latitude": "46.602196",
+              "Longitude": "4.055129",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.230786,
+          46.624029
+        ]
+      },
+      "properties": {
+        "id": "cpam-71263-01",
+        "codeInsee": "71263",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Louhans",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Avenue Fernand-Point",
+            "CodePostal": "71502",
+            "NomCommune": "Louhans",
+            "Localisation": {
+              "Latitude": "46.624029",
+              "Longitude": "5.230786",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362979,
+          46.67413
+        ]
+      },
+      "properties": {
+        "id": "cpam-71306-01",
+        "codeInsee": "71306",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Montceau-les-Mines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "18 boulevard Maréchal-de-Lattre-de-Tassigny",
+            "CodePostal": "71305",
+            "NomCommune": "Montceau-les-Mines",
+            "Localisation": {
+              "Latitude": "46.67413",
+              "Longitude": "4.362979",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9864378,
+          46.4788828
+        ]
+      },
+      "properties": {
+        "id": "cpam-71176-01",
+        "codeInsee": "71176",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Digoin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "91 rue Bartoli",
+            "CodePostal": "71160",
+            "NomCommune": "Digoin",
+            "Localisation": {
+              "Latitude": "46.4788828",
+              "Longitude": "3.9864378",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Adresse provisoire : rue de la Maternité à Digoin. Durant les travaux de rénovation de l'accueil rue Bartoli, la CPAM vous accueille provisoirement rue de la Maternité."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Adresse provisoire : rue de la Maternité à Digoin. Durant les travaux de rénovation de l'accueil rue Bartoli, la CPAM vous accueille provisoirement rue de la Maternité."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Adresse provisoire : rue de la Maternité à Digoin. Durant les travaux de rénovation de l'accueil rue Bartoli, la CPAM vous accueille provisoirement rue de la Maternité."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.846175,
+          46.785045
+        ]
+      },
+      "properties": {
+        "id": "cpam-71076-01",
+        "codeInsee": "71076",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil de Chalon-sur-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "24 rue Jean-Moulin",
+            "CodePostal": "71332",
+            "NomCommune": "Chalon-sur-Saône",
+            "Localisation": {
+              "Latitude": "46.785045",
+              "Longitude": "4.846175",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4375657,
+          46.8015187
+        ]
+      },
+      "properties": {
+        "id": "cpam-71153-01",
+        "codeInsee": "71153",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Saône-et-Loire - accueil du Creusot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "4 avenue de Verdun",
+            "CodePostal": "71206",
+            "NomCommune": "Le Creusot",
+            "Localisation": {
+              "Latitude": "46.8015187",
+              "Longitude": "4.4375657",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse primaire d'assurance maladie de Saône-et-Loire",
+            "CodePostal": "71022",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Adresse provisoire : 5 avenue François Mitterrand, à l'Arche au Creusot, durant les travaux de rénovation de l'agence. Horaires modifiés : accueil fermé de 12h30 à 13h30 les lundis, mardis, mercredis et vendredis pendant cette période."
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Adresse provisoire : 5 avenue François Mitterrand, à l'Arche au Creusot, durant les travaux de rénovation de l'agence. Horaires modifiés : accueil fermé de 12h30 à 13h30 les lundis, mardis, mercredis et vendredis pendant cette période."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2176603,
+          48.8970987
+        ]
+      },
+      "properties": {
+        "codeInsee": "92050",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-92050-01",
+        "idPresta": "4cac9e6a293594648a0017be",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Nanterre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "179-191 avenue Joliot Curie",
+          "CodePostal": "92020",
+          "NomCommune": "NANTERRE CEDEX",
+          "Localisation": {
+            "Latitude": "48.8970987",
+            "Longitude": "2.2176603",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 40 97 10 10",
+          "Télécopie": "+33 1 47 24 31 61",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

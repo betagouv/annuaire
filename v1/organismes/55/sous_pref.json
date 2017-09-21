@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3846155,
+          49.1631098
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-55545-01",
+        "codeInsee": "55545",
+        "dateMiseAJour": "2014-05-21",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Verdun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, place Saint-Paul",
+            "BP 723"
+          ],
+          "CodePostal": "55107",
+          "NomCommune": "Verdun Cedex",
+          "Localisation": {
+            "Latitude": "49.1631098",
+            "Longitude": "5.3846155",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 84 86 00",
+          "Télécopie": "+33 3 29 84 77 25",
+          "Email": "sous-prefecture-de-verdun@meuse.gouv.fr",
+          "Url": "http://www.meuse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Uniquement sur rendez-vous l'après-midi de 13h30 à 17h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5899034,
+          48.7623836
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-55122-01",
+        "codeInsee": "55122",
+        "dateMiseAJour": "2013-01-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Commercy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22, avenue Stanislas",
+            "BP 60087"
+          ],
+          "CodePostal": "55205",
+          "NomCommune": "Commercy Cedex",
+          "Localisation": {
+            "Latitude": "48.7623836",
+            "Longitude": "5.5899034",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 91 11 52",
+          "Télécopie": "+33 3 29 91 42 20",
+          "Email": "sp-commercy@meuse.gouv.fr",
+          "Url": "http://www.meuse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Uniquement sur rendez-vous l'après-midi de 13h30 à 17h pour un accueil personnalisé."
+          }
+        }
+      }
+    }
+  ]
+}

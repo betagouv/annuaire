@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5627457,
+          47.8079926
+        ]
+      },
+      "properties": {
+        "id": "anah-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Monge",
+            "BP 79"
+          ],
+          "CodePostal": "89011",
+          "NomCommune": "Auxerre Cedex",
+          "Localisation": {
+            "Latitude": "47.8079926",
+            "Longitude": "3.5627457",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 48 41 40",
+          "Email": "ddt-anah@yonne.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "11:45:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

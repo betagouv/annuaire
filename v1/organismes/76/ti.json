@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.139595,
+          49.498363
+        ]
+      },
+      "properties": {
+        "codeInsee": "76351",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-76351-01",
+        "idPresta": "4cac9ed7293594648a00ee56",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance du Havre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue du 129ème RI",
+            "CS 40007"
+          ],
+          "CodePostal": "76083",
+          "NomCommune": "LE HAVRE CEDEX",
+          "Localisation": {
+            "Latitude": "49.498363",
+            "Longitude": "0.139595",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 19 73 00",
+          "Télécopie": "+33 2 35 21 48 79",
+          "Email": "mailto:ti-le-havre@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083359,
+          49.924564
+        ]
+      },
+      "properties": {
+        "codeInsee": "76217",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-76217-01",
+        "idPresta": "4cac9ed7293594648a00ee55",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Dieppe",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice- Square Carnot",
+            "BP 189"
+          ],
+          "CodePostal": "76206",
+          "NomCommune": "DIEPPE CEDEX",
+          "Localisation": {
+            "Latitude": "49.924564",
+            "Longitude": "1.083359",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 84 13 08",
+          "Télécopie": "+33 2 32 90 98 27",
+          "Email": "mailto:ti-dieppe@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.092297,
+          49.442034
+        ]
+      },
+      "properties": {
+        "codeInsee": "76540",
+        "dateMiseAJour": "2015-12-04",
+        "id": "ti-76540-01",
+        "idPresta": "4cac9e6a293594648a001808",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Rouen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20-22 rue de Crosne",
+            "CS 41421"
+          ],
+          "CodePostal": "76037",
+          "NomCommune": "ROUEN CEDEX",
+          "Localisation": {
+            "Latitude": "49.442034",
+            "Longitude": "1.092297",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 76 27 85 60",
+          "Télécopie": "+33 2 76 27 86 00",
+          "Email": "mailto:ti-rouen@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

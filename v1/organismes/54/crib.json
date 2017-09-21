@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2149487,
+          48.6975274
+        ]
+      },
+      "properties": {
+        "id": "crib-54526-01",
+        "codeInsee": "54526",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité régional olympique et sportif de Lorraine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison régionale des sports",
+            "13 rue Jean-Moulin"
+          ],
+          "CodePostal": "54510",
+          "NomCommune": "Tomblaine",
+          "Localisation": {
+            "Latitude": "48.6975274",
+            "Longitude": "6.2149487",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 83 18 87 02",
+          "Email": "crosl@lorraine-sport.com",
+          "Url": "http://lorraine.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

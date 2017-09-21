@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1238424,
+          45.9177981
+        ]
+      },
+      "properties": {
+        "id": "crib-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Sport emploi animation de Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale des sports",
+            "97 A avenue de Genève"
+          ],
+          "CodePostal": "74000",
+          "NomCommune": "Annecy",
+          "Localisation": {
+            "Latitude": "45.9177981",
+            "Longitude": "6.1238424",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 57 76 63",
+          "Email": "infos@sea74.com",
+          "Url": "http://www.sea74.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

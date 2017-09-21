@@ -1,0 +1,354 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9725961,
+          47.2222103
+        ]
+      },
+      "properties": {
+        "id": "caf-25056-02",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Doubs - accueil de Besançon - Planoise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "9 rue Picasso"
+            ],
+            "CodePostal": "25000",
+            "NomCommune": "Besançon",
+            "Localisation": {
+              "Latitude": "47.2222103",
+              "Longitude": "5.9725961",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Doubs",
+              "2 rue Denis-Papin"
+            ],
+            "CodePostal": "25037",
+            "NomCommune": "Besançon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 25 30"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h. Borne interactive accessible du lundi au vendredi de 8h30 à 12h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99457,
+          47.2440086
+        ]
+      },
+      "properties": {
+        "id": "caf-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Doubs - siège de Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Denis-Papin",
+          "CodePostal": "25037",
+          "NomCommune": "Besancon Cedex",
+          "Localisation": {
+            "Latitude": "47.2440086",
+            "Longitude": "5.99457",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 25 30"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous. L'espace libre service est accessible du lundi au vendredi de 8h30 à 16h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798466,
+          47.510356
+        ]
+      },
+      "properties": {
+        "id": "caf-25388-01",
+        "codeInsee": "25388",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Doubs - accueil de Montbéliard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "3 rue Léon-Blum",
+            "CodePostal": "25200",
+            "NomCommune": "Montbéliard",
+            "Localisation": {
+              "Latitude": "47.510356",
+              "Longitude": "6.798466",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Doubs",
+              "2 rue Denis-Papin"
+            ],
+            "CodePostal": "25037",
+            "NomCommune": "Besançon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 25 30"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Il s'agit uniquement d'une borne interactive, pas d'accueil physique."
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Il s'agit uniquement d'une borne interactive, pas d'accueil physique."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.840615,
+          47.481724
+        ]
+      },
+      "properties": {
+        "id": "caf-25031-01",
+        "codeInsee": "25031",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Doubs - accueil d'Audincourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services publics",
+              "Cité administrative"
+            ],
+            "CodePostal": "25400",
+            "NomCommune": "Audincourt",
+            "Localisation": {
+              "Latitude": "47.481724",
+              "Longitude": "6.840615",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Doubs",
+              "2 rue Denis-Papin"
+            ],
+            "CodePostal": "25037",
+            "NomCommune": "Besançon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 25 30"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3506569,
+          46.9066584
+        ]
+      },
+      "properties": {
+        "id": "caf-25462-01",
+        "codeInsee": "25462",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Doubs - accueil de Pontarlier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 rue des Capucins",
+            "CodePostal": "25300",
+            "NomCommune": "Pontarlier",
+            "Localisation": {
+              "Latitude": "46.9066584",
+              "Longitude": "6.3506569",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "accueil adapté pour les personnes malvoyantes et équipé d’une boucle magnétique pour les personnes malentendantes"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Doubs",
+              "2 rue Denis-Papin"
+            ],
+            "CodePostal": "25037",
+            "NomCommune": "Besançon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 25 30"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil supplémentaire pour le RSA uniquement sur rendez-vous les mardis et jeudi de 13h30 à 16h30. Borne interactive disponible à l'extérieur 7j/7 et 24h/24. Espace libre service ouvert du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

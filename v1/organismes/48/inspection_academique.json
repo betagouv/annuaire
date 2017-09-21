@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.50030994415,
+          44.5199012756
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Lozère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue de Chanteronne",
+            "BP 22"
+          ],
+          "CodePostal": "48001",
+          "NomCommune": "Mende Cedex",
+          "Localisation": {
+            "Latitude": "44.5199012756",
+            "Longitude": "3.50030994415",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 49 51 00",
+          "Télécopie": "04 66 49 15 81",
+          "Email": "ce.ia48@ac-montpellier.fr",
+          "Url": "http://www.ac-montpellier.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

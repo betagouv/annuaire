@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.045469,
+          47.323411
+        ]
+      },
+      "properties": {
+        "codeInsee": "21231",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-21231-01",
+        "idPresta": "4cac9e69293594648a0016e1",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Dijon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "13 boulevard Clémenceau BP53"
+          ],
+          "CodePostal": "21072",
+          "NomCommune": "DIJON CEDEX",
+          "Localisation": {
+            "Latitude": "47.323411",
+            "Longitude": "5.045469",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 70 45 45",
+          "Télécopie": "+33 3 80 70 45 50",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

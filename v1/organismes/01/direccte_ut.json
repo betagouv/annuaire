@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2255,
+          46.2048
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-01053-01",
+        "codeInsee": "01053",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quartier Bourg Centre",
+            "34 avenue des Belges",
+            "CS 70417"
+          ],
+          "CodePostal": "01012",
+          "NomCommune": "Bourg-en-Bresse Cedex",
+          "Localisation": {
+            "Latitude": "46.2048",
+            "Longitude": "5.2255",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 45 91 39",
+          "Télécopie": "04 74 45 33 52",
+          "Email": "ara-ud01.direction@direccte.gouv.fr",
+          "Url": "http://www.auvergne-rhone-alpes.direccte.gouv.frain"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:15:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

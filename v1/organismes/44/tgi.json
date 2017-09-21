@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.214212,
+          47.278845
+        ]
+      },
+      "properties": {
+        "codeInsee": "44184",
+        "dateMiseAJour": "2014-06-09",
+        "id": "tgi-44184-01",
+        "idPresta": "4cac9e6a293594648a00179c",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saint-Nazaire",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "77 rue Albert de Mun",
+            "BP 263"
+          ],
+          "CodePostal": "44606",
+          "NomCommune": "ST NAZAIRE CEDEX",
+          "Localisation": {
+            "Latitude": "47.278845",
+            "Longitude": "-2.214212",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 72 27 30 30",
+          "Télécopie": "+33 2 72 27 30 50",
+          "Email": "mailto:tgi-st-nazaire@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "de 9 h à 12 h et de 13 h 30 à 17 h"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5627272,
+          47.2082993
+        ]
+      },
+      "properties": {
+        "codeInsee": "44109",
+        "dateMiseAJour": "2014-09-01",
+        "id": "tgi-44109-01",
+        "idPresta": "4cac9e6a293594648a00179b",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Nantes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 quai François Mitterrand",
+          "CodePostal": "44921",
+          "NomCommune": "NANTES CEDEX 9",
+          "Localisation": {
+            "Latitude": "47.2082993",
+            "Longitude": "-1.5627272",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 17 95 00",
+          "Télécopie": "+33 2 51 17 98 31",
+          "Email": "mailto:tgi-nantes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876989,
+          45.74574
+        ]
+      },
+      "properties": {
+        "id": "crib-69383-01",
+        "codeInsee": "69383",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Prosport 69",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "46 rue du Professeur-Rochaix",
+          "CodePostal": "69003",
+          "NomCommune": "Lyon",
+          "Localisation": {
+            "Latitude": "45.74574",
+            "Longitude": "4.876989",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 95 35 48",
+          "Email": "crib69@prosport69.com",
+          "Url": "http://www.prosport69.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

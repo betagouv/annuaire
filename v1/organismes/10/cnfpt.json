@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0632189,
+          48.3008707
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-10387-01",
+        "codeInsee": "10387",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Champagne-Ardenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 esplanade Lucien-Péchart",
+            "CS 83046"
+          ],
+          "CodePostal": "10012",
+          "NomCommune": "Troyes Cedex",
+          "Localisation": {
+            "Latitude": "48.3008707",
+            "Longitude": "4.0632189",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 83 10 60",
+          "Télécopie": "+33 3 25 83 10 61",
+          "Email": "secretariat.drca@cnfpt.fr",
+          "Url": "http://www.cfnpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

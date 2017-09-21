@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3113877,
+          47.2389383
+        ]
+      },
+      "properties": {
+        "id": "fdc-25278-01",
+        "codeInsee": "25278",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Doubs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue Châtelard",
+          "CodePostal": "25360",
+          "NomCommune": "Gonsans",
+          "Localisation": {
+            "Latitude": "47.2389383",
+            "Longitude": "6.3113877",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 61 23 87",
+          "Télécopie": "03 81 61 21 13",
+          "Email": "fdc25@fdc25.com",
+          "Url": "http://www.fdc25.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

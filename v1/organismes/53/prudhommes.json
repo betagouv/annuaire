@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.796251701384,
+          48.0707803022
+        ]
+      },
+      "properties": {
+        "codeInsee": "53130",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-53130-01",
+        "idPresta": "4cac9e5f293594648a00028e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Laval",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 allée de la Chartrie",
+          "CodePostal": "53000",
+          "NomCommune": "LAVAL",
+          "Localisation": {
+            "Latitude": "48.0707803022",
+            "Longitude": "-0.796251701384",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 69 24 86",
+          "Télécopie": "+33 2 43 68 26 07",
+          "Email": "mailto:cph-laval@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

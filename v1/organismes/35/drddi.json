@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.675708,
+          48.113475
+        ]
+      },
+      "properties": {
+        "id": "drddi-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Bretagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 cours des Alliés",
+            "CS 11205"
+          ],
+          "CodePostal": "35012",
+          "NomCommune": "Rennes Cedex",
+          "Localisation": {
+            "Latitude": "48.113475",
+            "Longitude": "-1.675708",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 51 39",
+          "Télécopie": "02 99 31 89 64",
+          "Email": "dr-bretagne@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

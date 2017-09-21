@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.483617,
+          44.857095
+        ]
+      },
+      "properties": {
+        "codeInsee": "24037",
+        "dateMiseAJour": "2016-05-06",
+        "id": "prudhommes-24037-01",
+        "idPresta": "4cac9ed6293594648a00ed60",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bergerac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la République",
+          "CodePostal": "24100",
+          "NomCommune": "BERGERAC",
+          "Localisation": {
+            "Latitude": "44.857095",
+            "Longitude": "0.483617",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 57 68 25",
+          "Télécopie": "+33 5 53 24 69 66",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.719095,
+          45.182622
+        ]
+      },
+      "properties": {
+        "codeInsee": "24322",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-24322-01",
+        "idPresta": "4cac9e86293594648a004c80",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Périgueux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 Bis Cours Fénelon",
+          "CodePostal": "24019",
+          "NomCommune": "PERIGUEUX CEDEX",
+          "Localisation": {
+            "Latitude": "45.182622",
+            "Longitude": "0.719095",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 08 64 43",
+          "Télécopie": "+33 5 53 08 02 67",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

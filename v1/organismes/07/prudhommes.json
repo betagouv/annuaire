@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.673792,
+          45.243763
+        ]
+      },
+      "properties": {
+        "codeInsee": "07010",
+        "dateMiseAJour": "2014-07-07",
+        "id": "prudhommes-07010-01",
+        "idPresta": "4cac9e5f293594648a0001f7",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Annonay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 boulevard de la République",
+          "CodePostal": "07100",
+          "NomCommune": "ANNONAY",
+          "Localisation": {
+            "Latitude": "45.243763",
+            "Longitude": "4.673792",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 33 41 81",
+          "Télécopie": "+33 4 75 32 26 83",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389973,
+          44.620696
+        ]
+      },
+      "properties": {
+        "codeInsee": "07019",
+        "dateMiseAJour": "2016-05-20",
+        "id": "prudhommes-07019-01",
+        "idPresta": "4cac9e5f293594648a0001f8",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Aubenas",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue Georges Couderc",
+          "CodePostal": "07200",
+          "NomCommune": "AUBENAS",
+          "Localisation": {
+            "Latitude": "44.620696",
+            "Longitude": "4.389973",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 93 51 84",
+          "Télécopie": "+33 4 75 93 66 92",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.051532,
+          43.709466
+        ]
+      },
+      "properties": {
+        "codeInsee": "40088",
+        "dateMiseAJour": "2016-09-30",
+        "id": "tgi-40088-01",
+        "idPresta": "4cac9e61293594648a00057d",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Dax",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue des Fusillés",
+            "BP 355"
+          ],
+          "CodePostal": "40107",
+          "NomCommune": "DAX CEDEX",
+          "Localisation": {
+            "Latitude": "43.709466",
+            "Longitude": "-1.051532",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 24 26 34 00",
+          "Télécopie": "+33 5 58 74 60 71",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.501646,
+          43.893023
+        ]
+      },
+      "properties": {
+        "codeInsee": "40192",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-40192-01",
+        "idPresta": "4cac9e61293594648a00057e",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Mont-de-Marsan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 avenue du 8 mai 1945",
+            "BP 315"
+          ],
+          "CodePostal": "40011",
+          "NomCommune": "MONT DE MARSAN CEDEX",
+          "Localisation": {
+            "Latitude": "43.893023",
+            "Longitude": "-0.501646",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 58 85 41 85",
+          "Télécopie": "+33 5 58 06 00 65",
+          "Url": "http://www.ca-pau.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

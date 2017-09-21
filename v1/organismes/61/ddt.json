@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09335,
+          48.431596
+        ]
+      },
+      "properties": {
+        "id": "ddt-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "52, place du Général-Bonet",
+            "BP 537"
+          ],
+          "CodePostal": "61013",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.431596",
+            "Longitude": "0.09335",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 32 50 50",
+          "Télécopie": "+33 2 33 32 51 19",
+          "Email": "ddt@orne.gouv.fr",
+          "Url": "http://www.orne.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

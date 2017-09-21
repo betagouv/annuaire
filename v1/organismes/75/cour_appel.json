@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3427896,
+          48.8555634
+        ]
+      },
+      "properties": {
+        "codeInsee": "75101",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-75101-01",
+        "idPresta": "4cac9e60293594648a00045d",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Paris",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "34 quai des Orfèvres",
+          "CodePostal": "75055",
+          "NomCommune": "PARIS CEDEX 01",
+          "Localisation": {
+            "Latitude": "48.8555634",
+            "Longitude": "2.3427896",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 44 32 52 52",
+          "Télécopie": "+33 1 44 32 78 70",
+          "Url": "http://www.ca-paris.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

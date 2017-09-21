@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1153589,
+          47.6321657
+        ]
+      },
+      "properties": {
+        "id": "fdapp-70513-01",
+        "codeInsee": "70513",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Haute-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 avenue du Breuil",
+          "CodePostal": "70000",
+          "NomCommune": "Vaivre-et-Montoille",
+          "Localisation": {
+            "Latitude": "47.6321657",
+            "Longitude": "6.1153589",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 76 51 41",
+          "Télécopie": "03 84 75 75 27",
+          "Email": "federation.peche.70@wanadoo.fr",
+          "Url": "http://www.federationpeche.fr70"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

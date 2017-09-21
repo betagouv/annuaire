@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389615,
+          44.617045
+        ]
+      },
+      "properties": {
+        "codeInsee": "07019",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-07019-01",
+        "idPresta": "4cac9ed7293594648a00ee2b",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Aubenas",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 rue Georges Couderc",
+            "BP 40001"
+          ],
+          "CodePostal": "07203",
+          "NomCommune": "AUBENAS CEDEX",
+          "Localisation": {
+            "Latitude": "44.617045",
+            "Longitude": "4.389615",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 39 11 31",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6737007,
+          45.2439614
+        ]
+      },
+      "properties": {
+        "codeInsee": "07010",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-07010-01",
+        "idPresta": "4cac9e61293594648a000612",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Annonay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 boulevard de la République",
+          "CodePostal": "07100",
+          "NomCommune": "ANNONAY",
+          "Localisation": {
+            "Latitude": "45.2439614",
+            "Longitude": "4.6737007",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 67 73 13",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.601421,
+          44.735415
+        ]
+      },
+      "properties": {
+        "codeInsee": "07186",
+        "dateMiseAJour": "2015-09-11",
+        "id": "ti-07186-01",
+        "idPresta": "4cac9e6a293594648a0017d0",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Privas",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 avenue de l'Europe Unie",
+            "BP 706"
+          ],
+          "CodePostal": "07006",
+          "NomCommune": "PRIVAS CEDEX",
+          "Localisation": {
+            "Latitude": "44.735415",
+            "Longitude": "4.601421",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 66 05 20",
+          "Télécopie": "+33 4 75 64 17 28",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

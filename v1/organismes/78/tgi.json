@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.131783,
+          48.80352
+        ]
+      },
+      "properties": {
+        "codeInsee": "78646",
+        "dateMiseAJour": "2016-01-15",
+        "id": "tgi-78646-01",
+        "idPresta": "4cac9e87293594648a004cce",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Versailles",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5, place André-Mignot",
+          "CodePostal": "78011",
+          "NomCommune": "VERSAILLES CEDEX",
+          "Localisation": {
+            "Latitude": "48.80352",
+            "Longitude": "2.131783",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 39 07 39 07",
+          "Télécopie": "+33 1 39 07 39 02",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

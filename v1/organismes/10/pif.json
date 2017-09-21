@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0739198,
+          48.2970336
+        ]
+      },
+      "properties": {
+        "id": "pif-10387-01",
+        "codeInsee": "10387",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de Troyes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Alexandre-Israël",
+          "CodePostal": "10026",
+          "NomCommune": "Troyes Cedex",
+          "Localisation": {
+            "Latitude": "48.2970336",
+            "Longitude": "4.0739198",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 42 34 99",
+          "Email": "pointinfofamille@ville-troyes.fr"
+        },
+        "Commentaire": "Pas d'horaire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5275245,
+          48.3915816
+        ]
+      },
+      "properties": {
+        "id": "pif-10064-01",
+        "codeInsee": "10064",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de Brienne-le-Château",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de Loménie",
+          "CodePostal": "10500",
+          "NomCommune": "Brienne-le-Château",
+          "Localisation": {
+            "Latitude": "48.3915816",
+            "Longitude": "4.5275245",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 92 91 91",
+          "Email": "centresocial.brienne@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1411922,
+          48.5350529
+        ]
+      },
+      "properties": {
+        "id": "pif-10006-01",
+        "codeInsee": "10006",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille d'Arcis-sur-Aube",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "28 rue des Cordeliers",
+          "CodePostal": "10700",
+          "NomCommune": "Arcis-sur-Aube",
+          "Localisation": {
+            "Latitude": "48.5350529",
+            "Longitude": "4.1411922",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 37 06 03",
+          "Télécopie": "03 25 47 37 64",
+          "Email": "centre.social.arcis@cegetel.net"
+        },
+        "Commentaire": "Pas d'horaire"
+      }
+    }
+  ]
+}

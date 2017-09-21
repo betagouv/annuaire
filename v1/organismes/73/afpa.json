@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8880207,
+          45.5834703
+        ]
+      },
+      "properties": {
+        "id": "afpa-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Chambéry",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "81 avenue du Grand-Arietaz",
+          "CodePostal": "73000",
+          "NomCommune": "Chambéry",
+          "Localisation": {
+            "Latitude": "45.5834703",
+            "Longitude": "5.8880207",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Url": "http://www.rhone-alpes.afpa.fr"
+        },
+        "Commentaire": "Contacter l'accueil pour connaitre les horaires d'ouverture."
+      }
+    }
+  ]
+}

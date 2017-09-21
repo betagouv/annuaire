@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7822599411,
+          47.6484985352
+        ]
+      },
+      "properties": {
+        "id": "pmi-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Vannes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Service départemental du Morbihan",
+            "64 rue Anita-Conti",
+            "BP 20514"
+          ],
+          "CodePostal": "56035",
+          "NomCommune": "Vannes Cedex",
+          "Localisation": {
+            "Latitude": "47.6484985352",
+            "Longitude": "-2.7822599411",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 54 78 32",
+          "Télécopie": "02 97 54 74 12",
+          "Email": "contact@morbihan.fr",
+          "Url": "http://www.morbihan.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

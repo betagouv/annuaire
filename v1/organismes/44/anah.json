@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5762631,
+          47.2251042
+        ]
+      },
+      "properties": {
+        "id": "anah-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Délégation de la Loire-Atlantique",
+            "10 boulevard Gaston-Serpette",
+            "BP 53606"
+          ],
+          "CodePostal": "44036",
+          "NomCommune": "Nantes Cedex 1",
+          "Localisation": {
+            "Latitude": "47.2251042",
+            "Longitude": "-1.5762631",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 40 67 26 26",
+          "Email": "ddtm-sbl-logpr@loire-atlantique.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

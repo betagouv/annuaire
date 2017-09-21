@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84372997284,
+          45.7692985535
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-69386-01",
+        "codeInsee": "69386",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Auvergne-Rhône-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "58 avenue du Maréchal-Foch",
+          "CodePostal": "69453",
+          "NomCommune": "Lyon Cedex 6",
+          "Localisation": {
+            "Latitude": "45.7692985535",
+            "Longitude": "4.84372997284",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "par le garage"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 72 43 43 00",
+          "Télécopie": "04 72 43 43 01",
+          "Email": "artisanat@cma-lyon.fr",
+          "Url": "http://www.cma-lyon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil fermé entre 12h et 13h en juillet-août."
+          }
+        }
+      }
+    }
+  ]
+}

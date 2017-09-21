@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0185768,
+          47.2580469
+        ]
+      },
+      "properties": {
+        "id": "cidf-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d’information sur les droits des femmes et des familles (CIDFF) - Doubs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace associatif Simone-de-Beauvoir",
+            "14 rue Violet"
+          ],
+          "CodePostal": "25000",
+          "NomCommune": "Besançon",
+          "Localisation": {
+            "Latitude": "47.2580469",
+            "Longitude": "6.0185768",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 83 48 19",
+          "Télécopie": "+33 3 81 83 27 69",
+          "Email": "cidff.besancon@cidff-doubs.fr",
+          "Url": "http://www.infofemmes.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous le mercredi et vendredi après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

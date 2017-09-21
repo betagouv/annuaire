@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.355845,
+          44.014571
+        ]
+      },
+      "properties": {
+        "id": "anah-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2017-06-06",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Tarn-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 allée Mortarieu",
+            "Conseil départemental",
+            "Direction de la solidarité départementale",
+            "Service habitat et politiques du logement social"
+          ],
+          "CodePostal": "82000",
+          "NomCommune": "Montauban",
+          "Localisation": {
+            "Latitude": "44.014571",
+            "Longitude": "1.355845",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 91 82 45",
+          "Email": "anahcd82@ledepartement82.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        },
+        "Commentaire": "Pour les communes de Montauban, Albefeuille-Lagarde, Bressols, Corbarieu, Lamothe-Capdeville, Montbeton, Saint-Nauphary, Reyniès et Villemadedu il faut s'adresser à Grand Montauban Communauté d'Agglomération, Pôle Solidarité, Service Habitat, 285, avenue du Père Léonid Chrol 82000 Montauban, tél : 05 63 22 50 50"
+      }
+    }
+  ]
+}

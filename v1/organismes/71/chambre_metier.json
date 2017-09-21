@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8293192,
+          46.7919092
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-71076-01",
+        "codeInsee": "71076",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Bourgogne-Franche-Comté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "185 avenue Boucicaut",
+            "BP 10052"
+          ],
+          "CodePostal": "71103",
+          "NomCommune": "Chalon-sur-Saône Cedex",
+          "Localisation": {
+            "Latitude": "46.7919092",
+            "Longitude": "4.8293192",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 41 14 41",
+          "Télécopie": "03 85 41 42 41",
+          "Email": "accueil-s71@artisanat-bourgogne.fr",
+          "Url": "http://www.artisanat-bourgogne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6825249,
+          47.3900998
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2017-08-07",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Tours",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2, rue Chanoineau",
+          "CodePostal": "37922",
+          "NomCommune": "Tours Cedex 9",
+          "Localisation": {
+            "Latitude": "47.3900998",
+            "Longitude": "0.6825249",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 2 47 60 24 00"
+          },
+          "Télécopie": "+33 2 47 60 24 29",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Sur rendez-vous du Lundi au vendredi 9h à 12h et 13h30 à 17h au 02 47 60 24 07"
+          }
+        },
+        "Commentaire": "Échange de billets : service accessible de 9h à 12h"
+      }
+    }
+  ]
+}

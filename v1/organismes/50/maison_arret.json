@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623938,
+          49.637148
+        ]
+      },
+      "properties": {
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-02-01",
+        "id": "maison_arret-50129-01",
+        "idPresta": "4eb2632d2935944ef5000154",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Cherbourg",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue Vastel",
+            "BP 733"
+          ],
+          "CodePostal": "50107",
+          "NomCommune": "CHERBOURG OCTEVILLE CEDEX",
+          "Localisation": {
+            "Latitude": "49.637148",
+            "Longitude": "-1.623938",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 78 22 60",
+          "Télécopie": "+33 2 33 08 13 33",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442632,
+          49.0515
+        ]
+      },
+      "properties": {
+        "codeInsee": "50147",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-50147-01",
+        "idPresta": "4eb2632d2935944ef5000151",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Coutances",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue de la Verjusière",
+            "BP 702"
+          ],
+          "CodePostal": "50207",
+          "NomCommune": "COUTANCES CEDEX",
+          "Localisation": {
+            "Latitude": "49.0515",
+            "Longitude": "-1.442632",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 76 77 88",
+          "Télécopie": "+33 2 33 76 77 81",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

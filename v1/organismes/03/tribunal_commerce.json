@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6078132,
+          46.3398176
+        ]
+      },
+      "properties": {
+        "codeInsee": "03185",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-03185-01",
+        "idPresta": "4eb263262935944ef5000119",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Montluçon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "114 boulevard de Courtais",
+          "CodePostal": "03100",
+          "NomCommune": "MONTLUCON",
+          "Localisation": {
+            "Latitude": "46.3398176",
+            "Longitude": "2.6078132",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 05 05 40",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.450042,
+          46.135717
+        ]
+      },
+      "properties": {
+        "codeInsee": "03095",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-03095-01",
+        "idPresta": "4eb262982935944ef50000b9",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Cusset",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue du Bief",
+            "BP 60201"
+          ],
+          "CodePostal": "03306",
+          "NomCommune": "CUSSET CEDEX",
+          "Localisation": {
+            "Latitude": "46.135717",
+            "Longitude": "3.450042",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 98 39 13",
+          "Télécopie": "+33 4 70 31 32 15",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

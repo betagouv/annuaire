@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.886256,
+          43.604817
+        ]
+      },
+      "properties": {
+        "codeInsee": "34172",
+        "dateMiseAJour": "2016-10-28",
+        "id": "prudhommes-34172-01",
+        "idPresta": "4cac9ed6293594648a00ed66",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Montpellier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité judiciaire Méditerrannée",
+            "9 rue de Tarragone CS 90068"
+          ],
+          "CodePostal": "34040",
+          "NomCommune": "MONTPELLIER CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.604817",
+            "Longitude": "3.886256",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 08 32 00",
+          "Email": "mailto:cph-montpellier@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "de 8 h à 12 h et de 13 h 30 à 16 h 30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.645498,
+          43.378001
+        ]
+      },
+      "properties": {
+        "codeInsee": "34301",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-34301-01",
+        "idPresta": "4cac9e69293594648a0016e9",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Sète",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Plan Joseph Soulet",
+            "BP 144"
+          ],
+          "CodePostal": "34203",
+          "NomCommune": "SETE CEDEX",
+          "Localisation": {
+            "Latitude": "43.378001",
+            "Longitude": "3.645498",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 46 01 40",
+          "Télécopie": "+33 4 67 74 33 79",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226781,
+          43.335765
+        ]
+      },
+      "properties": {
+        "codeInsee": "34032",
+        "dateMiseAJour": "2016-08-26",
+        "id": "prudhommes-34032-01",
+        "idPresta": "4cac9e5f293594648a000254",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Béziers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "93 avenue du président Wilson",
+          "CodePostal": "34500",
+          "NomCommune": "BEZIERS",
+          "Localisation": {
+            "Latitude": "43.335765",
+            "Longitude": "3.226781",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 17 34 00",
+          "Télécopie": "+33 4 67 30 91 99",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

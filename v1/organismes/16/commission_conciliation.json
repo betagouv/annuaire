@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1562369,
+          45.648377
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-16015-01",
+        "codeInsee": "16015",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation -  Charente",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "43, rue Charles-Duroselle",
+            "CodePostal": "16016",
+            "NomCommune": "Angoulême",
+            "Localisation": {
+              "Latitude": "45.648377",
+              "Longitude": "0.1562369",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "7-9, rue de la Préfecture",
+              "CS 12302"
+            ],
+            "CodePostal": "16023",
+            "NomCommune": "Angoulême Cedex",
+            "Localisation": {
+              "Latitude": "45.6459411",
+              "Longitude": "0.156464",
+              "Précision": "6"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 17 17 38 41",
+          "Email": "jean-paul.thevenet@charente.gouv.fr",
+          "Url": "http://www.ddt.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

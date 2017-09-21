@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1467499733,
+          48.8058013916
+        ]
+      },
+      "properties": {
+        "id": "rectorat-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-06-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Academie de Versailles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 boulevard de Lesseps",
+          "CodePostal": "78017",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.8058013916",
+            "Longitude": "2.1467499733",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 30 83 44 44",
+          "Télécopie": "01 39 50 02 47",
+          "Email": "ce.communication@ac-versailles.fr",
+          "Url": "http://www.ac-versailles.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.721555,
+          49.760994
+        ]
+      },
+      "properties": {
+        "codeInsee": "08105",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-08105-01",
+        "idPresta": "4cac9e61293594648a0005e6",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Charleville-Mézières",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 Esplanade du Palais de Justice",
+            "BP 11"
+          ],
+          "CodePostal": "08011",
+          "NomCommune": "CHARLEVILLE MEZIERES CEDEX",
+          "Localisation": {
+            "Latitude": "49.760994",
+            "Longitude": "4.721555",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 24 57 69 00",
+          "Télécopie": "+33 3 24 57 69 60",
+          "Email": "mailto:tgi-charleville-mezieres@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

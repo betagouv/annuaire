@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.56752800941,
+          47.2145614624
+        ]
+      },
+      "properties": {
+        "id": "caa-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Nantes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 place de l'Édit-de-Nantes",
+            "BP 18529"
+          ],
+          "CodePostal": "44185",
+          "NomCommune": "Nantes Cedex 4",
+          "Localisation": {
+            "Latitude": "47.2145614624",
+            "Longitude": "-1.56752800941",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 51 84 77 77",
+          "Télécopie": "02 51 84 77 00",
+          "Email": "greffe.caa-nantes@juradm.fr",
+          "Url": "http://www.nantes.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

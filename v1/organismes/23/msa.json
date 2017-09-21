@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8834637,
+          46.1687541
+        ]
+      },
+      "properties": {
+        "id": "msa-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Guéret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "28 avenue d'Auvergne",
+            "CodePostal": "23000",
+            "NomCommune": "Guéret",
+            "Localisation": {
+              "Latitude": "46.1687541",
+              "Longitude": "1.8834637",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Nouvelle-Aquitaine",
+              "1 impasse Sainte-Claire"
+            ],
+            "CodePostal": "87041",
+            "NomCommune": "Limoges Cedex 1"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "05 44 00 04 04",
+          "Url": "http://www.msa-limousin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

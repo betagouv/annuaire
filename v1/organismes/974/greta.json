@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4912447,
+          -20.9029834
+        ]
+      },
+      "properties": {
+        "id": "greta-97411-02",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Local A",
+            "5 bis rue du Maine"
+          ],
+          "CodePostal": "97490",
+          "NomCommune": "Sainte-Clothilde",
+          "Localisation": {
+            "Latitude": "-20.9029834",
+            "Longitude": "55.4912447",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 92 26 00",
+          "Télécopie": "+262 2 62 92 26 10",
+          "Email": "cvaultier@greta-reunion.fr",
+          "Url": "http://www.ftlvreunion.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.782607,
+          43.833274
+        ]
+      },
+      "properties": {
+        "id": "crib-40192-04",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Sport objectif plus de Digne-Les-Bains",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue Arthur-Robert",
+          "CodePostal": "04100",
+          "NomCommune": "Manosque",
+          "Localisation": {
+            "Latitude": "43.833274",
+            "Longitude": "5.782607",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 75 24 47",
+          "Télécopie": "04 92 31 11 99",
+          "Email": "contact@objectifplus.org",
+          "Url": "http://www.alpes-haute-provence.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4861901,
+          43.8992057
+        ]
+      },
+      "properties": {
+        "id": "crib-40192-03",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport des Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "187 avenue du Maréchal-Juin",
+          "CodePostal": "40000",
+          "NomCommune": "Mont-de-Marsan",
+          "Localisation": {
+            "Latitude": "43.8992057",
+            "Longitude": "-0.4861901",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 75 72 94",
+          "Email": "landes@profession-sport-loisirs.fr",
+          "Url": "http://www.landes.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

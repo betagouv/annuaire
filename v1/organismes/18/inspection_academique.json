@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39743351936,
+          47.0804827666
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Condé",
+            "Bâtiment F",
+            "Rue du 95e-de-Ligne",
+            "BP 608"
+          ],
+          "CodePostal": "18016",
+          "NomCommune": "Bourges Cedex",
+          "Localisation": {
+            "Latitude": "47.0804827666",
+            "Longitude": "2.39743351936",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 36 08 20 00",
+          "Télécopie": "02 36 08 20 01",
+          "Email": "ce.ia18@ac-orleans-tours.fr",
+          "Url": "http://www.ac-orleans-tours.frdsden18"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

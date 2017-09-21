@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.281232,
+          43.711123
+        ]
+      },
+      "properties": {
+        "codeInsee": "06088",
+        "dateMiseAJour": "2017-07-24",
+        "id": "maison_arret-06088-01",
+        "idPresta": "4eb263342935944ef50001c7",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Nice",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 rue de la Gendarmerie",
+            "BP 1709"
+          ],
+          "CodePostal": "06012",
+          "NomCommune": "NICE CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.711123",
+            "Longitude": "7.281232",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 13 64 64",
+          "Télécopie": "+33 4 93 13 64 96",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.902581,
+          43.673638
+        ]
+      },
+      "properties": {
+        "codeInsee": "06069",
+        "dateMiseAJour": "2017-07-24",
+        "id": "maison_arret-06069-01",
+        "idPresta": "4eb263342935944ef50001cc",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Grasse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "55 route des Genêts",
+            "BP 44190"
+          ],
+          "CodePostal": "06137",
+          "NomCommune": "GRASSE CEDEX",
+          "Localisation": {
+            "Latitude": "43.673638",
+            "Longitude": "6.902581",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 40 36 70",
+          "Télécopie": "+33 4 93 40 36 75",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

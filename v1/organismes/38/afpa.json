@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6981625,
+          45.1353591
+        ]
+      },
+      "properties": {
+        "id": "afpa-38317-01",
+        "codeInsee": "38317",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Grenoble - Le Pont-de-Claix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "38 avenue Victor-Hugo",
+          "CodePostal": "38800",
+          "NomCommune": "Le Pont-de-Claix",
+          "Localisation": {
+            "Latitude": "45.1353591",
+            "Longitude": "5.6981625",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Url": "http://www.rhone-alpes.afpa.fr"
+        },
+        "Commentaire": "Contacter l'accueil pour connaitre les horaires d'ouverture."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49615001678,
+          44.5187988281
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Lozère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 avenue du Père-Coudrin",
+          "CodePostal": "48000",
+          "NomCommune": "Mende",
+          "Localisation": {
+            "Latitude": "44.5187988281",
+            "Longitude": "3.49615001678",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 49 60 70",
+          "Télécopie": "04 66 49 60 71",
+          "Email": "accueilmdph48@mdph48.fr",
+          "Url": "http://www.lozere.frla-mdph.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

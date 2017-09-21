@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0540045,
+          45.0480721
+        ]
+      },
+      "properties": {
+        "codeInsee": "26281",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-26281-01",
+        "idPresta": "51b08cdcb473e4147800134e",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Romans-sur-Isère",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 boulevard Gabriel Péri",
+          "CodePostal": "26100",
+          "NomCommune": "ROMANS SUR ISERE",
+          "Localisation": {
+            "Latitude": "45.0480721",
+            "Longitude": "5.0540045",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 70 68 00",
+          "Télécopie": "+33 4 75 70 68 01",
+          "Email": "mailto:mjd-romans-sur-isere@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

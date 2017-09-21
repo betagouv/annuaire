@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1529374,
+          43.637285
+        ]
+      },
+      "properties": {
+        "id": "onac-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Gers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CS 30368",
+            "4 avenue du Général-de-Gaulle",
+            "Caserne Lanne  – bâtiment 12 RDC - 4"
+          ],
+          "CodePostal": "32008",
+          "NomCommune": "Auch Cedex",
+          "Localisation": {
+            "Latitude": "43.637285",
+            "Longitude": "6.1529374",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 05 01 32",
+          "Email": "sec.sd32@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:32/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

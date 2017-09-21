@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61989,
+          49.564133
+        ]
+      },
+      "properties": {
+        "id": "ddpp-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pôle d'activités du Griffon",
+            "80, rue Pierre-Gilles-de-Gennes",
+            "BP 70047"
+          ],
+          "CodePostal": "02003",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.564133",
+            "Longitude": "3.61989",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 64 54 61 00",
+          "Télécopie": "+33 3 64 54 61 48",
+          "Email": "ddpp@aisne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

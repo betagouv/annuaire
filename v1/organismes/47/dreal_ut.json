@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6255291,
+          44.1941236
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2014-07-18",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Lot-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "935, avenue Jean-Bru",
+          "CodePostal": "47916",
+          "NomCommune": "Agen Cedex 9",
+          "Localisation": {
+            "Latitude": "44.1941236",
+            "Longitude": "0.6255291",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 77 48 40",
+          "Télécopie": "+33 5 53 77 48 48",
+          "Email": "ut-agen.dreal-aquitaine@developpement-durable.gouv.fr",
+          "Url": "http://www.aquitaine.developpement-durable.gouv.fr",
+          "Sve": "http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

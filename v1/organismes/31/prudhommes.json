@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72183,
+          43.107824
+        ]
+      },
+      "properties": {
+        "codeInsee": "31483",
+        "dateMiseAJour": "2015-08-21",
+        "id": "prudhommes-31483-01",
+        "idPresta": "4cac9e69293594648a0016e6",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Gaudens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de justice",
+            "place du Palais"
+          ],
+          "CodePostal": "31800",
+          "NomCommune": "ST GAUDENS",
+          "Localisation": {
+            "Latitude": "43.107824",
+            "Longitude": "0.72183",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 89 70 44",
+          "Télécopie": "+33 5 61 89 34 81",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "de 8 h 30 à 12 h 30 et de 13 h 30 à 17 h 00."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43991,
+          43.60538
+        ]
+      },
+      "properties": {
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-03",
+        "id": "prudhommes-31555-01",
+        "idPresta": "4cac9ed6293594648a00ed65",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Toulouse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 rue Antoine Deville",
+            "BP 58030"
+          ],
+          "CodePostal": "31080",
+          "NomCommune": "TOULOUSE CEDEX 6",
+          "Localisation": {
+            "Latitude": "43.60538",
+            "Longitude": "1.43991",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 30 55 70",
+          "Télécopie": "+33 5 62 30 81 17",
+          "Email": "mailto:cph-toulouse@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

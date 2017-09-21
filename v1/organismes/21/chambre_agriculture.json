@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.114004,
+          47.241017
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue des Coulots",
+            "CS 70074"
+          ],
+          "CodePostal": "21110",
+          "NomCommune": "Bretenière",
+          "Localisation": {
+            "Latitude": "47.241017",
+            "Longitude": "5.114004",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 68 66 00",
+          "Télécopie": "03 80 68 66 09",
+          "Email": "accueil@cote-dor.chambagri.fr",
+          "Url": "http://www.cote-dor.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

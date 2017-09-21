@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1430305,
+          49.0254821
+        ]
+      },
+      "properties": {
+        "id": "ddcs-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2015-10-13",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) de l'Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Boulevard Georges-Chauvin"
+          ],
+          "CodePostal": "27023",
+          "NomCommune": "Évreux Cedex",
+          "Localisation": {
+            "Latitude": "49.0254821",
+            "Longitude": "1.1430305",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 24 86 05",
+          "Télécopie": "+33 2 32 24 86 02",
+          "Email": "ddcs@eure-gouv.fr",
+          "Url": "http://www.eure.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

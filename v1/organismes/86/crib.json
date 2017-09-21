@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.353486,
+          46.5729948
+        ]
+      },
+      "properties": {
+        "id": "crib-86194-01",
+        "codeInsee": "86194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Ligue de l'enseignement de la Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 rue de la Brouette-du-Vinaigrier",
+            "CS 80187"
+          ],
+          "CodePostal": "86005",
+          "NomCommune": "Poitiers Cedex",
+          "Localisation": {
+            "Latitude": "46.5729948",
+            "Longitude": "0.353486",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 38 37 44",
+          "Télécopie": "05 49 38 37 41",
+          "Email": "edelaunay@laligue86.org",
+          "Url": "http://www.86.assoligue.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil physique uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3863243,
+          46.5624949
+        ]
+      },
+      "properties": {
+        "id": "crib-86297-01",
+        "codeInsee": "86297",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de la Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des sports",
+            "Bâtiment C3",
+            "6 allée Jean-Monnet"
+          ],
+          "CodePostal": "86000",
+          "NomCommune": "Poitiers",
+          "Localisation": {
+            "Latitude": "46.5624949",
+            "Longitude": "0.3863243",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 86 28 00 10",
+          "Télécopie": "09 72 40 41 34",
+          "Email": "vienne@franceolympique.com",
+          "Url": "http://vienne.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

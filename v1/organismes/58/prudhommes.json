@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.157973,
+          46.988833
+        ]
+      },
+      "properties": {
+        "codeInsee": "58194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-58194-01",
+        "idPresta": "4cac9e5f293594648a0002a3",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Nevers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "6 rue Gambetta BP 70"
+          ],
+          "CodePostal": "58020",
+          "NomCommune": "NEVERS CEDEX",
+          "Localisation": {
+            "Latitude": "46.988833",
+            "Longitude": "3.157973",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 71 60 04",
+          "Télécopie": "+33 3 86 36 26 47",
+          "Email": "mailto:cph-nevers@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.078423,
+          49.041691
+        ]
+      },
+      "properties": {
+        "id": "cidf-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Ordinal",
+            "Rue des Chauffours",
+            "Porte 1 - ascenseur A - 3e étage"
+          ],
+          "CodePostal": "95000",
+          "NomCommune": "Cergy",
+          "Localisation": {
+            "Latitude": "49.041691",
+            "Longitude": "2.078423",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 30 32 72 29",
+          "Télécopie": "09 86 46 70 78",
+          "Email": "contact@cidff95.fr",
+          "Url": "http://www.cidff95.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

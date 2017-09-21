@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74829006195,
+          48.5812988281
+        ]
+      },
+      "properties": {
+        "id": "cci-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Strasbourg et Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 place Gutenberg",
+            "BP 70012"
+          ],
+          "CodePostal": "67081",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5812988281",
+            "Longitude": "7.74829006195",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 90 20 67 68",
+          "Télécopie": "03 88 22 31 20",
+          "Email": "cci-infoservices@strasbourg.cci.fr",
+          "Url": "http://www.strasbourg.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

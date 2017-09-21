@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1180056,
+          45.9003492
+        ]
+      },
+      "properties": {
+        "id": "ofii-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "ofii",
+        "Nom": "Office français de l'immigration et de l'intégration (Ofii) - Direction territoriale d'Annecy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 rue de Rumilly",
+          "CodePostal": "74000",
+          "NomCommune": "Annecy",
+          "Localisation": {
+            "Latitude": "45.9003492",
+            "Longitude": "6.1180056",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 51 14 72",
+          "Télécopie": "04 50 51 85 74",
+          "Email": "annecy@ofii.fr",
+          "Url": "http://www.ofii.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

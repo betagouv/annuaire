@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.042826,
+          14.6152443
+        ]
+      },
+      "properties": {
+        "id": "agefiph-97209-01",
+        "codeInsee": "97209",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Antilles et Guyane",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hauts-de-Dillon",
+            "Centre Delgrès",
+            "Escalier E"
+          ],
+          "CodePostal": "97200",
+          "NomCommune": "Fort-de-France",
+          "Localisation": {
+            "Latitude": "14.6152443",
+            "Longitude": "-61.042826",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 71 24 66",
+          "Télécopie": "+596 5 96 71 87 76",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

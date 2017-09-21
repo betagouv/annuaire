@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7356331,
+          48.5774202
+        ]
+      },
+      "properties": {
+        "id": "pmi-67482-02",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Strasbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Conseil départemental du Bas-Rhin",
+            "Place du Quartier-Blanc"
+          ],
+          "CodePostal": "67964",
+          "NomCommune": "Strasbourg Cedex 9",
+          "Localisation": {
+            "Latitude": "48.5774202",
+            "Longitude": "7.7356331",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 76 67 67",
+          "Url": "http://www.bas-rhin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74374914169,
+          48.5829315186
+        ]
+      },
+      "properties": {
+        "id": "pmi-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Strasbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 parc de l'Étoile",
+          "CodePostal": "67076",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5829315186",
+            "Longitude": "7.74374914169",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 68 98 51 29",
+          "Télécopie": "03 68 98 56 37",
+          "Email": "promotiondelasante@strasbourg.eu",
+          "Url": "http://www.strasbourg.eu"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Permanence téléphonique jusqu'à 18h tous les jours."
+          }
+        }
+      }
+    }
+  ]
+}

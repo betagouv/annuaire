@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7241299,
+          45.8172077
+        ]
+      },
+      "properties": {
+        "id": "fdc-69250-01",
+        "codeInsee": "69250",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 allée du Levant",
+          "CodePostal": "69890",
+          "NomCommune": "La Tour-de-Salvagny",
+          "Localisation": {
+            "Latitude": "45.8172077",
+            "Longitude": "4.7241299",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 47 13 33",
+          "Télécopie": "04 78 83 20 65",
+          "Email": "contact@fdc69.com",
+          "Url": "http://www.fdc69.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil physique et téléphonique."
+          }
+        }
+      }
+    }
+  ]
+}

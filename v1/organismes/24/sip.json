@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711791,
+          45.1804838
+        ]
+      },
+      "properties": {
+        "id": "sip-24322-01",
+        "codeInsee": "24322",
+        "dateMiseAJour": "2017-02-09",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Périgueux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue du 26e Régiment-d'Infanterie",
+          "CodePostal": "24053",
+          "NomCommune": "Périgueux Cedex",
+          "Localisation": {
+            "Latitude": "45.1804838",
+            "Longitude": "0.711791",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 03 35 00",
+          "Email": "sip.perigueux@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Un nouveau service d'accueil personnalisé sur rendez-vous, réservé aux demandes les plus complexes, est mis en place au centre des finances publiques de Périgueux.\n  Les usagers particuliers peuvent prendre rendez-vous sur le site impots.gouv.fr (rubrique « Contact »), au guichet du centre des finances publiques ou par téléphone."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4901049,
+          44.8533868
+        ]
+      },
+      "properties": {
+        "id": "sip-24037-01",
+        "codeInsee": "24037",
+        "dateMiseAJour": "2015-04-27",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Bergerac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 bis rue du Docteur-Simounet",
+          "CodePostal": "24113",
+          "NomCommune": "Bergerac Cedex",
+          "Localisation": {
+            "Latitude": "44.8533868",
+            "Longitude": "0.4901049",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 63 67 20",
+          "Télécopie": "+33 5 53 23 49 95",
+          "Email": "sip.bergerac@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.337651,
+          45.246394
+        ]
+      },
+      "properties": {
+        "id": "sip-24352-01",
+        "codeInsee": "24352",
+        "dateMiseAJour": "2017-04-20",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Ribérac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Amiral-Augey-Dufraisse",
+          "CodePostal": "24600",
+          "NomCommune": "Ribérac",
+          "Localisation": {
+            "Latitude": "45.246394",
+            "Longitude": "0.337651",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "uniquement le rez-de-chaussée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 92 46 00",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2127463,
+          44.8977269
+        ]
+      },
+      "properties": {
+        "id": "sip-24520-01",
+        "codeInsee": "24520",
+        "dateMiseAJour": "2015-04-27",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Sarlat-la-Canéda",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 avenue de Selves",
+            "BP 162"
+          ],
+          "CodePostal": "24205",
+          "NomCommune": "Sarlat-la-Canéda Cedex",
+          "Localisation": {
+            "Latitude": "44.8977269",
+            "Longitude": "1.2127463",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe et ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 31 59 00",
+          "Email": "sip.sarlat-la-caneda@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6619914,
+          45.5291363
+        ]
+      },
+      "properties": {
+        "id": "sip-24311-01",
+        "codeInsee": "24311",
+        "dateMiseAJour": "2017-04-20",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Nontron",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 place Alfred-Agard",
+          "CodePostal": "24300",
+          "NomCommune": "Nontron",
+          "Localisation": {
+            "Latitude": "45.5291363",
+            "Longitude": "0.6619914",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 60 82 00",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

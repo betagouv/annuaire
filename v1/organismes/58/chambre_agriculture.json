@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.141657,
+          47.0230326
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Nièvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "25 boulevard Léon-Blum",
+            "CS 40080"
+          ],
+          "CodePostal": "58028",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "47.0230326",
+            "Longitude": "3.141657",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 93 40 00",
+          "Télécopie": "03 86 93 40 19",
+          "Email": "accueil@nievre.chambagri.fr",
+          "Url": "http://www.nievre.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

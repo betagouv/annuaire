@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438912,
+          44.441536
+        ]
+      },
+      "properties": {
+        "codeInsee": "46042",
+        "dateMiseAJour": "2016-11-25",
+        "id": "prudhommes-46042-01",
+        "idPresta": "4cac9e5f293594648a00026d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Cahors",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "quai Cavaignac",
+            "Immeuble le Cavaignac"
+          ],
+          "CodePostal": "46000",
+          "NomCommune": "CAHORS",
+          "Localisation": {
+            "Latitude": "44.441536",
+            "Longitude": "1.438912",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 22 62 70",
+          "Télécopie": "+33 5 65 35 44 26",
+          "Email": "mailto:cph-cahors@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

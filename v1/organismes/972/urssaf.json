@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0304593,
+          14.6219983
+        ]
+      },
+      "properties": {
+        "id": "urssaf-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Martinique - site du Lamentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Quartier Césaire",
+          "CodePostal": "97232",
+          "NomCommune": "Le Lamentin",
+          "Localisation": {
+            "Latitude": "14.6219983",
+            "Longitude": "-61.0304593",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 22 25 55"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

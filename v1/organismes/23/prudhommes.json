@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.870811,
+          46.1656022
+        ]
+      },
+      "properties": {
+        "codeInsee": "23096",
+        "dateMiseAJour": "2016-08-19",
+        "id": "prudhommes-23096-01",
+        "idPresta": "4cac9e5f293594648a00021b",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Guéret",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue de l'Ancienne Mairie",
+          "CodePostal": "23000",
+          "NomCommune": "GUERET",
+          "Localisation": {
+            "Latitude": "46.1656022",
+            "Longitude": "1.870811",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 52 31 64",
+          "Télécopie": "+33 5 55 41 15 33",
+          "Email": "mailto:chg.cph-gueret@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.370679,
+          49.182863
+        ]
+      },
+      "properties": {
+        "id": "ta-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "ta",
+        "Nom": "Tribunal administratif de Caen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Arthur-Leduc",
+          "CodePostal": "14050",
+          "NomCommune": "Caen Cedex 4",
+          "Localisation": {
+            "Latitude": "49.182863",
+            "Longitude": "-0.370679",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 70 72 72",
+          "Télécopie": "02 31 52 42 17",
+          "Email": "greffe.ta-caen@juradm.fr",
+          "Url": "http://www.caen.tribunal-administratif.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

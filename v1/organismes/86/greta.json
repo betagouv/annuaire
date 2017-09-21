@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38294040000005225,
+          46.5898637
+        ]
+      },
+      "properties": {
+        "id": "greta-86194-01",
+        "codeInsee": "86194",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Poitou-Charentes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 avenue de la Fraternité",
+          "CodePostal": "86000",
+          "NomCommune": "Poitiers",
+          "Localisation": {
+            "Latitude": "46.5898637",
+            "Longitude": "0.38294040000005225",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 88 64 89",
+          "Email": "greta.agence-poitiers@ac-poitiers.fr",
+          "Url": "http://www.greta-poitou-charentes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

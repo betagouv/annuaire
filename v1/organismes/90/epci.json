@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.997808,
+          47.50752
+        ]
+      },
+      "properties": {
+        "id": "epci-90033-01",
+        "codeInsee": "90033",
+        "dateMiseAJour": "2017-05-03",
+        "pivotLocal": "epci",
+        "Nom": "Communauté de communes du Sud Territoire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 place Raymond-Forni",
+            "BP 106"
+          ],
+          "CodePostal": "90101",
+          "NomCommune": "Delle Cedex",
+          "Localisation": {
+            "Latitude": "47.50752",
+            "Longitude": "6.997808",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 56 26 07",
+          "Télécopie": "03 84 56 27 66",
+          "Email": "ccst90@cc-sud-territoire.fr",
+          "Url": "http://www.cc-sud-territoire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.831354,
+          47.732138
+        ]
+      },
+      "properties": {
+        "id": "epci-90052-01",
+        "codeInsee": "90052",
+        "dateMiseAJour": "2017-05-03",
+        "pivotLocal": "epci",
+        "Nom": "Communauté de communes des Vosges du Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Allée de la Grande-Prairie",
+            "BP 236"
+          ],
+          "CodePostal": "90200",
+          "NomCommune": "Giromagny",
+          "Localisation": {
+            "Latitude": "47.732138",
+            "Longitude": "6.831354",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 27 15 98",
+          "Télécopie": "03 84 29 02 90",
+          "Email": "daniel.roth.haute-savoureuse@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8627569,
+          47.6382646
+        ]
+      },
+      "properties": {
+        "id": "epci-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-05-03",
+        "pivotLocal": "epci",
+        "Nom": "Communauté d'agglomération Grand Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place d'Armes",
+          "CodePostal": "90020",
+          "NomCommune": "Belfort Cedex",
+          "Localisation": {
+            "Latitude": "47.6382646",
+            "Longitude": "6.8627569",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 54 24 24",
+          "Télécopie": "03 84 21 71 71",
+          "Email": "courrier@agglo-belfort.fr",
+          "Url": "http://www.agglo-belfort.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4507405,
+          44.9285857
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) du Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10, place du Champ-de-Foire",
+            "BP 739"
+          ],
+          "CodePostal": "15007",
+          "NomCommune": "Aurillac Cedex",
+          "Localisation": {
+            "Latitude": "44.9285857",
+            "Longitude": "2.4507405",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 64 33 83",
+          "Télécopie": "+33 4 71 64 41 14",
+          "Email": "ddsv15@sante.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

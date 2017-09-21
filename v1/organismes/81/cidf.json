@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.149867,
+          43.9248733
+        ]
+      },
+      "properties": {
+        "id": "cidf-81065-01",
+        "codeInsee": "81065",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 avenue du Colonel-Teyssier",
+          "CodePostal": "81000",
+          "NomCommune": "Albi",
+          "Localisation": {
+            "Latitude": "43.9248733",
+            "Longitude": "2.149867",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 47 01 34",
+          "Télécopie": "05 63 47 08 34",
+          "Email": "cidff.tarn@wanadoo.fr",
+          "Url": "http://www.infofemmes-mp.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241295,
+          43.606214
+        ]
+      },
+      "properties": {
+        "id": "cidf-81004-01",
+        "codeInsee": "81004",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "34 rue Milhau-Ducommun",
+          "CodePostal": "81100",
+          "NomCommune": "Castres",
+          "Localisation": {
+            "Latitude": "43.606214",
+            "Longitude": "2.241295",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 72 15 00",
+          "Télécopie": "05 63 72 19 38",
+          "Email": "cidffcastres@wanadoo.fr",
+          "Url": "http://www.infofemmes-mp.org/-CIDFF_Tarn-"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

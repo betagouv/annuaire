@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66148996353,
+          48.5484008789
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2016-05-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "288, avenue Georges-Clemenceau",
+            "BP 596"
+          ],
+          "CodePostal": "77005",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.5484008789",
+            "Longitude": "2.66148996353",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 60 56 71 78",
+          "Télécopie": "+33 1 60 56 71 06",
+          "Email": "ddt-shru@seine-et-marne.gouv.fr",
+          "Url": "http://www.seine-et-marne.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Deux numéros existent pour pouvoir joindre la commission de \nconciliation : 01 60 56 71 78 et 01 60 56 73 50. La commission de \nconciliation de Seine-et-Marne ne reçoit pas le public en dehors des jours de commission.  Les saisines se font par correspondances en lettre recommandée avec accusé de réception, ou par mail."
+      }
+    }
+  ]
+}

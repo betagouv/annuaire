@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6545659,
+          49.5783655
+        ]
+      },
+      "properties": {
+        "id": "msa-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Picardie - accueil de Laon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue Turgot",
+            "CodePostal": "02008",
+            "NomCommune": "Laon Cedex 9",
+            "Localisation": {
+              "Latitude": "49.5783655",
+              "Longitude": "3.6545659",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole de Picardie",
+              "8 avenue Victor-Hugo",
+              "CS 70828"
+            ],
+            "CodePostal": "60010",
+            "NomCommune": "Beauvais Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 80 60 02",
+          "Email": "contactpicardie.blf@picardie.msa.fr",
+          "Url": "http://www.msa-picardie.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil libre ou sur rendez-vous. Accueil téléphonique de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

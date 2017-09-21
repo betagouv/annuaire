@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.047063,
+          44.054518
+        ]
+      },
+      "properties": {
+        "codeInsee": "84031",
+        "dateMiseAJour": "2016-10-21",
+        "id": "tgi-84031-01",
+        "idPresta": "4cac9e87293594648a004cd1",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Carpentras",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "52 place Charles de Gaulle",
+            "CS 80265"
+          ],
+          "CodePostal": "84208",
+          "NomCommune": "CARPENTRAS CEDEX",
+          "Localisation": {
+            "Latitude": "44.054518",
+            "Longitude": "5.047063",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 63 66 00",
+          "Télécopie": "+33 4 90 63 57 78",
+          "Email": "mailto:tgi-carpentras@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.816066,
+          43.944784
+        ]
+      },
+      "properties": {
+        "codeInsee": "84007",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-84007-01",
+        "idPresta": "4cac9e87293594648a004cd0",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Avignon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "2 boulevard Limbert"
+          ],
+          "CodePostal": "84078",
+          "NomCommune": "AVIGNON CEDEX 9",
+          "Localisation": {
+            "Latitude": "43.944784",
+            "Longitude": "4.816066",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 32 74 74 00",
+          "Télécopie": "+33 4 32 74 75 20",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

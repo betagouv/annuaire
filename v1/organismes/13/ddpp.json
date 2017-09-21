@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390763,
+          43.27849
+        ]
+      },
+      "properties": {
+        "id": "ddpp-13055-01",
+        "codeInsee": "13055",
+        "dateMiseAJour": "2014-07-15",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22, rue Borde",
+          "CodePostal": "13285",
+          "NomCommune": "Marseille Cedex 8",
+          "Localisation": {
+            "Latitude": "43.27849",
+            "Longitude": "5.390763",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 17 95 00",
+          "Télécopie": "+33 4 91 25 96 89",
+          "Email": "ddpp@bouches-du-rhone.gouv.fr",
+          "Url": "http://www.bouches-du-rhone.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00 PM"
+              },
+              {
+                "début": "2:00:00 PM",
+                "fin": "5:00:00 PM"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

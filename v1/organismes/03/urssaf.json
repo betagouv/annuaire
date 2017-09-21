@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.325856,
+          46.564459
+        ]
+      },
+      "properties": {
+        "id": "urssaf-03190-01",
+        "codeInsee": "03190",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site de Moulins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Place des Gabares",
+              "6 rue Louis-Blanc"
+            ],
+            "CodePostal": "03000",
+            "NomCommune": "Moulins",
+            "Localisation": {
+              "Latitude": "46.564459",
+              "Longitude": "3.325856",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 30012"
+            ],
+            "CodePostal": "63054",
+            "NomCommune": "Clermont-Ferrand Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.auvergne.urssaf.fr"
+        },
+        "Commentaire": "Accueil exclusivement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    }
+  ]
+}

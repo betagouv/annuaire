@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1359000206,
+          45.759601593
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-63014-01",
+        "codeInsee": "63014",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 allée Pierre-de-Fermat",
+          "CodePostal": "63170",
+          "NomCommune": "Aubière",
+          "Localisation": {
+            "Latitude": "45.759601593",
+            "Longitude": "3.1359000206",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 44 45 46",
+          "Télécopie": "04 73 44 45 50",
+          "Email": "contact@puy-de-dome.chambagri.fr",
+          "Url": "http://www.chambre-agri63.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

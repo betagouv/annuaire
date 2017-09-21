@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.161248996854,
+          45.6503982544
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-16015-01",
+        "codeInsee": "16015",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Nouvelle-Aquitaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "68 avenue Gambetta",
+          "CodePostal": "16021",
+          "NomCommune": "Angoulême Cedex",
+          "Localisation": {
+            "Latitude": "45.6503982544",
+            "Longitude": "0.161248996854",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 45 90 47 00",
+          "Télécopie": "05 45 90 47 29",
+          "Email": "accueil@cma-charente.fr",
+          "Url": "http://www.cma-charente.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

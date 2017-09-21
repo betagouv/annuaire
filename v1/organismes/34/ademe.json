@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.89355993271,
+          43.6068000793
+        ]
+      },
+      "properties": {
+        "id": "ademe-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2016-12-21",
+        "pivotLocal": "ademe",
+        "Nom": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Occitanie - Site de Montpellier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence Antalya",
+            "119 avenue Jacques-Cartier"
+          ],
+          "CodePostal": "34965",
+          "NomCommune": "Montpellier Cedex 2",
+          "Localisation": {
+            "Latitude": "43.6068000793",
+            "Longitude": "3.89355993271",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 67 99 89 79",
+          "Télécopie": "04 67 64 30 89",
+          "Email": "ademe.languedoc-roussillon@ademe.fr",
+          "Url": "http://www.languedoc-roussillon.ademe.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

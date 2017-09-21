@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6221862,
+          43.6539137
+        ]
+      },
+      "properties": {
+        "id": "fdapp-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Gers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Larougeat",
+            "755 route de Toulouse"
+          ],
+          "CodePostal": "32000",
+          "NomCommune": "Auch",
+          "Localisation": {
+            "Latitude": "43.6539137",
+            "Longitude": "0.6221862",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 63 41 50",
+          "Télécopie": "05 62 63 41 91",
+          "Email": "federationpeche32@wanadoo.fr",
+          "Url": "http://www.gers-peche.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

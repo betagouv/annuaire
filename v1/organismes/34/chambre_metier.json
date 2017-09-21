@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8210665,
+          43.6096947
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Occitanie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "154 rue Bernard-Giraudeau",
+            "CS 59999"
+          ],
+          "CodePostal": "34187",
+          "NomCommune": "Montpellier Cedex 4",
+          "Localisation": {
+            "Latitude": "43.6096947",
+            "Longitude": "3.8210665",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 67 72 72 00",
+          "Télécopie": "04 67 72 72 23",
+          "Email": "chambredemetiers@cma-herault.fr",
+          "Url": "http://www.cma-herault.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

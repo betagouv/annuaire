@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23884010315,
+          44.0956001282
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Alpes-de-Haute-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 avenue du Plantas",
+          "CodePostal": "04000",
+          "NomCommune": "Digne-les-Bains",
+          "Localisation": {
+            "Latitude": "44.0956001282",
+            "Longitude": "6.23884010315",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 36 68 50",
+          "Télécopie": "04 92 36 68 68",
+          "Email": "ce.ia04@ac-aix-marseille.fr",
+          "Url": "http://www.ac-aix-marseille.frdsden04"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

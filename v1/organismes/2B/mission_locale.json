@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.43982982635,
+          42.6717987061
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-2B033-01",
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Bastia",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 avenue Paul-Giacobbi",
+          "CodePostal": "20600",
+          "NomCommune": "Bastia",
+          "Localisation": {
+            "Latitude": "42.6717987061",
+            "Longitude": "9.43982982635",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 30 11 41",
+          "Télécopie": "04 95 30 11 48",
+          "Email": "mlbastia@ml-corse.corsica",
+          "Url": "http://www.missions-locales-corse.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15003,
+          42.306485
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-2B096-01",
+        "codeInsee": "2B096",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Corté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rampe Sainte-Croix",
+          "CodePostal": "20250",
+          "NomCommune": "Corté",
+          "Localisation": {
+            "Latitude": "42.306485",
+            "Longitude": "9.15003",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "l'usager est invité à venir accompagné"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 46 80 35",
+          "Email": "laurence.achilli@ml-corse.corsica"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75710868835,
+          42.566783905
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-2B050-01",
+        "codeInsee": "2B050",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale rurale de Haute-Corse - antenne de Calvi",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre social",
+            "Lieu-dit Carbellu"
+          ],
+          "CodePostal": "20260",
+          "NomCommune": "Calvi",
+          "Localisation": {
+            "Latitude": "42.566783905",
+            "Longitude": "8.75710868835",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 65 44 01",
+          "Email": "mlrurale2b@missions-locales-corse.org",
+          "Url": "http://www.missions-locales-corse.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "'09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68993997574,
+          46.8119010925
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "110 rue Grande",
+          "CodePostal": "36000",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.8119010925",
+            "Longitude": "1.68993997574",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 60 57 00",
+          "Télécopie": "+33 2 54 60 57 48",
+          "Email": "ce.ia36@ac-orleans-tours.fr",
+          "Url": "http://www.ac-orleans-tours.frdsden36"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

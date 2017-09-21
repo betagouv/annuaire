@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3454235,
+          48.8548767
+        ]
+      },
+      "properties": {
+        "codeInsee": "75101",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-75101-01",
+        "idPresta": "4cac9e61293594648a0005f3",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Paris",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 boulevard du Palais",
+          "CodePostal": "75055",
+          "NomCommune": "PARIS CEDEX 01",
+          "Localisation": {
+            "Latitude": "48.8548767",
+            "Longitude": "2.3454235",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 44 32 51 51",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

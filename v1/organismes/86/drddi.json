@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3781182,
+          46.5794087
+        ]
+      },
+      "properties": {
+        "id": "drddi-86194-01",
+        "codeInsee": "86194",
+        "dateMiseAJour": "2015-11-18",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Poitiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "32, rue Salvador-Allende",
+            "BP 545"
+          ],
+          "CodePostal": "86020",
+          "NomCommune": "Poitiers Cedex",
+          "Localisation": {
+            "Latitude": "46.5794087",
+            "Longitude": "0.3781182",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 9 70 27 51 62",
+          "Télécopie": "+33 5 49 42 32 29",
+          "Email": "dr-poitiers@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr",
+          "Sve": "https://pro.douane.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

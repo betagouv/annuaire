@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43038010597,
+          48.6263999939
+        ]
+      },
+      "properties": {
+        "id": "cidf-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 cours Blaise-Pascal",
+          "CodePostal": "91000",
+          "NomCommune": "Évry",
+          "Localisation": {
+            "Latitude": "48.6263999939",
+            "Longitude": "2.43038010597",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 79 42 26",
+          "Télécopie": "01 60 78 80 60",
+          "Email": "contact@cidff91.org",
+          "Url": "http://www.cidffessonne.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

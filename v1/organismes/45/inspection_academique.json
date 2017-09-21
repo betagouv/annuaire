@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91094005108,
+          47.9085006714
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 rue Eugène-Vignat",
+          "CodePostal": "45043",
+          "NomCommune": "Orléans Cedex 1",
+          "Localisation": {
+            "Latitude": "47.9085006714",
+            "Longitude": "1.91094005108",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 24 29 00",
+          "Email": "ce.ia45@ac-orleans-tours.fr",
+          "Url": "http://www.ac-orleans-tours.frdsden45"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ],
+            "Note": "Accueil ouvert de 9h à 12h30 et de 14h à 16h45 pendant les vacances scolaires."
+          }
+        }
+      }
+    }
+  ]
+}

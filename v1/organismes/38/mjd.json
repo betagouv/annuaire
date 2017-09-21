@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.734187,
+          45.15987
+        ]
+      },
+      "properties": {
+        "codeInsee": "38185",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-38185-01",
+        "idPresta": "51b08c86b473e4147800007b",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Grenoble",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "25 avenue de Constantine",
+            "Immeuble le Polynôme"
+          ],
+          "CodePostal": "38100",
+          "NomCommune": "GRENOBLE",
+          "Localisation": {
+            "Latitude": "45.15987",
+            "Longitude": "5.734187",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 38 49 91 50",
+          "Télécopie": "+33 4 38 49 91 56",
+          "Email": "mailto:mjd-grenoble@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.148691,
+          45.61323
+        ]
+      },
+      "properties": {
+        "codeInsee": "38553",
+        "dateMiseAJour": "2013-12-03",
+        "id": "mjd-38553-01",
+        "idPresta": "51b08cddb473e41478001366",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Villefontaine",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du 11 Novembre 1918",
+            "Le Village"
+          ],
+          "CodePostal": "38090",
+          "NomCommune": "VILLEFONTAINE",
+          "Localisation": {
+            "Latitude": "45.61323",
+            "Longitude": "5.148691",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 96 94 67",
+          "Télécopie": "+33 4 74 96 86 23",
+          "Email": "mailto:mjd-villefontaine@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

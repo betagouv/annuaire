@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0743499994278,
+          43.2186012268
+        ]
+      },
+      "properties": {
+        "id": "fdapp-65440-01",
+        "codeInsee": "65440",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Hautes-Pyrénées",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 boulevard du 8-Mai-1945",
+            "BP 30643"
+          ],
+          "CodePostal": "65009",
+          "NomCommune": "Tarbes Cedex",
+          "Localisation": {
+            "Latitude": "43.2186012268",
+            "Longitude": "0.0743499994278",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 34 00 36",
+          "Télécopie": "05 62 51 97 63",
+          "Email": "federation.peche65@wanadoo.fr",
+          "Url": "http://www.fnpf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

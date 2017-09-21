@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07832,
+          44.099492
+        ]
+      },
+      "properties": {
+        "codeInsee": "12145",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-12145-01",
+        "idPresta": "4cac9e61293594648a000617",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Millau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 boulevard de l'Ayrolle",
+            "BP 353"
+          ],
+          "CodePostal": "12103",
+          "NomCommune": "MILLAU CEDEX",
+          "Localisation": {
+            "Latitude": "44.099492",
+            "Longitude": "3.07832",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 61 48 00",
+          "Télécopie": "+33 5 65 61 48 06",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.572401,
+          44.349242
+        ]
+      },
+      "properties": {
+        "codeInsee": "12202",
+        "dateMiseAJour": "2016-04-15",
+        "id": "ti-12202-01",
+        "idPresta": "4cac9e6a293594648a0017d4",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Rodez",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "boulevard de Guizard",
+            "BP 3215"
+          ],
+          "CodePostal": "12032",
+          "NomCommune": "RODEZ CEDEX 9",
+          "Localisation": {
+            "Latitude": "44.349242",
+            "Longitude": "2.572401",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 73 43 00",
+          "Télécopie": "+33 5 65 73 43 06",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

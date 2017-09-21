@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4205316,
+          46.6795992
+        ]
+      },
+      "properties": {
+        "id": "cidf-85191-01",
+        "codeInsee": "85191",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Vendée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence Lucien-Valéry",
+            "Bâtiment E",
+            "Rez-de-Jardin",
+            "15 rue Wagram"
+          ],
+          "CodePostal": "85000",
+          "NomCommune": "La Roche-sur-Yon",
+          "Localisation": {
+            "Latitude": "46.6795992",
+            "Longitude": "-1.4205316",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 51 08 84 84",
+          "Télécopie": "02 51 08 84 80",
+          "Email": "cidff85@orange.fr",
+          "Url": "http://paysdelaloire-ur.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

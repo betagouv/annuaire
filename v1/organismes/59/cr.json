@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0773047,
+          50.6293696
+        ]
+      },
+      "properties": {
+        "id": "cr-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cr",
+        "Nom": "Conseil régional - Hauts-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "151 avenue du Président-Hoover",
+          "CodePostal": "59555",
+          "NomCommune": "Lille Cedex",
+          "Localisation": {
+            "Latitude": "50.6293696",
+            "Longitude": "3.0773047",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenceur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 74 27 00 00",
+          "Email": "http://www.hautsdefrance.fr/contact/",
+          "Url": "http://www.hautsdefrance.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

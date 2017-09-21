@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30069994926,
+          49.8981018066
+        ]
+      },
+      "properties": {
+        "id": "crous-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Amiens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "25 rue Saint-Leu",
+            "BP 50541"
+          ],
+          "CodePostal": "80005",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.8981018066",
+            "Longitude": "2.30069994926",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 71 24 00",
+          "Télécopie": "03 22 71 24 16",
+          "Url": "http://www.crous-amiens.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

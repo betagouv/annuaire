@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.069038,
+          49.0513536
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-95476-01",
+        "codeInsee": "95476",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Le Président",
+              "2 A avenue des Arpents"
+            ],
+            "CodePostal": "95520",
+            "NomCommune": "Osny",
+            "Localisation": {
+              "Latitude": "49.0513536",
+              "Longitude": "2.069038",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Immeuble Le Président",
+              "2 A avenue des Arpents"
+            ],
+            "CodePostal": "95525",
+            "NomCommune": "Cergy-Pontoise Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "01 79 81 22 22",
+          "Télécopie": "01 79 81 20 86",
+          "Email": "ce.ia95@ac-versailles.fr",
+          "Url": "http://www.ac.versailles.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

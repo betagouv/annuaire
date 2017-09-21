@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07959,
+          47.6558267
+        ]
+      },
+      "properties": {
+        "id": "pif-35236-01",
+        "codeInsee": "35236",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille du centre social",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Guy-Pabois",
+          "CodePostal": "35600",
+          "NomCommune": "Redon",
+          "Localisation": {
+            "Latitude": "47.6558267",
+            "Longitude": "-2.07959",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 71 44 57",
+          "Télécopie": "02 99 72 31 40",
+          "Email": "cs.redon@confluence.asso.fr",
+          "Url": "http://www.confluence.asso.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0068317,
+          48.6324634
+        ]
+      },
+      "properties": {
+        "id": "pif-35288-01",
+        "codeInsee": "35288",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de la caisse d'allocations familiales d'Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "63 rue de la Marne",
+          "CodePostal": "35400",
+          "NomCommune": "Saint-Malo",
+          "Localisation": {
+            "Latitude": "48.6324634",
+            "Longitude": "-2.0068317",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 81 84 31",
+          "Télécopie": "02 99 82 06 46"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3193874,
+          48.4024037
+        ]
+      },
+      "properties": {
+        "id": "pif-35267-01",
+        "codeInsee": "35267",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille du Coglais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison du Coglais",
+            "5 rue Charles-de-Gaulle"
+          ],
+          "CodePostal": "35460",
+          "NomCommune": "Saint-Étienne-en-Coglès",
+          "Localisation": {
+            "Latitude": "48.4024037",
+            "Longitude": "-1.3193874",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 98 67 64",
+          "Télécopie": "02 99 98 67 65",
+          "Email": "coglais1@orange.fr"
+        }
+      }
+    }
+  ]
+}

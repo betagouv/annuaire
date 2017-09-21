@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0709265,
+          46.0328996
+        ]
+      },
+      "properties": {
+        "id": "urssaf-42187-01",
+        "codeInsee": "42187",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site de Roanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "22-24 rue de la Berge",
+            "CodePostal": "42300",
+            "NomCommune": "Roanne",
+            "Localisation": {
+              "Latitude": "46.0328996",
+              "Longitude": "4.0709265",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 90001"
+            ],
+            "CodePostal": "01016",
+            "NomCommune": "Bourg-en-Bresse Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.rhonealpes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3871779,
+          45.439695
+        ]
+      },
+      "properties": {
+        "id": "urssaf-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site de Saint-Étienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Allée Daniel-Greysolon-Duluth",
+            "CodePostal": "42000",
+            "NomCommune": "Saint-Étienne",
+            "Localisation": {
+              "Latitude": "45.439695",
+              "Longitude": "4.3871779",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 90001"
+            ],
+            "CodePostal": "01016",
+            "NomCommune": "Bourg-en-Bresse Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.rhonealpes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

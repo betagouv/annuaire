@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.134303,
+          49.0159
+        ]
+      },
+      "properties": {
+        "codeInsee": "27229",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-27229-01",
+        "idPresta": "4eb2632e2935944ef5000170",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce d'Evreux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue de la Petite Cité",
+            "BP 382"
+          ],
+          "CodePostal": "27003",
+          "NomCommune": "EVREUX CEDEX",
+          "Localisation": {
+            "Latitude": "49.0159",
+            "Longitude": "1.134303",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 22 37 20",
+          "Télécopie": "+33 2 32 22 37 29",
+          "Email": "mailto:greffe.tcevreux@wanadoo.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.596679,
+          49.087415
+        ]
+      },
+      "properties": {
+        "codeInsee": "27056",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-27056-01",
+        "idPresta": "4eb263342935944ef50001dd",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Bernay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 boulevard Dubus",
+            "BP 562"
+          ],
+          "CodePostal": "27305",
+          "NomCommune": "BERNAY CEDEX",
+          "Localisation": {
+            "Latitude": "49.087415",
+            "Longitude": "0.596679",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 44 78 27",
+          "Télécopie": "+33 2 32 44 81 10",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18725,
+          43.7139
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2014-07-18",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tour Hermès",
+            "64-66, route de Grenoble",
+            "BP 3003"
+          ],
+          "CodePostal": "06201",
+          "NomCommune": "Nice Cedex 03",
+          "Localisation": {
+            "Latitude": "43.7139",
+            "Longitude": "7.18725",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 72 74 49",
+          "Url": "http://www.paca.developpement-durable.gouv.fr",
+          "Sve": "http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

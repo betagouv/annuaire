@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199556,
+          48.00611
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-04-12",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue du Pied-Sec",
+            "CS 81906"
+          ],
+          "CodePostal": "72019",
+          "NomCommune": "Le Mans Cedex",
+          "Localisation": {
+            "Latitude": "48.00611",
+            "Longitude": "0.199556",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+            "$t": "08 00 52 62 72"
+          },
+          "Télécopie": "+33 2 43 54 11 94",
+          "Email": "mdph.sarthe@cg72.fr",
+          "Url": "http://www.mdph72.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "10:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

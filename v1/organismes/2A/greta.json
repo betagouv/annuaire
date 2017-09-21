@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7343592,
+          41.924925
+        ]
+      },
+      "properties": {
+        "id": "greta-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Laetitia-Bonaparte",
+            "Avenue Napoléon-III",
+            "CS 20845"
+          ],
+          "CodePostal": "20184",
+          "NomCommune": "Ajaccio Cedex 1",
+          "Localisation": {
+            "Latitude": "41.924925",
+            "Longitude": "8.7343592",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 29 68 78",
+          "Télécopie": "04 95 29 68 87",
+          "Email": "greta2a@ac-corse.fr",
+          "Url": "http://www.ac-corse.frgreta"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

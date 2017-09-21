@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2671910000000253,
+          45.8318387
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Haute-Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Pastel",
+            "22 rue des Pénitents Blancs",
+            "CS 53218"
+          ],
+          "CodePostal": "87032",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8318387",
+            "Longitude": "1.2671910000000253",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 11 84 33",
+          "Télécopie": "05 55 32 19 84",
+          "Email": "grud.ud.dreal-na@developpement-durable.gouv.fr",
+          "Url": "http://www.limousin.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

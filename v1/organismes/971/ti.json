@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.732335,
+          15.996936
+        ]
+      },
+      "properties": {
+        "codeInsee": "97105",
+        "dateMiseAJour": "2017-03-24",
+        "id": "ti-97105-01",
+        "idPresta": "4cac9e6a293594648a00182d",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Basse-Terre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "ZAC de Calebassier",
+          "CodePostal": "97100",
+          "NomCommune": "BASSE TERRE",
+          "Localisation": {
+            "Latitude": "15.996936",
+            "Longitude": "-61.732335",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 80 63 80",
+          "Télécopie": "+33 5 90 80 63 89",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.535243,
+          16.238069
+        ]
+      },
+      "properties": {
+        "codeInsee": "97120",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-97120-01",
+        "idPresta": "4cac9e6a293594648a00182e",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Pointe-à-Pitre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Victor Hugues",
+            "BP 554"
+          ],
+          "CodePostal": "97110",
+          "NomCommune": "POINTE A PITRE",
+          "Localisation": {
+            "Latitude": "16.238069",
+            "Longitude": "-61.535243",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 89 63 63",
+          "Télécopie": "+33 5 90 83 61 04",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "07:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

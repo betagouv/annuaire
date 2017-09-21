@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.872799,
+          46.168995
+        ]
+      },
+      "properties": {
+        "codeInsee": "23096",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-23096-01",
+        "idPresta": "4cac9e6a293594648a0017dc",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Guéret",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue des Tanneries",
+          "CodePostal": "23000",
+          "NomCommune": "GUERET",
+          "Localisation": {
+            "Latitude": "46.168995",
+            "Longitude": "1.872799",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 51 96 00",
+          "Télécopie": "+33 5 55 51 96 07",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

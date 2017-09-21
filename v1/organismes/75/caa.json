@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35845659999995,
+          48.8554582
+        ]
+      },
+      "properties": {
+        "id": "caa-75104-01",
+        "codeInsee": "75104",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "68 rue François-Miron",
+          "CodePostal": "75004",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8554582",
+            "Longitude": "2.35845659999995",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 58 28 90 00",
+          "Télécopie": "01 58 28 90 22",
+          "Email": "greffe.caa-paris@juradm.fr",
+          "Url": "http://www.paris.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

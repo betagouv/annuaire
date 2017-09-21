@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4367836,
+          46.676431
+        ]
+      },
+      "properties": {
+        "id": "ddpp-85191-01",
+        "codeInsee": "85191",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Vendée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "185, boulevard Maréchal-Leclerc",
+            "BP 90795"
+          ],
+          "CodePostal": "85020",
+          "NomCommune": "La Roche-sur-Yon Cedex",
+          "Localisation": {
+            "Latitude": "46.676431",
+            "Longitude": "-1.4367836",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 47 10 00",
+          "Télécopie": "+33 2 51 47 12 51",
+          "Email": "ddpp@vendee.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

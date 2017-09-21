@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7340536,
+          41.9293662
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2013-12-04",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18, rue Colonel-Colonna-d'Ornano",
+          "CodePostal": "20704",
+          "NomCommune": "Ajaccio Cedex 9",
+          "Localisation": {
+            "Latitude": "41.9293662",
+            "Longitude": "8.7340536",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 50 39 40",
+          "Télécopie": "+33 4 95 50 39 41",
+          "Email": "ddcspp@corse-du-sud.gouv.fr",
+          "Url": "http://www.corse-du-sud.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

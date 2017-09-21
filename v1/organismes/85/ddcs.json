@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4278978,
+          46.6676203
+        ]
+      },
+      "properties": {
+        "id": "ddcs-85191-01",
+        "codeInsee": "85191",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) de Vendée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "29, rue Delille",
+            "CS 20002"
+          ],
+          "CodePostal": "85023",
+          "NomCommune": "La Roche-sur-Yon Cedex",
+          "Localisation": {
+            "Latitude": "46.6676203",
+            "Longitude": "-1.4278978",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 36 75 00",
+          "Télécopie": "+33 2 51 07 00 06",
+          "Email": "ddcs@vendee.gouv.fr",
+          "Url": "http://www.ddcs85.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

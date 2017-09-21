@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.358985006809,
+          49.2103004456
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Normandie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue Claude-Bloch",
+            "CS 25059"
+          ],
+          "CodePostal": "14077",
+          "NomCommune": "Caen Cedex 5",
+          "Localisation": {
+            "Latitude": "49.2103004456",
+            "Longitude": "-0.358985006809",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe à l'arrière du bâtiment"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 53 25 00",
+          "Télécopie": "02 31 53 25 01",
+          "Email": "accueil-conseil@cmai-calvados-orne.fr",
+          "Url": "http://www.cmai-calvados-orne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

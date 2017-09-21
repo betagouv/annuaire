@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07748196428,
+          44.5574443937
+        ]
+      },
+      "properties": {
+        "codeInsee": "05061",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-05061-01",
+        "idPresta": "4cac9e86293594648a004ca5",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Gap",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place Saint-Arnoux"
+          ],
+          "CodePostal": "05007",
+          "NomCommune": "GAP CEDEX",
+          "Localisation": {
+            "Latitude": "44.5574443937",
+            "Longitude": "6.07748196428",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 40 70 00",
+          "Télécopie": "+33 4 92 40 70 29",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0901968,
+          45.7741259
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-03-24",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Clermont-Ferrand",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15, cours Sablon",
+            "CS 40009"
+          ],
+          "CodePostal": "63058",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7741259",
+            "Longitude": "3.0901968",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 4 73 40 69 40"
+          },
+          "Télécopie": "+33 4 73 40 69 52",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Sur rendez-vous du lundi au vendredi 9h00 à 12h00 et 13h30 à 17h00 au 04 73 40 69 32"
+          }
+        },
+        "Commentaire": "Échange de billets de 9h à 12h30 et de 13h45 à 15h30."
+      }
+    }
+  ]
+}

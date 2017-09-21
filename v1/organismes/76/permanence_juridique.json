@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0591167,
+          49.4226578
+        ]
+      },
+      "properties": {
+        "codeInsee": "76498",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76498-01",
+        "idPresta": "4cac9e60293594648a000486",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Le Petit Quevilly",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre social Saint Julien",
+            "1 rue Martial Spinneweber"
+          ],
+          "CodePostal": "76140",
+          "NomCommune": "LE PETIT QUEVILLY",
+          "Localisation": {
+            "Latitude": "49.4226578",
+            "Longitude": "1.0591167",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 81 90 14",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.722434,
+          49.528855
+        ]
+      },
+      "properties": {
+        "codeInsee": "76164",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76164-01",
+        "idPresta": "51ed00fab473e44c2700000a",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Caudebec en Caux",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des services publics",
+            "5, rue de la Sainte Gertrude"
+          ],
+          "CodePostal": "76490",
+          "NomCommune": "CAUDEBEC EN CAUX",
+          "Localisation": {
+            "Latitude": "49.528855",
+            "Longitude": "0.722434",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 70 43 80",
+          "Télécopie": "+33 2 32 70 43 89",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.47674359259,
+          49.5744462567
+        ]
+      },
+      "properties": {
+        "codeInsee": "76114",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76114-01",
+        "idPresta": "51e6a82cb473e444d100000c",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Bolbec",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5, rue Victor Deschamps",
+          "CodePostal": "76210",
+          "NomCommune": "BOLBEC",
+          "Localisation": {
+            "Latitude": "49.5744462567",
+            "Longitude": "0.47674359259",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 39 39 75",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "- du lundi au mercredi et le vendredi :\nde 9h à 12h30 et de 14h à 17h30\n- le jeudi :\nde 14h à 17h30"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.848943,
+          49.811209
+        ]
+      },
+      "properties": {
+        "codeInsee": "76272",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76272-01",
+        "idPresta": "57025159b473e40420cf1be6",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Fontaine le Dun",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "40, rue Charles Lescane",
+            "maison de services au public"
+          ],
+          "CodePostal": "76740",
+          "NomCommune": "FONTAINE LE DUN",
+          "Localisation": {
+            "Latitude": "49.811209",
+            "Longitude": "0.848943",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 57 83 62",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0433225582,
+          49.679082
+        ]
+      },
+      "properties": {
+        "codeInsee": "76700",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76700-01",
+        "idPresta": "57025246b473e40420cf1be8",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Tôtes",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mairie",
+            "place du général de Gaulle"
+          ],
+          "CodePostal": "76890",
+          "NomCommune": "TOTES",
+          "Localisation": {
+            "Latitude": "49.679082",
+            "Longitude": "1.0433225582",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 32 22 50",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.078525,
+          49.444369
+        ]
+      },
+      "properties": {
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76540-01",
+        "idPresta": "4cac9e60293594648a000487",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Rouen",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des associations",
+            "11 avenue Pasteur"
+          ],
+          "CodePostal": "76000",
+          "NomCommune": "ROUEN",
+          "Localisation": {
+            "Latitude": "49.444369",
+            "Longitude": "1.078525",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 76 08 89 21",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.08072274736,
+          49.922213041
+        ]
+      },
+      "properties": {
+        "codeInsee": "76217",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76217-01",
+        "idPresta": "4cac9e60293594648a00047d",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Dieppe",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace des solidarités",
+            "(face à la gare)",
+            "boulevard Clémenceau",
+            "76200 DIEPPE"
+          ],
+          "CodePostal": "76200",
+          "NomCommune": "DIEPPE",
+          "Localisation": {
+            "Latitude": "49.922213041",
+            "Longitude": "1.08072274736",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 06 61 69",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.713248,
+          49.861934
+        ]
+      },
+      "properties": {
+        "codeInsee": "76655",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76655-01",
+        "idPresta": "4cac9e60293594648a000489",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Saint-Valéry-En-Caux",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace Public du Littoral",
+            "place de la Gare"
+          ],
+          "CodePostal": "76460",
+          "NomCommune": "ST VALERY EN CAUX",
+          "Localisation": {
+            "Latitude": "49.861934",
+            "Longitude": "0.713248",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 57 92 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63885,
+          49.793526
+        ]
+      },
+      "properties": {
+        "codeInsee": "76159",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76159-01",
+        "idPresta": "4cac9e60293594648a00047c",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Cany-Barville",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace Public de la Vallée",
+            "Hôtel communautaire",
+            "48 bis, route de Veulettes",
+            "CS 40048"
+          ],
+          "CodePostal": "76450",
+          "NomCommune": "CANY BARVILLE",
+          "Localisation": {
+            "Latitude": "49.793526",
+            "Longitude": "0.63885",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 57 85 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.751481186508,
+          49.6164873174
+        ]
+      },
+      "properties": {
+        "codeInsee": "76758",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76758-01",
+        "idPresta": "51ecff1ab473e44c27000006",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit d'Yvetôt",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace d'accès au droit et aux services public du plateau de Caux",
+            "7, rue du Couvent"
+          ],
+          "CodePostal": "76190",
+          "NomCommune": "YVETOT",
+          "Localisation": {
+            "Latitude": "49.6164873174",
+            "Longitude": "0.751481186508",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 6 64 82 17 18",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.413785,
+          50.054227
+        ]
+      },
+      "properties": {
+        "codeInsee": "76255",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76255-01",
+        "idPresta": "57025318b473e40420cf1bea",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit d'Eu",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Communauté de communes \"Bresle Maritime\"",
+            "12, avenue Jacques Anquetil"
+          ],
+          "CodePostal": "76260",
+          "NomCommune": "EU",
+          "Localisation": {
+            "Latitude": "50.054227",
+            "Longitude": "1.413785",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 27 28 05 91",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0209967,
+          49.3846747
+        ]
+      },
+      "properties": {
+        "codeInsee": "76497",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-76497-01",
+        "idPresta": "4cac9e60293594648a000485",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Petit Couronne",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de la citoyenneté",
+            "160 rue du Général Leclerc"
+          ],
+          "CodePostal": "76650",
+          "NomCommune": "PETIT COURONNE",
+          "Localisation": {
+            "Latitude": "49.3846747",
+            "Longitude": "1.0209967",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 11 03 59",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

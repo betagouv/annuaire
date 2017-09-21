@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16689014435,
+          48.6797981262
+        ]
+      },
+      "properties": {
+        "id": "pmi-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Nancy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "48 esplanade Jacques-Baudot",
+            "CO 900 19"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "Nancy Cedex",
+          "Localisation": {
+            "Latitude": "48.6797981262",
+            "Longitude": "6.16689014435",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 83 94 54 54",
+          "Télécopie": "03 83 94 54 00",
+          "Url": "http://www.meurthe-et-moselle.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Consultations sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

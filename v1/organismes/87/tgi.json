@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.251033,
+          45.831903
+        ]
+      },
+      "properties": {
+        "codeInsee": "87085",
+        "dateMiseAJour": "2016-06-17",
+        "id": "tgi-87085-01",
+        "idPresta": "4cac9e87293594648a004cd2",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Limoges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "23 place Winston Churchill"
+          ],
+          "CodePostal": "87000",
+          "NomCommune": "LIMOGES",
+          "Localisation": {
+            "Latitude": "45.831903",
+            "Longitude": "1.251033",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 87 19 34 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

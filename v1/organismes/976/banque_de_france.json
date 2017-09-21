@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2288204,
+          -12.7770592
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-97611-01",
+        "codeInsee": "97611",
+        "dateMiseAJour": "2015-02-24",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Institut d'émission des départements d'outre-mer de Mayotte",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue de la Préfecture",
+            "BP 500"
+          ],
+          "CodePostal": "97600",
+          "NomCommune": "Mamoudzou",
+          "Localisation": {
+            "Latitude": "-12.7770592",
+            "Longitude": "45.2288204",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+269 269 61 05 05",
+          "Télécopie": "+269 269 61 05 02",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.iedom.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

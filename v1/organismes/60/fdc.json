@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3860685,
+          49.3885108
+        ]
+      },
+      "properties": {
+        "id": "fdc-60157-01",
+        "codeInsee": "60157",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Agnetz",
+            "155 rue Siméon-Guillaume-de-la-Roque",
+            "BP 50071"
+          ],
+          "CodePostal": "60603",
+          "NomCommune": "Clermont Cedex",
+          "Localisation": {
+            "Latitude": "49.3885108",
+            "Longitude": "2.3860685",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 19 40 40",
+          "Télécopie": "03 44 19 40 41",
+          "Email": "contact@fdc60.com",
+          "Url": "http://www.fdc60.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

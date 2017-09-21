@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8685741,
+          46.169224
+        ]
+      },
+      "properties": {
+        "id": "commissariat_police-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2017-06-13",
+        "pivotLocal": "commissariat_police",
+        "Nom": "Commissariat de police de Guéret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "17 place Bonnyaud",
+            "BP 123"
+          ],
+          "CodePostal": "23000",
+          "NomCommune": "Guéret",
+          "Localisation": {
+            "Latitude": "46.169224",
+            "Longitude": "1.8685741",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 41 27 00",
+          "Url": "http://www.police-nationale.interieur.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

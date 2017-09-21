@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.080691,
+          45.779422
+        ]
+      },
+      "properties": {
+        "codeInsee": "63113",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-63113-01",
+        "idPresta": "4cac9e6a293594648a0017ae",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Clermont-Ferrand",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16 place de l'Etoile",
+            "CS 20005"
+          ],
+          "CodePostal": "63033",
+          "NomCommune": "CLERMONT FERRAND CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.779422",
+            "Longitude": "3.080691",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 31 77 00",
+          "Télécopie": "+33 4 73 31 78 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.89197993279,
+          42.7056007385
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale des territoires et de la mer",
+            "2, rue Jean-Richepin",
+            "BP 50909"
+          ],
+          "CodePostal": "66020",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.7056007385",
+            "Longitude": "2.89197993279",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 38 13 13",
+          "Url": "http://www.pyrenees-orientales.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.371643990278,
+          43.9586982727
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-32107-01",
+        "codeInsee": "32107",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Condom",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Lannelongue",
+          "CodePostal": "32100",
+          "NomCommune": "Condom",
+          "Localisation": {
+            "Latitude": "43.9586982727",
+            "Longitude": "0.371643990278",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 28 12 33",
+          "Télécopie": "+33 5 62 28 36 46",
+          "Email": "sous-prefecture-de-condom@gers.gouv.fr",
+          "Url": "http://www.gers.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Attention : les services Associations, Permis de conduire, Naturalisations sont ouverts uniquement de 9h à 11h45."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.404132008553,
+          43.5186004639
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-32256-01",
+        "codeInsee": "32256",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Mirande",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue Laplagne",
+          "CodePostal": "32300",
+          "NomCommune": "Mirande",
+          "Localisation": {
+            "Latitude": "43.5186004639",
+            "Longitude": "0.404132008553",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 66 50 05",
+          "Télécopie": "+33 5 62 66 71 14",
+          "Email": "sous-prefecture-de-mirande@gers.gouv.fr",
+          "Url": "http://www.gers.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

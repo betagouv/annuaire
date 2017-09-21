@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.484753,
+          43.493704
+        ]
+      },
+      "properties": {
+        "codeInsee": "64102",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-64102-01",
+        "idPresta": "4eb263342935944ef50001d1",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Bayonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 avenue Marie Anne de Neubourg",
+            "BP 18180"
+          ],
+          "CodePostal": "64181",
+          "NomCommune": "BAYONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.493704",
+            "Longitude": "-1.484753",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 46 33 00",
+          "Télécopie": "+33 5 59 46 33 03",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.372567,
+          43.299389
+        ]
+      },
+      "properties": {
+        "codeInsee": "64445",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-64445-01",
+        "idPresta": "4eb263342935944ef50001d0",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Pau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Duplaa",
+            "BP 90338"
+          ],
+          "CodePostal": "64000",
+          "NomCommune": "PAU",
+          "Localisation": {
+            "Latitude": "43.299389",
+            "Longitude": "-0.372567",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 98 60 60",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711991012096,
+          45.1804008484
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-24322-01",
+        "codeInsee": "24322",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Dordogne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Bugeaud",
+            "Bâtiment H",
+            "18, rue du 26e-Régiment-d'Infanterie",
+            "BP 162"
+          ],
+          "CodePostal": "24024",
+          "NomCommune": "Périgueux Cedex",
+          "Localisation": {
+            "Latitude": "45.1804008484",
+            "Longitude": "0.711991012096",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 03 65 00",
+          "Télécopie": "+33 5 53 08 00 73",
+          "Email": "ddcfpp-directeur@dordogne.gouv.fr",
+          "Url": "http://www.dordogne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

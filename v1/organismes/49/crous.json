@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5558534,
+          47.4675458
+        ]
+      },
+      "properties": {
+        "id": "crous-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des oeuvres universitaires et scolaires (CLOUS) - Angers- Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "35, boulevard du Roi-René",
+            "BP 85128"
+          ],
+          "CodePostal": "49051",
+          "NomCommune": "Angers Cedex 2",
+          "Localisation": {
+            "Latitude": "47.4675458",
+            "Longitude": "-0.5558534",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 25 45 80",
+          "Télécopie": "+33 2 41 25 45 84",
+          "Email": "crous.clous@nantes.fr",
+          "Url": "http://www.crous-nantes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

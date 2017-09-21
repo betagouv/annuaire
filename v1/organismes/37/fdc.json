@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6961579,
+          47.3919279
+        ]
+      },
+      "properties": {
+        "id": "fdc-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Indre-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 impasse Heurteloup",
+            "CS 41215"
+          ],
+          "CodePostal": "37012",
+          "NomCommune": "Tours Cedex 1",
+          "Localisation": {
+            "Latitude": "47.3919279",
+            "Longitude": "0.6961579",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 05 65 25",
+          "Télécopie": "02 47 64 56 46",
+          "Email": "fdc37@chasseurdefrance.com",
+          "Url": "http://www.fdc37.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79257,
+          43.8222
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-04112-01",
+        "codeInsee": "04112",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Alpes-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZI Saint-Joseph",
+            "84 Rue des Artisans"
+          ],
+          "CodePostal": "04100",
+          "NomCommune": "Manosque",
+          "Localisation": {
+            "Latitude": "43.8222",
+            "Longitude": "5.79257",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 71 74 00",
+          "Email": "ut-04-05.dreal-paca@developpement-durable.gouv.fr",
+          "Url": "http://www.paca.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

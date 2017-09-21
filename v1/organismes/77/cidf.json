@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6332943,
+          48.8352113
+        ]
+      },
+      "properties": {
+        "id": "cidf-77258-01",
+        "codeInsee": "77258",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 bis rue du Parc",
+          "CodePostal": "77185",
+          "NomCommune": "Lognes",
+          "Localisation": {
+            "Latitude": "48.8352113",
+            "Longitude": "2.6332943",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 05 84 79",
+          "Télécopie": "01 60 05 85 66",
+          "Email": "cidff77@wanadoo.fr",
+          "Url": "http://www.cidff77.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612966,
+          43.642698
+        ]
+      },
+      "properties": {
+        "id": "cio-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) d'Auch",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Chemin de la Réthourie",
+          "CodePostal": "32000",
+          "NomCommune": "Auch",
+          "Localisation": {
+            "Latitude": "43.642698",
+            "Longitude": "0.612966",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 05 65 20",
+          "Télécopie": "05 62 05 18 96",
+          "Email": "cio.auch@ac-toulouse.fr",
+          "Url": "http://www.ac-toulouse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3729725,
+          43.955825
+        ]
+      },
+      "properties": {
+        "id": "cio-32107-01",
+        "codeInsee": "32107",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Condom",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre Salvandy",
+            "20 rue Jean-Jaurès"
+          ],
+          "CodePostal": "32100",
+          "NomCommune": "Condom",
+          "Localisation": {
+            "Latitude": "43.955825",
+            "Longitude": "0.3729725",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 67 76 51 82",
+          "Télécopie": "05 67 76 51 36",
+          "Email": "cio.condom@ac-toulouse.fr",
+          "Url": "http://www.ac-toulouse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert pendant les congés scolaires, du lundi au vendredi de 9h à 12h et de 13h à 16h. Contacter l'accueil avant de se déplacer."
+          }
+        }
+      }
+    }
+  ]
+}

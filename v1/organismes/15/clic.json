@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.658329,
+          45.28434
+        ]
+      },
+      "properties": {
+        "id": "clic-15162-01",
+        "codeInsee": "15162",
+        "dateMiseAJour": "2015-04-29",
+        "pivotLocal": "clic",
+        "idPresta": "clic-108",
+        "Nom": "Point d'information local dédié aux personnes âgées - Riom-ès-Montagnes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination du Haut Cantal",
+            "Place de la Gare"
+          ],
+          "CodePostal": "15400",
+          "NomCommune": "Riom-ès-Montagnes",
+          "Localisation": {
+            "Latitude": "45.28434",
+            "Longitude": "2.658329",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 78 25 10",
+          "Email": "clic@pays-gentiane.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443077,
+          44.925834
+        ]
+      },
+      "properties": {
+        "id": "clic-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Aurillac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination du bassin d'Aurillac",
+            "5 rue Eloy-Chapsal"
+          ],
+          "CodePostal": "15000",
+          "NomCommune": "Aurillac",
+          "Localisation": {
+            "Latitude": "44.925834",
+            "Longitude": "2.443077",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 62 88 95",
+          "Télécopie": "04 71 62 88 96",
+          "Email": "clic@aurillac.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

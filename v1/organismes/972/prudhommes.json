@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.069045,
+          14.637392
+        ]
+      },
+      "properties": {
+        "codeInsee": "97209",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-97209-01",
+        "idPresta": "4cac9e6a293594648a001711",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Fort-de-France",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "35 Bd du Gal de Gaulle BP 633"
+          ],
+          "CodePostal": "97200",
+          "NomCommune": "FORT DE FRANCE",
+          "Localisation": {
+            "Latitude": "14.637392",
+            "Longitude": "-61.069045",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 96 48 41 41",
+          "Télécopie": "+33 5 96 48 42 06",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "07:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53529644012,
+          47.2035198745
+        ]
+      },
+      "properties": {
+        "id": "fdc-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 bis boulevard François-Blancho",
+            "CS 40413"
+          ],
+          "CodePostal": "44204",
+          "NomCommune": "Nantes Cedex  2",
+          "Localisation": {
+            "Latitude": "47.2035198745",
+            "Longitude": "-1.53529644012",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 40 89 59 25",
+          "Télécopie": "02 40 35 34 81",
+          "Email": "fdc44@wanadoo.fr",
+          "Url": "http://www.chasse44.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

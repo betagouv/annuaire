@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6986431,
+          47.388712
+        ]
+      },
+      "properties": {
+        "id": "maia-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2013-11-26",
+        "pivotLocal": "maia",
+        "Nom": "Mission d'accueil et d'information des associations (Maia) - Indre-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Guichet unique des associations",
+            "4, rue Albert-Dennery",
+            "CS 2735"
+          ],
+          "CodePostal": "37027",
+          "NomCommune": "Tours Cedex 1",
+          "Localisation": {
+            "Latitude": "47.388712",
+            "Longitude": "0.6986431",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 47 70 11 00",
+          "Télécopie": "+33 2 47 70 11 11",
+          "Email": "ddcs-associations37@indre-et-loire.gouv.fr",
+          "Url": "http://www.associations37.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 13h30 à 16h"
+          }
+        }
+      }
+    }
+  ]
+}

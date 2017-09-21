@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.590161025524,
+          43.643699646
+        ]
+      },
+      "properties": {
+        "id": "pmi-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2011-08-12",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) d'Auch",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 boulevard Sadi Carnot",
+          "CodePostal": "32000",
+          "NomCommune": "AUCH",
+          "Localisation": {
+            "Latitude": "43.643699646",
+            "Longitude": "0.590161025524",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 05 57 41",
+          "Email": "pmi@cg32.fr",
+          "Url": "http://www.cg32.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

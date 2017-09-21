@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0254243,
+          47.2318491
+        ]
+      },
+      "properties": {
+        "id": "ta-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "ta",
+        "Nom": "Tribunal administratif - Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "30 rue Charles-Nodier",
+          "CodePostal": "25044",
+          "NomCommune": "Besançon Cedex 3",
+          "Localisation": {
+            "Latitude": "47.2318491",
+            "Longitude": "6.0254243",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 82 60 00",
+          "Télécopie": "+33 3 81 82 60 01",
+          "Email": "greffe.ta-besancon@juradm.fr",
+          "Url": "http://www.besancon.tribunal-administratif.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

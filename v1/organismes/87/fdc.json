@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29473380000002,
+          45.8963903
+        ]
+      },
+      "properties": {
+        "id": "fdc-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2014-10-14",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Haute-Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, avenue Georges-Guingouin",
+            "CS 80912 Panazol"
+          ],
+          "CodePostal": "87017",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8963903",
+            "Longitude": "1.29473380000002",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 87 50 41 71",
+          "Télécopie": "+33 5 87 50 41 82",
+          "Email": "contact@fdc87.com",
+          "Url": "http://www.fdc87.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

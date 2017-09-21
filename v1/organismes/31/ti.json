@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3262562,
+          43.4610672
+        ]
+      },
+      "properties": {
+        "codeInsee": "31395",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-31395-01",
+        "idPresta": "4cac9ed7293594648a00ee3e",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Muret",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "58 rue Clément Ader",
+          "CodePostal": "31600",
+          "NomCommune": "MURET",
+          "Localisation": {
+            "Latitude": "43.4610672",
+            "Longitude": "1.3262562",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 51 96 50",
+          "Télécopie": "+33 5 61 51 96 57",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.744874,
+          43.133668
+        ]
+      },
+      "properties": {
+        "codeInsee": "31483",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-31483-01",
+        "idPresta": "4cac9e78293594648a002fe3",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Saint-Gaudens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "BP 20209"
+          ],
+          "CodePostal": "31806",
+          "NomCommune": "ST GAUDENS CEDEX",
+          "Localisation": {
+            "Latitude": "43.133668",
+            "Longitude": "0.744874",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 00 83 40",
+          "Télécopie": "+33 5 61 88 38 81",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461458,
+          43.601085
+        ]
+      },
+      "properties": {
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-03",
+        "id": "ti-31555-01",
+        "idPresta": "4cac9e61293594648a000637",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Toulouse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "40 avenue Camille Pujol",
+            "BP 35847"
+          ],
+          "CodePostal": "31506",
+          "NomCommune": "TOULOUSE CEDEX 5",
+          "Localisation": {
+            "Latitude": "43.601085",
+            "Longitude": "1.461458",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 34 31 79 79",
+          "Télécopie": "+33 5 34 31 79 03",
+          "Email": "mailto:ti-toulouse@justice.fr",
+          "Url": "http://www.ti-toulouse.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

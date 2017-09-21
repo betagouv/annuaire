@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.812668,
+          46.323821
+        ]
+      },
+      "properties": {
+        "codeInsee": "71270",
+        "dateMiseAJour": "2012-10-01",
+        "id": "mjd-71270-01",
+        "idPresta": "51b08c9bb473e41478000520",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Mâcon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Parc de l'Abime",
+            "155 avenue de Gaulle"
+          ],
+          "CodePostal": "71017",
+          "NomCommune": "MACON CEDEX",
+          "Localisation": {
+            "Latitude": "46.323821",
+            "Longitude": "4.812668",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 85 21 90 83",
+          "Télécopie": "+33 3 85 38 14 75",
+          "Email": "mailto:mjd-macon@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.852448,
+          46.784215
+        ]
+      },
+      "properties": {
+        "codeInsee": "71076",
+        "dateMiseAJour": "2015-08-31",
+        "id": "mjd-71076-01",
+        "idPresta": "51b08cc3b473e41478000dc3",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Chalon-sur-Saône",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Emiland-Menand",
+          "CodePostal": "71100",
+          "NomCommune": "CHALON SUR SAONE",
+          "Localisation": {
+            "Latitude": "46.784215",
+            "Longitude": "4.852448",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 85 90 87 80",
+          "Télécopie": "+33 3 85 90 87 99",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

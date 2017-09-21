@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.159241,
+          48.768682
+        ]
+      },
+      "properties": {
+        "codeInsee": "55029",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-55029-01",
+        "idPresta": "4eb2622a2935944ef500002a",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Bar-le-Duc",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 place Saint-Pierre",
+            "BP 279"
+          ],
+          "CodePostal": "55006",
+          "NomCommune": "BAR LE DUC CEDEX",
+          "Localisation": {
+            "Latitude": "48.768682",
+            "Longitude": "5.159241",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 76 12 80",
+          "Télécopie": "+33 3 29 76 69 38",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

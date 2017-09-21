@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43023991585,
+          48.6305999756
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tour Europa",
+            "6 boulevard de l'Europe"
+          ],
+          "CodePostal": "91000",
+          "NomCommune": "Évry",
+          "Localisation": {
+            "Latitude": "48.6305999756",
+            "Longitude": "2.43023991585",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 78 99 00",
+          "Télécopie": "01 60 78 90 11",
+          "Email": "accueil.evry@cnfpt.fr",
+          "Url": "http://www.grandecouronne.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4429513,
+          43.604363
+        ]
+      },
+      "properties": {
+        "id": "apec-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "apec",
+        "Nom": "Association pour l'emploi des cadres (Apec) de Toulouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Sully",
+            "1 place Occitane",
+            "BP 7091"
+          ],
+          "CodePostal": "31070",
+          "NomCommune": "Toulouse Cedex 7",
+          "Localisation": {
+            "Latitude": "43.604363",
+            "Longitude": "1.4429513",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 80 58 05"
+          },
+          "Télécopie": "05 61 12 16 51",
+          "Url": "http://www.apec.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

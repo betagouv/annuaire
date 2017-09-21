@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4982015,
+          47.686222
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-70310-01",
+        "codeInsee": "70310",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Lure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Square Charles-de-Gaulle",
+            "BP 149"
+          ],
+          "CodePostal": "70204",
+          "NomCommune": "Lure Cedex",
+          "Localisation": {
+            "Latitude": "47.686222",
+            "Longitude": "6.4982015",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 89 18 00",
+          "Télécopie": "+33 3 84 89 18 18",
+          "Email": "sous-prefecture-de-lure@haute-saone.gouv.fr",
+          "Url": "http://www.haute-saone.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "La sous-préfecture n'est plus chargée des formalités d'immatriculation et de permis de conduire"
+          }
+        }
+      }
+    }
+  ]
+}

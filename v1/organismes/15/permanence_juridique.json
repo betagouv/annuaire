@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443886,
+          44.927738
+        ]
+      },
+      "properties": {
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-15014-01",
+        "idPresta": "4cac9e5e293594648a00017c",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques d'Aurillac",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tribunal de grande instance",
+            "Palais de Justice",
+            "21 place du Square"
+          ],
+          "CodePostal": "15000",
+          "NomCommune": "AURILLAC",
+          "Localisation": {
+            "Latitude": "44.927738",
+            "Longitude": "2.443886",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

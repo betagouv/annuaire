@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429974,
+          46.66577
+        ]
+      },
+      "properties": {
+        "codeInsee": "85191",
+        "dateMiseAJour": "2016-12-02",
+        "id": "tgi-85191-01",
+        "idPresta": "4cac9e61293594648a0005fc",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de La Roche-sur-Yon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "55 boulevard Aristide Briand",
+            "BP 833"
+          ],
+          "CodePostal": "85021",
+          "NomCommune": "LA ROCHE SUR YON CEDEX",
+          "Localisation": {
+            "Latitude": "46.66577",
+            "Longitude": "-1.429974",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 47 61 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.788672,
+          46.495087
+        ]
+      },
+      "properties": {
+        "codeInsee": "85194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-85194-01",
+        "idPresta": "4cac9e61293594648a0005fd",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance des Sables-d'Olonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Palais de Justice",
+            "BP 10365"
+          ],
+          "CodePostal": "85109",
+          "NomCommune": "LES SABLES D OLONNE CEDEX",
+          "Localisation": {
+            "Latitude": "46.495087",
+            "Longitude": "-1.788672",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 23 77 00",
+          "Télécopie": "+33 2 51 95 54 85",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

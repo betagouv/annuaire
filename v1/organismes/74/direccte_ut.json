@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.287592,
+          48.862725
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "48 avenue de la République",
+            "CodePostal": "74960",
+            "NomCommune": "Cran-Gevrier",
+            "Localisation": {
+              "Latitude": "48.862725",
+              "Longitude": "2.287592",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "BP 90001",
+            "CodePostal": "74990",
+            "NomCommune": "Annecy Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 88 28 00",
+          "Télécopie": "04 50 88 28 96",
+          "Email": "ara-ud74.direction@direccte.gouv.fr",
+          "Url": "http://www.auvergne-rhone-alpes.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:15:00"
+              }
+            ],
+            "Note": "Accueil téléphonique lundi, mardi et vendredi de 13h45 à 16h. Accueil physique uniquement sur rendez-vous lundi, mercredi, jeudi et vendredi de 8h45 à 11h45."
+          }
+        }
+      }
+    }
+  ]
+}

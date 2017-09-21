@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30748589999996057,
+          49.1710506
+        ]
+      },
+      "properties": {
+        "id": "fdapp-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Calvados",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue de Bruxelles",
+          "CodePostal": "14120",
+          "NomCommune": "Mondeville",
+          "Localisation": {
+            "Latitude": "49.1710506",
+            "Longitude": "-0.30748589999996057",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "Plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 44 63 00",
+          "Télécopie": "02 31 44 81 63",
+          "Email": "peche.calvados@wanadoo.fr",
+          "Url": "http://www.federation-peche14.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

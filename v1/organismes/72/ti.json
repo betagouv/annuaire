@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1997661,
+          48.0064699
+        ]
+      },
+      "properties": {
+        "codeInsee": "72181",
+        "dateMiseAJour": "2014-07-21",
+        "id": "ti-72181-01",
+        "idPresta": "4cac9e6a293594648a001807",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance du Mans",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "1 avenue Pierre Mendès-France"
+          ],
+          "CodePostal": "72014",
+          "NomCommune": "LE MANS CEDEX 2",
+          "Localisation": {
+            "Latitude": "48.0064699",
+            "Longitude": "0.1997661",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 83 77 77",
+          "Télécopie": "+33 2 43 83 77 76",
+          "Email": "mailto:ti-le-mans@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075572,
+          47.699085
+        ]
+      },
+      "properties": {
+        "codeInsee": "72154",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-72154-01",
+        "idPresta": "4cac9ed7293594648a00ee54",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de La Flèche",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Saint-Thomas",
+          "CodePostal": "72200",
+          "NomCommune": "LA FLECHE",
+          "Localisation": {
+            "Latitude": "47.699085",
+            "Longitude": "-0.075572",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 94 04 15",
+          "Télécopie": "+33 2 43 45 00 85",
+          "Email": "mailto:ti-la-fleche@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

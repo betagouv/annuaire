@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4554748,
+          43.5274683
+        ]
+      },
+      "properties": {
+        "codeInsee": "13001",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-13001-01",
+        "idPresta": "4cac9ed7293594648a00edfa",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Aix-en-Provence",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "40 boulevard Carnot",
+          "CodePostal": "13616",
+          "NomCommune": "AIX EN PROVENCE CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.5274683",
+            "Longitude": "5.4554748",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 42 33 83 00",
+          "Télécopie": "+33 4 42 96 45 30",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66486144952,
+          43.801954556
+        ]
+      },
+      "properties": {
+        "codeInsee": "13108",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-13108-01",
+        "idPresta": "4cac9e61293594648a000543",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Tarascon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de justice",
+            "28 allée du Gl Jennings Kilmaine"
+          ],
+          "CodePostal": "13150",
+          "NomCommune": "TARASCON",
+          "Localisation": {
+            "Latitude": "43.801954556",
+            "Longitude": "4.66486144952",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 88 65 82 00",
+          "Télécopie": "+33 4 90 91 10 66",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3740786,
+          43.2907289
+        ]
+      },
+      "properties": {
+        "codeInsee": "13206",
+        "dateMiseAJour": "2012-07-31",
+        "id": "tgi-13206-01",
+        "idPresta": "4cac9e61293594648a000544",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Marseille",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Joseph Autran",
+          "CodePostal": "13281",
+          "NomCommune": "MARSEILLE CEDEX 06",
+          "Localisation": {
+            "Latitude": "43.2907289",
+            "Longitude": "5.3740786",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 15 50 50",
+          "Télécopie": "+33 4 91 54 42 90",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            ],
+            "Note": "(vacations de 8h00 à 12h00 et de 13h30 à 17h00)"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43422794342,
+          48.6296043396
+        ]
+      },
+      "properties": {
+        "id": "cg-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "Boulevard de France"
+          ],
+          "CodePostal": "91012",
+          "NomCommune": "Évry Cedex",
+          "Localisation": {
+            "Latitude": "48.6296043396",
+            "Longitude": "2.43422794342",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 91 91 91",
+          "Télécopie": "01 60 91 91 77",
+          "Email": "contact@cd-essonne.fr",
+          "Url": "http://www.essonne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

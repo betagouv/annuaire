@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.795318,
+          48.8375532
+        ]
+      },
+      "properties": {
+        "id": "cci-77169-01",
+        "codeInsee": "77169",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Serris",
+            "1 avenue Johannes-Gutenberg",
+            "CS 70045"
+          ],
+          "CodePostal": "77776",
+          "NomCommune": "Marne-la-Vallée Cedex 4",
+          "Localisation": {
+            "Latitude": "48.8375532",
+            "Longitude": "2.795318",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 74 60 51 00",
+          "Télécopie": "01 74 60 51 01",
+          "Email": "infocci@seineetmarne.cci.fr",
+          "Url": "http://www.seineetmarne.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

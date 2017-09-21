@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576390028,
+          47.2109985352
+        ]
+      },
+      "properties": {
+        "id": "drddi-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction interrégionale des douanes et droits indirects - Nantes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 place Mellinet",
+            "BP 78410"
+          ],
+          "CodePostal": "44184",
+          "NomCommune": "Nantes Cedex 4",
+          "Localisation": {
+            "Latitude": "47.2109985352",
+            "Longitude": "-1.576390028",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 51 00",
+          "Télécopie": "02 40 73 37 95",
+          "Email": "di-nantes@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

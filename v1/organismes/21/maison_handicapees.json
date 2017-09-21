@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04235982895,
+          47.3265991211
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Joseph-Tissot",
+            "BP 1601"
+          ],
+          "CodePostal": "21035",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3265991211",
+            "Longitude": "5.04235982895",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 80 10 90"
+          },
+          "Télécopie": "03 80 63 31 23",
+          "Url": "http://www.mdph21.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

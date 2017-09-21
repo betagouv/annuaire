@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3694764,
+          48.7374716
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-28134-01",
+        "codeInsee": "28134",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Dreux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Dreux",
+            "Service des associations",
+            "2 rue des Capucins"
+          ],
+          "CodePostal": "28100",
+          "NomCommune": "Dreux",
+          "Localisation": {
+            "Latitude": "48.7374716",
+            "Longitude": "1.3694764",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 27 72 00",
+          "Télécopie": "+33 2 37 46 80 72",
+          "Email": "pierrette.favreau@eure-et-loire.gouv.fr",
+          "Url": "http://www.eure-et-loir.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4809585,
+          48.4462459
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Chartres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale et de la protection des populations",
+            "15 place de la République"
+          ],
+          "CodePostal": "28019",
+          "NomCommune": "Chartres Cedex",
+          "Localisation": {
+            "Latitude": "48.4462459",
+            "Longitude": "1.4809585",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 20 52 43",
+          "Télécopie": "+33 2 37 36 28 97",
+          "Email": "ddcspp-associations@eure-et-loir.gouv.fr",
+          "Url": "http://www.eure-et-loir.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3308483,
+          48.0721412
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-28088-01",
+        "codeInsee": "28088",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Châteaudun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Châteaudun",
+            "Service des associations",
+            "25 rue Jean-Moulin",
+            "BP 109"
+          ],
+          "CodePostal": "28205",
+          "NomCommune": "Châteaudun Cedex",
+          "Localisation": {
+            "Latitude": "48.0721412",
+            "Longitude": "1.3308483",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 44 52 30",
+          "Email": "sp-chateaudun@eure-et-loir.gouv.fr",
+          "Url": "http://www.eure-et-loir.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

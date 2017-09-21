@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13119489,
+          45.9034671
+        ]
+      },
+      "properties": {
+        "id": "cg-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 rue du 30e-Régiment-d'Infanterie",
+            "CodePostal": "74000",
+            "NomCommune": "Annecy",
+            "Localisation": {
+              "Latitude": "45.9034671",
+              "Longitude": "6.13119489",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "1 avenue d'Albigny",
+              "CS 32444"
+            ],
+            "CodePostal": "74041",
+            "NomCommune": "Annecy Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 33 50 00",
+          "Télécopie": "04 50 45 23 30",
+          "Email": "communication@hautesavoie.fr",
+          "Url": "http://www.hautesavoie.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil téléphonique de 8h30 à 18h30."
+          }
+        }
+      }
+    }
+  ]
+}

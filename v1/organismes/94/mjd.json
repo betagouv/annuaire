@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366477,
+          48.793459
+        ]
+      },
+      "properties": {
+        "codeInsee": "94076",
+        "dateMiseAJour": "2011-06-17",
+        "id": "mjd-94076-01",
+        "idPresta": "51b08cb9b473e41478000b9a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Val de Bièvre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "65 rue Jean-Jaurès",
+          "CodePostal": "94800",
+          "NomCommune": "VILLEJUIF",
+          "Localisation": {
+            "Latitude": "48.793459",
+            "Longitude": "2.366477",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 43 90 25 25",
+          "Email": "mailto:mjd.villejuif@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.51148,
+          48.8134859
+        ]
+      },
+      "properties": {
+        "codeInsee": "94017",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-94017-01",
+        "idPresta": "51b08cc1b473e41478000d40",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Champigny-sur-Marne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Albert Thomas",
+          "CodePostal": "94500",
+          "NomCommune": "CHAMPIGNY SUR MARNE",
+          "Localisation": {
+            "Latitude": "48.8134859",
+            "Longitude": "2.51148",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 45 16 18 60",
+          "Télécopie": "+33 1 45 16 18 69",
+          "Email": "mailto:mjd.champigny-sur-marne@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "dimanche",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "Uniquement sur rendez-vous les lundis et mercredis après-midi :"
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "20:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil sans rendez-vous :"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "ATTENTION"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

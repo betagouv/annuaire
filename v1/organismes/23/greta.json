@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.85690850000003,
+          46.168086
+        ]
+      },
+      "properties": {
+        "id": "greta-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2014-12-04",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Creuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Jean-Favard",
+            "27, route de Courtille"
+          ],
+          "CodePostal": "23000",
+          "NomCommune": "Guéret",
+          "Localisation": {
+            "Latitude": "46.168086",
+            "Longitude": "1.85690850000003",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 51 34 80",
+          "Télécopie": "+33 5 55 51 34 81",
+          "Email": "ce.greta.creuse@ac-limoges.fr",
+          "Url": "http://www.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

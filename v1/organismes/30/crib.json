@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3331165,
+          43.8281507
+        ]
+      },
+      "properties": {
+        "id": "crib-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Acegaa de Nîmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Parc Kennedy",
+            "285 rue Gilles-Roberval",
+            "Maison des initiatives"
+          ],
+          "CodePostal": "30900",
+          "NomCommune": "Nîmes",
+          "Localisation": {
+            "Latitude": "43.8281507",
+            "Longitude": "4.3331165",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 68 20 27",
+          "Télécopie": "04 66 02 42 32",
+          "Email": "contact@acegaa.org",
+          "Url": "http://www.acegaa.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.360054,
+          43.836699
+        ]
+      },
+      "properties": {
+        "id": "crib-30189-04",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Ligue de l'enseignement",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "42 rue du Progrès",
+          "CodePostal": "03000",
+          "NomCommune": "Moulins",
+          "Localisation": {
+            "Latitude": "43.836699",
+            "Longitude": "4.360054",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 46 45 21",
+          "Télécopie": "04 70 46 85 29",
+          "Email": "ligue.enseignement.allier@laligue03.org",
+          "Url": "http://www.associations.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

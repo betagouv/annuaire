@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.261105,
+          45.833619
+        ]
+      },
+      "properties": {
+        "id": "greta-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Haute-Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Turgot",
+            "6 rue Paul-Mérignac"
+          ],
+          "CodePostal": "87031",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.833619",
+            "Longitude": "1.261105",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "entrée à l'arrière du bâtiment par le 19 rue François-Perrin"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 12 31 31",
+          "Télécopie": "05 55 12 31 25",
+          "Email": "ce.greta.87@ac-limoges.fr",
+          "Url": "http://www.greta-haute-vienne.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

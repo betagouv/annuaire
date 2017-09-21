@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9106024,
+          47.9077117
+        ]
+      },
+      "properties": {
+        "id": "cg-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2015-07-07",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Eugène-Vignat",
+          "CodePostal": "45010",
+          "NomCommune": "Orléans Cedex 1",
+          "Localisation": {
+            "Latitude": "47.9077117",
+            "Longitude": "1.9106024",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 25 45 45",
+          "Télécopie": "+33 2 38 25 43 70",
+          "Email": "cg45@loiret.com",
+          "Url": "http://www.loiret.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

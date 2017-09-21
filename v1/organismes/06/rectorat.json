@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2767203,
+          43.7289493
+        ]
+      },
+      "properties": {
+        "id": "rectorat-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2015-12-15",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Nice",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "53, avenue Cap-de-Croix",
+          "CodePostal": "06181",
+          "NomCommune": "Nice Cedex 2",
+          "Localisation": {
+            "Latitude": "43.7289493",
+            "Longitude": "7.2767203",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 53 70 70",
+          "Télécopie": "+33 4 93 53 70 83",
+          "Url": "http://www.ac-nice.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

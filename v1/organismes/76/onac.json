@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0903171,
+          49.4358986
+        ]
+      },
+      "properties": {
+        "id": "onac-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Seine-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Saint-Sever",
+            "2 rue Saint-Sever"
+          ],
+          "CodePostal": "76032",
+          "NomCommune": "Rouen Cedex",
+          "Localisation": {
+            "Latitude": "49.4358986",
+            "Longitude": "1.0903171",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 58 59 66",
+          "Email": "sd76@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:76/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2890277,
+          49.890411
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations d'Amiens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale de la Somme",
+            "3 boulevard de Guyancourt"
+          ],
+          "CodePostal": "80027",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.890411",
+            "Longitude": "2.2890277",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée et rampe d'accès"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 50 23 63",
+          "Email": "roxane.burg@somme.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "11:45:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

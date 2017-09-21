@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.337761,
+          47.592925
+        ]
+      },
+      "properties": {
+        "id": "clic-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Blois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Vivre autonome 41",
+            "34 avenue Maunoury"
+          ],
+          "CodePostal": "41000",
+          "NomCommune": "Blois",
+          "Localisation": {
+            "Latitude": "47.592925",
+            "Longitude": "1.337761",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 58 43 79",
+          "Email": "vivre.autonome41@cg41.fr",
+          "Url": "http://www.vivreautonome41.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Mardi matin et jeudi matin pas de permanence téléphonique."
+          }
+        }
+      }
+    }
+  ]
+}

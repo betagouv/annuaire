@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4484435,
+          48.1729919
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-88160-01",
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations d'Épinal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture des Vosges",
+            "Bureau des associations",
+            "Place Foch",
+            "BP 6535"
+          ],
+          "CodePostal": "88000",
+          "NomCommune": "Épinal",
+          "Localisation": {
+            "Latitude": "48.1729919",
+            "Longitude": "6.4484435",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 69 89 95",
+          "Télécopie": "03 29 69 89 96",
+          "Email": "christine.monange@vosges.gouv.fr",
+          "Url": "http://www.vosges.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

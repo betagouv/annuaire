@@ -1,0 +1,783 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75675010681,
+          48.576499939
+        ]
+      },
+      "properties": {
+        "id": "caf-67482-03",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - siège de Strasbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 rue de Berne",
+          "CodePostal": "67092",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.576499939",
+            "Longitude": "7.75675010681",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3642591,
+          48.7404102
+        ]
+      },
+      "properties": {
+        "id": "caf-67437-01",
+        "codeInsee": "67437",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Saverne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Locaux de la caisse primaire d'assurance maladie",
+              "73 Grand'rue"
+            ],
+            "CodePostal": "67700",
+            "NomCommune": "Saverne",
+            "Localisation": {
+              "Latitude": "48.7404102",
+              "Longitude": "7.3642591",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4793628,
+          48.4617309
+        ]
+      },
+      "properties": {
+        "id": "caf-67348-01",
+        "codeInsee": "67348",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil d'Obernai",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre socio-culturel Arthur-Rimbaud",
+              "2 avenue de Gail"
+            ],
+            "CodePostal": "67213",
+            "NomCommune": "Obernai",
+            "Localisation": {
+              "Latitude": "48.4617309",
+              "Longitude": "7.4793628",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4869486,
+          48.8284399
+        ]
+      },
+      "properties": {
+        "id": "caf-67061-01",
+        "codeInsee": "67061",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Bouxwiller",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de l'intercommunalité",
+              "10 rue d'Obermodern"
+            ],
+            "CodePostal": "67330",
+            "NomCommune": "Bouxwiller",
+            "Localisation": {
+              "Latitude": "48.8284399",
+              "Longitude": "7.4869486",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75788021088,
+          48.6040000916
+        ]
+      },
+      "properties": {
+        "id": "caf-67447-01",
+        "codeInsee": "67447",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Schiltigheim",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 avenue Pierre-Mendès-France",
+            "CodePostal": "67300",
+            "NomCommune": "Schiltigheim",
+            "Localisation": {
+              "Latitude": "48.6040000916",
+              "Longitude": "7.75788021088",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4591357,
+          48.2606154
+        ]
+      },
+      "properties": {
+        "id": "caf-67462-01",
+        "codeInsee": "67462",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Sélestat",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 rue des Jardiniers",
+            "CodePostal": "67600",
+            "NomCommune": "Sélestat",
+            "Localisation": {
+              "Latitude": "48.2606154",
+              "Longitude": "7.4591357",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2187662,
+          48.4786307
+        ]
+      },
+      "properties": {
+        "id": "caf-67448-01",
+        "codeInsee": "67448",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Schirmeck",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Place du Marché",
+              "1er étage",
+              "Unité territoriale médico-sociale"
+            ],
+            "CodePostal": "67130",
+            "NomCommune": "Schirmeck",
+            "Localisation": {
+              "Latitude": "48.4786307",
+              "Longitude": "7.2187662",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.091154,
+          48.9352121
+        ]
+      },
+      "properties": {
+        "id": "caf-67434-01",
+        "codeInsee": "67434",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Sarre-Union",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services",
+              "14 rue Vincent-d'Indy"
+            ],
+            "CodePostal": "67260",
+            "NomCommune": "Sarre-Union",
+            "Localisation": {
+              "Latitude": "48.9352121",
+              "Longitude": "7.091154",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7059267,
+          48.5893155
+        ]
+      },
+      "properties": {
+        "id": "caf-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Strasbourg - Hautepierre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maille Éléonore",
+              "20 boulevard La-Fontaine"
+            ],
+            "CodePostal": "67200",
+            "NomCommune": "Strasbourg",
+            "Localisation": {
+              "Latitude": "48.5893155",
+              "Longitude": "7.7059267",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1874382,
+          48.8646862
+        ]
+      },
+      "properties": {
+        "id": "caf-67105-01",
+        "codeInsee": "67105",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Drulingen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services au public",
+              "6 bis rue Weyer"
+            ],
+            "CodePostal": "67320",
+            "NomCommune": "Drulingen",
+            "Localisation": {
+              "Latitude": "48.8646862",
+              "Longitude": "7.1874382",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h et fermeture du 14 juillet au 15 août 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48337249,
+          48.5353848
+        ]
+      },
+      "properties": {
+        "id": "caf-67300-01",
+        "codeInsee": "67300",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Molsheim",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison multi-associative",
+              "Salle Renaitre",
+              "7 route des Loisirs"
+            ],
+            "CodePostal": "67120",
+            "NomCommune": "Molsheim",
+            "Localisation": {
+              "Latitude": "48.5353848",
+              "Longitude": "7.48337249",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7879409,
+          48.8166023
+        ]
+      },
+      "properties": {
+        "id": "caf-67180-01",
+        "codeInsee": "67180",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Bas-Rhin - accueil de Haguenau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 rue du Maréchal-Joffre",
+            "CodePostal": "67500",
+            "NomCommune": "Haguenau",
+            "Localisation": {
+              "Latitude": "48.8166023",
+              "Longitude": "7.7879409",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Bas-Rhin",
+              "18 rue de Berne"
+            ],
+            "CodePostal": "67092",
+            "NomCommune": "Strasbourg Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 67 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

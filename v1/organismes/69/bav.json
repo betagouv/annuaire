@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8463713,
+          45.7602922
+        ]
+      },
+      "properties": {
+        "codeInsee": "69123",
+        "dateMiseAJour": "2012-06-21",
+        "id": "bav-69123-01",
+        "idPresta": "4d5e5e762935941fe900002c",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Lyon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "67 rue Servient",
+          "CodePostal": "69433",
+          "NomCommune": "LYON CEDEX 03",
+          "Localisation": {
+            "Latitude": "45.7602922",
+            "Longitude": "4.8463713",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 72 60 70 12",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.715146,
+          45.992947
+        ]
+      },
+      "properties": {
+        "codeInsee": "69264",
+        "dateMiseAJour": "2012-06-21",
+        "id": "bav-69264-01",
+        "idPresta": "51b08cb6b473e41478000ad8",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Villefranche sur Saone",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "350 boulevard Gambetta",
+            "BP 474"
+          ],
+          "CodePostal": "69665",
+          "NomCommune": "VILLEFRANCHE SUR SAONE CEDEX",
+          "Localisation": {
+            "Latitude": "45.992947",
+            "Longitude": "4.715146",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 65 63 63",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

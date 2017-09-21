@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.76943016052,
+          45.1884002686
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-38421-01",
+        "codeInsee": "38421",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Rhône-Alpes - Grenoble",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "440 rue des Universités",
+            "CS 50051"
+          ],
+          "CodePostal": "38402",
+          "NomCommune": "Saint-Martin-d’Hères Cedex",
+          "Localisation": {
+            "Latitude": "45.1884002686",
+            "Longitude": "5.76943016052",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 76 15 01 00",
+          "Télécopie": "+33 4 76 51 16 05",
+          "Url": "http://www.cnftp.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

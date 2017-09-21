@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1839,
+          48.6927
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Meuse et Meurthe-et-Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 bis rue Pierre-Fourier",
+            "CS 12247"
+          ],
+          "CodePostal": "54022",
+          "NomCommune": "Nancy Cedex",
+          "Localisation": {
+            "Latitude": "48.6927",
+            "Longitude": "6.1839",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 83 36 55 12",
+          "Télécopie": "03 83 37 63 66",
+          "Email": "ut54-55.dreal-lorraine@developement-durable.gouv.fr",
+          "Url": "http://www.grand-estdevelopement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

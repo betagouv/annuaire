@@ -1,0 +1,638 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373235,
+          51.030405
+        ]
+      },
+      "properties": {
+        "codeInsee": "59183",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59183-01",
+        "idPresta": "4cac9ed6293594648a00ed6d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Dunkerque",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 quai au Bois",
+            "BP 4225"
+          ],
+          "CodePostal": "59378",
+          "NomCommune": "DUNKERQUE CEDEX 1",
+          "Localisation": {
+            "Latitude": "51.030405",
+            "Longitude": "2.373235",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 28 28 99 99",
+          "Télécopie": "+33 3 28 21 06 03",
+          "Email": "mailto:cph-dunkerque@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.212537,
+          50.666625
+        ]
+      },
+      "properties": {
+        "codeInsee": "59332",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59332-01",
+        "idPresta": "4cac9e6a293594648a0016fb",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Lannoy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pavillon des Croisiers",
+            "rue de Tournai"
+          ],
+          "CodePostal": "59390",
+          "NomCommune": "LANNOY",
+          "Localisation": {
+            "Latitude": "50.666625",
+            "Longitude": "3.212537",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 20 75 81 38",
+          "Télécopie": "+33 3 20 66 06 78",
+          "Email": "mailto:cph-lannoy@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "de 9 h à 12 h\net de 14 h à 16 h 30"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1664704,
+          50.6916457
+        ]
+      },
+      "properties": {
+        "codeInsee": "59512",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59512-01",
+        "idPresta": "4cac9e62293594648a00076a",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Roubaix",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "45 rue du Grand chemin"
+          ],
+          "CodePostal": "59070",
+          "NomCommune": "ROUBAIX CEDEX 1",
+          "Localisation": {
+            "Latitude": "50.6916457",
+            "Longitude": "3.1664704",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 20 70 95 91",
+          "Télécopie": "+33 3 20 70 77 74",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.234639,
+          50.175833
+        ]
+      },
+      "properties": {
+        "codeInsee": "59122",
+        "dateMiseAJour": "2014-06-09",
+        "id": "prudhommes-59122-01",
+        "idPresta": "4cac9e5f293594648a0002a9",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Cambrai",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Froissart",
+          "CodePostal": "59407",
+          "NomCommune": "CAMBRAI CEDEX",
+          "Localisation": {
+            "Latitude": "50.175833",
+            "Longitude": "3.234639",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 27 73 37 64",
+          "Télécopie": "+33 3 27 73 37 62",
+          "Email": "mailto:cph-cambrai@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.518359,
+          50.356805
+        ]
+      },
+      "properties": {
+        "codeInsee": "59606",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59606-01",
+        "idPresta": "4cac9e5f293594648a0002b9",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Valenciennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 place du 8 Mai 1945",
+          "CodePostal": "59326",
+          "NomCommune": "VALENCIENNES CEDEX",
+          "Localisation": {
+            "Latitude": "50.356805",
+            "Longitude": "3.518359",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 27 32 28 50",
+          "Télécopie": "+33 3 27 28 95 03",
+          "Email": "mailto:cph-valenciennes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.078566,
+          50.369807
+        ]
+      },
+      "properties": {
+        "codeInsee": "59178",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59178-01",
+        "idPresta": "4cac9e5f293594648a0002aa",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Douai",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "106 rue Merlin de Douai",
+          "CodePostal": "59500",
+          "NomCommune": "DOUAI",
+          "Localisation": {
+            "Latitude": "50.369807",
+            "Longitude": "3.078566",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 27 99 18 99",
+          "Télécopie": "+33 3 27 96 58 96",
+          "Email": "mailto:cph-douai@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.928441,
+          50.121941
+        ]
+      },
+      "properties": {
+        "codeInsee": "59036",
+        "dateMiseAJour": "2016-07-15",
+        "id": "prudhommes-59036-01",
+        "idPresta": "4cc055cd29359446b70019dd",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Avesnes sur Helpe",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Plateau Chemerault",
+            "11 rue du Maréchal Joffre"
+          ],
+          "CodePostal": "59440",
+          "NomCommune": "AVESNES SUR HELPE",
+          "Localisation": {
+            "Latitude": "50.121941",
+            "Longitude": "3.928441",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 27 57 78 00",
+          "Télécopie": "+33 3 27 57 78 27",
+          "Email": "mailto:cph-avesnes-sur-helpe@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.537955,
+          50.72296
+        ]
+      },
+      "properties": {
+        "codeInsee": "59295",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59295-01",
+        "idPresta": "4cac9e6a293594648a0016fa",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Hazebrouck",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "8 rue André Biebuyck"
+          ],
+          "CodePostal": "59190",
+          "NomCommune": "HAZEBROUCK",
+          "Localisation": {
+            "Latitude": "50.72296",
+            "Longitude": "2.537955",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 28 41 47 16",
+          "Télécopie": "+33 3 28 41 33 27",
+          "Email": "mailto:cph-hazebrouck@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.061082,
+          50.644419
+        ]
+      },
+      "properties": {
+        "codeInsee": "59350",
+        "dateMiseAJour": "2015-02-13",
+        "id": "prudhommes-59350-01",
+        "idPresta": "4cac9ed6293594648a00ed6e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Lille",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "33 avenue du peuple belge",
+            "Immeuble de la Halle aux sucres"
+          ],
+          "CodePostal": "59800",
+          "NomCommune": "LILLE",
+          "Localisation": {
+            "Latitude": "50.644419",
+            "Longitude": "3.061082",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 20 12 10 00",
+          "Télécopie": "+33 3 20 42 10 12",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.158699,
+          50.727771
+        ]
+      },
+      "properties": {
+        "codeInsee": "59599",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-59599-01",
+        "idPresta": "4cac9e6a293594648a0016fc",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Tourcoing",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "65 rue de Gand",
+            "BP 134"
+          ],
+          "CodePostal": "59333",
+          "NomCommune": "TOURCOING CEDEX",
+          "Localisation": {
+            "Latitude": "50.727771",
+            "Longitude": "3.158699",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 20 01 40 80",
+          "Télécopie": "+33 3 20 01 70 78",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

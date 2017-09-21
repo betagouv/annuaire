@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69779159,
+          45.2554788
+        ]
+      },
+      "properties": {
+        "id": "clic-07010-01",
+        "codeInsee": "07010",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Annonay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction territoriale d'action sociale - Nord",
+            "10 rue de la Lombardière"
+          ],
+          "CodePostal": "07100",
+          "NomCommune": "Annonay",
+          "Localisation": {
+            "Latitude": "45.2554788",
+            "Longitude": "4.69779159",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 32 42 01",
+          "Télécopie": "04 75 32 72 40",
+          "Url": "http://www.ardeche.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.387158,
+          44.614989
+        ]
+      },
+      "properties": {
+        "id": "clic-07019-01",
+        "codeInsee": "07019",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Aubenas",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Unité territoriale- Sud-Ouest",
+            "30 rue Albert-Seibel"
+          ],
+          "CodePostal": "07200",
+          "NomCommune": "Aubenas",
+          "Localisation": {
+            "Latitude": "44.614989",
+            "Longitude": "4.387158",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 35 82 10",
+          "Télécopie": "07 75 35 82 20",
+          "Email": "paph.utso@ardeche.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil fermé pendant les vacances scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.679506,
+          44.544648
+        ]
+      },
+      "properties": {
+        "id": "clic-07319-01",
+        "codeInsee": "07319",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Le Teil",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction territoriale d'action sociale Sud-Est",
+            "15 rue du Travail"
+          ],
+          "CodePostal": "07400",
+          "NomCommune": "Le Teil",
+          "Localisation": {
+            "Latitude": "44.544648",
+            "Longitude": "4.679506",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 49 54 80",
+          "Télécopie": "04 75 49 54 79",
+          "Email": "paph.utse@ardeche.fr",
+          "Url": "http://www.ardeche.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
+      }
+    }
+  ]
+}

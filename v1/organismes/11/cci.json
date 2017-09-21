@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355337,
+          43.2111596
+        ]
+      },
+      "properties": {
+        "id": "cci-11069-01",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Aude",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 boulevard Camille-Pelletan",
+            "CS 30011"
+          ],
+          "CodePostal": "11890",
+          "NomCommune": "Carcassonne Cedex",
+          "Localisation": {
+            "Latitude": "43.2111596",
+            "Longitude": "2.355337",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 10 36 00",
+          "Télécopie": "04 68 10 36 02",
+          "Email": "contact@carcassonne.cci.fr",
+          "Url": "http://www.carcassonne.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3497300148,
+          48.076499939
+        ]
+      },
+      "properties": {
+        "id": "cci-68066-01",
+        "codeInsee": "68066",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Alsace - Eurométropole",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place de la Gare",
+            "CS 40007"
+          ],
+          "CodePostal": "68001",
+          "NomCommune": "Colmar Cedex",
+          "Localisation": {
+            "Latitude": "48.076499939",
+            "Longitude": "7.3497300148",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 20 20 20",
+          "Télécopie": "03 89 20 20 21",
+          "Email": "cci-infoservices@colmar.cci.fr",
+          "Url": "http://www.colmar.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3403432,
+          47.7425447
+        ]
+      },
+      "properties": {
+        "id": "cci-68224-01",
+        "codeInsee": "68224",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Sud-Alsace - Mulhouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 rue du 17-Novembre",
+            "BP 1088"
+          ],
+          "CodePostal": "68051",
+          "NomCommune": "Mulhouse Cedex",
+          "Localisation": {
+            "Latitude": "47.7425447",
+            "Longitude": "7.3403432",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 66 71 71",
+          "Télécopie": "03 89 66 71 39",
+          "Email": "contact@mulhouse.cci.fr",
+          "Url": "http://www.mulhouse.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38674,
+          45.4435
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-04-19",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 rue Balaÿ",
+          "CodePostal": "42021",
+          "NomCommune": "Saint-Étienne Cedex 1",
+          "Localisation": {
+            "Latitude": "45.4435",
+            "Longitude": "4.38674",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 43 41 80",
+          "Télécopie": "04 77 43 41 99",
+          "Email": "rhona-ut42.direction@direccte.gouv.fr",
+          "Url": "http://www.auvergne-rhone-alpes.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

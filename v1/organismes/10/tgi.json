@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.069397,
+          48.297171
+        ]
+      },
+      "properties": {
+        "codeInsee": "10387",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-10387-01",
+        "idPresta": "4cac9e6a293594648a00178e",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Troyes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "83 rue du Général de Gaulle",
+            "CS 60384"
+          ],
+          "CodePostal": "10026",
+          "NomCommune": "TROYES CEDEX",
+          "Localisation": {
+            "Latitude": "48.297171",
+            "Longitude": "4.069397",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 43 55 70",
+          "Télécopie": "+33 3 25 73 55 44",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

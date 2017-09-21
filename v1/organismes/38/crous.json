@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175748,
+          45.1923049
+        ]
+      },
+      "properties": {
+        "id": "crous-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Grenoble",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue d'Arsonval",
+          "CodePostal": "38019",
+          "NomCommune": "Grenoble Cedex",
+          "Localisation": {
+            "Latitude": "45.1923049",
+            "Longitude": "5.7175748",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 06 40 69"
+          },
+          "Email": "secretariat.direction@crous-grenoble.fr",
+          "Url": "http://www.crous-grenoble.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h à 17h30."
+          }
+        }
+      }
+    }
+  ]
+}

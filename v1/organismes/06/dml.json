@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2832604,
+          43.6956469
+        ]
+      },
+      "properties": {
+        "id": "dml-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Pôle activité maritime",
+              "22 quai Lunel"
+            ],
+            "CodePostal": "06300",
+            "NomCommune": "Nice",
+            "Localisation": {
+              "Latitude": "43.6956469",
+              "Longitude": "7.2832604",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Direction départementale des territoires et de la Mer",
+              "Services de l'état dans les Alpes-Maritimes",
+              "147 boulevard du Mercantour"
+            ],
+            "CodePostal": "06286",
+            "NomCommune": "Nice Cedex 3",
+            "Localisation": {
+              "Latitude": "43.6720401",
+              "Longitude": "7.1999021",
+              "Précision": "8"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 72 72 72",
+          "Télécopie": "+33 4 93 72 72 12",
+          "Url": "http://www.alpes-maritimes.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35997,
+          48.0807
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-68066-01",
+        "codeInsee": "68066",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Haut-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Bâtiment Tour",
+            "3 rue Fleischhauer"
+          ],
+          "CodePostal": "68026",
+          "NomCommune": "Colmar Cedex",
+          "Localisation": {
+            "Latitude": "48.0807",
+            "Longitude": "7.35997",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 24 81 37",
+          "Url": "http://grand-est.direccte.gouv.fr/Haut-Rhin"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

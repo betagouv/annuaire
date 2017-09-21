@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0944336,
+          49.0500683
+        ]
+      },
+      "properties": {
+        "id": "onac-95500-01",
+        "codeInsee": "95500",
+        "dateMiseAJour": "2017-03-14",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CS 80223",
+            "37 rue de la Coutellerie"
+          ],
+          "CodePostal": "95302",
+          "NomCommune": "Cergy-Pontoise Cedex",
+          "Localisation": {
+            "Latitude": "49.0500683",
+            "Longitude": "2.0944336",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 34 41 60 64",
+          "Email": "http://www.onac-vg.fr/fr/contact/sid:125",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:95/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

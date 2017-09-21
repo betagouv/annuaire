@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0902959,
+          49.4359087
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2014-07-30",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Seine-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, rue Saint-Sever",
+            "Cité administrative Saint-Sever",
+            "DDTM - Service habitat"
+          ],
+          "CodePostal": "76100",
+          "NomCommune": "Rouen",
+          "Localisation": {
+            "Latitude": "49.4359087",
+            "Longitude": "1.0902959",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 18 10 64",
+          "Télécopie": "+33 2 32 18 10 32",
+          "Email": "ddtm-sh@seine-maritime.gouv.fr",
+          "Url": "http://www.seine-maritime.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

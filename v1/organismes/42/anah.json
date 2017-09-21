@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.387831,
+          45.4396371
+        ]
+      },
+      "properties": {
+        "id": "anah-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale des territoires",
+            "2 avenue Gruner",
+            "Allée B",
+            "CS 90509"
+          ],
+          "CodePostal": "42007",
+          "NomCommune": "Saint-Étienne Cedex 1",
+          "Localisation": {
+            "Latitude": "45.4396371",
+            "Longitude": "4.387831",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 43 81 82",
+          "Télécopie": "04 77 43 81 26",
+          "Email": "ddt-svh-ahp@loire.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil ouvert l'après-midi du lundi au jeudi  uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

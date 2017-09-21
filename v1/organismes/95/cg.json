@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07091999054,
+          49.0348892212
+        ]
+      },
+      "properties": {
+        "id": "cg-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Val-d’Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "2 avenue du Parc",
+            "CS 20201"
+          ],
+          "CodePostal": "95032",
+          "NomCommune": "Cergy-Pontoise Cedex",
+          "Localisation": {
+            "Latitude": "49.0348892212",
+            "Longitude": "2.07091999054",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 34 25 30 30",
+          "Télécopie": "01 34 25 33 00",
+          "Url": "http://www.valdoise.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

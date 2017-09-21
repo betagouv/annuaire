@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0718564,
+          49.4290422
+        ]
+      },
+      "properties": {
+        "id": "crib-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Association profession sport et loisirs de l'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre des Tanneurs",
+            "7 rue des Tanneurs"
+          ],
+          "CodePostal": "60000",
+          "NomCommune": "Beauvais",
+          "Localisation": {
+            "Latitude": "49.4290422",
+            "Longitude": "2.0718564",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur 2e étage"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 15 11 38",
+          "Télécopie": "03 44 15 45 98",
+          "Email": "picardie@profession-sport-loisirs.fr",
+          "Url": "http://www.picardie.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

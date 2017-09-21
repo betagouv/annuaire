@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86168799999996,
+          47.6382086
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture de Belfort",
+            "1 rue Bartholdi"
+          ],
+          "CodePostal": "90020",
+          "NomCommune": "Belfort Cedex",
+          "Localisation": {
+            "Latitude": "47.6382086",
+            "Longitude": "6.86168799999996",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 57 16 96",
+          "Télécopie": "03 84 57 15 95",
+          "Email": "pref-associations@territoire-de-belfort.gouv.fr",
+          "Url": "http://www.territoire-de-belfort.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16484319999995,
+          47.6337311
+        ]
+      },
+      "properties": {
+        "id": "greta-70550-01",
+        "codeInsee": "70550",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Formation 70",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 rue Édouard-Belin",
+            "BP 404"
+          ],
+          "CodePostal": "70014",
+          "NomCommune": "Vesoul Cedex",
+          "Localisation": {
+            "Latitude": "47.6337311",
+            "Longitude": "6.16484319999995",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 76 07 46",
+          "Télécopie": "03 84 75 15 11",
+          "Email": "greta.formation.70@ac-besancon.fr",
+          "Url": "http://www.greta.ac-besancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

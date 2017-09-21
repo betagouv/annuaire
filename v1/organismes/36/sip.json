@@ -1,0 +1,318 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5149561,
+          46.5941816
+        ]
+      },
+      "properties": {
+        "id": "sip-36006-01",
+        "codeInsee": "36006",
+        "dateMiseAJour": "2015-04-20",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques d'Argenton-sur-Creuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 route de Châteauroux",
+            "BP 9"
+          ],
+          "CodePostal": "36200",
+          "NomCommune": "Argenton-sur-Creuse",
+          "Localisation": {
+            "Latitude": "46.5941816",
+            "Longitude": "1.5149561",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 01 56 59",
+          "Email": "sip-sie.argenton-sur-creuse@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé au public le lundi matin et le vendredi après-midi."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9871237,
+          46.9418864
+        ]
+      },
+      "properties": {
+        "id": "sip-36088-01",
+        "codeInsee": "36088",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques d'Issoudun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue de la Caserne",
+            "BP 169"
+          ],
+          "CodePostal": "36105",
+          "NomCommune": "Issoudun Cedex",
+          "Localisation": {
+            "Latitude": "46.9418864",
+            "Longitude": "1.9871237",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 03 48 10",
+          "Email": "sip-sie.issoudun@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        },
+        "Commentaire": "Fermeture les mercredi et vendredi après-midi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6887109,
+          46.8063574
+        ]
+      },
+      "properties": {
+        "id": "sip-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 bis rue du 14e-Régiment-des-Tirailleurs-Algériens",
+            "BP 597"
+          ],
+          "CodePostal": "36019",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8063574",
+            "Longitude": "1.6887109",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 53 16 36",
+          "Email": "sip.chateauroux@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Fermeture mercredi après-midi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9866223,
+          46.5784004
+        ]
+      },
+      "properties": {
+        "id": "sip-36046-01",
+        "codeInsee": "36046",
+        "dateMiseAJour": "2017-08-30",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de La Châtre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place du Général-de-Gaulle",
+          "CodePostal": "36400",
+          "NomCommune": "La Châtre",
+          "Localisation": {
+            "Latitude": "46.5784004",
+            "Longitude": "1.9866223",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 62 14 43",
+          "Email": "sip-sie.la-chatre@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé au public lundi matin et vendredi après-midi."
+          }
+        },
+        "Commentaire": "Fermeture les lundi et vendredi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0702619,
+          46.6329056
+        ]
+      },
+      "properties": {
+        "id": "sip-36018-01",
+        "codeInsee": "36018",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques du Blanc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 rue Jules-Ferry",
+            "BP 209"
+          ],
+          "CodePostal": "36300",
+          "NomCommune": "Le Blanc",
+          "Localisation": {
+            "Latitude": "46.6329056",
+            "Longitude": "1.0702619",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 28 34 01",
+          "Email": "sip-sie.le-blanc@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermeture au publie le lundi matin et le vendredi après-midi."
+          }
+        },
+        "Commentaire": "Fermeture lundi et vendredi"
+      }
+    }
+  ]
+}

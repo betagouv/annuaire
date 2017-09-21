@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7385911,
+          45.9910458
+        ]
+      },
+      "properties": {
+        "id": "urssaf-69264-01",
+        "codeInsee": "69264",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site de Villefranche-sur-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "85 rue Georges-Meunier",
+            "CodePostal": "69400",
+            "NomCommune": "Villefranche-sur-Saône",
+            "Localisation": {
+              "Latitude": "45.9910458",
+              "Longitude": "4.7385911",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 61021"
+            ],
+            "CodePostal": "69833",
+            "NomCommune": "Saint-Priest Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.rhonealpes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8638146,
+          45.6999396
+        ]
+      },
+      "properties": {
+        "id": "urssaf-69259-01",
+        "codeInsee": "69259",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - siège social - site de Vénissieux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "6 rue du 19-Mars-1962",
+            "CodePostal": "69200",
+            "NomCommune": "Vénissieux",
+            "Localisation": {
+              "Latitude": "45.6999396",
+              "Longitude": "4.8638146",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 61021"
+            ],
+            "CodePostal": "69833",
+            "NomCommune": "Saint-Priest Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.rhonealpes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

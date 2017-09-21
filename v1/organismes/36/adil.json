@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.703094,
+          46.8102377
+        ]
+      },
+      "properties": {
+        "id": "adil-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre Colbert",
+            "Batiment I",
+            "1 place Eugène-Rolland"
+          ],
+          "CodePostal": "36000",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.8102377",
+            "Longitude": "1.703094",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 27 37 37",
+          "Télécopie": "02 54 08 64 71",
+          "Email": "adil.36@wanadoo.fr",
+          "Url": "http://www.adil36.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

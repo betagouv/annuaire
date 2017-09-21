@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1515911,
+          46.1699203
+        ]
+      },
+      "properties": {
+        "id": "ddpp-17300-01",
+        "codeInsee": "17300",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Charente-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, avenue de Fétilly",
+            "CS 40263"
+          ],
+          "CodePostal": "17012",
+          "NomCommune": "La Rochelle Cedex 1",
+          "Localisation": {
+            "Latitude": "46.1699203",
+            "Longitude": "-1.1515911",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 46 68 60 00",
+          "Télécopie": "+33 5 46 68 06 93",
+          "Email": "ddpp@charente-maritime.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.967303,
+          48.06845
+        ]
+      },
+      "properties": {
+        "codeInsee": "56178",
+        "dateMiseAJour": "2015-09-10",
+        "id": "mjd-56178-01",
+        "idPresta": "56092ca7b473e45041ae9f3c",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit de Pontivy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Bisson",
+          "CodePostal": "56300",
+          "NomCommune": "PONTIVY",
+          "Localisation": {
+            "Latitude": "48.06845",
+            "Longitude": "-2.967303",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 27 39 63",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

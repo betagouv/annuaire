@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87048,
+          46.170089
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de la Creuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Varillas",
+          "CodePostal": "23000",
+          "NomCommune": "Guéret",
+          "Localisation": {
+            "Latitude": "46.170089",
+            "Longitude": "1.87048",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)",
+            "$t": "0810 01 23 23"
+          },
+          "Télécopie": "+33 5 55 52 81 08",
+          "Email": "ddcspp@creuse.gouv.fr",
+          "Url": "http://www.creuse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

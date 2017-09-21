@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3784951,
+          43.290078
+        ]
+      },
+      "properties": {
+        "id": "caa-13206-01",
+        "codeInsee": "13206",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Marseille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "45 boulevard Paul-Peytral",
+          "CodePostal": "13291",
+          "NomCommune": "Marseille Cedex 6",
+          "Localisation": {
+            "Latitude": "43.290078",
+            "Longitude": "5.3784951",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 91 04 45 45",
+          "Télécopie": "04 91 04 45 00",
+          "Email": "greffe.caa-marseille@juradm.fr",
+          "Url": "http://www.marseille.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

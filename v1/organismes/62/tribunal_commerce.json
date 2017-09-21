@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60868237959,
+          50.7263439412
+        ]
+      },
+      "properties": {
+        "codeInsee": "62160",
+        "dateMiseAJour": "2016-08-26",
+        "id": "tribunal_commerce-62160-01",
+        "idPresta": "4eb263322935944ef50001b4",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Boulogne-sur-Mer",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16 rue de la Barrière Saint Michel",
+            "CS 40047"
+          ],
+          "CodePostal": "62200",
+          "NomCommune": "BOULOGNE SUR MER",
+          "Localisation": {
+            "Latitude": "50.7263439412",
+            "Longitude": "1.60868237959",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 87 47 67",
+          "Email": "mailto:tc-boulogne-sur-mer@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.768465,
+          50.293677
+        ]
+      },
+      "properties": {
+        "codeInsee": "62041",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-62041-01",
+        "idPresta": "4eb263322935944ef50001b3",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce d'Arras",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 rue Salengro",
+          "CodePostal": "62000",
+          "NomCommune": "ARRAS",
+          "Localisation": {
+            "Latitude": "50.293677",
+            "Longitude": "2.768465",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 51 01 04",
+          "Télécopie": "+33 3 21 23 46 56",
+          "Email": "mailto:tc-arras@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

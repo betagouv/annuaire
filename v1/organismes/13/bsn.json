@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568389,
+          43.2896173
+        ]
+      },
+      "properties": {
+        "id": "bsn-13203-01",
+        "codeInsee": "13203",
+        "dateMiseAJour": "2015-12-15",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Marseille (04, 05, 13)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caserne Audéoud",
+              "111, avenue de la Corse"
+            ],
+            "CodePostal": "13007",
+            "NomCommune": "Marseille",
+            "Localisation": {
+              "Latitude": "43.2896173",
+              "Longitude": "5.3568389",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Base de défense Marseille-Aubagne",
+              "BP 40026"
+            ],
+            "CodePostal": "13568",
+            "NomCommune": "Marseille Cedex 2"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 01 52 46",
+          "Email": "http://www.defense.gouv.fr/jdc/contact-jdc/(recipient)/94596",
+          "Url": "http://www.defense.gouv.fr",
+          "Sve": "http://www.defense.gouv.fr/portail-defense/rubriques-complementaires/contact"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

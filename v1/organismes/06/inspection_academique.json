@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2758364,
+          43.7305054
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "53 avenue Cap-de-Croix",
+          "CodePostal": "06181",
+          "NomCommune": "Nice Cedex 2",
+          "Localisation": {
+            "Latitude": "43.7305054",
+            "Longitude": "7.2758364",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 93 72 63 00",
+          "Télécopie": "04 93 72 63 63",
+          "Email": "ia06@ac-nice.fr",
+          "Url": "http://www.ac-nice.fr.ia06"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

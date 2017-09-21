@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3706673,
+          43.8124217
+        ]
+      },
+      "properties": {
+        "id": "maia-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2013-11-27",
+        "pivotLocal": "maia",
+        "Nom": "Mission d'accueil et d'information des associations (Maia) - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Mas de l'agriculture",
+            "1120, route de Saint-Gilles",
+            "BP 39081"
+          ],
+          "CodePostal": "30972",
+          "NomCommune": "Nîmes Cedex 9",
+          "Localisation": {
+            "Latitude": "43.8124217",
+            "Longitude": "4.3706673",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 08 61 23",
+          "Email": "isabelle.knowles@gard.gouv.fr",
+          "Url": "http://www.associations.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

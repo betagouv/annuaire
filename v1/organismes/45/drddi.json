@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90274000168,
+          47.9073982239
+        ]
+      },
+      "properties": {
+        "id": "drddi-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Centre-Val de Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 boulevard de Verdun",
+          "CodePostal": "45000",
+          "NomCommune": "Orléans",
+          "Localisation": {
+            "Latitude": "47.9073982239",
+            "Longitude": "1.90274000168",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 65 00",
+          "Télécopie": "02 38 62 92 73",
+          "Email": "dr-centre@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07631492615,
+          44.5574874878
+        ]
+      },
+      "properties": {
+        "id": "prefecture-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2014-01-14",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture des Hautes-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28, rue Saint-Arey",
+            "CS 66002"
+          ],
+          "CodePostal": "05011",
+          "NomCommune": "Gap Cedex",
+          "Localisation": {
+            "Latitude": "44.5574874878",
+            "Longitude": "6.07631492615",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 40 48 00",
+          "Télécopie": "+33 4 92 53 79 49",
+          "Email": "prefecture@hautes-alpes.gouv.fr",
+          "Url": "http://www.hautes-alpes.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Les guichets \"permis de conduire\" \"cartes grises\" \"état civil\" et \"étrangers\" sont ouverts: les lundi, mardi, jeudi, vendredi de 9h à 12h et le mercredi en continu de 9h à 13h30."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0632768,
+          48.3009929
+        ]
+      },
+      "properties": {
+        "id": "cio-10387-01",
+        "codeInsee": "10387",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Troyes - Bar-sur-Aube",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2, rue Fernand-Giroux",
+          "CodePostal": "10000",
+          "NomCommune": "Troyes",
+          "Localisation": {
+            "Latitude": "48.3009929",
+            "Longitude": "4.0632768",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 76 06 30",
+          "Email": "cio-troyes@ac-reims.fr",
+          "Url": "http://www.ciotroyes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7186699,
+          48.5167115
+        ]
+      },
+      "properties": {
+        "id": "cio-10323-01",
+        "codeInsee": "10323",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Romilly-sur-Seine - Sézanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "71 avenue Jean-Jaurès",
+          "CodePostal": "10100",
+          "NomCommune": "Romilly-sur-Seine",
+          "Localisation": {
+            "Latitude": "48.5167115",
+            "Longitude": "3.7186699",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 24 77 54",
+          "Télécopie": "03 25 24 56 67",
+          "Email": "cio-romilly@ac-reims.fr",
+          "Url": "http://www.ac-reims.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Rendez-vous avec les conseillers d'orientation psychologues uniquement l'après-midi hors vacances scolaires et accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et de 13h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

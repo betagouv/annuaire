@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34849,
+          49.1996115
+        ]
+      },
+      "properties": {
+        "id": "ddt-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires et de la mer (DDTM) - Calvados",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10, boulevard du Général-Vanier",
+            "CS 75224"
+          ],
+          "CodePostal": "14052",
+          "NomCommune": "Caen Cedex 4",
+          "Localisation": {
+            "Latitude": "49.1996115",
+            "Longitude": "-0.34849",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 31 43 15 00",
+          "Télécopie": "+33 2 31 44 59 87",
+          "Email": "ddtm@calvados.gouv.fr",
+          "Url": "http://www.calvados.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

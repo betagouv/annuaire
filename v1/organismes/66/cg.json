@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8932909,
+          42.69995
+        ]
+      },
+      "properties": {
+        "id": "cg-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "24 quai Sadi-Carnot"
+          ],
+          "CodePostal": "66009",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.69995",
+            "Longitude": "2.8932909",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 85 85 85",
+          "Email": "cd66@cd66.fr",
+          "Url": "http://www.ledepartement66.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

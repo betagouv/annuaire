@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.578672,
+          44.876269
+        ]
+      },
+      "properties": {
+        "id": "urssaf-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Nouvelle-Aquitaine - siège social - site de Bordeaux  -Bruges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Quartier du Lac",
+              "3 rue Théodore-Blanc"
+            ],
+            "CodePostal": "33520",
+            "NomCommune": "Bruges",
+            "Localisation": {
+              "Latitude": "44.876269",
+              "Longitude": "-0.578672",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Nouvelle-Aquitaine",
+              "3 rue Théodore-Blanc"
+            ],
+            "CodePostal": "33084",
+            "NomCommune": "Bordeaux Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.aquitaine.urssaf.fr"
+        },
+        "Commentaire": "Accueil du lundi au vendredi uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 17h. Fermeture de l'accueil pour cause de travaux du 13 juillet 2017 au 30 mars 2018"
+      }
+    }
+  ]
+}

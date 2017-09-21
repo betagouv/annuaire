@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8821668,
+          46.1698928
+        ]
+      },
+      "properties": {
+        "id": "cci-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Creuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'économie",
+            "8 avenue d'Auvergne"
+          ],
+          "CodePostal": "23000",
+          "NomCommune": "Guéret",
+          "Localisation": {
+            "Latitude": "46.1698928",
+            "Longitude": "1.8821668",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 51 96 60",
+          "Télécopie": "05 55 52 98 75",
+          "Email": "contact@creuse.cci.fr",
+          "Url": "http://www.creuse.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

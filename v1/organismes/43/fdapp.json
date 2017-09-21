@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88282990456,
+          45.0304985046
+        ]
+      },
+      "properties": {
+        "id": "fdapp-43157-01",
+        "codeInsee": "43157",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Haute-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de la Pêche",
+            "32 rue Henri-Chas"
+          ],
+          "CodePostal": "43000",
+          "NomCommune": "Le Puy-en-Velay",
+          "Localisation": {
+            "Latitude": "45.0304985046",
+            "Longitude": "3.88282990456",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 09 09 44",
+          "Email": "federation43@pechehauteloire.fr",
+          "Url": "http://www.pechehauteloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

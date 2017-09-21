@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9156447,
+          44.9170867
+        ]
+      },
+      "properties": {
+        "id": "cci-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "52-74 rue Barthélemy-de-Laffemas",
+            "BP 1023"
+          ],
+          "CodePostal": "26010",
+          "NomCommune": "Valence Cedex",
+          "Localisation": {
+            "Latitude": "44.9170867",
+            "Longitude": "4.9156447",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 75 70 00",
+          "Télécopie": "04 75 43 72 03",
+          "Email": "ccidirect@drome.cci.fr",
+          "Url": "http://www.drome.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique de 9h à 12h et de 14h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

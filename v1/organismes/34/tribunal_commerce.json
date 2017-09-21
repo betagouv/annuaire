@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.901979,
+          43.595693
+        ]
+      },
+      "properties": {
+        "codeInsee": "34172",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-34172-01",
+        "idPresta": "4eb2622a2935944ef500002b",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Montpellier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Méditerranée",
+            "9 rue de Tarragone"
+          ],
+          "CodePostal": "34070",
+          "NomCommune": "MONTPELLIER",
+          "Localisation": {
+            "Latitude": "43.595693",
+            "Longitude": "3.901979",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 60 80 88",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226781,
+          43.335765
+        ]
+      },
+      "properties": {
+        "codeInsee": "34032",
+        "dateMiseAJour": "2016-08-26",
+        "id": "tribunal_commerce-34032-01",
+        "idPresta": "4eb263092935944ef50000f9",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Béziers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "93 avenue du président Wilson",
+          "CodePostal": "34500",
+          "NomCommune": "BEZIERS",
+          "Localisation": {
+            "Latitude": "43.335765",
+            "Longitude": "3.226781",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 17 34 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7356612,
+          41.9190005
+        ]
+      },
+      "properties": {
+        "id": "commissariat_police-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-06-13",
+        "pivotLocal": "commissariat_police",
+        "Nom": "Hôtel de police d'Ajaccio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Général-Fiorella",
+          "CodePostal": "20000",
+          "NomCommune": "Ajaccio",
+          "Localisation": {
+            "Latitude": "41.9190005",
+            "Longitude": "8.7356612",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 11 17 99",
+          "Email": "ddspaa2a-cic@interieur.gouv.fr",
+          "Url": "http://www.police-nationale.interieur.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

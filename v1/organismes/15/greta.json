@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4517539,
+          44.9354809
+        ]
+      },
+      "properties": {
+        "id": "greta-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Monts du Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Jean-Monnet",
+            "10 rue du Docteur-Chibret",
+            "BP 535"
+          ],
+          "CodePostal": "15005",
+          "NomCommune": "Aurillac Cedex",
+          "Localisation": {
+            "Latitude": "44.9354809",
+            "Longitude": "2.4517539",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 45 49 50",
+          "Télécopie": "04 71 45 49 51",
+          "Email": "greta.monts-cantal@ac-clermont.fr",
+          "Url": "http://www.greta-auvergne.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

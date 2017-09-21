@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8995793,
+          47.914756
+        ]
+      },
+      "properties": {
+        "id": "anah-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "131 faubourg Bannier",
+            "CodePostal": "45042",
+            "NomCommune": "Orleans Cedex",
+            "Localisation": {
+              "Latitude": "47.914756",
+              "Longitude": "1.8995793",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Préfecture du Loiret",
+              "Délégation locale de l'Anah",
+              "Direction départementale des territoires",
+              "181 rue de Bourgogne"
+            ],
+            "CodePostal": "45042",
+            "NomCommune": "Orleans Cedex 1"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 52 47 75",
+          "Télécopie": "02 38 52 47 41",
+          "Email": "ddt-anah@loiret.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "12:15:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h30 à 12h15 et l'après-midi uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157897,
+          47.623709
+        ]
+      },
+      "properties": {
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-04-07",
+        "id": "tgi-70550-01",
+        "idPresta": "4cac9e61293594648a0005ec",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Vesoul",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14 place du 11ème chasseurs",
+          "CodePostal": "70000",
+          "NomCommune": "VESOUL",
+          "Localisation": {
+            "Latitude": "47.623709",
+            "Longitude": "6.157897",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 78 58 00",
+          "Télécopie": "+33 3 84 76 24 32",
+          "Email": "mailto:tgi-vesoul@justice.fr et accueil-vesoul@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

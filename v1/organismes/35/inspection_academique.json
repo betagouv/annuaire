@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6717351,
+          48.1103181
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 quai Dujardin",
+          "CodePostal": "35000",
+          "NomCommune": "Rennes",
+          "Localisation": {
+            "Latitude": "48.1103181",
+            "Longitude": "-1.6717351",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 25 10 20",
+          "Télécopie": "02 99 25 10 13",
+          "Email": "ce.dsden35@ac-rennes.fr",
+          "Url": "http://www.ia35.ac-rennes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

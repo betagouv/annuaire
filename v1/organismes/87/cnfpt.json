@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.26174604893,
+          45.8285217285
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Nouvelle-Aquitaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Chéops 87",
+            "55 rue de l'Ancienne-École-Normale-d'Instituteurs",
+            "BP 339"
+          ],
+          "CodePostal": "87009",
+          "NomCommune": "Limoges Cedex",
+          "Localisation": {
+            "Latitude": "45.8285217285",
+            "Longitude": "1.26174604893",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 30 08 70",
+          "Télécopie": "05 55 30 08 89",
+          "Email": "contact.limousin@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

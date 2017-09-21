@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.071075,
+          47.407612
+        ]
+      },
+      "properties": {
+        "id": "fdc-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lieu-dit les Essarts",
+            "Route départementale 105",
+            "CS 130"
+          ],
+          "CodePostal": "21490",
+          "NomCommune": "Norge-la-Ville  Cedex",
+          "Localisation": {
+            "Latitude": "47.407612",
+            "Longitude": "5.071075",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 53 00 75",
+          "Télécopie": "03 80 53 00 74",
+          "Email": "accueil@fdc21.com",
+          "Url": "http://www.fdc21.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4390743,
+          48.8424782
+        ]
+      },
+      "properties": {
+        "id": "bsn-75112-01",
+        "codeInsee": "75112",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Paris (75, 77, 93, 94, Saint-Pierre-et-Miquelon)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Fort Neuf de Vincennes",
+            "Cours des Maréchaux",
+            "Case 158"
+          ],
+          "CodePostal": "75614",
+          "NomCommune": "Paris Cedex 12",
+          "Localisation": {
+            "Latitude": "48.8424782",
+            "Longitude": "2.4390743",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 79 84 90 00",
+          "Email": "csn-paris.jdc.fct@intradef.gouv.fr",
+          "Url": "http://www.defense.gouv.frjdc"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "15:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

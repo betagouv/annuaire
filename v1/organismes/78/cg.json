@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13112401962,
+          48.8023300171
+        ]
+      },
+      "properties": {
+        "id": "cg-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-01-20",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place André-Mignot",
+          "CodePostal": "78012",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.8023300171",
+            "Longitude": "2.13112401962",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 39 07 78 78",
+          "Télécopie": "01 39 07 89 98",
+          "Email": "https://www.yvelines.fr/contact",
+          "Url": "http://www.yvelines.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "'09:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "'09:00:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

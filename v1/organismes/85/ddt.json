@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4126353,
+          46.6652466
+        ]
+      },
+      "properties": {
+        "id": "ddt-85191-01",
+        "codeInsee": "85191",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires et de la mer (DDTM) - Vendée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19, rue Montesquieu",
+            "BP 60827"
+          ],
+          "CodePostal": "85021",
+          "NomCommune": "La Roche-sur-Yon Cedex",
+          "Localisation": {
+            "Latitude": "46.6652466",
+            "Longitude": "-1.4126353",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 44 32 32",
+          "Télécopie": "+33 2 51 05 57 63",
+          "Email": "ddtm@vendee.gouv.fr",
+          "Url": "http://www.vendee.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

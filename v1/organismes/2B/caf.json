@@ -1,0 +1,349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.44458007812,
+          42.7033004761
+        ]
+      },
+      "properties": {
+        "id": "caf-2B096-01",
+        "codeInsee": "2B096",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Corse - accueil de Corte",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "34 cours Paoli",
+              "Bâtiment B"
+            ],
+            "CodePostal": "20250",
+            "NomCommune": "Corte",
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Corse",
+              "7 avenue Jean-Zuccarelli"
+            ],
+            "CodePostal": "20408",
+            "NomCommune": "Bastia Cedex 9",
+            "Localisation": {
+              "Latitude": "42.7033004761",
+              "Longitude": "9.44458007812",
+              "Précision": "6"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 20 20"
+          },
+          "Url": "http://www.caf.fr"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4972048,
+          42.3656825
+        ]
+      },
+      "properties": {
+        "id": "caf-2B313-01",
+        "codeInsee": "2B313",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Corse - accueil de Moriani",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services départementaux en Costa-Verde",
+              "Route de San-Nicolao"
+            ],
+            "CodePostal": "20230",
+            "NomCommune": "Moriani",
+            "Localisation": {
+              "Latitude": "42.3656825",
+              "Longitude": "9.4972048",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Corse",
+              "7 avenue Jean-Zuccarelli"
+            ],
+            "CodePostal": "20408",
+            "NomCommune": "Bastia Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 20 20"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9434225,
+          42.6321088
+        ]
+      },
+      "properties": {
+        "id": "caf-2B134-01",
+        "codeInsee": "2B134",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Corse - accueil de L'Île-Rousse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre Jean-Simi",
+              "6 avenue Paul-Doumer"
+            ],
+            "CodePostal": "20220",
+            "NomCommune": "L'Île-Rousse",
+            "Localisation": {
+              "Latitude": "42.6321088",
+              "Longitude": "8.9434225",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Corse",
+              "7 avenue Jean-Zuccarelli"
+            ],
+            "CodePostal": "20408",
+            "NomCommune": "Bastia Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 20 20"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4036397934,
+          42.0164985657
+        ]
+      },
+      "properties": {
+        "id": "caf-2B123-01",
+        "codeInsee": "2B123",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Corse - accueil de Ghisonaccia",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Hôtel de Ville",
+            "CodePostal": "20240",
+            "NomCommune": "Ghisonaccia",
+            "Localisation": {
+              "Latitude": "42.0164985657",
+              "Longitude": "9.4036397934",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Corse",
+              "7 avenue Jean-Zuccarelli"
+            ],
+            "CodePostal": "20408",
+            "NomCommune": "Bastia Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 20 20"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0522416,
+          49.4076431
+        ]
+      },
+      "properties": {
+        "id": "caf-2B050-01",
+        "codeInsee": "2B050",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Corse - accueil de Calvi",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre Cardellu",
+              "Chemin de Santore"
+            ],
+            "CodePostal": "20260",
+            "NomCommune": "Calvi",
+            "Localisation": {
+              "Latitude": "49.4076431",
+              "Longitude": "1.0522416",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Corse",
+              "7 avenue Jean-Zuccarelli"
+            ],
+            "CodePostal": "20408",
+            "NomCommune": "Bastia Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 20 20"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

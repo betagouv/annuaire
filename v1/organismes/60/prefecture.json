@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07387709618,
+          49.4344406128
+        ]
+      },
+      "properties": {
+        "id": "prefecture-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture de l'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, place de la Préfecture",
+          "CodePostal": "60022",
+          "NomCommune": "Beauvais Cedex",
+          "Localisation": {
+            "Latitude": "49.4344406128",
+            "Longitude": "2.07387709618",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 06 12 60",
+          "Télécopie": "+33 3 44 06 10 24",
+          "Url": "http://www.oise.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Service permis de conduire ouvert uniquement de 08h30 à 12h"
+          }
+        }
+      }
+    }
+  ]
+}

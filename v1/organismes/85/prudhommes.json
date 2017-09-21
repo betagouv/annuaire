@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.452364,
+          46.681991
+        ]
+      },
+      "properties": {
+        "codeInsee": "85191",
+        "dateMiseAJour": "2016-12-02",
+        "id": "prudhommes-85191-01",
+        "idPresta": "4cac9e60293594648a00035c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de La Roche-sur-Yon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 impasse Gaston Chavatte",
+            "CS 60758"
+          ],
+          "CodePostal": "85018",
+          "NomCommune": "LA ROCHE SUR YON CEDEX",
+          "Localisation": {
+            "Latitude": "46.681991",
+            "Longitude": "-1.452364",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 37 43 16",
+          "Télécopie": "+33 2 51 47 91 34",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.783228,
+          46.498713
+        ]
+      },
+      "properties": {
+        "codeInsee": "85194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-85194-01",
+        "idPresta": "4cac9e60293594648a00035d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes des Sables d'Olonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue Nicot",
+          "CodePostal": "85100",
+          "NomCommune": "LES SABLES D OLONNE",
+          "Localisation": {
+            "Latitude": "46.498713",
+            "Longitude": "-1.783228",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 32 01 39",
+          "Télécopie": "+33 2 51 23 93 40",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

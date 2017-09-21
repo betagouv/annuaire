@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4297806,
+          43.611152
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2012-08-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10, place Alphonse-Jourdain",
+          "CodePostal": "31000",
+          "NomCommune": "Toulouse",
+          "Localisation": {
+            "Latitude": "43.611152",
+            "Longitude": "1.4297806",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+            "$t": "0800 31 01 31"
+          },
+          "Url": "http://www.social-sante.gouv.fr/espaces,770/handicap,775/dossiers,806/les-maisons-departementales-des,1087/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

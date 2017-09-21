@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15111,
+          49.0245
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Boulevard Georges-Chauvin"
+          ],
+          "CodePostal": "27023",
+          "NomCommune": "Évreux Cedex",
+          "Localisation": {
+            "Latitude": "49.0245",
+            "Longitude": "1.15111",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 24 86 50",
+          "Télécopie": "02 32 24 86 95",
+          "Email": "hnorm-ut27.direction@direccte.gouv.fr",
+          "Url": "http://www.normandie.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

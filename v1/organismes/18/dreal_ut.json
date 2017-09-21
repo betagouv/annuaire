@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41854,
+          47.0766
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Cher et Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 place de la Pyrotechnie",
+            "CS 70004"
+          ],
+          "CodePostal": "18021",
+          "NomCommune": "Bourges Cedex",
+          "Localisation": {
+            "Latitude": "47.0766",
+            "Longitude": "2.41854",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 34 34 63 40",
+          "Télécopie": "02 34 34 63 10",
+          "Email": "ud18.dreal-centre@developpement-durable.gouv.fr",
+          "Url": "http://www.centre.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4669377,
+          43.5382329
+        ]
+      },
+      "properties": {
+        "codeInsee": "83050",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-83050-01",
+        "idPresta": "4cac9e61293594648a0004ed",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Draguignan",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Point d'Accès au droit de la Dracenie",
+            "19 rue de Trans"
+          ],
+          "CodePostal": "83300",
+          "NomCommune": "DRAGUIGNAN",
+          "Localisation": {
+            "Latitude": "43.5382329",
+            "Longitude": "6.4669377",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 98 10 29 20",
+          "Télécopie": "+33 4 98 10 29 21",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.730138,
+          43.43012
+        ]
+      },
+      "properties": {
+        "codeInsee": "83061",
+        "dateMiseAJour": "2017-04-04",
+        "id": "permanence_juridique-83061-01",
+        "idPresta": "4cac9e61293594648a0004ee",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Fréjus",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "63 rue de l'Argentière,",
+            "Centre d'Animation de Villeneuve"
+          ],
+          "CodePostal": "83600",
+          "NomCommune": "FREJUS",
+          "Localisation": {
+            "Latitude": "43.43012",
+            "Longitude": "6.730138",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 51 76 42",
+          "Email": "mailto:pad@ville-frejus.fr",
+          "Url": "http://www.ville-frejus.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1301943,
+          43.1213872
+        ]
+      },
+      "properties": {
+        "codeInsee": "83069",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-83069-01",
+        "idPresta": "4cac9e61293594648a0004ef",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Hyères",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Point d'Accès au droit",
+            "place de la République"
+          ],
+          "CodePostal": "83400",
+          "NomCommune": "HYERES",
+          "Localisation": {
+            "Latitude": "43.1213872",
+            "Longitude": "6.1301943",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 61 15 23",
+          "Email": "mailto:pad-hyeres@orange.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

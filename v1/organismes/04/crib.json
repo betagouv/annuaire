@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2391182,
+          44.0966554
+        ]
+      },
+      "properties": {
+        "id": "crib-04070-02",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif des Alpes-de-Haute-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 boulevard Saint-Jean-Thrysostome",
+          "CodePostal": "04000",
+          "NomCommune": "Digne-les-Bains",
+          "Localisation": {
+            "Latitude": "44.0966554",
+            "Longitude": "6.2391182",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 31 41 33",
+          "Email": "cdos-04@wanadoo.fr",
+          "Url": "http://www.alpesdehauteprovence.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.451391,
+          48.174486
+        ]
+      },
+      "properties": {
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-05-18",
+        "id": "tgi-88160-01",
+        "idPresta": "4cac9e6a293594648a0017bc",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Epinal",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Edmond Henry",
+          "CodePostal": "88026",
+          "NomCommune": "EPINAL CEDEX",
+          "Localisation": {
+            "Latitude": "48.174486",
+            "Longitude": "6.451391",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 34 53 53",
+          "Télécopie": "+33 3 29 34 07 35",
+          "Email": "mailto:tgi-epinal@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

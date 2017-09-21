@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440248,
+          44.447386
+        ]
+      },
+      "properties": {
+        "codeInsee": "46042",
+        "dateMiseAJour": "2016-11-25",
+        "id": "ti-46042-01",
+        "idPresta": "4cac9e6a293594648a0017eb",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Cahors",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "boulevard Léon Gambetta",
+            "BP 221"
+          ],
+          "CodePostal": "46004",
+          "NomCommune": "CAHORS CEDEX 9",
+          "Localisation": {
+            "Latitude": "44.447386",
+            "Longitude": "1.440248",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 23 46 70",
+          "Télécopie": "+33 5 65 23 46 78",
+          "Email": "mailto:ti-cahors@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.031046,
+          44.607417
+        ]
+      },
+      "properties": {
+        "codeInsee": "46102",
+        "dateMiseAJour": "2016-12-02",
+        "id": "ti-46102-01",
+        "idPresta": "4cac9e62293594648a000646",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Figeac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 boulevard Juskiewenski",
+            "BP 216"
+          ],
+          "CodePostal": "46100",
+          "NomCommune": "FIGEAC",
+          "Localisation": {
+            "Latitude": "44.607417",
+            "Longitude": "2.031046",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 50 03 20",
+          "Télécopie": "+33 5 65 50 08 24",
+          "Email": "mailto:ti-figeac@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.924892,
+          43.127632
+        ]
+      },
+      "properties": {
+        "codeInsee": "83137",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-83137-01",
+        "idPresta": "4cac9e60293594648a000350",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Toulon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "114 avenue Lazare Carnot",
+          "CodePostal": "83000",
+          "NomCommune": "TOULON",
+          "Localisation": {
+            "Latitude": "43.127632",
+            "Longitude": "5.924892",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 18 99 77",
+          "Télécopie": "+33 4 94 92 62 01",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73737,
+          43.434134
+        ]
+      },
+      "properties": {
+        "codeInsee": "83061",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-83061-01",
+        "idPresta": "4cac9e6a293594648a00170b",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Fréjus",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "272 rue Jean Jaurès",
+          "CodePostal": "83600",
+          "NomCommune": "FREJUS",
+          "Localisation": {
+            "Latitude": "43.434134",
+            "Longitude": "6.73737",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 52 32 06",
+          "Télécopie": "+33 4 94 52 24 26",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4647315,
+          43.5410942
+        ]
+      },
+      "properties": {
+        "codeInsee": "83050",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-83050-01",
+        "idPresta": "4cac9ed6293594648a00ed7c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Draguignan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "11 rue Pierre Clément BP 273"
+          ],
+          "CodePostal": "83007",
+          "NomCommune": "DRAGUIGNAN CEDEX",
+          "Localisation": {
+            "Latitude": "43.5410942",
+            "Longitude": "6.4647315",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 60 57 40",
+          "Télécopie": "+33 4 94 60 57 79",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

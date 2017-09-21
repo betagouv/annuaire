@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.12573003769,
+          49.0241012573
+        ]
+      },
+      "properties": {
+        "id": "crous-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2007-08-24",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des oeuvres universitaires et scolaires (CROUS) - Rouen - Antenne d'Évreux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Universitaire de l'Iton",
+            "46 avenue du Maréchal Foch"
+          ],
+          "CodePostal": "27000",
+          "NomCommune": "Évreux",
+          "Localisation": {
+            "Latitude": "49.0241012573",
+            "Longitude": "1.12573003769",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 32 33 79 14",
+          "Url": "http://www.rous-rouen.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

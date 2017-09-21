@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33337020874,
+          47.748500824
+        ]
+      },
+      "properties": {
+        "id": "cidf-68224-01",
+        "codeInsee": "68224",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Haut-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 avenue Kennedy",
+          "CodePostal": "68200",
+          "NomCommune": "Mulhouse",
+          "Localisation": {
+            "Latitude": "47.748500824",
+            "Longitude": "7.33337020874",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 60 45 43",
+          "Télécopie": "+33 9 70 62 13 93",
+          "Email": "cidff68@orange.fr",
+          "Url": "http://www.cidff68.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

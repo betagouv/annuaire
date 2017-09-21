@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71996212006,
+          49.760307312
+        ]
+      },
+      "properties": {
+        "id": "prefecture-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture des Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, place de la Préfecture",
+            "BP 60002"
+          ],
+          "CodePostal": "08005",
+          "NomCommune": "Charleville-Mézières Cedex",
+          "Localisation": {
+            "Latitude": "49.760307312",
+            "Longitude": "4.71996212006",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 24 59 66 00",
+          "Télécopie": "+33 3 24 58 35 21",
+          "Email": "prefecture@ardennes.gouv.fr",
+          "Url": "http://www.ardennes.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Tous les services ouvrent à 9h30 chaque 1er jeudi du mois"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.755834,
+          44.556384
+        ]
+      },
+      "properties": {
+        "codeInsee": "26198",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-26198-01",
+        "idPresta": "4cac9e5f293594648a000229",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Montélimar",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "BP 271"
+          ],
+          "CodePostal": "26207",
+          "NomCommune": "MONTELIMAR CEDEX",
+          "Localisation": {
+            "Latitude": "44.556384",
+            "Longitude": "4.755834",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 00 66 40",
+          "Télécopie": "+33 4 75 90 99 91",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927628,
+          44.930308
+        ]
+      },
+      "properties": {
+        "codeInsee": "26362",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-26362-01",
+        "idPresta": "4cac9e5f293594648a00022a",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Valence",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "\"Le Forum\" 7 avenue de Verdun",
+            "BP 2140"
+          ],
+          "CodePostal": "26021",
+          "NomCommune": "VALENCE CEDEX",
+          "Localisation": {
+            "Latitude": "44.930308",
+            "Longitude": "4.927628",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 43 09 85",
+          "Télécopie": "+33 4 75 43 34 58",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "17:15:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

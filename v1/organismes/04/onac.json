@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21726989746,
+          43.0536003113
+        ]
+      },
+      "properties": {
+        "id": "onac-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Alpes-de-Haute-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre administratif Romieu",
+            "Rue Pasteur",
+            "CS 70007"
+          ],
+          "CodePostal": "04000",
+          "NomCommune": "Digne-les-Bains",
+          "Localisation": {
+            "Latitude": "43.0536003113",
+            "Longitude": "2.21726989746",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 31 31 83",
+          "Email": "sd04@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:4/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "11:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

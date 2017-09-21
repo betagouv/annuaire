@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08677005768,
+          45.762298584
+        ]
+      },
+      "properties": {
+        "id": "crous-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Clermont-Ferrand",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 rue Étienne-Dolet",
+          "CodePostal": "63037",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.762298584",
+            "Longitude": "3.08677005768",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 34 64 20",
+          "Email": "https://usine.crous-clermont.fr/nous-contacter",
+          "Url": "http://www.crous-clermont.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique de 11h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

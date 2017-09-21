@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1048719,
+          49.4421588
+        ]
+      },
+      "properties": {
+        "id": "bsn-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Rouen (27, 28, 76)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mindef-csn Rouen",
+            "Caserne Philippon",
+            "56 rue Saint-Vivien",
+            "CS 11313"
+          ],
+          "CodePostal": "76178",
+          "NomCommune": "Rouen Cedex",
+          "Localisation": {
+            "Latitude": "49.4421588",
+            "Longitude": "1.1048719",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 08 20 40",
+          "Télécopie": "02 32 08 20 43",
+          "Email": "csn-rouen.jdc.fct@intradef.gouv.fr",
+          "Url": "http://www.defense.gouv.frjdc"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique uniquement."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil téléphonique uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

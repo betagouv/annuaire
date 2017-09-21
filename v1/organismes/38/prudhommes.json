@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.711582,
+          45.190629
+        ]
+      },
+      "properties": {
+        "codeInsee": "38185",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-38185-01",
+        "idPresta": "4cac9e5f293594648a00025c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Grenoble",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Firmin Gautier",
+            "BP 140"
+          ],
+          "CodePostal": "38019",
+          "NomCommune": "GRENOBLE CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.190629",
+            "Longitude": "5.711582",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 38 21 21 80",
+          "Télécopie": "+33 4 38 21 24 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8689088,
+          45.5195035
+        ]
+      },
+      "properties": {
+        "codeInsee": "38544",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-38544-01",
+        "idPresta": "4cac9e6a293594648a0016ec",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Vienne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 et 20 rue du 11 Novembre",
+          "CodePostal": "38200",
+          "NomCommune": "VIENNE",
+          "Localisation": {
+            "Latitude": "45.5195035",
+            "Longitude": "4.8689088",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 85 14 84",
+          "Télécopie": "+33 4 74 85 27 01",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2763355,
+          45.5892206
+        ]
+      },
+      "properties": {
+        "codeInsee": "38053",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-38053-01",
+        "idPresta": "4cac9ed6293594648a00ed67",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bourgoin-Jallieu",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "43 boulevard Saint Michel",
+          "CodePostal": "38300",
+          "NomCommune": "BOURGOIN JALLIEU",
+          "Localisation": {
+            "Latitude": "45.5892206",
+            "Longitude": "5.2763355",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 93 30 50",
+          "Télécopie": "+33 4 37 03 35 55",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

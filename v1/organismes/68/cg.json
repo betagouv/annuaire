@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3658314,
+          48.0721409
+        ]
+      },
+      "properties": {
+        "id": "cg-68066-01",
+        "codeInsee": "68066",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Haut-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "100 avenue d'Alsace",
+            "BP 20351"
+          ],
+          "CodePostal": "68006",
+          "NomCommune": "Colmar Cedex",
+          "Localisation": {
+            "Latitude": "48.0721409",
+            "Longitude": "7.3658314",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 30 68 68",
+          "Télécopie": "03 89 21 72 85",
+          "Email": "communication@haut-rhin.fr",
+          "Url": "http://www.haut-rhin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

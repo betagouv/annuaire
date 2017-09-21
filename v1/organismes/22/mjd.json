@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.468635,
+          48.733457
+        ]
+      },
+      "properties": {
+        "codeInsee": "22113",
+        "dateMiseAJour": "2010-12-16",
+        "id": "mjd-22113-01",
+        "idPresta": "51b08cb3b473e41478000a4a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Lannion",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15 quai Maréchal Foch",
+            "route de Loguivy"
+          ],
+          "CodePostal": "22300",
+          "NomCommune": "LANNION",
+          "Localisation": {
+            "Latitude": "48.733457",
+            "Longitude": "-3.468635",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 96 37 90 60",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.756013,
+          48.177776
+        ]
+      },
+      "properties": {
+        "codeInsee": "22136",
+        "dateMiseAJour": "2014-10-06",
+        "id": "mjd-22136-01",
+        "idPresta": "51b08ca9b473e41478000825",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit de Loudéac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue de Moncoutour",
+          "CodePostal": "22600",
+          "NomCommune": "LOUDEAC",
+          "Localisation": {
+            "Latitude": "48.177776",
+            "Longitude": "-2.756013",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 96 25 01 42",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

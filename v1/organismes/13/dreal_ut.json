@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38608,
+          43.2824
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-13208-01",
+        "codeInsee": "13208",
+        "dateMiseAJour": "2014-07-18",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "67-69, avenue du Prado",
+          "CodePostal": "13286",
+          "NomCommune": "Marseille Cedex 6",
+          "Localisation": {
+            "Latitude": "43.2824",
+            "Longitude": "5.38608",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 83 63 63",
+          "Url": "http://www.paca.developpement-durable.gouv.fr",
+          "Sve": "http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

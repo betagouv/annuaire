@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3886742,
+          49.1582794
+        ]
+      },
+      "properties": {
+        "id": "clic-55545-01",
+        "codeInsee": "55545",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Verdun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination gérontologique - Nord-Meusien",
+            "8 rue Couten"
+          ],
+          "CodePostal": "55100",
+          "NomCommune": "Verdun",
+          "Localisation": {
+            "Latitude": "49.1582794",
+            "Longitude": "5.3886742",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 86 99 31",
+          "Email": "jocelyne.chazal@meuse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1644059,
+          48.7736363
+        ]
+      },
+      "properties": {
+        "id": "clic-55029-01",
+        "codeInsee": "55029",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Bar-le-Duc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination - Délégation territoriale sud meusien",
+            "12 rue André-Theuriet"
+          ],
+          "CodePostal": "55000",
+          "NomCommune": "Bar-le-Duc",
+          "Localisation": {
+            "Latitude": "48.7736363",
+            "Longitude": "5.1644059",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 45 76 40",
+          "Email": "da@meuse.fr",
+          "Url": "http://www.meuse.fr"
+        },
+        "Commentaire": "Vous pouvez également contacter le 03 29 79 20 77 pour connaître les horaires de permanence."
+      }
+    }
+  ]
+}

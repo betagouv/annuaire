@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.561466,
+          50.4913256
+        ]
+      },
+      "properties": {
+        "id": "cdg-62178-01",
+        "codeInsee": "62178",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Labuissière",
+            "Allée du Château",
+            "BP 67"
+          ],
+          "CodePostal": "62702",
+          "NomCommune": "Bruay-la-Buissière Cedex",
+          "Localisation": {
+            "Latitude": "50.4913256",
+            "Longitude": "2.561466",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 52 99 50",
+          "Télécopie": "03 21 52 01 62",
+          "Url": "http://www.cdg62.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

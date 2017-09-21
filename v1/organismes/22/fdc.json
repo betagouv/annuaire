@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7575096,
+          48.5360144
+        ]
+      },
+      "properties": {
+        "id": "fdc-22187-01",
+        "codeInsee": "22187",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Côtes-d'Armor",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "La Prunelle",
+            "BP 214"
+          ],
+          "CodePostal": "22192",
+          "NomCommune": "Plérin Cedex",
+          "Localisation": {
+            "Latitude": "48.5360144",
+            "Longitude": "-2.7575096",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 96 74 74 29",
+          "Télécopie": "02 96 74 74 19",
+          "Email": "contact@fdc22.fr",
+          "Url": "http://www.fdc22.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

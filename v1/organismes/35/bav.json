@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.025655,
+          48.649354
+        ]
+      },
+      "properties": {
+        "codeInsee": "35288",
+        "dateMiseAJour": "2012-06-18",
+        "id": "bav-35288-01",
+        "idPresta": "51b08cddb473e41478001370",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de St Malo",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "CodePostal": "35417",
+          "NomCommune": "ST MALO CEDEX",
+          "Localisation": {
+            "Latitude": "48.649354",
+            "Longitude": "-2.025655",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 20 20 20",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.687764,
+          48.105575
+        ]
+      },
+      "properties": {
+        "codeInsee": "35238",
+        "dateMiseAJour": "2012-06-19",
+        "id": "bav-35238-01",
+        "idPresta": "51b08ca6b473e4147800074c",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Rennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Pierre Abélard",
+            "Cité Judiciaire CS 7317"
+          ],
+          "CodePostal": "35031",
+          "NomCommune": "RENNES CEDEX",
+          "Localisation": {
+            "Latitude": "48.105575",
+            "Longitude": "-1.687764",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 65 37 37",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

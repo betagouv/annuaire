@@ -1,0 +1,336 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.145,
+          50.623334
+        ]
+      },
+      "properties": {
+        "id": "suio-59009-01",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2015-07-08",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Lille 1 - Secteur sciences et technologies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Cité scientifique",
+          "CodePostal": "59655",
+          "NomCommune": "Villeneuve-d'Ascq Cedex",
+          "Localisation": {
+            "Latitude": "50.623334",
+            "Longitude": "3.145",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 20 05 87 49",
+          "Télécopie": "+33 3 20 05 87 48",
+          "Email": "suaio@univ-lille1.fr",
+          "Url": "http://www.univ-lille1.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5130262,
+          50.3254252
+        ]
+      },
+      "properties": {
+        "id": "suio-59606-01",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Valenciennes et du Hainaut-Cambrésis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Campus Mont-Houy",
+            "Maison des services à l'étudiant",
+            "Bâtiment 3",
+            "1er étage"
+          ],
+          "CodePostal": "59313",
+          "NomCommune": "Valenciennes Cedex 9",
+          "Localisation": {
+            "Latitude": "50.3254252",
+            "Longitude": "3.5130262",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 27 51 10 33",
+          "Télécopie": "03 27 51 10 00",
+          "Email": "orientation@univ-valenciennes.fr",
+          "Url": "http://www.univ-valenciennes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "12:45:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0756487,
+          50.6312819
+        ]
+      },
+      "properties": {
+        "id": "suio-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Lille 2",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "42 rue Paul-Duez",
+          "CodePostal": "59000",
+          "NomCommune": "Lille",
+          "Localisation": {
+            "Latitude": "50.6312819",
+            "Longitude": "3.0756487",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 96 52 80",
+          "Télécopie": "03 20 96 52 88",
+          "Email": "suaio@univ-lille2.fr",
+          "Url": "http://suaio.univ-lille2.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3710612,
+          51.0380253
+        ]
+      },
+      "properties": {
+        "id": "suio-59183-01",
+        "codeInsee": "59183",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Dunkerque - Littoral Côte d'Opale",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'étudiant",
+            "280 avenue de l'Université",
+            "BP 5526"
+          ],
+          "CodePostal": "59379",
+          "NomCommune": "Dunkerque Cedex",
+          "Localisation": {
+            "Latitude": "51.0380253",
+            "Longitude": "2.3710612",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 28 23 75 50",
+          "Email": "suaio@univ-littoral.fr",
+          "Url": "http://www.univ-littoral.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.145,
+          50.623334
+        ]
+      },
+      "properties": {
+        "id": "suio-59009-02",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Lille 3 - Secteur sciences humaines et sociales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Domaine universitaire du Pont-de-Bois",
+            "Rue du Barreau",
+            "BP 60149"
+          ],
+          "CodePostal": "59653",
+          "NomCommune": "Villeneuve-d'Ascq Cedex",
+          "Localisation": {
+            "Latitude": "50.623334",
+            "Longitude": "3.145",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 41 62 46",
+          "Email": "suaio@univ-lille3.fr",
+          "Url": "http://www.univ-lille3.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1566400528,
+          48.9978981018
+        ]
+      },
+      "properties": {
+        "id": "fdc-27017-01",
+        "codeInsee": "27017",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue de Melleville",
+          "CodePostal": "27930",
+          "NomCommune": "Angerville-la-Campagne",
+          "Localisation": {
+            "Latitude": "48.9978981018",
+            "Longitude": "1.1566400528",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 23 03 15",
+          "Télécopie": "02 32 23 22 75",
+          "Email": "chass.eure@wanadoo.fr",
+          "Url": "http://www.fdc27.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

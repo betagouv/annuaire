@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.035657,
+          47.245736
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2016-04-12",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Doubs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13-15 rue de la Préfecture",
+          "CodePostal": "25043",
+          "NomCommune": "Besançon Cedex",
+          "Localisation": {
+            "Latitude": "47.245736",
+            "Longitude": "6.035657",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 25 90 00",
+          "Télécopie": "+33 3 81 25 90 01",
+          "Email": "contact@mdph.doubs.fr",
+          "Url": "http://www.handicap.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

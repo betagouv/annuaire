@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45355987549,
+          42.7038002014
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-2B033-01",
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Haute-Corse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Le Palais de la mer",
+            "5 bis rue Chanoine-Leschi",
+            "BP 177"
+          ],
+          "CodePostal": "20293",
+          "NomCommune": "Bastia Cedex",
+          "Localisation": {
+            "Latitude": "42.7038002014",
+            "Longitude": "9.45355987549",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 34 59 59",
+          "Télécopie": "04 95 34 59 01",
+          "Email": "webia2b@ac-corse.fr",
+          "Url": "http://ia2b.ac-corse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi 8h à 12h et de 13h à 15h."
+          }
+        }
+      }
+    }
+  ]
+}

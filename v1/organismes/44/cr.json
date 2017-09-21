@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5260042,
+          47.2112839
+        ]
+      },
+      "properties": {
+        "id": "cr-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "cr",
+        "Nom": "Conseil régional - Pays de la Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel de Région",
+            "1 rue de la Loire"
+          ],
+          "CodePostal": "44966",
+          "NomCommune": "Nantes Cedex 9",
+          "Localisation": {
+            "Latitude": "47.2112839",
+            "Longitude": "-1.5260042",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 28 20 50 00",
+          "Télécopie": "02 28 20 50 05",
+          "Email": "accueil@paysdelaloire.fr",
+          "Url": "http://www.paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

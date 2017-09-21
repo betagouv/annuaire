@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.883505,
+          45.042006
+        ]
+      },
+      "properties": {
+        "codeInsee": "43157",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-43157-01",
+        "idPresta": "4cac9e6a293594648a00179a",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance du Puy-en-Velay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Breuil",
+            "CS90335"
+          ],
+          "CodePostal": "43011",
+          "NomCommune": "LE PUY EN VELAY CEDEX",
+          "Localisation": {
+            "Latitude": "45.042006",
+            "Longitude": "3.883505",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 09 05 70",
+          "Télécopie": "+33 4 71 02 54 52",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "fermeture du service des tutelles au public toute la journée -\nadresse postale : Place du Breuil, CS 90335, 43009 LE PUY EN VELAY CEDEX"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

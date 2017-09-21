@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4950699,
+          43.5036895
+        ]
+      },
+      "properties": {
+        "id": "dml-64024-01",
+        "codeInsee": "64024",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Pyrénées-Atlantiques",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 avenue de l'Adour",
+            "CS 80331"
+          ],
+          "CodePostal": "64600",
+          "NomCommune": "Anglet",
+          "Localisation": {
+            "Latitude": "43.5036895",
+            "Longitude": "-1.4950699",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 59 52 59 70",
+          "Télécopie": "05 59 63 08 57",
+          "Email": "ddtm-dml@pyrenees-atlantiques.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

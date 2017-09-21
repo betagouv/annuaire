@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3952166,
+          43.875852
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-84003-01",
+        "codeInsee": "84003",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture d'Apt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place Gabriel-Péri",
+            "BP 168"
+          ],
+          "CodePostal": "84405",
+          "NomCommune": "Apt Cedex",
+          "Localisation": {
+            "Latitude": "43.875852",
+            "Longitude": "5.3952166",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 04 38 00",
+          "Télécopie": "+33 4 90 74 66 36",
+          "Email": "Sous-Prefecture-de-Apt@vaucluse.pref.gouv.fr",
+          "Url": "http://www.vaucluse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0491391,
+          44.0547721
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-84031-01",
+        "codeInsee": "84031",
+        "dateMiseAJour": "2013-04-18",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Carpentras",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "62, rue de la Sous-préfecture",
+            "BP 90266"
+          ],
+          "CodePostal": "84208",
+          "NomCommune": "Carpentras Cedex",
+          "Localisation": {
+            "Latitude": "44.0547721",
+            "Longitude": "5.0491391",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 67 70 00",
+          "Télécopie": "+33 4 90 63 08 90",
+          "Email": "Sous-Prefecture-de-Carpentras@vaucluse.pref.gouv.fr",
+          "Url": "http://www.vaucluse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:00:00"
+              },
+              "Note": "Fermeture le mercredi"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

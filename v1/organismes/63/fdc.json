@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.175692,
+          45.7749049
+        ]
+      },
+      "properties": {
+        "id": "fdc-63193-01",
+        "codeInsee": "63193",
+        "dateMiseAJour": "2015-11-09",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26, rue Aimé-Rudel",
+            "Site de Marmilhat",
+            "BP 97"
+          ],
+          "CodePostal": "63370",
+          "NomCommune": "Lempdes",
+          "Localisation": {
+            "Latitude": "45.7749049",
+            "Longitude": "3.175692",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 74 63 50",
+          "Télécopie": "+33 4 73 74 63 51",
+          "Email": "fdc63@chasseurdefrance.com",
+          "Url": "http://www.chasseauvergne.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

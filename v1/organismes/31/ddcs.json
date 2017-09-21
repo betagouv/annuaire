@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4495,
+          43.600131
+        ]
+      },
+      "properties": {
+        "id": "ddcs-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) de Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, place Saint-Étienne",
+            "CS 38521"
+          ],
+          "CodePostal": "31685",
+          "NomCommune": "Toulouse Cedex 6",
+          "Localisation": {
+            "Latitude": "43.600131",
+            "Longitude": "1.4495",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 34 45 34 45",
+          "Télécopie": "+33 5 34 45 38 78",
+          "Email": "ddcs@haute-garonne.gouv.fr",
+          "Url": "http://www.haute-garonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

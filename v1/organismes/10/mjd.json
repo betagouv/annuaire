@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.727229,
+          48.516749
+        ]
+      },
+      "properties": {
+        "codeInsee": "10323",
+        "dateMiseAJour": "2012-01-27",
+        "id": "mjd-10323-01",
+        "idPresta": "51b08c9cb473e4147800055f",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Romilly sur seine",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue de l'Union",
+          "CodePostal": "10105",
+          "NomCommune": "ROMILLY SUR SEINE CEDEX",
+          "Localisation": {
+            "Latitude": "48.516749",
+            "Longitude": "3.727229",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.083069,
+          48.298951
+        ]
+      },
+      "properties": {
+        "codeInsee": "10387",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-10387-01",
+        "idPresta": "51b08c86b473e4147800007d",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Troyes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue Jaillard",
+          "CodePostal": "10000",
+          "NomCommune": "TROYES",
+          "Localisation": {
+            "Latitude": "48.298951",
+            "Longitude": "4.083069",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 83 18 90",
+          "Télécopie": "+33 3 25 40 31 84",
+          "Email": "mailto:mjd-troyes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

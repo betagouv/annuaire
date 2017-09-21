@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48621,
+          48.450045
+        ]
+      },
+      "properties": {
+        "codeInsee": "28085",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-28085-01",
+        "idPresta": "4cac9e61293594648a0005ea",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Chartres",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Saint-Jacques",
+            "CS 80402"
+          ],
+          "CodePostal": "28019",
+          "NomCommune": "CHARTRES CEDEX",
+          "Localisation": {
+            "Latitude": "48.450045",
+            "Longitude": "1.48621",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 18 77 00",
+          "Télécopie": "+33 2 37 18 77 60",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

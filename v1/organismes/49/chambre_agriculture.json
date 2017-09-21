@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541803,
+          47.4835
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 avenue Jean-Joxé",
+            "BP 80646"
+          ],
+          "CodePostal": "49006",
+          "NomCommune": "Angers Cedex 1",
+          "Localisation": {
+            "Latitude": "47.4835",
+            "Longitude": "-0.541803",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 96 75 00",
+          "Télécopie": "02 41 96 75 01",
+          "Email": "accueil@maine-et-loire.chambagri.fr",
+          "Url": "http://www.maine-et-loire.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

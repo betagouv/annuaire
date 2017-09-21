@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4881017,
+          43.4928709
+        ]
+      },
+      "properties": {
+        "codeInsee": "64102",
+        "dateMiseAJour": "2014-06-23",
+        "id": "bav-64102-01",
+        "idPresta": "4d5e60472935941fe9000032",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Bayonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "avenue de la Légion Tchèque",
+          "CodePostal": "64109",
+          "NomCommune": "BAYONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.4928709",
+            "Longitude": "-1.4881017",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 44 54 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3712597,
+          43.2976809
+        ]
+      },
+      "properties": {
+        "codeInsee": "64445",
+        "dateMiseAJour": "2014-06-23",
+        "id": "bav-64445-01",
+        "idPresta": "4d5e46702935941fe9000008",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Pau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place de la Libération"
+          ],
+          "CodePostal": "64034",
+          "NomCommune": "PAU CEDEX",
+          "Localisation": {
+            "Latitude": "43.2976809",
+            "Longitude": "-0.3712597",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 82 46 15",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.585160017014,
+          43.6476631165
+        ]
+      },
+      "properties": {
+        "id": "prefecture-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Gers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3, place du Préfet Claude-Erignac",
+          "CodePostal": "32007",
+          "NomCommune": "Auch Cedex",
+          "Localisation": {
+            "Latitude": "43.6476631165",
+            "Longitude": "0.585160017014",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 61 44 00",
+          "Télécopie": "+33 5 62 05 47 78",
+          "Email": "prefecture@gers.gouv.fr",
+          "Url": "http://www.gers.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

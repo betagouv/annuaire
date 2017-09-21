@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892692,
+          44.931449
+        ]
+      },
+      "properties": {
+        "codeInsee": "26362",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-26362-01",
+        "idPresta": "4cac9ed7293594648a00ee39",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Valence",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 place du Palais",
+            "BP 2127"
+          ],
+          "CodePostal": "26021",
+          "NomCommune": "VALENCE CEDEX",
+          "Localisation": {
+            "Latitude": "44.931449",
+            "Longitude": "4.892692",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 75 97 77",
+          "Télécopie": "+33 4 75 42 71 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74985,
+          44.557143
+        ]
+      },
+      "properties": {
+        "codeInsee": "26198",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-26198-01",
+        "idPresta": "4cac9e61293594648a000631",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Montélimar",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Emile Loubet",
+            "BP 282"
+          ],
+          "CodePostal": "26207",
+          "NomCommune": "MONTELIMAR CEDEX",
+          "Localisation": {
+            "Latitude": "44.557143",
+            "Longitude": "4.74985",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 00 78 20",
+          "Télécopie": "+33 4 75 46 00 36",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.052603,
+          45.044255
+        ]
+      },
+      "properties": {
+        "codeInsee": "26281",
+        "dateMiseAJour": "2016-10-14",
+        "id": "ti-26281-01",
+        "idPresta": "4cac9ed7293594648a00ee38",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Romans-sur-Isère",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Jules Nadi- Escalier de la Poste",
+            "CS 20182"
+          ],
+          "CodePostal": "26106",
+          "NomCommune": "ROMANS SUR ISERE CEDEX",
+          "Localisation": {
+            "Latitude": "45.044255",
+            "Longitude": "5.052603",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 02 09 17",
+          "Télécopie": "+33 4 75 02 42 69",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

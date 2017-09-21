@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.546905,
+          49.007298
+        ]
+      },
+      "properties": {
+        "id": "drddi-95527-02",
+        "codeInsee": "95527",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction interrégionale des douanes et droits indirects - Roissy-en-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Aéroport Charles-de-Gaulle",
+            "Rue du Signe",
+            "BP 16108"
+          ],
+          "CodePostal": "95701",
+          "NomCommune": "Roissy Cedex",
+          "Localisation": {
+            "Latitude": "49.007298",
+            "Longitude": "2.546905",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 62 35 43",
+          "Télécopie": "01 48 62 66 85",
+          "Email": "di-roissy@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.546905,
+          49.007298
+        ]
+      },
+      "properties": {
+        "id": "drddi-95527-01",
+        "codeInsee": "95527",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Roissy-en-France Fret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Aéroport Charles-de-Gaulle",
+            "Rue du Signe",
+            "BP 16108"
+          ],
+          "CodePostal": "95701",
+          "NomCommune": "Roissy CDG Cedex",
+          "Localisation": {
+            "Latitude": "49.007298",
+            "Longitude": "2.546905",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 62 35 43",
+          "Télécopie": "01 48 62 66 85",
+          "Email": "dr-fret-roissy@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

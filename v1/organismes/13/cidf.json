@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.62784004211,
+          43.6735992432
+        ]
+      },
+      "properties": {
+        "id": "cidf-13004-01",
+        "codeInsee": "13004",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace Chiavary",
+            "12 boulevard Emile-Zola"
+          ],
+          "CodePostal": "13200",
+          "NomCommune": "Arles",
+          "Localisation": {
+            "Latitude": "43.6735992432",
+            "Longitude": "4.62784004211",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 90 93 47 76",
+          "Télécopie": "09 72 43 28 03",
+          "Email": "accueil.cidff.arles@gmail.com",
+          "Url": "http://bouchesdurhone-arles.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Sur rendez-vous uniquement (sauf cas d'urgence)."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3808683,
+          43.3116714
+        ]
+      },
+      "properties": {
+        "id": "cidf-13201-01",
+        "codeInsee": "13201",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Strasbourg 2",
+            "1 rue de Forbin"
+          ],
+          "CodePostal": "13003",
+          "NomCommune": "Marseille",
+          "Localisation": {
+            "Latitude": "43.3116714",
+            "Longitude": "5.3808683",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 96 11 07 99",
+          "Télécopie": "04 91 55 57 25",
+          "Email": "contact@cidff13.net",
+          "Url": "http://www.bouchesdurhone-phoceen.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

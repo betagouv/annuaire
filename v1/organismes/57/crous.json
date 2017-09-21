@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1665761,
+          49.1200837
+        ]
+      },
+      "properties": {
+        "id": "crous-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Metz",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Campus de l'Ile-du-Saulcy",
+            "Service vie étudiante",
+            "BP 60587"
+          ],
+          "CodePostal": "57010",
+          "NomCommune": "Metz Cedex 1",
+          "Localisation": {
+            "Latitude": "49.1200837",
+            "Longitude": "6.1665761",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 87 31 61 61",
+          "Télécopie": "03 87 31 62 87",
+          "Email": "clous@crous-nancy-metz.fr",
+          "Url": "http://www.crous-nancy-metz.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "15:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

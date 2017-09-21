@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1251185,
+          49.024032
+        ]
+      },
+      "properties": {
+        "id": "ddt-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2014-01-23",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires et de la mer (DDTM) - Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CS 42205",
+            "1, avenue du Maréchal-Foch"
+          ],
+          "CodePostal": "27022",
+          "NomCommune": "Évreux",
+          "Localisation": {
+            "Latitude": "49.024032",
+            "Longitude": "1.1251185",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 29 60 60",
+          "Télécopie": "+33 2 32 29 61 61",
+          "Email": "ddtm@eure.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

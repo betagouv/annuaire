@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.939245,
+          49.249284
+        ]
+      },
+      "properties": {
+        "codeInsee": "54099",
+        "dateMiseAJour": "2017-05-24",
+        "id": "te-54099-01",
+        "idPresta": "4cac9e86293594648a004cb0",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Val de Briey",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue du Maréchal Foch",
+            "CS 20139"
+          ],
+          "CodePostal": "54151",
+          "NomCommune": "BRIEY CEDEX",
+          "Localisation": {
+            "Latitude": "49.249284",
+            "Longitude": "5.939245",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 82 47 56 00",
+          "Télécopie": "+33 3 82 46 39 19",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1825044,
+          48.6907887
+        ]
+      },
+      "properties": {
+        "codeInsee": "54395",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-54395-01",
+        "idPresta": "4cac9e86293594648a004cb1",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Nancy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Cité Judiciaire",
+          "CodePostal": "54035",
+          "NomCommune": "NANCY CEDEX",
+          "Localisation": {
+            "Latitude": "48.6907887",
+            "Longitude": "6.1825044",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 90 85 00",
+          "Télécopie": "+33 3 83 27 49 84",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

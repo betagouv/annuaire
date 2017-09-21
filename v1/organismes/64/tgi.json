@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4881017,
+          43.4928709
+        ]
+      },
+      "properties": {
+        "codeInsee": "64102",
+        "dateMiseAJour": "2014-06-23",
+        "id": "tgi-64102-01",
+        "idPresta": "4cac9e61293594648a0005bc",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Bayonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "avenue de la Légion Tchèque",
+          "CodePostal": "64109",
+          "NomCommune": "BAYONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.4928709",
+            "Longitude": "-1.4881017",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 44 54 00",
+          "Télécopie": "+33 5 59 44 54 54",
+          "Url": "http://www.ca-pau.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.371384,
+          43.297682
+        ]
+      },
+      "properties": {
+        "codeInsee": "64445",
+        "dateMiseAJour": "2014-06-23",
+        "id": "tgi-64445-01",
+        "idPresta": "4cac9e6a293594648a0017af",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Pau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place de la Libération"
+          ],
+          "CodePostal": "64034",
+          "NomCommune": "PAU CEDEX",
+          "Localisation": {
+            "Latitude": "43.297682",
+            "Longitude": "-0.371384",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 82 46 15",
+          "Télécopie": "+33 5 59 82 46 64",
+          "Url": "http://www.ca-pau.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

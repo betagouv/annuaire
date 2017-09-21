@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.239312,
+          44.092
+        ]
+      },
+      "properties": {
+        "codeInsee": "04070",
+        "dateMiseAJour": "2014-02-25",
+        "id": "tgi-04070-01",
+        "idPresta": "4cac9e6a293594648a00178b",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Digne-les-Bains",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 place des Récollets",
+            "BP 112"
+          ],
+          "CodePostal": "04000",
+          "NomCommune": "DIGNE LES BAINS",
+          "Localisation": {
+            "Latitude": "44.092",
+            "Longitude": "6.239312",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 31 05 21",
+          "Télécopie": "+33 4 92 31 56 46",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

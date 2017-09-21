@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.098761998117,
+          49.4886016846
+        ]
+      },
+      "properties": {
+        "id": "adil-76351-01",
+        "codeInsee": "76351",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-Maritime - Le Havre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence de France",
+            "100 boulevard Clemenceau"
+          ],
+          "CodePostal": "76600",
+          "NomCommune": "Le Havre",
+          "Localisation": {
+            "Latitude": "49.4886016846",
+            "Longitude": "0.098761998117",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 43 71 61",
+          "Télécopie": "02 35 72 25 33",
+          "Email": "adil.76@wanadoo.fr",
+          "Url": "https://www.adil76.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.088849,
+          49.4226307
+        ]
+      },
+      "properties": {
+        "id": "adil-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-Maritime - Sotteville-lès-Rouen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "86 rue Léon-Blum",
+          "CodePostal": "76300",
+          "NomCommune": "Sotteville-lès-Rouen",
+          "Localisation": {
+            "Latitude": "49.4226307",
+            "Longitude": "1.088849",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 72 58 50",
+          "Télécopie": "02 35 72 25 33",
+          "Email": "adil.76@wanadoo.fr",
+          "Url": "http://www.adil76.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "19:00:00"
+              },
+              "Note": "Accueil pour les consultations uniquement sur rendez-vous."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil pour les consultations uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

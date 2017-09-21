@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350952,
+          48.854382
+        ]
+      },
+      "properties": {
+        "id": "paris_ppp_naturalisation-75104-01",
+        "codeInsee": "75104",
+        "dateMiseAJour": "2017-01-30",
+        "pivotLocal": "paris_ppp_naturalisation",
+        "Nom": "Préfecture de police de Paris - 1er Bureau - Naturalisations",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Direction de la Police générale",
+              "11 rue des Ursins"
+            ],
+            "CodePostal": "75004",
+            "NomCommune": "Paris",
+            "Localisation": {
+              "Latitude": "48.854382",
+              "Longitude": "2.350952",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "1 bis rue de Lutèce",
+              "Direction de la Police générale"
+            ],
+            "CodePostal": "75195",
+            "NomCommune": "Paris Cedex 04"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "01 53 71 53 20 Du lundi au vendredi de 13h30 à 16h30 :",
+          "Email": "https://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Presentation/Presentation-de-la-prefecture-de-police/Nous-contacter",
+          "Url": "https://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Merci de vous présenter 30 mn avant la fermeture. Pas d'accueil au public l'après-midi"
+          }
+        }
+      }
+    }
+  ]
+}

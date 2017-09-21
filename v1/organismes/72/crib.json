@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1992831,
+          48.0071805
+        ]
+      },
+      "properties": {
+        "id": "crib-72181-02",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d’information des bénévoles (Crib) - France Bénévolat - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue des Jacobins",
+          "CodePostal": "72000",
+          "NomCommune": "Le Mans",
+          "Localisation": {
+            "Latitude": "48.0071805",
+            "Longitude": "0.1992831",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 87 50 02",
+          "Télécopie": "+33 2 43 87 50 03",
+          "Email": "francebenevolatsarthe.accueil@ville-lemans.fr",
+          "Url": "http://www.sarthe.francebenevolat.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Accueil ouvert uniquement jusqu'à 17h pendant les vacances scolaires."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

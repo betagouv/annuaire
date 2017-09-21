@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.616701,
+          44.200669
+        ]
+      },
+      "properties": {
+        "codeInsee": "47001",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-47001-01",
+        "idPresta": "4cac9e5f293594648a00024e",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel d'Agen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Armand Fallières",
+            "ou avenue de Lattre de Tassigny"
+          ],
+          "CodePostal": "47916",
+          "NomCommune": "AGEN CEDEX 9",
+          "Localisation": {
+            "Latitude": "44.200669",
+            "Longitude": "0.616701",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 77 95 00",
+          "Télécopie": "+33 5 53 77 95 78",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

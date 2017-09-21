@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.159203,
+          48.768968
+        ]
+      },
+      "properties": {
+        "codeInsee": "55029",
+        "dateMiseAJour": "2012-06-20",
+        "id": "bav-55029-01",
+        "idPresta": "51b08cd9b473e414780012a4",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Bar le Duc",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21-25 place Saint-Pierre",
+          "CodePostal": "55014",
+          "NomCommune": "BAR LE DUC CEDEX",
+          "Localisation": {
+            "Latitude": "48.768968",
+            "Longitude": "5.159203",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 79 02 95",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384221,
+          49.164342
+        ]
+      },
+      "properties": {
+        "codeInsee": "55545",
+        "dateMiseAJour": "2012-06-20",
+        "id": "bav-55545-01",
+        "idPresta": "51b08cdeb473e414780013c4",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Verdun",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Saint-Paul",
+            "Case officielle 724"
+          ],
+          "CodePostal": "55107",
+          "NomCommune": "VERDUN CEDEX",
+          "Localisation": {
+            "Latitude": "49.164342",
+            "Longitude": "5.384221",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 86 14 05",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

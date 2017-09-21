@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0774577,
+          49.0371615
+        ]
+      },
+      "properties": {
+        "id": "ddpp-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Modem",
+            "16, rue Traversière"
+          ],
+          "CodePostal": "95035",
+          "NomCommune": "Cergy-Pontoise",
+          "Localisation": {
+            "Latitude": "49.0371615",
+            "Longitude": "2.0774577",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 34 25 45 00",
+          "Télécopie": "+33 1 30 73 01 04",
+          "Email": "ddpp@val-doise.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

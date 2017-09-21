@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8613423,
+          47.6366628
+        ]
+      },
+      "properties": {
+        "id": "sie-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2015-04-21",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place de la Révolution-Française",
+          "CodePostal": "90022",
+          "NomCommune": "Belfort",
+          "Localisation": {
+            "Latitude": "47.6366628",
+            "Longitude": "6.8613423",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 58 81 27",
+          "Email": "sie.belfort@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

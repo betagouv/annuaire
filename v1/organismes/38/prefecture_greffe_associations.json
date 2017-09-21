@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7369554,
+          45.189455
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Grenoble",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale de l'Isère",
+            "Cité administrative Dode - Bâtiment 2",
+            "1 rue Joseph-Chanrion",
+            "CS 20094"
+          ],
+          "CodePostal": "38032",
+          "NomCommune": "Grenoble Cedex 1",
+          "Localisation": {
+            "Latitude": "45.189455",
+            "Longitude": "5.7369554",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 57 38 65 19",
+          "Email": "ddcs-associations@isere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

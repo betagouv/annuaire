@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136694,
+          48.100773
+        ]
+      },
+      "properties": {
+        "id": "crib-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Ligue de l'enseignement de la Haute-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des associations",
+            "Pôle Rostand",
+            "24 rue des Platanes"
+          ],
+          "CodePostal": "52902",
+          "NomCommune": "Chaumont Cedex 9",
+          "Localisation": {
+            "Latitude": "48.100773",
+            "Longitude": "5.136694",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 03 28 20",
+          "Télécopie": "03 25 31 43 61",
+          "Email": "contact@ligue52.org",
+          "Url": "http://www.ligue52.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

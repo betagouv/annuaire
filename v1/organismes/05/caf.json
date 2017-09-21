@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0839886,
+          44.5596359
+        ]
+      },
+      "properties": {
+        "id": "caf-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Hautes-Alpes - siège de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 boulevard Georges-Pompidou",
+          "CodePostal": "05008",
+          "NomCommune": "Gap Cedex",
+          "Localisation": {
+            "Latitude": "44.5596359",
+            "Longitude": "6.0839886",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 05 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 8h30 à 12h."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:45:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 8h à 12h et de 13h à 16h30 et accueil téléphonique du lundi au vendredi de 8h15 à 12h et de 13h15 à 16h15."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63525009155,
+          44.9024009705
+        ]
+      },
+      "properties": {
+        "id": "caf-05023-01",
+        "codeInsee": "05023",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Hautes-Alpes - accueil de Briançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Les Cros",
+              "Bâtiment K",
+              "11 avenue René-Froger"
+            ],
+            "CodePostal": "05100",
+            "NomCommune": "Briançon",
+            "Localisation": {
+              "Latitude": "44.9024009705",
+              "Longitude": "6.63525009155",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales des Hautes-Alpes",
+              "10 boulevard Georges-Pompidou",
+              "BP 145"
+            ],
+            "CodePostal": "05008",
+            "NomCommune": "Gap Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 05 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:45:00",
+                "fin": "11:45:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h15 à 12h et de 13h15 à 16h15."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

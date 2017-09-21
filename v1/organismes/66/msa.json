@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8891461,
+          42.6693986
+        ]
+      },
+      "properties": {
+        "id": "msa-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Occitanie - accueil de Perpignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "23 rue Broussais",
+            "CodePostal": "66000",
+            "NomCommune": "Perpignan",
+            "Localisation": {
+              "Latitude": "42.6693986",
+              "Longitude": "2.8891461",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Occitanie",
+              "6 rue du Palais"
+            ],
+            "CodePostal": "11011",
+            "NomCommune": "Carcassonne Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 55 11 66",
+          "Télécopie": "04 68 82 66 66",
+          "Url": "http://www.msagrandsud.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous le jeudi."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

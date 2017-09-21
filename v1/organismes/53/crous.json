@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7553712,
+          48.085312
+        ]
+      },
+      "properties": {
+        "id": "crous-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Laval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence La Dormerie",
+            "54 rue des Docteurs-Calmette-et-Guérin"
+          ],
+          "CodePostal": "53000",
+          "NomCommune": "Laval",
+          "Localisation": {
+            "Latitude": "48.085312",
+            "Longitude": "-0.7553712",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 49 25 85",
+          "Télécopie": "02 43 56 32 80",
+          "Email": "heb.dormerie@crous-nantes.fr",
+          "Url": "http://www.crous-nantes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

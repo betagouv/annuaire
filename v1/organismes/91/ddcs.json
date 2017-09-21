@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4216221,
+          48.6309646
+        ]
+      },
+      "properties": {
+        "id": "ddcs-91182-01",
+        "codeInsee": "91182",
+        "dateMiseAJour": "2014-07-15",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) de l'Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Europe 1",
+            "5-7, avenue François-Truffaut",
+            "CP 8002",
+            "Courcouronnes"
+          ],
+          "CodePostal": "91008",
+          "NomCommune": "Évry Cedex",
+          "Localisation": {
+            "Latitude": "48.6309646",
+            "Longitude": "2.4216221",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 69 87 30 00",
+          "Télécopie": "+33 1 60 77 83 17",
+          "Email": "ddcs@essonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

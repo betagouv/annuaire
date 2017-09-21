@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4948155,
+          47.6863378
+        ]
+      },
+      "properties": {
+        "codeInsee": "70310",
+        "dateMiseAJour": "2015-11-03",
+        "id": "civi-70310-01",
+        "idPresta": "4cac9e71293594648a0022b4",
+        "pivotLocal": "civi",
+        "Nom": "Commission d'indemnisation des victimes d'infractions de Lure",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "60 avenue de la République"
+          ],
+          "CodePostal": "70204",
+          "NomCommune": "LURE CEDEX",
+          "Localisation": {
+            "Latitude": "47.6863378",
+            "Longitude": "6.4948155",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 89 01 70",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1581601,
+          47.6237476
+        ]
+      },
+      "properties": {
+        "codeInsee": "70550",
+        "dateMiseAJour": "2015-11-03",
+        "id": "civi-70550-01",
+        "idPresta": "4cac9e71293594648a0022d8",
+        "pivotLocal": "civi",
+        "Nom": "Commission d'indemnisation des victimes d'infractions de Vesoul",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place du Palais"
+          ],
+          "CodePostal": "70000",
+          "NomCommune": "VESOUL",
+          "Localisation": {
+            "Latitude": "47.6237476",
+            "Longitude": "6.1581601",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 78 58 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

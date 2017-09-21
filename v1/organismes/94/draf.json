@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32926011086,
+          48.7975997925
+        ]
+      },
+      "properties": {
+        "id": "draf-94016-01",
+        "codeInsee": "94016",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "draf",
+        "Nom": "Direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt (DRIAAF) - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 avenue Carnot",
+          "CodePostal": "94234",
+          "NomCommune": "Cachan Cedex",
+          "Localisation": {
+            "Latitude": "48.7975997925",
+            "Longitude": "2.32926011086",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 41 24 17 00",
+          "Télécopie": "+33 1 41 24 17 15",
+          "Email": "driaaf-ile-de-france@agriculture.gouv.fr",
+          "Url": "http://driaaf.ile-de-france.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

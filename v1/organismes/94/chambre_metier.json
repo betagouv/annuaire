@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.487838,
+          48.7861319
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-94068-01",
+        "codeInsee": "94068",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "27 avenue Raspail",
+          "CodePostal": "94100",
+          "NomCommune": "Saint-Maur-des-Fossés",
+          "Localisation": {
+            "Latitude": "48.7861319",
+            "Longitude": "2.487838",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 49 76 50 00",
+          "Télécopie": "01 43 97 40 11",
+          "Url": "http://www.cma94.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Service aux entreprise ouvert du lundi au jeudi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "15:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

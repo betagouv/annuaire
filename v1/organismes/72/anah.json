@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.209544400000027,
+          47.9949353
+        ]
+      },
+      "properties": {
+        "id": "anah-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 boulevard Paixhans",
+            "CS 10013"
+          ],
+          "CodePostal": "72042",
+          "NomCommune": "Le Mans Cedex 9",
+          "Localisation": {
+            "Latitude": "47.9949353",
+            "Longitude": "0.209544400000027",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 72 16 40 19",
+          "Email": "ddt-anah@sarthe.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

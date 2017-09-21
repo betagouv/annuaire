@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4910402298,
+          48.3907012939
+        ]
+      },
+      "properties": {
+        "id": "cidf-29019-01",
+        "codeInsee": "29019",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Finistère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 rue Fautras",
+          "CodePostal": "29200",
+          "NomCommune": "Brest",
+          "Localisation": {
+            "Latitude": "48.3907012939",
+            "Longitude": "-4.4910402298",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 44 97 47",
+          "Télécopie": "02 98 43 10 18",
+          "Email": "contact@cidff29.fr",
+          "Url": "http://www.finistere.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil juristes et conseillères emploi formation ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

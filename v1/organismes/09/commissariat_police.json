@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6128651,
+          43.1138581
+        ]
+      },
+      "properties": {
+        "id": "commissariat_police-09225-01",
+        "codeInsee": "09225",
+        "dateMiseAJour": "2017-06-13",
+        "pivotLocal": "commissariat_police",
+        "Nom": "Commissariat de police de Pamiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 boulevard Delcassé",
+          "CodePostal": "09100",
+          "NomCommune": "Pamiers",
+          "Localisation": {
+            "Latitude": "43.1138581",
+            "Longitude": "1.6128651",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 34 01 32 60",
+          "Url": "http://www.police-nationale.interieur.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6044882,
+          42.9606189
+        ]
+      },
+      "properties": {
+        "id": "commissariat_police-09122-01",
+        "codeInsee": "09122",
+        "dateMiseAJour": "2017-06-13",
+        "pivotLocal": "commissariat_police",
+        "Nom": "Commissariat de police de Foix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 avenue Lakanal",
+          "CodePostal": "09000",
+          "NomCommune": "Foix",
+          "Localisation": {
+            "Latitude": "42.9606189",
+            "Longitude": "1.6044882",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 05 43 00",
+          "Email": "ddsp09-referent-accueil@interieur.gouv.fr",
+          "Url": "http://www.police-nationale.interieur.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

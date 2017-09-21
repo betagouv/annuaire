@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.596193,
+          44.8311843
+        ]
+      },
+      "properties": {
+        "id": "crib-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité de liaison des acteurs de la promotion (Clap) - Sud-Ouest",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "176-182 rue Guillaume-Leblanc",
+          "CodePostal": "33000",
+          "NomCommune": "Bordeaux",
+          "Localisation": {
+            "Latitude": "44.8311843",
+            "Longitude": "-0.596193",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 57 01 56 90",
+          "Télécopie": "05 57 01 56 99",
+          "Email": "contact@cri-aquitaine.org",
+          "Url": "http://www.clap-so.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5901611,
+          44.8526887
+        ]
+      },
+      "properties": {
+        "id": "crib-33063-02",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de Gironde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale des sports et de la vie associative",
+            "153 rue David-Johnston"
+          ],
+          "CodePostal": "33000",
+          "NomCommune": "Bordeaux",
+          "Localisation": {
+            "Latitude": "44.8526887",
+            "Longitude": "-0.5901611",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 56 00 99 05",
+          "Télécopie": "05 57 83 23 80",
+          "Email": "contact@cdos33.org",
+          "Url": "http://www.cdos33.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

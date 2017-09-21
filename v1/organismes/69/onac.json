@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83124017715,
+          45.7681999207
+        ]
+      },
+      "properties": {
+        "id": "onac-69381-01",
+        "codeInsee": "69381",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3-5 rue Louis-Vitet",
+            "BP 1141"
+          ],
+          "CodePostal": "69203",
+          "NomCommune": "Lyon Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7681999207",
+            "Longitude": "4.83124017715",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 27 15 61",
+          "Email": "sd.69@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:69/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique de 8h45 à 12h et de 13h30 à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

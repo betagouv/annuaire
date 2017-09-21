@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0050142,
+          48.2885132
+        ]
+      },
+      "properties": {
+        "id": "fdc-10321-01",
+        "codeInsee": "10321",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Aube",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Chemin de la Queue-de-la-Pelle",
+          "CodePostal": "10440",
+          "NomCommune": "La Rivière-de-Corps",
+          "Localisation": {
+            "Latitude": "48.2885132",
+            "Longitude": "4.0050142",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 71 51 11",
+          "Télécopie": "03 25 71 51 19",
+          "Email": "fdc10@fdc10.org",
+          "Url": "http://www.fdc10.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

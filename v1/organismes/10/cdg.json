@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0133593,
+          48.2937541
+        ]
+      },
+      "properties": {
+        "id": "cdg-10362-01",
+        "codeInsee": "10362",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Aube",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Parc du Grand-Troyes",
+              "2 rond-point Winston-Churchill",
+              "BP 4085"
+            ],
+            "CodePostal": "10300",
+            "NomCommune": "Sainte-Savine",
+            "Localisation": {
+              "Latitude": "48.2937541",
+              "Longitude": "4.0133593",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Madame la Présidente",
+              "C.D.G.10",
+              "BP 40085",
+              "Sainte-Savine"
+            ],
+            "CodePostal": "10602",
+            "NomCommune": "La-Chapelle-Saint-Luc Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 73 58 01",
+          "Télécopie": "03 25 73 83 01",
+          "Email": "contact@cdg10.fr",
+          "Url": "http://www.cdg10.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

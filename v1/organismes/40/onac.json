@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5060669,
+          43.8951278
+        ]
+      },
+      "properties": {
+        "id": "onac-40192-01",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-03-09",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 boulevard de Haussez",
+            "BP 349"
+          ],
+          "CodePostal": "40021",
+          "NomCommune": "Mont-de-Marsan Cedex",
+          "Localisation": {
+            "Latitude": "43.8951278",
+            "Longitude": "-0.5060669",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 75 42 98",
+          "Email": "sd40@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:40/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

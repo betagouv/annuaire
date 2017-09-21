@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.33775,
+          47.5928
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Loir-et-Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "34 avenue Maunoury"
+          ],
+          "CodePostal": "41011",
+          "NomCommune": "Blois Cedex",
+          "Localisation": {
+            "Latitude": "47.5928",
+            "Longitude": "1.33775",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 55 85 70",
+          "Télécopie": "02 54 55 85 50",
+          "Email": "centre-ut41.renseignements@direccte.gouv.fr",
+          "Url": "http://centre-val-de-loire.direccte.gouv.fr/Loir-et-Cher"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil physique ouvert uniquement sur rendez-vous du lundi au vendredi, contacter l'accueil pour les plages horaires."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

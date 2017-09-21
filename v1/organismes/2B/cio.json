@@ -1,0 +1,220 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4507484436,
+          42.7021369934
+        ]
+      },
+      "properties": {
+        "id": "cio-2B033-01",
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2015-01-15",
+        "pivotLocal": "cio",
+        "Nom": "Centre d’information et d’orientation (CIO) de Bastia",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue Paul-Giaccobi-Montesoro",
+          "CodePostal": "20600",
+          "NomCommune": "Bastia",
+          "Localisation": {
+            "Latitude": "42.7021369934",
+            "Longitude": "9.4507484436",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 30 09 90",
+          "Télécopie": "+33 4 95 30 09 92",
+          "Email": "cio-bastia@ac-corse.fr",
+          "Url": "http://www.ac-corse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.155060800000001,
+          42.3015972
+        ]
+      },
+      "properties": {
+        "id": "cio-2B096-01",
+        "codeInsee": "2B096",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Corte",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bâtiment Jean-Toussaint-Desanti",
+            "Avenue du 9-Septembre"
+          ],
+          "CodePostal": "20250",
+          "NomCommune": "Corte",
+          "Localisation": {
+            "Latitude": "42.3015972",
+            "Longitude": "9.155060800000001",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 45 00 21",
+          "Télécopie": "04 95 45 33 24",
+          "Email": "cio-corte@ac-corse.fr",
+          "Url": "http://www.ac-corse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture pendant les congés scolaires."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9313079,
+          42.6296987
+        ]
+      },
+      "properties": {
+        "id": "cio-2B134-01",
+        "codeInsee": "2B134",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de L’Île-Rousse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Collège Pascal-Paoli",
+            "Route de Calvi"
+          ],
+          "CodePostal": "20220",
+          "NomCommune": "L'Île-Rousse",
+          "Localisation": {
+            "Latitude": "42.6296987",
+            "Longitude": "8.9313079",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 60 04 10",
+          "Télécopie": "04 95 60 45 86",
+          "Email": "cio-irousse@ac-corse.fr",
+          "Url": "http://www.education.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

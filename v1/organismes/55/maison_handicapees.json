@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1605745,
+          48.7737192
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-55029-01",
+        "codeInsee": "55029",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Meuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 espace Theuriet",
+          "CodePostal": "55000",
+          "NomCommune": "Bar-le-Duc",
+          "Localisation": {
+            "Latitude": "48.7737192",
+            "Longitude": "5.1605745",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 46 70 70",
+          "Télécopie": "03 29 46 70 71",
+          "Email": "contact@mdph55.fr",
+          "Url": "http://www.handicap.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0887885,
+          49.1170893
+        ]
+      },
+      "properties": {
+        "id": "msa-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Côtes-Normandes - accueil de Saint-Lô",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "9 place du Champ-de-Mars",
+            "CodePostal": "50005",
+            "NomCommune": "Saint-Lô Cedex",
+            "Localisation": {
+              "Latitude": "49.1170893",
+              "Longitude": "-1.0887885",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole des Côtes-Normandes",
+              "CS 80205"
+            ],
+            "CodePostal": "50005",
+            "NomCommune": "Saint-Lô Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 25 39 39",
+          "Télécopie": "02 31 25 39 79",
+          "Email": "contact@cotesnormandes.msa.fr",
+          "Url": "http://www.msa-cotesnormandes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "18:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil physique uniquement sur rendez-vous. Accueil téléphonique du lundi au mercredi de 8h30 à 12h30 et de 13h30 à 16h00, le jeudi 9h30 à 12h30 et de 13h30 à 16h, et le vendredi de 8h30 à 12h30 et de 13h30 à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

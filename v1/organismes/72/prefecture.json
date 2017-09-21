@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199037998915,
+          48.0019607544
+        ]
+      },
+      "properties": {
+        "id": "prefecture-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2014-07-31",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Aristide-Briand",
+          "CodePostal": "72041",
+          "NomCommune": "Le Mans Cedex 9",
+          "Localisation": {
+            "Latitude": "48.0019607544",
+            "Longitude": "0.199037998915",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 39 72 72",
+          "Télécopie": "+33 2 43 28 24 09",
+          "Email": "pref-mail@sarthe.gouv.fr",
+          "Url": "http://www.sarthe.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:00:00"
+                }
+              ],
+              "Note": "Attention aux horaires estivaux du 7 juillet au 29 août ! Service Certificats d'immatriculations : tous les matins de 8h30 à 12h sauf le mercredi. Service Permis de conduire : tous les après-midi de 13h30 à 16h sauf le vendredi, échange de permis étranger uniquement les mardi et jeudi après-midi. Service Étrangers - pré-accueil et remise de titres : tous les matins de 8h30 à 12h sauf le mercredi, distribution des tickets jusqu'à 11h30. Autres services du lundi au vendredi de 9h à 11h30 et de 14h à 16h, fermeture à 15h le vendredi. Horaires détaillés sur cette page http://www.sarthe.gouv.fr/coordonnees-horaires-acces-a1.html."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Horaires de l'accueil : voir la note ci-dessous pour les autres services."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

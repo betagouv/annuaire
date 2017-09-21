@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.81316,
+          46.467861
+        ]
+      },
+      "properties": {
+        "codeInsee": "85092",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-85092-01",
+        "idPresta": "4eb262702935944ef5000080",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Fontenay-le-Comte",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "30 rue Rabelais",
+            "BP 123"
+          ],
+          "CodePostal": "85203",
+          "NomCommune": "FONTENAY LE COMTE CEDEX",
+          "Localisation": {
+            "Latitude": "46.467861",
+            "Longitude": "-0.81316",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 69 03 09",
+          "Télécopie": "+33 2 51 50 04 63",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.417964,
+          46.667174
+        ]
+      },
+      "properties": {
+        "codeInsee": "85191",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-85191-01",
+        "idPresta": "4eb262702935944ef5000081",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de La Roche-sur-Yon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 boulevard d'Angleterre",
+            "BP 635"
+          ],
+          "CodePostal": "85016",
+          "NomCommune": "LA ROCHE SUR YON CEDEX",
+          "Localisation": {
+            "Latitude": "46.667174",
+            "Longitude": "-1.417964",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 24 17 00",
+          "Télécopie": "+33 2 51 24 17 04",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.307497,
+          47.589625
+        ]
+      },
+      "properties": {
+        "codeInsee": "41018",
+        "dateMiseAJour": "2015-04-03",
+        "id": "mjd-41018-01",
+        "idPresta": "51b08ce1b473e41478001439",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Blois",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 place Bernard Lorjou",
+          "CodePostal": "41000",
+          "NomCommune": "BLOIS",
+          "Localisation": {
+            "Latitude": "47.589625",
+            "Longitude": "1.307497",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 45 16 16",
+          "Télécopie": "+33 2 54 45 16 25",
+          "Email": "mailto:mjd-blois@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19523000717,
+          43.6604003906
+        ]
+      },
+      "properties": {
+        "id": "cdg-06123-01",
+        "codeInsee": "06123",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Espace 3000",
+            "33 avenue Henri-Lantelme",
+            "BP 169"
+          ],
+          "CodePostal": "06704",
+          "NomCommune": "Saint-Laurent-du-Var",
+          "Localisation": {
+            "Latitude": "43.6604003906",
+            "Longitude": "7.19523000717",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 27 34 34",
+          "Télécopie": "04 92 27 34 35",
+          "Email": "contact@cdg06.fr",
+          "Url": "http://www.cdg06.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

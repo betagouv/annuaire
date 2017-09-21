@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62424492836,
+          49.5647468567
+        ]
+      },
+      "properties": {
+        "id": "onac-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Cité administrative",
+          "CodePostal": "02016",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.5647468567",
+            "Longitude": "3.62424492836",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 26 30 40",
+          "Email": "sd02@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:2/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique de 9h à 12h uniquement."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique de 9h à 12h uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

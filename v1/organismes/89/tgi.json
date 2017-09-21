@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.567723,
+          47.798136
+        ]
+      },
+      "properties": {
+        "codeInsee": "89024",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-89024-01",
+        "idPresta": "4cac9ed7293594648a00ee1c",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Auxerre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Palais de Justice",
+            "BP 39"
+          ],
+          "CodePostal": "89010",
+          "NomCommune": "AUXERRE CEDEX",
+          "Localisation": {
+            "Latitude": "47.798136",
+            "Longitude": "3.567723",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 72 30 00",
+          "Télécopie": "+33 3 86 72 30 13",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.276929,
+          48.196362
+        ]
+      },
+      "properties": {
+        "codeInsee": "89387",
+        "dateMiseAJour": "2016-11-25",
+        "id": "tgi-89387-01",
+        "idPresta": "4cac9ed7293594648a00ee1d",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Sens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue du palais de justice",
+            "BP 810"
+          ],
+          "CodePostal": "89108",
+          "NomCommune": "SENS CEDEX",
+          "Localisation": {
+            "Latitude": "48.196362",
+            "Longitude": "3.276929",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 65 86 00",
+          "Télécopie": "+33 3 86 65 80 21",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

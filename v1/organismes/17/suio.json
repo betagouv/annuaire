@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1539106,
+          46.1519444
+        ]
+      },
+      "properties": {
+        "id": "suio-17300-01",
+        "codeInsee": "17300",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Maison de la réussite et de l'insertion professionnelle - pôle orientation - Université La Rochelle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 passage Romilly",
+            "CodePostal": "17000",
+            "NomCommune": "La Rochelle",
+            "Localisation": {
+              "Latitude": "46.1519444",
+              "Longitude": "-1.1539106",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "23 avenue Albert-Einstein",
+              "BP 33060"
+            ],
+            "CodePostal": "17031",
+            "NomCommune": "La Rochelle"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "05 46 45 83 37",
+          "Email": "mrip@univ-lr.fr",
+          "Url": "http://www.univ-lr.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

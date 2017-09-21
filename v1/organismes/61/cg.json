@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.090461,
+          48.4359206
+        ]
+      },
+      "properties": {
+        "id": "cg-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "27 boulevard de Strasbourg",
+            "CS 30528"
+          ],
+          "CodePostal": "61017",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.4359206",
+            "Longitude": "0.090461",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 81 60 00",
+          "Télécopie": "02 33 81 60 40",
+          "Email": "contact@orne.fr",
+          "Url": "http://www.orne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "'08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "'08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

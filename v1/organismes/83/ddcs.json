@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9362347,
+          43.1230135
+        ]
+      },
+      "properties": {
+        "id": "ddcs-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2014-11-12",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) - Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "155, rue Saint-Bernard",
+            "CodePostal": "83000",
+            "NomCommune": "Toulon",
+            "Localisation": {
+              "Latitude": "43.1230135",
+              "Longitude": "5.9362347",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "112, boulevard Régiment-d'Infanterie",
+              "CS 31209"
+            ],
+            "CodePostal": "83070",
+            "NomCommune": "Toulon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 18 83 83",
+          "Télécopie": "+33 4 83 24 62 81",
+          "Email": "ddcs@var.gouv.fr",
+          "Url": "http://www.var.gouv.fr"
+        },
+        "Commentaire": "Pour connaître les horaires de chaque service, veuillez consulter la page : http://www.var.gouv.fr/horaires-et-plan-d-acces-en-ddcs-a3503.html"
+      }
+    }
+  ]
+}

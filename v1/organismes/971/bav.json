@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.534631,
+          16.238565
+        ]
+      },
+      "properties": {
+        "codeInsee": "97120",
+        "dateMiseAJour": "2014-06-09",
+        "id": "bav-97120-01",
+        "idPresta": "51b08c9eb473e414780005bc",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Pointe à Pitre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Gourbeyre",
+          "CodePostal": "97110",
+          "NomCommune": "POINTE A PITRE",
+          "Localisation": {
+            "Latitude": "16.238565",
+            "Longitude": "-61.534631",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 89 69 50",
+          "Télécopie": "+33 5 90 48 12 47",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.727299,
+          15.99246
+        ]
+      },
+      "properties": {
+        "codeInsee": "97105",
+        "dateMiseAJour": "2012-06-21",
+        "id": "bav-97105-01",
+        "idPresta": "51b08ccbb473e41478000f79",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Basse Terre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 boulevard Félix Eboué",
+          "CodePostal": "97100",
+          "NomCommune": "BASSE TERRE",
+          "Localisation": {
+            "Latitude": "15.99246",
+            "Longitude": "-61.727299",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 80 63 63",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "12:00:00",
+                  "fin": "17:00:00"
+                },
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

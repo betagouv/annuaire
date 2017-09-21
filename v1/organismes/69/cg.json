@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8423022,
+          45.7599003
+        ]
+      },
+      "properties": {
+        "id": "cg-69383-01",
+        "codeInsee": "69383",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "29-31 cours de la Liberté"
+          ],
+          "CodePostal": "69483",
+          "NomCommune": "Lyon Cedex 3",
+          "Localisation": {
+            "Latitude": "45.7599003",
+            "Longitude": "4.8423022",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 86 98 69"
+          },
+          "Télécopie": "04 78 62 05 41",
+          "Email": "info@rhone.fr",
+          "Url": "http://www.rhone.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

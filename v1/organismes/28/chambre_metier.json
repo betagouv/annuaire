@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.49268996716,
+          48.4417991638
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Centre-Val de Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "24 boulevard de la Courtille",
+          "CodePostal": "28000",
+          "NomCommune": "Chartres",
+          "Localisation": {
+            "Latitude": "48.4417991638",
+            "Longitude": "1.49268996716",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 91 57 00",
+          "Télécopie": "02 37 91 57 02",
+          "Email": "info.contact@cm-28.fr",
+          "Url": "http://www.cm-chartres.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

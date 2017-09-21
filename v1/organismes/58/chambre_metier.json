@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.128139,
+          46.981931
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Bourgogne-Franche-Comté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 rue Romain-Baron",
+            "CS 80040"
+          ],
+          "CodePostal": "58027",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "46.981931",
+            "Longitude": "3.128139",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 71 80 60",
+          "Télécopie": "03 86 59 05 45",
+          "Email": "accueil-s58@artisanat-bourgogne.fr",
+          "Url": "http://www.cma-bourgogne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

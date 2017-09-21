@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.286919,
+          49.8456807
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-02691-01",
+        "codeInsee": "02691",
+        "dateMiseAJour": "2017-02-24",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Saint-Quentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16 bis, rue de la Comédie",
+            "BP 628"
+          ],
+          "CodePostal": "02322",
+          "NomCommune": "Saint-Quentin Cedex",
+          "Localisation": {
+            "Latitude": "49.8456807",
+            "Longitude": "3.286919",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 3 23 62 94 00"
+          },
+          "Télécopie": "+33 3 23 62 94 19",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "15:30:00"
+              }
+            ],
+            "Note": "Sur rendez-vous du lundi au vendredi de 13h30 à 17h00 au 03 23 27 38 04"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.616852,
+          49.565077
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-02-27",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Laon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 rue John Fitzgerald Kennedy",
+            "BP 551"
+          ],
+          "CodePostal": "02001",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.565077",
+            "Longitude": "3.616852",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "03 23 27 38 00"
+          },
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Sur rendez-vous du lundi au vendredi de 13h30 à 17h00 au 03 23 27 38 04"
+          }
+        }
+      }
+    }
+  ]
+}

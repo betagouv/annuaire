@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1577836,
+          47.0047924
+        ]
+      },
+      "properties": {
+        "id": "greta-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loire-Morvan - Nevers (siège)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Jean-Rostand",
+            "9 boulevard Saint-Exupéry"
+          ],
+          "CodePostal": "58000",
+          "NomCommune": "Nevers",
+          "Localisation": {
+            "Latitude": "47.0047924",
+            "Longitude": "3.1577836",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 59 74 59",
+          "Télécopie": "03 86 59 74 58",
+          "Email": "ce.greta.nevers@ac-dijon.fr",
+          "Url": "http://www.bourgogne.greta.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9250012,
+          47.4000747
+        ]
+      },
+      "properties": {
+        "id": "greta-58086-01",
+        "codeInsee": "58086",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta 58 de Cosne-Cours-sur-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 avenue de la Paix",
+          "CodePostal": "58200",
+          "NomCommune": "Cosne-Cours-sur-Loire",
+          "Localisation": {
+            "Latitude": "47.4000747",
+            "Longitude": "2.9250012",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 26 75 75",
+          "Télécopie": "03 86 28 58 51",
+          "Email": "greta.morvan@wanadoo.fr",
+          "Url": "http://www.bourgogne.greta.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

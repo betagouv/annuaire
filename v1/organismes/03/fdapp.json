@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.29067993164,
+          46.3059997559
+        ]
+      },
+      "properties": {
+        "id": "fdapp-03254-01",
+        "codeInsee": "03254",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Allier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue de la Ronde",
+          "CodePostal": "03500",
+          "NomCommune": "Saint-Pourçain-sur-Sioule",
+          "Localisation": {
+            "Latitude": "46.3059997559",
+            "Longitude": "3.29067993164",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 45 42 90",
+          "Télécopie": "04 70 45 73 45",
+          "Email": "federation-peche-allier@wanadoo.fr",
+          "Url": "http://www.federation-peche-allier.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

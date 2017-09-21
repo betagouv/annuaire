@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.369674,
+          48.5854264
+        ]
+      },
+      "properties": {
+        "id": "crib-61168-01",
+        "codeInsee": "61168",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - La Ferté-Macé",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Association de formation et d information des paysans de Normandie",
+            "Les Trois-Îles",
+            "Route de Domfront"
+          ],
+          "CodePostal": "61600",
+          "NomCommune": "La Ferté-Macé",
+          "Localisation": {
+            "Latitude": "48.5854264",
+            "Longitude": "-0.369674",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 30 05 05 06",
+          "Email": "denis.c@afip-normandie.fr",
+          "Url": "http://www.afip.asso.fr/normandie"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3576801,
+          48.9341949
+        ]
+      },
+      "properties": {
+        "codeInsee": "79329",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-79329-01",
+        "idPresta": "4cac9e5e293594648a0000bc",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Thouars",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue Jules Ferry",
+            "BP 127"
+          ],
+          "CodePostal": "79103",
+          "NomCommune": "THOUARS CEDEX",
+          "Localisation": {
+            "Latitude": "48.9341949",
+            "Longitude": "2.3576801",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 66 26 09",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4659677,
+          46.325277
+        ]
+      },
+      "properties": {
+        "codeInsee": "79191",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-79191-01",
+        "idPresta": "4cac9e60293594648a00032f",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Niort",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue de la Préfecture",
+          "CodePostal": "79000",
+          "NomCommune": "NIORT",
+          "Localisation": {
+            "Latitude": "46.325277",
+            "Longitude": "-0.4659677",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 24 06 01",
+          "Télécopie": "+33 5 49 28 53 98",
+          "Url": "http://www.prudhomme.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

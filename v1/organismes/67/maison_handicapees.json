@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73788022995,
+          48.5507011414
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2016-04-12",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 A rue du Verdon",
+          "CodePostal": "67100",
+          "NomCommune": "Strasbourg",
+          "Localisation": {
+            "Latitude": "48.5507011414",
+            "Longitude": "7.73788022995",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : appel et service gratuits depuis un fixe ou un mobile.",
+            "$t": "08 00 74 79 00"
+          },
+          "Télécopie": "+33 3 88 76 65 41",
+          "Email": "accueil.mdph@bas-rhin.fr",
+          "Url": "http://www.bas-rhin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 12h et de 13h30 à 16h30, à l'exception du lundi matin et du vendredi après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.738635,
+          41.919229
+        ]
+      },
+      "properties": {
+        "id": "msa-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Corse - accueil d'Ajaccio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble MAIF",
+              "Avenue du Mont-Thabor"
+            ],
+            "CodePostal": "20175",
+            "NomCommune": "Ajaccio",
+            "Localisation": {
+              "Latitude": "41.919229",
+              "Longitude": "8.738635",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Corse",
+              "Parc Cunéo-d'Ornano",
+              "BP 407"
+            ],
+            "CodePostal": "20175",
+            "NomCommune": "Ajaccio Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 29 27 18",
+          "Url": "http://www.msa20.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

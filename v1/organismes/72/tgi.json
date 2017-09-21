@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1997661,
+          48.0064699
+        ]
+      },
+      "properties": {
+        "codeInsee": "72181",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-72181-01",
+        "idPresta": "4cac9e87293594648a004ccc",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance du Mans",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "1 avenue Pierre Mendès-France"
+          ],
+          "CodePostal": "72014",
+          "NomCommune": "LE MANS CEDEX 2",
+          "Localisation": {
+            "Latitude": "48.0064699",
+            "Longitude": "0.1997661",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 83 77 00",
+          "Télécopie": "+33 2 43 83 78 79",
+          "Email": "mailto:tgi-le-mans@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

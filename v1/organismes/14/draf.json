@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3485186,
+          49.1997325
+        ]
+      },
+      "properties": {
+        "id": "draf-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "draf",
+        "Nom": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Normandie - Siège de Caen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 boulevard Général-Vanier",
+            "CS 95181"
+          ],
+          "CodePostal": "14070",
+          "NomCommune": "Caen Cedex 5",
+          "Localisation": {
+            "Latitude": "49.1997325",
+            "Longitude": "-0.3485186",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 24 98 60",
+          "Télécopie": "02 31 24 97 00",
+          "Email": "draaf-normandie@agriculture.gouv.fr",
+          "Url": "http://draaf.normandie.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.973064,
+          41.618908
+        ]
+      },
+      "properties": {
+        "id": "clic-2A272-01",
+        "codeInsee": "2A272",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Sartène",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination - Territoire de l'arrondissement de Sartène",
+            "24 cour Soeur-Amélie"
+          ],
+          "CodePostal": "20100",
+          "NomCommune": "Sartène",
+          "Localisation": {
+            "Latitude": "41.618908",
+            "Longitude": "8.973064",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 74 08 45",
+          "Télécopie": "04 20 03 91 83",
+          "Email": "clic.sartene@cg-corsedusud.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.737022,
+          41.928893
+        ]
+      },
+      "properties": {
+        "id": "clic-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Ajaccio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre local d'information et de coordination d'Ajaccio",
+              "11 bis rue Del-Pellegrino"
+            ],
+            "CodePostal": "20000",
+            "NomCommune": "Ajaccio",
+            "Localisation": {
+              "Latitude": "41.928893",
+              "Longitude": "8.737022",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Centre local d'information et coordination d'Ajaccio",
+              "Département de la Corse-du-Sud",
+              "Hôtel du département",
+              "BP 414"
+            ],
+            "CodePostal": "20183",
+            "NomCommune": "Ajaccio Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 52 96 37",
+          "Télécopie": "04 20 03 92 61",
+          "Email": "clic.ajaccio@corsedusud.fr",
+          "Url": "http://www.corsedusud.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert également sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

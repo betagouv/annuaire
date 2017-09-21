@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.434627,
+          43.6058176
+        ]
+      },
+      "properties": {
+        "id": "ddpp-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Bâtiment C",
+            "6, boulevard Armand-Duportal"
+          ],
+          "CodePostal": "31074",
+          "NomCommune": "Toulouse Cedex",
+          "Localisation": {
+            "Latitude": "43.6058176",
+            "Longitude": "1.434627",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 67 69 11 00",
+          "Télécopie": "+33 5 62 27 21 76",
+          "Email": "ddpp@haute-garonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

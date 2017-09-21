@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1492632,
+          42.3107935
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-2B096-01",
+        "codeInsee": "2B096",
+        "dateMiseAJour": "2014-10-02",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Corte",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "29, cours Paoli",
+          "CodePostal": "20250",
+          "NomCommune": "Corte",
+          "Localisation": {
+            "Latitude": "42.3107935",
+            "Longitude": "9.1492632",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 34 52 40",
+          "Télécopie": "+33 4 95 61 01 02",
+          "Email": "http://www.haute-corse.gouv.fr/par-service-r290.html?service=708",
+          "Url": "http://www.haute-corse.gouv.fr"
+        },
+        "Commentaire": "L'accueil du public s'effectue uniquement sur rendez-vous à prendre au 04 95 45 21 30 ou par courrier électronique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7559089,
+          42.5653424
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-2B050-01",
+        "codeInsee": "2B050",
+        "dateMiseAJour": "2014-10-02",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Calvi",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Porteuse-d'Eau",
+          "CodePostal": "20260",
+          "NomCommune": "Calvi",
+          "Localisation": {
+            "Latitude": "42.5653424",
+            "Longitude": "8.7559089",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 34 50 40",
+          "Télécopie": "+33 4 95 65 95 85",
+          "Email": "http://www.haute-corse.gouv.fr/sous-prefecture-de-calvi-a594.html",
+          "Url": "http://www.haute-corse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

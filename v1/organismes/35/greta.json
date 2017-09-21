@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6840215,
+          48.1336823
+        ]
+      },
+      "properties": {
+        "id": "greta-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Est-Bretagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Pierre-Mendès-France",
+            "34 rue Bahon-Rault"
+          ],
+          "CodePostal": "35000",
+          "NomCommune": "Rennes",
+          "Localisation": {
+            "Latitude": "48.1336823",
+            "Longitude": "-1.6840215",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 22 63 64",
+          "Télécopie": "02 99 22 63 65",
+          "Email": "greta.estbretagne@ac-rennes.fr",
+          "Url": "http://www.greta-bretagne.ac-rennes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

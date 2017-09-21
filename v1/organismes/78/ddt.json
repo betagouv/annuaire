@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1315894,
+          48.7969904
+        ]
+      },
+      "properties": {
+        "id": "ddt-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "35, rue de Noailles",
+            "BP 1115"
+          ],
+          "CodePostal": "78011",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.7969904",
+            "Longitude": "2.1315894",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 30 84 30 00",
+          "Télécopie": "+33 1 39 50 27 14",
+          "Email": "ddt@yvelines.gouv.fr",
+          "Url": "http://www.yvelines.equipement.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert sur rendez-vous"
+          }
+        }
+      }
+    }
+  ]
+}

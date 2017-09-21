@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443886,
+          44.927738
+        ]
+      },
+      "properties": {
+        "codeInsee": "15014",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-15014-01",
+        "idPresta": "4cac9e69293594648a0016e0",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Aurillac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 place du Square",
+          "CodePostal": "15012",
+          "NomCommune": "AURILLAC CEDEX",
+          "Localisation": {
+            "Latitude": "44.927738",
+            "Longitude": "2.443886",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 48 74 44",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

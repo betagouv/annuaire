@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.861898,
+          47.639285
+        ]
+      },
+      "properties": {
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-04-07",
+        "id": "tgi-90010-01",
+        "idPresta": "4cac9e61293594648a000601",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Belfort",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 place de la République",
+          "CodePostal": "90020",
+          "NomCommune": "BELFORT CEDEX",
+          "Localisation": {
+            "Latitude": "47.639285",
+            "Longitude": "6.861898",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 58 53 00",
+          "Télécopie": "+33 3 84 58 53 33",
+          "Email": "mailto:tgi-belfort@justice.fr et accueil-belfort@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

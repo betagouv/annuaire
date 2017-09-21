@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747266,
+          48.587215
+        ]
+      },
+      "properties": {
+        "codeInsee": "67482",
+        "dateMiseAJour": "2015-10-16",
+        "id": "tgi-67482-01",
+        "idPresta": "4cac9e6a293594648a0017b3",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Strasbourg",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 quai Finkmatt",
+            "CS 61030"
+          ],
+          "CodePostal": "67070",
+          "NomCommune": "STRASBOURG CEDEX",
+          "Localisation": {
+            "Latitude": "48.587215",
+            "Longitude": "7.747266",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 88 75 27 27",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364833,
+          48.740565
+        ]
+      },
+      "properties": {
+        "codeInsee": "67437",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-67437-01",
+        "idPresta": "4cac9e6a293594648a0017b2",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saverne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue du Tribunal",
+            "CS 50135"
+          ],
+          "CodePostal": "67703",
+          "NomCommune": "SAVERNE CEDEX",
+          "Localisation": {
+            "Latitude": "48.740565",
+            "Longitude": "7.364833",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 88 71 61 51",
+          "Télécopie": "+33 3 88 71 61 61",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.00484001637,
+          47.1291007996
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-37132-01",
+        "codeInsee": "37132",
+        "dateMiseAJour": "2014-06-25",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Loches",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7, rue du Docteur-Martinais",
+          "CodePostal": "37600",
+          "NomCommune": "Loches",
+          "Localisation": {
+            "Latitude": "47.1291007996",
+            "Longitude": "1.00484001637",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "tarif local",
+            "$t": "+ 33 2 47 64 37 37"
+          },
+          "Télécopie": "+33 2 47 91 52 80",
+          "Email": "sp-loches@indre-et-loire.gouv.fr",
+          "Url": "http://www.indre-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2435005,
+          47.165948
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-37072-01",
+        "codeInsee": "37072",
+        "dateMiseAJour": "2014-06-25",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Chinon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, rue Philippe-de-Commines",
+            "BP 156"
+          ],
+          "CodePostal": "37501",
+          "NomCommune": "Chinon Cedex",
+          "Localisation": {
+            "Latitude": "47.165948",
+            "Longitude": "0.2435005",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "tarif local",
+            "$t": "+ 33 2 47 64 37 37"
+          },
+          "Télécopie": "+33 2 47 98 35 09",
+          "Email": "sous-prefecture-de-chinon@indre-et-loire.gouv.fr",
+          "Url": "http://www.indre-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil fermé le dernier vendredi du mois"
+          }
+        }
+      }
+    }
+  ]
+}

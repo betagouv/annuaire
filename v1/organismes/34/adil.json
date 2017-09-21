@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21732997894,
+          43.3387985229
+        ]
+      },
+      "properties": {
+        "id": "adil-34032-01",
+        "codeInsee": "34032",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Hérault - Béziers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "30 avenue Gambetta",
+          "CodePostal": "34500",
+          "NomCommune": "Béziers",
+          "Localisation": {
+            "Latitude": "43.3387985229",
+            "Longitude": "3.21732997894",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 67 55 55 55",
+          "Télécopie": "04 67 55 55 57",
+          "Email": "contactadil34@orange.fr",
+          "Url": "http://www.adil34.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87485003471,
+          43.6044998169
+        ]
+      },
+      "properties": {
+        "id": "adil-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Hérault - Montpellier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 bis rue Rondelet",
+          "CodePostal": "34000",
+          "NomCommune": "Montpellier",
+          "Localisation": {
+            "Latitude": "43.6044998169",
+            "Longitude": "3.87485003471",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 67 55 55 55",
+          "Télécopie": "04 67 55 55 57",
+          "Email": "contact.adil34@orange.fr",
+          "Url": "http://www.adil34.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil uniquement sur rendez-vous sauf le matin où il y a une permanence pour les questions locatives."
+          }
+        }
+      }
+    }
+  ]
+}

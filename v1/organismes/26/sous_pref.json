@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1314461,
+          44.3599595
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-26220-01",
+        "codeInsee": "26220",
+        "dateMiseAJour": "2014-06-06",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Nyons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4, avenue de Venterol",
+          "CodePostal": "26110",
+          "NomCommune": "Nyons",
+          "Localisation": {
+            "Latitude": "44.3599595",
+            "Longitude": "5.1314461",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 26 20 33",
+          "Télécopie": "+33 4 75 26 16 72",
+          "Email": "sp-nyons@drome.gouv.fr",
+          "Url": "http://www.drome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Les demandes de permis de conduire des personnes résidant dans l’arrondissement de Nyons sont traitées par la préfecture de la Drôme à Valence. La sous-préfecture de Nyons continue à traiter les demandes de passage devant la commission médicale. Elle enregistre également les déclarations de perte du permis de conduire."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3713026,
+          44.7524792
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-26113-01",
+        "codeInsee": "26113",
+        "dateMiseAJour": "2013-11-06",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Die",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place de la République",
+            "BP 83"
+          ],
+          "CodePostal": "26150",
+          "NomCommune": "Die",
+          "Localisation": {
+            "Latitude": "44.7524792",
+            "Longitude": "5.3713026",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 22 00 22",
+          "Télécopie": "+33 4 75 22 21 20",
+          "Email": "sp-die@drome.gouv.fr",
+          "Url": "http://www.drome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

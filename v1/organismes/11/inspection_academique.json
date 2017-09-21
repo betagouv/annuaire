@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354815,
+          43.216083
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-11069-01",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Aude",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "67 rue Antoine-Marty",
+          "CodePostal": "11816",
+          "NomCommune": "Carcassonne Cedex 9",
+          "Localisation": {
+            "Latitude": "43.216083",
+            "Longitude": "2.354815",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 11 57 57",
+          "Télécopie": "04 68 25 01 98",
+          "Email": "ce.dsden11@ac-montpellier.fr",
+          "Url": "http://ia11.ac-montpellier.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

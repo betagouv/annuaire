@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.762374,
+          47.655534
+        ]
+      },
+      "properties": {
+        "codeInsee": "56260",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-56260-01",
+        "idPresta": "4cac9e6a293594648a0016f7",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Vannes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 rue Richemont",
+            "BP 66"
+          ],
+          "CodePostal": "56002",
+          "NomCommune": "VANNES CEDEX",
+          "Localisation": {
+            "Latitude": "47.655534",
+            "Longitude": "-2.762374",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 42 72 73",
+          "Télécopie": "+33 2 97 42 77 02",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3638982,
+          47.7541517
+        ]
+      },
+      "properties": {
+        "codeInsee": "56121",
+        "dateMiseAJour": "2014-11-03",
+        "id": "prudhommes-56121-01",
+        "idPresta": "4cac9e6a293594648a0016f6",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Lorient",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue Georges Collier",
+          "CodePostal": "56100",
+          "NomCommune": "LORIENT",
+          "Localisation": {
+            "Latitude": "47.7541517",
+            "Longitude": "-3.3638982",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 64 33 38",
+          "Télécopie": "+33 2 97 64 46 43",
+          "Email": "mailto:cph-lorient@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

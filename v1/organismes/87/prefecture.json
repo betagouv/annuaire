@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25773096085,
+          45.8329658508
+        ]
+      },
+      "properties": {
+        "id": "prefecture-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Haute-Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, rue de la Préfecture",
+            "BP 87031"
+          ],
+          "CodePostal": "87031",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8329658508",
+            "Longitude": "1.25773096085",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 44 18 00",
+          "Télécopie": "+33 5 55 44 17 54",
+          "Url": "http://www.haute-vienne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

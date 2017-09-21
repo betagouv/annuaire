@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3338,
+          47.589372
+        ]
+      },
+      "properties": {
+        "codeInsee": "41018",
+        "dateMiseAJour": "2016-10-07",
+        "id": "tgi-41018-01",
+        "idPresta": "4cac9e87293594648a004cc9",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Blois",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la République",
+          "CodePostal": "41018",
+          "NomCommune": "BLOIS CEDEX",
+          "Localisation": {
+            "Latitude": "47.589372",
+            "Longitude": "1.3338",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 44 60 99",
+          "Télécopie": "+33 2 54 74 11 40",
+          "Email": "mailto:tgi-blois@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

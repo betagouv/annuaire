@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0960009,
+          46.1290126
+        ]
+      },
+      "properties": {
+        "id": "urssaf-17028-01",
+        "codeInsee": "17028",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Nouvelle-Aquitaine - site de La Rochelle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "ZAC de Belle-Aire",
+              "12 rue Newton"
+            ],
+            "CodePostal": "17440",
+            "NomCommune": "Aytré",
+            "Localisation": {
+              "Latitude": "46.1290126",
+              "Longitude": "-1.0960009",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Nouvelle-Aquitaine",
+              "3 avenue de la Révolution"
+            ],
+            "CodePostal": "86046",
+            "NomCommune": "Poitiers Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Télécopie": "05 46 51 70 01",
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.poitoucharentes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+      }
+    }
+  ]
+}

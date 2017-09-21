@@ -1,0 +1,5981 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0517259,
+          50.6622737
+        ]
+      },
+      "properties": {
+        "id": "caf-59527-01",
+        "codeInsee": "59527",
+        "dateMiseAJour": "2016-11-25",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Saint-André-lez-lille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "12 place du Général-de-Gaulle",
+            "CodePostal": "59350",
+            "NomCommune": "Saint-André-lez-Lille",
+            "Localisation": {
+              "Latitude": "50.6622737",
+              "Longitude": "3.0517259",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2477473,
+          50.3306373
+        ]
+      },
+      "properties": {
+        "id": "caf-59008-01",
+        "codeInsee": "59008",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Aniche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services publics",
+              "44 rue Patoux"
+            ],
+            "CodePostal": "59580",
+            "NomCommune": "Aniche",
+            "Localisation": {
+              "Latitude": "50.3306373",
+              "Longitude": "3.2477473",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1621585,
+          50.7164163
+        ]
+      },
+      "properties": {
+        "id": "caf-59599-01",
+        "codeInsee": "59599",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Tourcoing",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Métro Sébastopol",
+              "20 rue des Carliers"
+            ],
+            "CodePostal": "59200",
+            "NomCommune": "Tourcoing",
+            "Localisation": {
+              "Latitude": "50.7164163",
+              "Longitude": "3.1621585",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "15:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.39732500000002,
+          50.328225
+        ]
+      },
+      "properties": {
+        "id": "caf-59172-01",
+        "codeInsee": "59172",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Denain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "88 allée du Rivage",
+            "CodePostal": "59220",
+            "NomCommune": "Denain",
+            "Localisation": {
+              "Latitude": "50.328225",
+              "Longitude": "3.39732500000002",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil uniquement sur rendez-vous. Borne interactive disponible les mardis, mercredis, jeudis et vendredis de 8h30 à 11h30 hors congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5679033,
+          50.4609322
+        ]
+      },
+      "properties": {
+        "id": "caf-59616-01",
+        "codeInsee": "59616",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Vieux-Condé",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "Parc Jean-Dussenne",
+              "67 rue Victor-Hugo"
+            ],
+            "CodePostal": "59690",
+            "NomCommune": "Vieux-Condé",
+            "Localisation": {
+              "Latitude": "50.4609322",
+              "Longitude": "3.5679033",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.234871,
+          50.8304715
+        ]
+      },
+      "properties": {
+        "id": "caf-59647-01",
+        "codeInsee": "59647",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Watten",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Rue de la Montagne"
+            ],
+            "CodePostal": "59143",
+            "NomCommune": "Watten",
+            "Localisation": {
+              "Latitude": "50.8304715",
+              "Longitude": "2.234871",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4987278,
+          50.1839923
+        ]
+      },
+      "properties": {
+        "id": "caf-59571-01",
+        "codeInsee": "59571",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Solesmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "5 rue de l'Abbaye"
+            ],
+            "CodePostal": "59730",
+            "NomCommune": "Solesmes",
+            "Localisation": {
+              "Latitude": "50.1839923",
+              "Longitude": "3.4987278",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture durant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0848797,
+          50.3670024
+        ]
+      },
+      "properties": {
+        "id": "caf-59178-01",
+        "codeInsee": "59178",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Douai",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "76 rue Henri-Dunant",
+            "CodePostal": "59500",
+            "NomCommune": "Douai",
+            "Localisation": {
+              "Latitude": "50.3670024",
+              "Longitude": "3.0848797",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "lieu d’accueil adapté pour les personnes malvoyantes et équipé d’une boucle magnétique"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous. Borne interactive accessible 24h/24 et 7j/7. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5202442,
+          50.3630333
+        ]
+      },
+      "properties": {
+        "id": "caf-59606-01",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Valenciennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "29 place de la République",
+            "CodePostal": "59300",
+            "NomCommune": "Valenciennes",
+            "Localisation": {
+              "Latitude": "50.3630333",
+              "Longitude": "3.5202442",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0685286,
+          50.6550039
+        ]
+      },
+      "properties": {
+        "id": "caf-59368-01",
+        "codeInsee": "59368",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de La Madeleine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "1 rue Gantois"
+            ],
+            "CodePostal": "59110",
+            "NomCommune": "La Madeleine",
+            "Localisation": {
+              "Latitude": "50.6550039",
+              "Longitude": "3.0685286",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2345104,
+          50.3315449
+        ]
+      },
+      "properties": {
+        "id": "caf-59024-01",
+        "codeInsee": "59024",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Auberchicourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "3 place Suzanne-Lannoy"
+            ],
+            "CodePostal": "59165",
+            "NomCommune": "Auberchicourt",
+            "Localisation": {
+              "Latitude": "50.3315449",
+              "Longitude": "3.2345104",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h. Pour rencontrer une assistante sociale, prendre rendez-vous au 0810255980."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5370206,
+          50.3973938
+        ]
+      },
+      "properties": {
+        "id": "caf-59112-01",
+        "codeInsee": "59112",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Bruay-sur-l'Escaut",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "26 place Farineau"
+            ],
+            "CodePostal": "59860",
+            "NomCommune": "Bruay-sur-l'Escaut",
+            "Localisation": {
+              "Latitude": "50.3973938",
+              "Longitude": "3.5370206",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.488819,
+          50.3533421
+        ]
+      },
+      "properties": {
+        "id": "caf-59606-02",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Valenciennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison du citoyen - Lomprez",
+              "29 place de la République"
+            ],
+            "CodePostal": "59300",
+            "NomCommune": "Valenciennes",
+            "Localisation": {
+              "Latitude": "50.3533421",
+              "Longitude": "3.488819",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5184466,
+          50.4064126
+        ]
+      },
+      "properties": {
+        "id": "caf-59491-02",
+        "codeInsee": "59491",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Raismes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services",
+              "78 D rue Thiers"
+            ],
+            "CodePostal": "59590",
+            "NomCommune": "Raismes",
+            "Localisation": {
+              "Latitude": "50.4064126",
+              "Longitude": "3.5184466",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "15:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.168649,
+          50.3915098
+        ]
+      },
+      "properties": {
+        "id": "caf-59327-01",
+        "codeInsee": "59327",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Lallaing",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "44 rue Faidherbe"
+            ],
+            "CodePostal": "59167",
+            "NomCommune": "Lallaing",
+            "Localisation": {
+              "Latitude": "50.3915098",
+              "Longitude": "3.168649",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1227852,
+          50.7533631
+        ]
+      },
+      "properties": {
+        "id": "caf-59508-01",
+        "codeInsee": "59508",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Roncq",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie annexe",
+              "8 rue des Arts"
+            ],
+            "CodePostal": "59223",
+            "NomCommune": "Roncq",
+            "Localisation": {
+              "Latitude": "50.7533631",
+              "Longitude": "3.1227852",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1007136,
+          50.2967642
+        ]
+      },
+      "properties": {
+        "id": "caf-59324-01",
+        "codeInsee": "59324",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Jeumont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "98 rue Hector-Despret"
+            ],
+            "CodePostal": "59460",
+            "NomCommune": "Jeumont",
+            "Localisation": {
+              "Latitude": "50.2967642",
+              "Longitude": "4.1007136",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3733298,
+          51.0294332
+        ]
+      },
+      "properties": {
+        "id": "caf-59183-01",
+        "codeInsee": "59183",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Dunkerque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "12 rue de Paris",
+            "CodePostal": "59240",
+            "NomCommune": "Dunkerque",
+            "Localisation": {
+              "Latitude": "51.0294332",
+              "Longitude": "2.3733298",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "lieu d’accueil adapté pour les personnes malvoyantes"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous. Borne interactive accessible 24h/24 et 7j/7. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.341718,
+          50.3323182
+        ]
+      },
+      "properties": {
+        "id": "caf-59205-01",
+        "codeInsee": "59205",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Escaudain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Local Condorcet",
+              "Rue du 8-Mai-1945"
+            ],
+            "CodePostal": "59124",
+            "NomCommune": "Escaudain",
+            "Localisation": {
+              "Latitude": "50.3323182",
+              "Longitude": "3.341718",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4075153,
+          50.1222666
+        ]
+      },
+      "properties": {
+        "id": "caf-59139-01",
+        "codeInsee": "59139",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Caudry",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison Caf",
+              "11 rue Gambetta"
+            ],
+            "CodePostal": "59540",
+            "NomCommune": "Caudry",
+            "Localisation": {
+              "Latitude": "50.1222666",
+              "Longitude": "3.4075153",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil fermé pendant les congés scolaires."
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires. Borne interactive disponible aux horaires d'ouverture et le jeudi de 9h à 11h30 et de 13h à 16h30. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6698988,
+          50.3953864
+        ]
+      },
+      "properties": {
+        "id": "caf-59484-01",
+        "codeInsee": "59484",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Quièvrechain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "1 place Roger-Salengro"
+            ],
+            "CodePostal": "59920",
+            "NomCommune": "Quiévrechain",
+            "Localisation": {
+              "Latitude": "50.3953864",
+              "Longitude": "3.6698988",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1486218,
+          50.6208248
+        ]
+      },
+      "properties": {
+        "id": "caf-59009-01",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des Genêts",
+              "2 rue des Genêts"
+            ],
+            "CodePostal": "59650",
+            "NomCommune": "Villeneuve-d'Ascq",
+            "Localisation": {
+              "Latitude": "50.6208248",
+              "Longitude": "3.1486218",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil fermé pendant les vacances scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil fermé pendant les vacances scolaires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.391231,
+          50.3731162
+        ]
+      },
+      "properties": {
+        "id": "caf-59632-01",
+        "codeInsee": "59632",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Wallers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Rue Marcel-Danna"
+            ],
+            "CodePostal": "59135",
+            "NomCommune": "Wallers",
+            "Localisation": {
+              "Latitude": "50.3731162",
+              "Longitude": "3.391231",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.925845,
+          50.1222871
+        ]
+      },
+      "properties": {
+        "id": "caf-59036-01",
+        "codeInsee": "59036",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Avesnes-sur-Helpe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie",
+              "2 rue Vauban"
+            ],
+            "CodePostal": "59440",
+            "NomCommune": "Avesnes-sur-Helpe",
+            "Localisation": {
+              "Latitude": "50.1222871",
+              "Longitude": "3.925845",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1545509,
+          50.640862
+        ]
+      },
+      "properties": {
+        "id": "caf-59009-04",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie annexe de la Cousinerie",
+              "Chemin des Crieurs"
+            ],
+            "CodePostal": "59650",
+            "NomCommune": "Villeneuve-d'Ascq",
+            "Localisation": {
+              "Latitude": "50.640862",
+              "Longitude": "3.1545509",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0799331,
+          50.7394749
+        ]
+      },
+      "properties": {
+        "id": "caf-59352-01",
+        "codeInsee": "59352",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Linselles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "12 rue de Bousbecque"
+            ],
+            "CodePostal": "59126",
+            "NomCommune": "Linselles",
+            "Localisation": {
+              "Latitude": "50.7394749",
+              "Longitude": "3.0799331",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4291498,
+          50.4532924
+        ]
+      },
+      "properties": {
+        "id": "caf-59526-02",
+        "codeInsee": "59526",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Saint-Amand-les-Eaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "Espace solidarité",
+              "101 rue du Faubourg-de-Tournai"
+            ],
+            "CodePostal": "59230",
+            "NomCommune": "Saint-Amand-les-Eaux",
+            "Localisation": {
+              "Latitude": "50.4532924",
+              "Longitude": "3.4291498",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement le lundi sauf le dernier lundi matin du mois et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.434093,
+          50.3182536
+        ]
+      },
+      "properties": {
+        "id": "caf-59288-01",
+        "codeInsee": "59288",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Haulchin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "4 place de la Mairie"
+            ],
+            "CodePostal": "59121",
+            "NomCommune": "Haulchin",
+            "Localisation": {
+              "Latitude": "50.3182536",
+              "Longitude": "3.434093",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08793997765,
+          50.6344985962
+        ]
+      },
+      "properties": {
+        "id": "caf-59350-03",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Lille - Fives",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Fives",
+              "91 rue Guillaume-Werniers"
+            ],
+            "CodePostal": "59000",
+            "NomCommune": "Lille",
+            "Localisation": {
+              "Latitude": "50.6344985962",
+              "Longitude": "3.08793997765",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil exclusivement sur rendez-vous. Borne interactive disponible à cette adresse. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4498016,
+          50.3187108
+        ]
+      },
+      "properties": {
+        "id": "caf-59475-01",
+        "codeInsee": "59475",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Prouvy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Rue de la Mairie"
+            ],
+            "CodePostal": "59121",
+            "NomCommune": "Prouvy",
+            "Localisation": {
+              "Latitude": "50.3187108",
+              "Longitude": "3.4498016",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0113659,
+          50.6383477
+        ]
+      },
+      "properties": {
+        "id": "caf-59350-04",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Lomme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie",
+              "107 avenue de la République"
+            ],
+            "CodePostal": "59160",
+            "NomCommune": "Lomme",
+            "Localisation": {
+              "Latitude": "50.6383477",
+              "Longitude": "3.0113659",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Borne interactive accessible du mardi au vendredi de 8h à 12h et de 13h à 16h30. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1539813,
+          50.6816887
+        ]
+      },
+      "properties": {
+        "id": "caf-59163-01",
+        "codeInsee": "59163",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Croix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "2 rue Léon-Déjardin"
+            ],
+            "CodePostal": "59170",
+            "NomCommune": "Croix",
+            "Localisation": {
+              "Latitude": "50.6816887",
+              "Longitude": "3.1539813",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.061424,
+          50.626049
+        ]
+      },
+      "properties": {
+        "id": "caf-59350-02",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Lille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "82 rue Brûle-Maison",
+            "CodePostal": "59000",
+            "NomCommune": "Lille",
+            "Localisation": {
+              "Latitude": "50.626049",
+              "Longitude": "3.061424",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "lieu d’accueil adapté pour les personnes malvoyantes et équipé d’une boucle magnétique"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous. Une borne interactive extérieure est accessible 24h/24 et 7j/7. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4854631,
+          50.3256288
+        ]
+      },
+      "properties": {
+        "id": "caf-59603-02",
+        "codeInsee": "59603",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Trith-Saint-Léger",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "29 rue Henri-Durre"
+            ],
+            "CodePostal": "59125",
+            "NomCommune": "Trith-Saint-Léger",
+            "Localisation": {
+              "Latitude": "50.3256288",
+              "Longitude": "3.4854631",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4386217,
+          50.9714442
+        ]
+      },
+      "properties": {
+        "id": "caf-59067-01",
+        "codeInsee": "59067",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Bergues",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Foyer socio-éducatif",
+              "Avenue de la Liberté"
+            ],
+            "CodePostal": "59380",
+            "NomCommune": "Bergues",
+            "Localisation": {
+              "Latitude": "50.9714442",
+              "Longitude": "2.4386217",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.181384,
+          50.738534
+        ]
+      },
+      "properties": {
+        "id": "caf-59599-02",
+        "codeInsee": "59599",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Tourcoing",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social Bourgogne",
+              "24 avenue Roger-Salengro"
+            ],
+            "CodePostal": "59200",
+            "NomCommune": "Tourcoing",
+            "Localisation": {
+              "Latitude": "50.738534",
+              "Longitude": "3.181384",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5253556,
+          50.3408345
+        ]
+      },
+      "properties": {
+        "id": "caf-59383-01",
+        "codeInsee": "59383",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Marly",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "Bureau des permanences",
+              "Place Gabriel-Péri"
+            ],
+            "CodePostal": "59770",
+            "NomCommune": "Marly",
+            "Localisation": {
+              "Latitude": "50.3408345",
+              "Longitude": "3.5253556",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7373939,
+          50.7404807
+        ]
+      },
+      "properties": {
+        "id": "caf-59043-01",
+        "codeInsee": "59043",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Bailleul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des vraies richesses",
+              "41 rue d'Ypres"
+            ],
+            "CodePostal": "59270",
+            "NomCommune": "Bailleul",
+            "Localisation": {
+              "Latitude": "50.7404807",
+              "Longitude": "2.7373939",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3102116,
+          51.0196728
+        ]
+      },
+      "properties": {
+        "id": "caf-59271-01",
+        "codeInsee": "59271",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Grande-Synthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Atrium",
+              "Place du Marché"
+            ],
+            "CodePostal": "59760",
+            "NomCommune": "Grande Synthe",
+            "Localisation": {
+              "Latitude": "51.0196728",
+              "Longitude": "2.3102116",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2323547,
+          50.9984038
+        ]
+      },
+      "properties": {
+        "id": "caf-59359-01",
+        "codeInsee": "59359",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Loon-Plage",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social Dulcie-September",
+              "60 rue Georges-Pompidou"
+            ],
+            "CodePostal": "59279",
+            "NomCommune": "Loon-Plage",
+            "Localisation": {
+              "Latitude": "50.9984038",
+              "Longitude": "2.2323547",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5803403,
+          50.9777546
+        ]
+      },
+      "properties": {
+        "id": "caf-59309-01",
+        "codeInsee": "59309",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hondschoote",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Point relais services",
+              "1 rue de Cassel"
+            ],
+            "CodePostal": "59122",
+            "NomCommune": "Hondschoote",
+            "Localisation": {
+              "Latitude": "50.9777546",
+              "Longitude": "2.5803403",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6878541,
+          50.1242074
+        ]
+      },
+      "properties": {
+        "id": "caf-59331-01",
+        "codeInsee": "59331",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Landrecies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "22 boulevard des Résistants",
+            "CodePostal": "59550",
+            "NomCommune": "Landrecies",
+            "Localisation": {
+              "Latitude": "50.1242074",
+              "Longitude": "3.6878541",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.50408,
+          50.3854419
+        ]
+      },
+      "properties": {
+        "id": "caf-59079-01",
+        "codeInsee": "59079",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Beuvrages",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Pôle social",
+              "Rue Henri-Durre"
+            ],
+            "CodePostal": "59192",
+            "NomCommune": "Beuvrages",
+            "Localisation": {
+              "Latitude": "50.3854419",
+              "Longitude": "3.50408",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.142656,
+          50.6241312
+        ]
+      },
+      "properties": {
+        "id": "caf-59009-03",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social Corneille",
+              "47 rue Corneille"
+            ],
+            "CodePostal": "59650",
+            "NomCommune": "Villeneuve-d'Ascq",
+            "Localisation": {
+              "Latitude": "50.6241312",
+              "Longitude": "3.142656",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0123453,
+          50.7659831
+        ]
+      },
+      "properties": {
+        "id": "caf-59152-01",
+        "codeInsee": "59152",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Comines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "1 rue des Maires-Lambin"
+            ],
+            "CodePostal": "59560",
+            "NomCommune": "Comines",
+            "Localisation": {
+              "Latitude": "50.7659831",
+              "Longitude": "3.0123453",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5049614,
+          50.3322239
+        ]
+      },
+      "properties": {
+        "id": "caf-59603-01",
+        "codeInsee": "59603",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Trith-le-Poirier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie annexe",
+              "Rue Bessemer"
+            ],
+            "CodePostal": "59125",
+            "NomCommune": "Trith-le-Poirier",
+            "Localisation": {
+              "Latitude": "50.3322239",
+              "Longitude": "3.5049614",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8810989,
+          50.6815807
+        ]
+      },
+      "properties": {
+        "id": "caf-59017-01",
+        "codeInsee": "59017",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Armentières",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "8 rue des Nieulles",
+            "CodePostal": "59280",
+            "NomCommune": "Armentières",
+            "Localisation": {
+              "Latitude": "50.6815807",
+              "Longitude": "2.8810989",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "lieu d’accueil adapté pour les personnes malvoyantes"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0486628,
+          50.0156755
+        ]
+      },
+      "properties": {
+        "id": "caf-59249-01",
+        "codeInsee": "59249",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Fourmies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "20 bis rue Jean-Jaurès",
+            "CodePostal": "59610",
+            "NomCommune": "Fourmies",
+            "Localisation": {
+              "Latitude": "50.0156755",
+              "Longitude": "4.0486628",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.096148,
+          50.344612
+        ]
+      },
+      "properties": {
+        "id": "caf-59569-01",
+        "codeInsee": "59569",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Sin-le-Noble",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace René-Char",
+              "Les Couronnes"
+            ],
+            "CodePostal": "59450",
+            "NomCommune": "Sin-le-Noble",
+            "Localisation": {
+              "Latitude": "50.344612",
+              "Longitude": "3.096148",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.294927,
+          51.0063239
+        ]
+      },
+      "properties": {
+        "id": "caf-59271-02",
+        "codeInsee": "59271",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Grande-Synthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de quartier du Courghain",
+              "3 place du Courghain"
+            ],
+            "CodePostal": "59760",
+            "NomCommune": "Grande-Synthe",
+            "Localisation": {
+              "Latitude": "51.0063239",
+              "Longitude": "2.294927",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5779369,
+          50.8091068
+        ]
+      },
+      "properties": {
+        "id": "caf-59580-01",
+        "codeInsee": "59580",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Steenvoorde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social",
+              "Place Jean-Marie-Ryckewaert"
+            ],
+            "CodePostal": "59114",
+            "NomCommune": "Steenvoorde",
+            "Localisation": {
+              "Latitude": "50.8091068",
+              "Longitude": "2.5779369",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4675832,
+          50.8826597
+        ]
+      },
+      "properties": {
+        "id": "caf-59663-01",
+        "codeInsee": "59663",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Wormhout",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social Marissel",
+              "47 place du Général-de-Gaulle"
+            ],
+            "CodePostal": "59470",
+            "NomCommune": "Wormhout",
+            "Localisation": {
+              "Latitude": "50.8826597",
+              "Longitude": "2.4675832",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8428030014,
+          50.2036781311
+        ]
+      },
+      "properties": {
+        "id": "caf-59033-01",
+        "codeInsee": "59033",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Aulnoye-Aymeries",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Place du Docteur-Guersant"
+            ],
+            "CodePostal": "59620",
+            "NomCommune": "Aulnoye-Aymeries",
+            "Localisation": {
+              "Latitude": "50.2036781311",
+              "Longitude": "3.8428030014",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2429559,
+          50.4743057
+        ]
+      },
+      "properties": {
+        "id": "caf-59449-01",
+        "codeInsee": "59449",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Orchies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Hôtel de Ville",
+              "Place du Général-de-Gaulle"
+            ],
+            "CodePostal": "59310",
+            "NomCommune": "Orchies",
+            "Localisation": {
+              "Latitude": "50.4743057",
+              "Longitude": "3.2429559",
+              "Précision": "4"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les congés scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4800755,
+          50.3673377
+        ]
+      },
+      "properties": {
+        "id": "caf-59459-01",
+        "codeInsee": "59459",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Petite-Forêt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "80 rue Jean-Jaurès"
+            ],
+            "CodePostal": "59494",
+            "NomCommune": "Petite-Forêt",
+            "Localisation": {
+              "Latitude": "50.3673377",
+              "Longitude": "3.4800755",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4817644,
+          50.30755
+        ]
+      },
+      "properties": {
+        "id": "caf-59369-01",
+        "codeInsee": "59369",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Maing",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Rue Jean-Jaurès"
+            ],
+            "CodePostal": "59233",
+            "NomCommune": "Maing",
+            "Localisation": {
+              "Latitude": "50.30755",
+              "Longitude": "3.4817644",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.18466997147,
+          50.6922988892
+        ]
+      },
+      "properties": {
+        "id": "caf-59512-02",
+        "codeInsee": "59512",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Roubaix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "124 boulevard Gambetta",
+            "CodePostal": "59100",
+            "NomCommune": "Roubaix",
+            "Localisation": {
+              "Latitude": "50.6922988892",
+              "Longitude": "3.18466997147",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "15:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5983147,
+          50.399309
+        ]
+      },
+      "properties": {
+        "id": "caf-59447-01",
+        "codeInsee": "59447",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Onnaing",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services",
+              "17 chasse de Valenciennes"
+            ],
+            "CodePostal": "59264",
+            "NomCommune": "Onnaing",
+            "Localisation": {
+              "Latitude": "50.399309",
+              "Longitude": "3.5983147",
+              "Précision": "4"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2003447,
+          50.6693941
+        ]
+      },
+      "properties": {
+        "id": "caf-59299-01",
+        "codeInsee": "59299",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hem",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social 3-Villes",
+              "93 rue du Docteur-Schweitzer"
+            ],
+            "CodePostal": "59510",
+            "NomCommune": "Hem",
+            "Localisation": {
+              "Latitude": "50.6693941",
+              "Longitude": "3.2003447",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5987459,
+          50.4655429
+        ]
+      },
+      "properties": {
+        "id": "caf-59153-01",
+        "codeInsee": "59153",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Condé-sur-l'Escaut",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "École maternelle du Hameau-de-Macou",
+              "11 rue Germinal"
+            ],
+            "CodePostal": "59163",
+            "NomCommune": "Condé-sur-l'Escaut",
+            "Localisation": {
+              "Latitude": "50.4655429",
+              "Longitude": "3.5987459",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9171,
+          50.299248
+        ]
+      },
+      "properties": {
+        "id": "caf-59225-01",
+        "codeInsee": "59225",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Feignies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Foyer Colmant",
+              "Rue Alfred-Derkenne"
+            ],
+            "CodePostal": "59750",
+            "NomCommune": "Feignies",
+            "Localisation": {
+              "Latitude": "50.299248",
+              "Longitude": "3.9171",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1298472,
+          50.6234116
+        ]
+      },
+      "properties": {
+        "id": "caf-59009-02",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq - Centre Ville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social",
+              "Rue des Vétérans"
+            ],
+            "CodePostal": "59650",
+            "NomCommune": "Villeneuve-d'Ascq",
+            "Localisation": {
+              "Latitude": "50.6234116",
+              "Longitude": "3.1298472",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les vacances scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5130232,
+          50.3427272
+        ]
+      },
+      "properties": {
+        "id": "caf-59606-03",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Valenciennes - La Briquette",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Faubourg de Cambrai",
+              "Rue de la Targette"
+            ],
+            "CodePostal": "59300",
+            "NomCommune": "Valenciennes",
+            "Localisation": {
+              "Latitude": "50.3427272",
+              "Longitude": "3.5130232",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0955489,
+          50.6732025
+        ]
+      },
+      "properties": {
+        "id": "caf-59378-01",
+        "codeInsee": "59378",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Marcq-en-Baroeul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Espace Robert-Schumann",
+              "103 avenue Foch"
+            ],
+            "CodePostal": "59700",
+            "NomCommune": "Marcq-en-Barœul",
+            "Localisation": {
+              "Latitude": "50.6732025",
+              "Longitude": "3.0955489",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les vacances scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1067446,
+          51.0010782
+        ]
+      },
+      "properties": {
+        "id": "caf-59272-01",
+        "codeInsee": "59272",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Grand-Fort-Philippe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des associations",
+              "Rue de Verdun"
+            ],
+            "CodePostal": "59153",
+            "NomCommune": "Grand-Fort-Philippe",
+            "Localisation": {
+              "Latitude": "51.0010782",
+              "Longitude": "2.1067446",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0078809,
+          50.6143607
+        ]
+      },
+      "properties": {
+        "id": "caf-59360-01",
+        "codeInsee": "59360",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Loos",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 rue Georges-Potié",
+            "CodePostal": "59120",
+            "NomCommune": "Loos",
+            "Localisation": {
+              "Latitude": "50.6143607",
+              "Longitude": "3.0078809",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil fermé pendant les congés scolaires. Borne interactive accessible 24h/24 et 7j/7. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil fermé pendant les congés scolaires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.089386,
+          50.174538
+        ]
+      },
+      "properties": {
+        "id": "caf-59572-01",
+        "codeInsee": "59572",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Solre-le-Château",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "La Poste",
+              "Maison de services au public",
+              "19 Grand rue"
+            ],
+            "CodePostal": "59740",
+            "NomCommune": "Solre-le-Château",
+            "Localisation": {
+              "Latitude": "50.174538",
+              "Longitude": "4.089386",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1929316,
+          50.944829
+        ]
+      },
+      "properties": {
+        "id": "caf-59094-01",
+        "codeInsee": "59094",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Bourbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social",
+              "Avenue François-Mitterrand"
+            ],
+            "CodePostal": "59630",
+            "NomCommune": "Bourbourg",
+            "Localisation": {
+              "Latitude": "50.944829",
+              "Longitude": "2.1929316",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2932847,
+          43.7673058
+        ]
+      },
+      "properties": {
+        "id": "caf-59400-01",
+        "codeInsee": "59400",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Merville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Quartier Jardins des Flandres",
+              "Espace d'animation Stéphane-Hessel",
+              "18 place François-Mitterrand"
+            ],
+            "CodePostal": "59660",
+            "NomCommune": "Merville",
+            "Localisation": {
+              "Latitude": "43.7673058",
+              "Longitude": "1.2932847",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3345045,
+          50.3069909
+        ]
+      },
+      "properties": {
+        "id": "caf-59504-01",
+        "codeInsee": "59504",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Roeulx",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Place Gilbert-Henri"
+            ],
+            "CodePostal": "59172",
+            "NomCommune": "Roeulx",
+            "Localisation": {
+              "Latitude": "50.3069909",
+              "Longitude": "3.3345045",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2351261,
+          50.7047295
+        ]
+      },
+      "properties": {
+        "id": "caf-59650-01",
+        "codeInsee": "59650",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Wattrelos",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie annexe - Beaulieu",
+              "94 rue Léon-Blum"
+            ],
+            "CodePostal": "59150",
+            "NomCommune": "Wattrelos",
+            "Localisation": {
+              "Latitude": "50.7047295",
+              "Longitude": "3.2351261",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.501314,
+          50.369794
+        ]
+      },
+      "properties": {
+        "id": "caf-59014-01",
+        "codeInsee": "59014",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Anzin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Place Roger-Salengro"
+            ],
+            "CodePostal": "59410",
+            "NomCommune": "Anzin",
+            "Localisation": {
+              "Latitude": "50.369794",
+              "Longitude": "3.501314",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6404163,
+          50.2475502
+        ]
+      },
+      "properties": {
+        "id": "caf-59481-01",
+        "codeInsee": "59481",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil du Quesnoy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie",
+              "23 rue Chevray"
+            ],
+            "CodePostal": "59530",
+            "NomCommune": "Le Quesnoy",
+            "Localisation": {
+              "Latitude": "50.2475502",
+              "Longitude": "3.6404163",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5188212,
+          50.3133719
+        ]
+      },
+      "properties": {
+        "id": "caf-59221-01",
+        "codeInsee": "59221",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Famars",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de la solidarité",
+              "7 rue de Bermerain"
+            ],
+            "CodePostal": "59300",
+            "NomCommune": "Famars",
+            "Localisation": {
+              "Latitude": "50.3133719",
+              "Longitude": "3.5188212",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8038293,
+          50.5316176
+        ]
+      },
+      "properties": {
+        "id": "caf-59051-01",
+        "codeInsee": "59051",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de La Bassée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie",
+              "Place du Général-de-Gaulle"
+            ],
+            "CodePostal": "59480",
+            "NomCommune": "La Bassée",
+            "Localisation": {
+              "Latitude": "50.5316176",
+              "Longitude": "2.8038293",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h. Borne interactive disponible le vendredi de 9h à 12h et de 13h à 16h hors congés scolaires."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02714830000002,
+          50.4578634
+        ]
+      },
+      "properties": {
+        "id": "caf-59452-01",
+        "codeInsee": "59452",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Ostricourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social",
+              "251 avenue du Maréchal-Leclerc"
+            ],
+            "CodePostal": "59162",
+            "NomCommune": "Ostricourt",
+            "Localisation": {
+              "Latitude": "50.4578634",
+              "Longitude": "3.02714830000002",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.952629,
+          50.277953
+        ]
+      },
+      "properties": {
+        "id": "caf-59392-01",
+        "codeInsee": "59392",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Maubeuge",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "58 boulevard Pasteur",
+            "CodePostal": "59600",
+            "NomCommune": "Maubeuge",
+            "Localisation": {
+              "Latitude": "50.277953",
+              "Longitude": "3.952629",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2008117,
+          50.6852086
+        ]
+      },
+      "properties": {
+        "id": "caf-59512-03",
+        "codeInsee": "59512",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Roubaix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services des Trois-Ponts",
+              "71 avenue de Verdun"
+            ],
+            "CodePostal": "59100",
+            "NomCommune": "Roubaix",
+            "Localisation": {
+              "Latitude": "50.6852086",
+              "Longitude": "3.2008117",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.277721,
+          50.356682
+        ]
+      },
+      "properties": {
+        "id": "caf-59574-02",
+        "codeInsee": "59574",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Somain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "49 rue Suzanne-Lanoy"
+            ],
+            "CodePostal": "59490",
+            "NomCommune": "Somain",
+            "Localisation": {
+              "Latitude": "50.356682",
+              "Longitude": "3.277721",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2655277,
+          50.2863865
+        ]
+      },
+      "properties": {
+        "id": "caf-59387-01",
+        "codeInsee": "59387",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Marquette-en-Ostrevant",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "34 rue Pasteur"
+            ],
+            "CodePostal": "59252",
+            "NomCommune": "Marquette-en-Ostrevant",
+            "Localisation": {
+              "Latitude": "50.2863865",
+              "Longitude": "3.2655277",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5551003,
+          50.3708071
+        ]
+      },
+      "properties": {
+        "id": "caf-59544-01",
+        "codeInsee": "59544",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Saint-Saulve",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "140 rue Jean-Jaurès"
+            ],
+            "CodePostal": "59880",
+            "NomCommune": "Saint-Saulve",
+            "Localisation": {
+              "Latitude": "50.3708071",
+              "Longitude": "3.5551003",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.54054189999999,
+          50.7220174
+        ]
+      },
+      "properties": {
+        "id": "caf-59295-01",
+        "codeInsee": "59295",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hazebrouck",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Résidence La Clef de Sol",
+              "48 rue du Dépôt"
+            ],
+            "CodePostal": "59190",
+            "NomCommune": "Hazebrouck",
+            "Localisation": {
+              "Latitude": "50.7220174",
+              "Longitude": "2.54054189999999",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires. Borne interactive accessible 24h/24 et 7j/7. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1322244,
+          50.615997
+        ]
+      },
+      "properties": {
+        "id": "caf-59009-05",
+        "codeInsee": "59009",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Villeneuve-d'Ascq",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie",
+              "51 boulevard Valmy"
+            ],
+            "CodePostal": "59650",
+            "NomCommune": "Villeneuve-d'Ascq",
+            "Localisation": {
+              "Latitude": "50.615997",
+              "Longitude": "3.1322244",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5219735,
+          50.334146
+        ]
+      },
+      "properties": {
+        "id": "caf-59032-01",
+        "codeInsee": "59032",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Aulnoy-lez-Valenciennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Cyber base",
+              "2 avenue Henri-Matisse"
+            ],
+            "CodePostal": "59300",
+            "NomCommune": "Aulnoy-lez-Valenciennes",
+            "Localisation": {
+              "Latitude": "50.334146",
+              "Longitude": "3.5219735",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.57836,
+          50.43189
+        ]
+      },
+      "properties": {
+        "id": "caf-59253-01",
+        "codeInsee": "59253",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Fresnes-sur-Escaut",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Hôtel-de-Vie",
+              "36 rue du Maréchal-Soult"
+            ],
+            "CodePostal": "59970",
+            "NomCommune": "Fresnes-sur-Escaut",
+            "Localisation": {
+              "Latitude": "50.43189",
+              "Longitude": "3.57836",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9927243,
+          50.2545519
+        ]
+      },
+      "properties": {
+        "id": "caf-59230-01",
+        "codeInsee": "59230",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Ferrière-la-Grande",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison d'entraide et solidarité",
+              "15 rue Roger-Salengro"
+            ],
+            "CodePostal": "59680",
+            "NomCommune": "Ferrière-la-Grande",
+            "Localisation": {
+              "Latitude": "50.2545519",
+              "Longitude": "3.9927243",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4549245,
+          50.5033084
+        ]
+      },
+      "properties": {
+        "id": "caf-59418-01",
+        "codeInsee": "59418",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Mortagne-du-Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "Place Paul-Gillet"
+            ],
+            "CodePostal": "59158",
+            "NomCommune": "Mortagne-du-Nord",
+            "Localisation": {
+              "Latitude": "50.5033084",
+              "Longitude": "3.4549245",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04274988174,
+          50.586101532
+        ]
+      },
+      "properties": {
+        "id": "caf-59648-01",
+        "codeInsee": "59648",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Wattignies",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de la petite enfance",
+              "16 rue du Docteur-Schweitzer"
+            ],
+            "CodePostal": "59139",
+            "NomCommune": "Wattignies",
+            "Localisation": {
+              "Latitude": "50.586101532",
+              "Longitude": "3.04274988174",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.429815,
+          50.434002
+        ]
+      },
+      "properties": {
+        "id": "caf-59526-01",
+        "codeInsee": "59526",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Saint-Amand-les-Eaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de l'enfance",
+              "Rue de la Collinière"
+            ],
+            "CodePostal": "59230",
+            "NomCommune": "Saint-Amand-les-Eaux",
+            "Localisation": {
+              "Latitude": "50.434002",
+              "Longitude": "3.429815",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert uniquement le dernier lundi du mois et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3588062,
+          50.3713601
+        ]
+      },
+      "properties": {
+        "id": "caf-59297-01",
+        "codeInsee": "59297",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hélesmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "4 rue Roger-Salengro"
+            ],
+            "CodePostal": "59171",
+            "NomCommune": "Hélesmes",
+            "Localisation": {
+              "Latitude": "50.3713601",
+              "Longitude": "3.3588062",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3911927,
+          50.3015724
+        ]
+      },
+      "properties": {
+        "id": "caf-59179-01",
+        "codeInsee": "59179",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Douchy-les-Mines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Le Beffroi",
+              "18 avenue Julien-Renard"
+            ],
+            "CodePostal": "59282",
+            "NomCommune": "Douchy-les-Mines",
+            "Localisation": {
+              "Latitude": "50.3015724",
+              "Longitude": "3.3911927",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9203710556,
+          50.2509384155
+        ]
+      },
+      "properties": {
+        "id": "caf-59291-01",
+        "codeInsee": "59291",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hautmont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace Chauwel",
+              "117 rue de Louvroil"
+            ],
+            "CodePostal": "59330",
+            "NomCommune": "Hautmont",
+            "Localisation": {
+              "Latitude": "50.2509384155",
+              "Longitude": "3.9203710556",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4863646,
+          50.7997783
+        ]
+      },
+      "properties": {
+        "id": "caf-59135-01",
+        "codeInsee": "59135",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Cassel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social",
+              "Grand place"
+            ],
+            "CodePostal": "59670",
+            "NomCommune": "Cassel",
+            "Localisation": {
+              "Latitude": "50.7997783",
+              "Longitude": "2.4863646",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1279779,
+          50.9868439
+        ]
+      },
+      "properties": {
+        "id": "caf-59273-01",
+        "codeInsee": "59273",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Gravelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "28 bis rue Aupick"
+            ],
+            "CodePostal": "59820",
+            "NomCommune": "Gravelines",
+            "Localisation": {
+              "Latitude": "50.9868439",
+              "Longitude": "2.1279779",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2160052,
+          50.3776193
+        ]
+      },
+      "properties": {
+        "id": "caf-59456-01",
+        "codeInsee": "59456",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Pecquencourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social Françoise-Dolto",
+              "4 rue d'Estienne-d'Orves"
+            ],
+            "CodePostal": "59146",
+            "NomCommune": "Pecquencourt",
+            "Localisation": {
+              "Latitude": "50.3776193",
+              "Longitude": "3.2160052",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4837706,
+          50.3901516
+        ]
+      },
+      "properties": {
+        "id": "caf-59491-01",
+        "codeInsee": "59491",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Raismes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "Espace solidarité",
+              "Rue Roger-Claie"
+            ],
+            "CodePostal": "59590",
+            "NomCommune": "Raismes",
+            "Localisation": {
+              "Latitude": "50.3901516",
+              "Longitude": "3.4837706",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture pendant les vacances scolaires et du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3874294,
+          50.4254056
+        ]
+      },
+      "properties": {
+        "id": "caf-59284-01",
+        "codeInsee": "59284",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Hasnon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "Rue du Pont"
+            ],
+            "CodePostal": "59178",
+            "NomCommune": "Hasnon",
+            "Localisation": {
+              "Latitude": "50.4254056",
+              "Longitude": "3.3874294",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2389601,
+          50.1750358
+        ]
+      },
+      "properties": {
+        "id": "caf-59122-01",
+        "codeInsee": "59122",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Cambrai",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 rang Saint-Jean",
+            "CodePostal": "59400",
+            "NomCommune": "Cambrai",
+            "Localisation": {
+              "Latitude": "50.1750358",
+              "Longitude": "3.2389601",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe, bande podotactile au sol de l'entrée à l'accueil de premier niveau, accueil équipé d’une boucle magnétique"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous. Borne interactive disponible 24h/24 et 7j/7. Médiation familiale le dernier lundi du mois de 14h à 16h. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0544139,
+          50.4155239
+        ]
+      },
+      "properties": {
+        "id": "caf-59028-01",
+        "codeInsee": "59028",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Auby",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services",
+              "1 rue du Général-de-Gaulle"
+            ],
+            "CodePostal": "59950",
+            "NomCommune": "Auby",
+            "Localisation": {
+              "Latitude": "50.4155239",
+              "Longitude": "3.0544139",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h. Pour rencontrer une assistante sociale, prendre rendez-vous par téléphone."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1225841,
+          50.7818363
+        ]
+      },
+      "properties": {
+        "id": "caf-59279-01",
+        "codeInsee": "59279",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Halluin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "40 rue Marthe-Nollet"
+            ],
+            "CodePostal": "59250",
+            "NomCommune": "Halluin",
+            "Localisation": {
+              "Latitude": "50.7818363",
+              "Longitude": "3.1225841",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil fermé pendant les congés scolaires. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil fermé pendant les congés scolaires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1855537,
+          50.6735013
+        ]
+      },
+      "properties": {
+        "id": "caf-59512-01",
+        "codeInsee": "59512",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil de Roubaix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie des quartiers sud",
+              "188 boulevard de Fourmies"
+            ],
+            "CodePostal": "59100",
+            "NomCommune": "Roubaix",
+            "Localisation": {
+              "Latitude": "50.6735013",
+              "Longitude": "3.1855537",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 1er septembre 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2443303,
+          50.3586692
+        ]
+      },
+      "properties": {
+        "id": "caf-59002-01",
+        "codeInsee": "59002",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Nord - accueil d'Abscon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre administratif",
+              "1 rue Pasteur"
+            ],
+            "CodePostal": "59215",
+            "NomCommune": "Abscon",
+            "Localisation": {
+              "Latitude": "50.3586692",
+              "Longitude": "3.2443303",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales du Nord",
+            "CodePostal": "59863",
+            "NomCommune": "Lille Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 59 80"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Permanence provisoirement fermée. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    }
+  ]
+}

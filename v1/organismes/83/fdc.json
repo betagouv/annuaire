@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46508979797,
+          43.5353012085
+        ]
+      },
+      "properties": {
+        "id": "fdc-83050-01",
+        "codeInsee": "83050",
+        "dateMiseAJour": "2014-10-14",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7, boulevard Gabriel-Péri",
+          "CodePostal": "83300",
+          "NomCommune": "Draguignan",
+          "Localisation": {
+            "Latitude": "43.5353012085",
+            "Longitude": "6.46508979797",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 98 10 23 10",
+          "Télécopie": "+33 4 94 68 10 47",
+          "Email": "contact@fdc83.com",
+          "Url": "http://www.fdc83.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3548735,
+          43.8190125
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-04-20",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZAC Esplanade Sud",
+            "174 rue Antoine-Blondin",
+            "CS 33007"
+          ],
+          "CodePostal": "30908",
+          "NomCommune": "Nîmes Cedex 2",
+          "Localisation": {
+            "Latitude": "43.8190125",
+            "Longitude": "4.3548735",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 38 55 55",
+          "Télécopie": "04 66 38 55 39",
+          "Email": "lrmp-ut30.direction@direccte.gouv.fr",
+          "Url": "http://www.occitanie.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

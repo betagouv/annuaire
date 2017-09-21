@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8390986,
+          46.3133206
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 boulevard Henri-Dunant",
+            "BP 72512"
+          ],
+          "CodePostal": "71025",
+          "NomCommune": "Mâcon Cedex 9",
+          "Localisation": {
+            "Latitude": "46.3133206",
+            "Longitude": "4.8390986",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 22 55 00",
+          "Télécopie": "03 85 22 55 39",
+          "Email": "ce.inspecteur71@ac-dijon.fr",
+          "Url": "http://www.ia71.ac-dijon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

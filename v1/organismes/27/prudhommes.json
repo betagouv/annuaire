@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.149745,
+          49.025062
+        ]
+      },
+      "properties": {
+        "codeInsee": "27229",
+        "dateMiseAJour": "2017-02-24",
+        "id": "prudhommes-27229-01",
+        "idPresta": "4cac9ed6293594648a00ed64",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Evreux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue de la Petite Cité",
+            "BP 975"
+          ],
+          "CodePostal": "27009",
+          "NomCommune": "EVREUX CEDEX",
+          "Localisation": {
+            "Latitude": "49.025062",
+            "Longitude": "1.149745",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 07 02 95",
+          "Email": "mailto:cph-evreux@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.150318,
+          49.199485
+        ]
+      },
+      "properties": {
+        "codeInsee": "27375",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-27375-01",
+        "idPresta": "4cac9e69293594648a0016e3",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Louviers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "11 rue des Pénitents BP 407"
+          ],
+          "CodePostal": "27400",
+          "NomCommune": "LOUVIERS",
+          "Localisation": {
+            "Latitude": "49.199485",
+            "Longitude": "1.150318",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 40 20 86",
+          "Télécopie": "+33 2 32 50 23 22",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.597496,
+          49.089306
+        ]
+      },
+      "properties": {
+        "codeInsee": "27056",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-27056-01",
+        "idPresta": "4cac9ed6293594648a00ed63",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bernay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Gustave Héon",
+            "BP 761"
+          ],
+          "CodePostal": "27307",
+          "NomCommune": "BERNAY CEDEX",
+          "Localisation": {
+            "Latitude": "49.089306",
+            "Longitude": "0.597496",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 43 41 96",
+          "Télécopie": "+33 2 32 46 06 18",
+          "Email": "mailto:cph-bernay@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

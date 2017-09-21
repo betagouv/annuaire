@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33495998383,
+          43.8268013
+        ]
+      },
+      "properties": {
+        "id": "anah-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2014-05-05",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Directions départementales des territoires et de la mer",
+            "Service de l'Anah",
+            "89, rue Weber",
+            "CS 52002"
+          ],
+          "CodePostal": "30907",
+          "NomCommune": "Nîmes Cedex 2",
+          "Localisation": {
+            "Latitude": "43.8268013",
+            "Longitude": "4.33495998383",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 62 63 00",
+          "Télécopie": "+33 4 66 62 63 84",
+          "Email": "anah.ddtm-du-gard@equipement.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

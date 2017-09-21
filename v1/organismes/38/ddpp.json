@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7124341,
+          45.1927873
+        ]
+      },
+      "properties": {
+        "id": "ddpp-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22, avenue Doyen-Louis-Weil",
+            "CS 6"
+          ],
+          "CodePostal": "38028",
+          "NomCommune": "Grenoble Cedex 1",
+          "Localisation": {
+            "Latitude": "45.1927873",
+            "Longitude": "5.7124341",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 56 59 49 99",
+          "Télécopie": "+33 4 76 84 55 87",
+          "Email": "ddpp@isere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

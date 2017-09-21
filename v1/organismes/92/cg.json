@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21396207809,
+          48.8981742859
+        ]
+      },
+      "properties": {
+        "id": "cg-92050-01",
+        "codeInsee": "92050",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Hauts-de-Seine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "2-16 boulevard Soufflot"
+          ],
+          "CodePostal": "92015",
+          "NomCommune": "Nanterre Cedex",
+          "Localisation": {
+            "Latitude": "48.8981742859",
+            "Longitude": "2.21396207809",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 47 29 30 31",
+          "Télécopie": "01 47 29 34 34",
+          "Email": "cg92@hauts-de-seine.fr",
+          "Url": "http://www.hauts-de-seine.net"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

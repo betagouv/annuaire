@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49990987778,
+          47.6876983643
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-70310-01",
+        "codeInsee": "70310",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat interdépartementale - Bourgogne-Franche-Comté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Délégation de Franche-Comté",
+            "6 rue Victor-Hugo",
+            "BP 175"
+          ],
+          "CodePostal": "70204",
+          "NomCommune": "Lure Cedex",
+          "Localisation": {
+            "Latitude": "47.6876983643",
+            "Longitude": "6.49990987778",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 39 21 22 23",
+          "Télécopie": "03 84 62 85 84",
+          "Email": "n.giboulet@artisanat-comtois.fr",
+          "Url": "http://www.artisanat-comtois.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

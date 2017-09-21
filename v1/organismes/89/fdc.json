@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.527451400000018,
+          47.7993291
+        ]
+      },
+      "properties": {
+        "id": "fdc-89346-01",
+        "codeInsee": "89346",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 avenue de la Paix",
+          "CodePostal": "89003",
+          "NomCommune": "Saint-Georges-sur-Baulche",
+          "Localisation": {
+            "Latitude": "47.7993291",
+            "Longitude": "3.527451400000018",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 94 22 94",
+          "Télécopie": "03 86 46 84 00",
+          "Email": "fdc89@fdc89.fr",
+          "Url": "http://www.chasseurdelyonne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

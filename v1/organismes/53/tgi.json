@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77361,
+          48.06931
+        ]
+      },
+      "properties": {
+        "codeInsee": "53130",
+        "dateMiseAJour": "2014-07-21",
+        "id": "tgi-53130-01",
+        "idPresta": "4cac9e6a293594648a0017a7",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Laval",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13 place Saint Tugal",
+            "BP 81515"
+          ],
+          "CodePostal": "53015",
+          "NomCommune": "LAVAL CEDEX",
+          "Localisation": {
+            "Latitude": "48.06931",
+            "Longitude": "-0.77361",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 49 57 00",
+          "Télécopie": "+33 2 43 49 57 01",
+          "Email": "mailto:tgi-laval@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

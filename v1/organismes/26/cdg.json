@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8871102,
+          44.9410406
+        ]
+      },
+      "properties": {
+        "id": "cdg-26058-01",
+        "codeInsee": "26058",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Île Girodet",
+            "Allée André-Revol",
+            "BP 1112"
+          ],
+          "CodePostal": "26011",
+          "NomCommune": "Valence Cedex",
+          "Localisation": {
+            "Latitude": "44.9410406",
+            "Longitude": "4.8871102",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 82 01 30",
+          "Télécopie": "04 75 42 39 40",
+          "Email": "myriam.bossu@cdg26.fr",
+          "Url": "http://www.cdg26.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "15:45:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

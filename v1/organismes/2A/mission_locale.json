@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7405193,
+          41.9334765
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale d'Ajaccio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel Castel-Vecchio",
+            "7 rue Paul-Colonna-d'Istria",
+            "2e étage"
+          ],
+          "CodePostal": "20090",
+          "NomCommune": "Ajaccio",
+          "Localisation": {
+            "Latitude": "41.9334765",
+            "Longitude": "8.7405193",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 20 92 38",
+          "Télécopie": "04 95 20 27 42",
+          "Email": "secretariat.mlajaccio@m-l.corsica",
+          "Url": "http://www.missions-locales-corse.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27604,
+          41.5885
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-2A247-01",
+        "codeInsee": "2A247",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Porto-Vecchio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Sphinx",
+            "Avenue du Maréchal-Juin"
+          ],
+          "CodePostal": "20137",
+          "NomCommune": "Porto-Vecchio",
+          "Localisation": {
+            "Latitude": "41.5885",
+            "Longitude": "9.27604",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 70 34 90",
+          "Télécopie": "04 95 70 53 57",
+          "Email": "milopovosudcorse@missions-locales-corse.org",
+          "Url": "http://www.missions-locales-corse.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "'08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

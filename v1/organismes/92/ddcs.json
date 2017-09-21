@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2168084,
+          48.8965877
+        ]
+      },
+      "properties": {
+        "id": "ddcs-92050-01",
+        "codeInsee": "92050",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) des Hauts-de-Seine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "167-177, avenue Joliot-Curie",
+          "CodePostal": "92013",
+          "NomCommune": "Nanterre Cedex",
+          "Localisation": {
+            "Latitude": "48.8965877",
+            "Longitude": "2.2168084",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 40 97 45 00",
+          "Télécopie": "+33 1 40 97 45 02",
+          "Email": "ddcs@hauts-de-seine.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

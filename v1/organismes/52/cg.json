@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1440455,
+          48.115424
+        ]
+      },
+      "properties": {
+        "id": "cg-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Haute-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "1 rue du Commandant-Hugueny",
+            "CS 62127"
+          ],
+          "CodePostal": "52905",
+          "NomCommune": "Chaumont Cedex 9",
+          "Localisation": {
+            "Latitude": "48.115424",
+            "Longitude": "5.1440455",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 32 88 88",
+          "Télécopie": "03 25 32 88 32",
+          "Email": "contact@haute-marne.fr",
+          "Url": "http://www.haute-marne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

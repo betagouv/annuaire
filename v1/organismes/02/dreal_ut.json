@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.283947,
+          49.852065
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-02691-01",
+        "codeInsee": "02691",
+        "dateMiseAJour": "2017-03-01",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 rue Albert-Thomas",
+          "CodePostal": "02100",
+          "NomCommune": "Saint-Quentin",
+          "Localisation": {
+            "Latitude": "49.852065",
+            "Longitude": "3.283947",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 06 66 00",
+          "Télécopie": "03 23 06 66 07",
+          "Email": "dreal-nord-pdc-picardie@developpement-durable.gouv.fr",
+          "Url": "http://www.hauts-de-france.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

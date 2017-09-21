@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.35891401768,
+          44.0175743103
+        ]
+      },
+      "properties": {
+        "id": "cci-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Montauban et Tarn-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 allées de Mortarieu",
+            "BP 80527"
+          ],
+          "CodePostal": "82065",
+          "NomCommune": "Montauban Cedex",
+          "Localisation": {
+            "Latitude": "44.0175743103",
+            "Longitude": "1.35891401768",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 22 26 26",
+          "Télécopie": "05 63 22 26 29",
+          "Email": "cci82@montauban.cci.fr",
+          "Url": "http://www.montauban.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Le centre de formalités des entreprises est ouvert du lundi au vendredi de 9h à 11h30 et de 14h à 16h sauf mercredi après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

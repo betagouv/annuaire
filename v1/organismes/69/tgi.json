@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.722057,
+          45.986718
+        ]
+      },
+      "properties": {
+        "codeInsee": "69264",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-69264-01",
+        "idPresta": "4cac9e61293594648a0005be",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Villefranche-sur-Saône",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "350 Bld Gambetta BP 474"
+          ],
+          "CodePostal": "69665",
+          "NomCommune": "VILLEFRANCHE SUR SAONE CEDEX",
+          "Localisation": {
+            "Latitude": "45.986718",
+            "Longitude": "4.722057",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 65 63 63",
+          "Télécopie": "+33 4 74 60 61 12",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8465698,
+          45.7603055
+        ]
+      },
+      "properties": {
+        "codeInsee": "69383",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-69383-01",
+        "idPresta": "4cac9e61293594648a0005bf",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Lyon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "67 rue Servient",
+          "CodePostal": "69433",
+          "NomCommune": "LYON CEDEX 03",
+          "Localisation": {
+            "Latitude": "45.7603055",
+            "Longitude": "4.8465698",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 72 60 70 12",
+          "Télécopie": "+33 4 72 60 72 38",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

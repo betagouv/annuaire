@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0791481,
+          44.5620477
+        ]
+      },
+      "properties": {
+        "id": "crib-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Action développement éducation laïcité des Hautes-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 avenue Lesdiguières",
+          "CodePostal": "05000",
+          "NomCommune": "Gap",
+          "Localisation": {
+            "Latitude": "44.5620477",
+            "Longitude": "6.0791481",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 56 02 03",
+          "Télécopie": "04 92 56 03 00",
+          "Email": "adelha@laligue-alpesdusud.org",
+          "Url": "http://www.laligue-alpesdusud.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

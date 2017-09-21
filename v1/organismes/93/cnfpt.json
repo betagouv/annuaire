@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41302990913,
+          48.8931999207
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-93055-02",
+        "codeInsee": "93055",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "145 avenue Jean-Lolive",
+          "CodePostal": "93695",
+          "NomCommune": "Pantin Cedex 8",
+          "Localisation": {
+            "Latitude": "48.8931999207",
+            "Longitude": "2.41302990913",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe d'accès"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 41 83 30 00",
+          "Télécopie": "01 41 83 30 10",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4133179,
+          48.8934062
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-93055-01",
+        "codeInsee": "93055",
+        "dateMiseAJour": "2017-03-30",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "145 avenue Jean-Lolive",
+          "CodePostal": "93695",
+          "NomCommune": "Pantin Cedex",
+          "Localisation": {
+            "Latitude": "48.8934062",
+            "Longitude": "2.4133179",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 41 83 30 00",
+          "Télécopie": "01 41 83 30 10",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6929842,
+          47.3936884
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Tours",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Bernard-Palissy",
+          "CodePostal": "37925",
+          "NomCommune": "Tours Cedex 9",
+          "Localisation": {
+            "Latitude": "47.3936884",
+            "Longitude": "0.6929842",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 64 37 37",
+          "Email": "pref-associations@indre-et-loire.gouv.fr",
+          "Url": "http://www.associations37.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

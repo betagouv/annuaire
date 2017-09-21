@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0476928,
+          44.0520769
+        ]
+      },
+      "properties": {
+        "codeInsee": "84031",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-84031-01",
+        "idPresta": "4cac9e87293594648a004cbf",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Carpentras",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "impasse du Siècle",
+            "41 place du Général de Gaulle"
+          ],
+          "CodePostal": "84200",
+          "NomCommune": "CARPENTRAS",
+          "Localisation": {
+            "Latitude": "44.0520769",
+            "Longitude": "5.0476928",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 36 23 31",
+          "Télécopie": "+33 4 90 36 59 80",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.816066,
+          43.944784
+        ]
+      },
+      "properties": {
+        "codeInsee": "84007",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-84007-01",
+        "idPresta": "4cac9e87293594648a004cbe",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants d'Avignon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "2 boulevard Limbert"
+          ],
+          "CodePostal": "84078",
+          "NomCommune": "AVIGNON CEDEX 9",
+          "Localisation": {
+            "Latitude": "43.944784",
+            "Longitude": "4.816066",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 32 74 75 06",
+          "Télécopie": "+33 4 32 74 75 07",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

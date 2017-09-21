@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6253303,
+          44.1941047
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) du Lot-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "935, avenue Jean-Bru",
+          "CodePostal": "47916",
+          "NomCommune": "Agen Cedex 9",
+          "Localisation": {
+            "Latitude": "44.1941047",
+            "Longitude": "0.6253303",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 98 66 66",
+          "Télécopie": "+33 5 53 98 66 05",
+          "Email": "ddcspp@lot-et-garonne.gouv.fr",
+          "Url": "http://www.lot-et-garonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

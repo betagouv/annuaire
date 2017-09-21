@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8287611,
+          46.3056046
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-06-19",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Mâcon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 et 26, rue Victor-Hugo",
+            "CS 41210"
+          ],
+          "CodePostal": "71010",
+          "NomCommune": "Mâcon Cedex",
+          "Localisation": {
+            "Latitude": "46.3056046",
+            "Longitude": "4.8287611",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 3 85 21 06 00"
+          },
+          "Télécopie": "+33 3 85 21 06 12",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Exclusivement sur rendez-vous au 03 85 21 06 30"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8517374,
+          46.7835187
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-71076-01",
+        "codeInsee": "71076",
+        "dateMiseAJour": "2017-04-27",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Chalon-sur-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13, rue de la Banque",
+            "CS 90193"
+          ],
+          "CodePostal": "71105",
+          "NomCommune": "Chalon-sur-Saône Cedex",
+          "Localisation": {
+            "Latitude": "46.7835187",
+            "Longitude": "4.8517374",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 3 85 42 50 20"
+          },
+          "Télécopie": "+33 3 85 42 50 33",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Exclusivement sur rendez-vous au 03 85 42 50 22"
+          }
+        }
+      }
+    }
+  ]
+}

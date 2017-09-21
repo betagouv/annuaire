@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1510717,
+          47.6220282
+        ]
+      },
+      "properties": {
+        "id": "onac-70550-01",
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 rue des Presles",
+            "CS 40361"
+          ],
+          "CodePostal": "70014",
+          "NomCommune": "Vesoul Cedex",
+          "Localisation": {
+            "Latitude": "47.6220282",
+            "Longitude": "6.1510717",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 75 02 85",
+          "Email": "sd70@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:70/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi de 13h30 à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

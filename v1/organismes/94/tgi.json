@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4423209,
+          48.7836024
+        ]
+      },
+      "properties": {
+        "codeInsee": "94028",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-94028-01",
+        "idPresta": "4cac9e6a293594648a0017c0",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Créteil",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Pasteur Vallery Radot",
+          "CodePostal": "94011",
+          "NomCommune": "CRETEIL CEDEX",
+          "Localisation": {
+            "Latitude": "48.7836024",
+            "Longitude": "2.4423209",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 49 81 16 00",
+          "Télécopie": "+33 1 49 81 19 03",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.693225,
+          46.807167
+        ]
+      },
+      "properties": {
+        "codeInsee": "36044",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-36044-01",
+        "idPresta": "4cac9e6a293594648a001799",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Châteauroux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Lucien Germereau",
+            "BP 577"
+          ],
+          "CodePostal": "36019",
+          "NomCommune": "CHATEAUROUX CEDEX",
+          "Localisation": {
+            "Latitude": "46.807167",
+            "Longitude": "1.693225",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 60 35 35",
+          "Télécopie": "+33 2 54 27 74 88",
+          "Email": "mailto:tgi-chateauroux@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

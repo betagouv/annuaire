@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3042756,
+          49.8833176
+        ]
+      },
+      "properties": {
+        "id": "draf-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "draf",
+        "Nom": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Hauts-de-France - Siège d'Amiens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "518 rue Saint-Fuscien",
+            "Allée de la Croix-Rompue",
+            "CS 90069"
+          ],
+          "CodePostal": "80094",
+          "NomCommune": "Amiens Cedex 3",
+          "Localisation": {
+            "Latitude": "49.8833176",
+            "Longitude": "2.3042756",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 33 55 55",
+          "Télécopie": "03 22 33 55 50",
+          "Email": "draaf-hauts-de-france@agriculture.gouv.fr",
+          "Url": "http://draaf.hauts-de-france.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

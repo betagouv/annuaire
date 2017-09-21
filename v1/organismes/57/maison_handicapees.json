@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2235575,
+          49.1055914
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2016-04-12",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bâtiment D",
+            "Entrée D3",
+            "1 rue Claude-Chappe",
+            "CS 95213"
+          ],
+          "CodePostal": "57076",
+          "NomCommune": "Metz Cedex 3",
+          "Localisation": {
+            "Latitude": "49.1055914",
+            "Longitude": "6.2235575",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 87 21 83 00",
+          "Télécopie": "+33 3 87 21 83 39",
+          "Email": "mdph@moselle.fr",
+          "Url": "http://www.mdph57.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

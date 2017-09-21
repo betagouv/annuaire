@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6912542,
+          47.3883837
+        ]
+      },
+      "properties": {
+        "id": "msa-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Berry-Touraine - accueil de Tours",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "31 rue Michelet",
+            "CodePostal": "37000",
+            "NomCommune": "Tours",
+            "Localisation": {
+              "Latitude": "47.3883837",
+              "Longitude": "0.6912542",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Berry-Touraine",
+              "19 rue de Vendôme",
+              "CS 72301"
+            ],
+            "CodePostal": "41023",
+            "NomCommune": "Blois Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 44 87 87",
+          "Télécopie": "02 47 31 62 62",
+          "Url": "http://www.msa-berry-touraine.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Le mercredi et le vendredi, accueil ouvert uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 17h."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

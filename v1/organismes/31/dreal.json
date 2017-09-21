@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4347051,
+          43.6057584
+        ]
+      },
+      "properties": {
+        "id": "dreal-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-01-11",
+        "pivotLocal": "dreal",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Occitanie - Siège de Toulouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue de la Cité-Administrative",
+            "Bâtiment G",
+            "CS 80002"
+          ],
+          "CodePostal": "31074",
+          "NomCommune": "Toulouse Cedex 9",
+          "Localisation": {
+            "Latitude": "43.6057584",
+            "Longitude": "1.4347051",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 58 50 00",
+          "Télécopie": "05 61 58 54 48",
+          "Email": "http://www.occitanie.developpement-durable.gouv.fr/saisir-les-services-de-l-etat-a22194.html",
+          "Url": "http://www.occitanie.developpement-durable.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4985238,
+          44.5180049
+        ]
+      },
+      "properties": {
+        "id": "caf-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Lozère - siège de Mende",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quartier des Carmes",
+            "Caisse commune de sécurité sociale de la Lozère - Branche Famille",
+            "BP 144"
+          ],
+          "CodePostal": "48000",
+          "NomCommune": "Mende",
+          "Localisation": {
+            "Latitude": "44.5180049",
+            "Longitude": "3.4985238",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 48 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h15 à 11h45 et de 13h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

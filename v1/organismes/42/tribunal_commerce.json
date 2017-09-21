@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.075243,
+          46.040518
+        ]
+      },
+      "properties": {
+        "codeInsee": "42187",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-42187-01",
+        "idPresta": "4eb2632c2935944ef5000148",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Roanne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place Georges Clémenceau BP90246"
+          ],
+          "CodePostal": "42333",
+          "NomCommune": "ROANNE CEDEX",
+          "Localisation": {
+            "Latitude": "46.040518",
+            "Longitude": "4.075243",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 77 72 06 22",
+          "Email": "mailto:contact@greffe-tc-roanne.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.386431,
+          45.437169
+        ]
+      },
+      "properties": {
+        "codeInsee": "42218",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-42218-01",
+        "idPresta": "4eb2632c2935944ef5000149",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Saint-Etienne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "36 rue de la Résistance",
+            "CS 50228"
+          ],
+          "CodePostal": "42006",
+          "NomCommune": "ST ETIENNE CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.437169",
+            "Longitude": "4.386431",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 77 43 97 97",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

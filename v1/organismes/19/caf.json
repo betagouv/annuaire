@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7701641,
+          45.264638
+        ]
+      },
+      "properties": {
+        "id": "caf-19272-01",
+        "codeInsee": "19272",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Corrèze - accueil de Tulle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de la solidarité",
+              "25 quai Gabriel-Péri",
+              "3e étage"
+            ],
+            "CodePostal": "19000",
+            "NomCommune": "Tulle",
+            "Localisation": {
+              "Latitude": "45.264638",
+              "Longitude": "1.7701641",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Corrèze",
+              "Place Jean-Charbonnel"
+            ],
+            "CodePostal": "19118",
+            "NomCommune": "Brive-la-Gaillarde Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 19 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil fermé pendant les vacances scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.533937,
+          45.159555
+        ]
+      },
+      "properties": {
+        "id": "caf-19031-01",
+        "codeInsee": "19031",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Corrèze - siège de Brive-la-Gaillarde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Jean-Charbonnel",
+          "CodePostal": "19118",
+          "NomCommune": "Brive-la-Gaillarde Cedex",
+          "Localisation": {
+            "Latitude": "45.159555",
+            "Longitude": "1.533937",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 19 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous et fermé les jeudis et vendredis après-midi à partir de 12h30 pendant les vacances scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3020015,
+          45.5550054
+        ]
+      },
+      "properties": {
+        "id": "caf-19275-01",
+        "codeInsee": "19275",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Corrèze - accueil d'Ussel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services départementaux",
+              "35-37 avenue du Général-Leclerc"
+            ],
+            "CodePostal": "19200",
+            "NomCommune": "Ussel",
+            "Localisation": {
+              "Latitude": "45.5550054",
+              "Longitude": "2.3020015",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Corrèze",
+              "Place Jean-Charbonnel"
+            ],
+            "CodePostal": "19118",
+            "NomCommune": "Brive-la-Gaillarde Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 19 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous et fermé pendant les vacances scolaires sauf en juillet-août."
+          }
+        }
+      }
+    }
+  ]
+}

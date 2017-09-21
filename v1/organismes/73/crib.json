@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.935179,
+          45.5666534
+        ]
+      },
+      "properties": {
+        "id": "crib-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport animation Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "725 faubourg Montmélian",
+          "CodePostal": "73000",
+          "NomCommune": "Chambéry",
+          "Localisation": {
+            "Latitude": "45.5666534",
+            "Longitude": "5.935179",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 33 93 93",
+          "Télécopie": "04 79 33 93 94",
+          "Email": "crib73@psa-savoie.com",
+          "Url": "http://www.psa-savoie.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

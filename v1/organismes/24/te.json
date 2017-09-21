@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.720621,
+          45.1855341
+        ]
+      },
+      "properties": {
+        "codeInsee": "24322",
+        "dateMiseAJour": "2017-02-17",
+        "id": "te-24322-01",
+        "idPresta": "4cac9ed6293594648a00edb9",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Périgueux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 bis boulevard Montaigne",
+            "BP 246"
+          ],
+          "CodePostal": "24019",
+          "NomCommune": "PERIGUEUX CEDEX",
+          "Localisation": {
+            "Latitude": "45.1855341",
+            "Longitude": "0.720621",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 02 77 00",
+          "Télécopie": "+33 5 53 08 26 76",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4830045,
+          44.8533557
+        ]
+      },
+      "properties": {
+        "codeInsee": "24037",
+        "dateMiseAJour": "2016-05-06",
+        "id": "te-24037-01",
+        "idPresta": "4cac9ed6293594648a00edb8",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Bergerac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la République",
+          "CodePostal": "24100",
+          "NomCommune": "BERGERAC",
+          "Localisation": {
+            "Latitude": "44.8533557",
+            "Longitude": "0.4830045",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 74 40 00",
+          "Télécopie": "+33 5 53 74 40 29",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

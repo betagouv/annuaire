@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46009016037,
+          43.5376014709
+        ]
+      },
+      "properties": {
+        "id": "adil-83050-01",
+        "codeInsee": "83050",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Var - Draguignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture",
+            "Rond-point du 4-Décembre-1974"
+          ],
+          "CodePostal": "83300",
+          "NomCommune": "Draguignan Cedex",
+          "Localisation": {
+            "Latitude": "43.5376014709",
+            "Longitude": "6.46009016037",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenceur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 94 22 65 80",
+          "Télécopie": "04 94 22 65 81",
+          "Email": "adil@adil83.org",
+          "Url": "http://www.adil83.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9395567,
+          43.1140208
+        ]
+      },
+      "properties": {
+        "id": "adil-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Var - Toulon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "504 avenue du Maréchal-de-Lattre-de-Tassigny",
+          "CodePostal": "83000",
+          "NomCommune": "Toulon",
+          "Localisation": {
+            "Latitude": "43.1140208",
+            "Longitude": "5.9395567",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 94 22 65 80",
+          "Télécopie": "04 94 22 65 81",
+          "Email": "adil@adil83.org",
+          "Url": "http://www.adil83.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

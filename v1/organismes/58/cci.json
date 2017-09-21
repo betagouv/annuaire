@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1570957,
+          46.9889503
+        ]
+      },
+      "properties": {
+        "id": "cci-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Nièvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 place Carnot",
+            "BP 438"
+          ],
+          "CodePostal": "58004",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "46.9889503",
+            "Longitude": "3.1570957",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "prendre rendez-vous avant et une rampe d'accès sera déployée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 60 61 62",
+          "Télécopie": "03 86 60 61 14",
+          "Email": "cci.58@nievre.cci.fr",
+          "Url": "http://www.nievre.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

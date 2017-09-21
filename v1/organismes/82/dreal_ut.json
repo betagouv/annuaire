@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.36092,
+          44.0086
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2014-07-18",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Tarn-et-Garonne et Lot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "120, avenue Beausoleil",
+          "CodePostal": "82000",
+          "NomCommune": "Montauban",
+          "Localisation": {
+            "Latitude": "44.0086",
+            "Longitude": "1.36092",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Télécopie": "+33 5 63 91 74 40",
+          "Url": "http://www.midi-pyrenees.developpement-durable.gouv.fr",
+          "Sve": "http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2876539,
+          48.20705
+        ]
+      },
+      "properties": {
+        "codeInsee": "89387",
+        "dateMiseAJour": "2014-10-14",
+        "id": "prudhommes-89387-01",
+        "idPresta": "4cac9ed6293594648a00ed7e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Sens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "35 rue de la Pépinière",
+            "CS 20662"
+          ],
+          "CodePostal": "89106",
+          "NomCommune": "SENS CEDEX",
+          "Localisation": {
+            "Latitude": "48.20705",
+            "Longitude": "3.2876539",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 65 35 00",
+          "Télécopie": "+33 3 86 64 44 43",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "L’accueil est ouvert du Lundi au Vendredi\nDe 08h45 à 12h00 et de 13h45 à 16h45."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.569196,
+          47.798345
+        ]
+      },
+      "properties": {
+        "codeInsee": "89024",
+        "dateMiseAJour": "2015-05-22",
+        "id": "prudhommes-89024-01",
+        "idPresta": "4cac9ed6293594648a00ed7d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Auxerre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "90 rue de Paris",
+            "BP 44"
+          ],
+          "CodePostal": "89011",
+          "NomCommune": "AUXERRE CEDEX",
+          "Localisation": {
+            "Latitude": "47.798345",
+            "Longitude": "3.569196",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 72 07 89",
+          "Télécopie": "+33 3 86 72 07 90",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

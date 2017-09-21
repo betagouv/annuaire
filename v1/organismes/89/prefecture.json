@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.572354,
+          47.798091
+        ]
+      },
+      "properties": {
+        "id": "prefecture-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2013-05-23",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture de l'Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Préfecture",
+          "CodePostal": "89016",
+          "NomCommune": "Auxerre Cedex",
+          "Localisation": {
+            "Latitude": "47.798091",
+            "Longitude": "3.572354",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 72 79 89",
+          "Télécopie": "+33 3 86 51 02 48",
+          "Email": "prefecture@yonne.gouv.fr",
+          "Url": "http://www.yonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Horaires de l'accueil général. Pour les autres services, voici les horaires : Cartes grises, Permis de conduire, Activités réglementées, Elections ouverts du lundi au vendredi de 8h30 à 12h30. Services Titres de séjour, Naturalisation ouverts les lundis, mardis, jeudis et vendredi de 13h30 à 16h. Autres services ouverts du lundi au vendredi de 9h à 12h et de 13h30 à 16h. Pour les fermetures exceptionnelles, consulter le site de la préfecture http://www.yonne.gouv.fr comme pour les temps d’attente aux guichets."
+          }
+        }
+      }
+    }
+  ]
+}

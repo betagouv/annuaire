@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.693157017231,
+          47.3935241699
+        ]
+      },
+      "properties": {
+        "id": "prefecture-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2014-06-25",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture d'Indre-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15, rue Bernard-Palissy",
+          "CodePostal": "37925",
+          "NomCommune": "Tours Cedex 9",
+          "Localisation": {
+            "Latitude": "47.3935241699",
+            "Longitude": "0.693157017231",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "tarif local",
+            "$t": "+ 33 2 47 64 37 37"
+          },
+          "Télécopie": "+33 2 47 64 04 05",
+          "Email": "prefecture@indre-et-loire.gouv.fr",
+          "Url": "http://www.indre-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Attention : le 1er jeudi du mois la préfecture n'ouvre qu'à 13h30. Pendant les vacances scolaires la préfecture est fermée de 12h30 à 13h45. Les services Cartes grises et Permis de conduire sont ouverts uniquement de 8h30 à 12h30, le service Étrangers est ouvert de 9h à 11h45 et de 13h à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

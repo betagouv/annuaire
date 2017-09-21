@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2217115,
+          46.2029434
+        ]
+      },
+      "properties": {
+        "id": "cci-01053-01",
+        "codeInsee": "01053",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Joseph-Bernier",
+            "CS 60048"
+          ],
+          "CodePostal": "01002",
+          "NomCommune": "Bourg-en-Bresse Cedex",
+          "Localisation": {
+            "Latitude": "46.2029434",
+            "Longitude": "5.2217115",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 32 13 00",
+          "Télécopie": "04 74 21 42 63",
+          "Email": "cci@ain.cci.fr",
+          "Url": "http://www.ain.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

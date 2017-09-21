@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.573057,
+          47.808606
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 bis rue Guynemer",
+            "CS 50289"
+          ],
+          "CodePostal": "89005",
+          "NomCommune": "Auxerre Cedex",
+          "Localisation": {
+            "Latitude": "47.808606",
+            "Longitude": "3.573057",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 94 22 22",
+          "Télécopie": "03 86 94 22 00",
+          "Email": "accueil@yonne.chambagri.fr",
+          "Url": "http://www.yonne.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

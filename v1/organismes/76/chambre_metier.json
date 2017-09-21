@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09118998051,
+          49.4269981384
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Normandie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "135 boulevard de l'Europe",
+          "CodePostal": "76043",
+          "NomCommune": "Rouen Cedex 1",
+          "Localisation": {
+            "Latitude": "49.4269981384",
+            "Longitude": "1.09118998051",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 18 23 23",
+          "Télécopie": "02 32 18 23 00",
+          "Email": "chambredemetiers@cm-76.fr",
+          "Url": "http://www.cma76.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

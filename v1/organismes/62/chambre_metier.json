@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78650999069,
+          50.2932014465
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Hauts-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 bis rue des Rosati",
+            "BP 90361"
+          ],
+          "CodePostal": "62027",
+          "NomCommune": "Arras Cedex",
+          "Localisation": {
+            "Latitude": "50.2932014465",
+            "Longitude": "2.78650999069",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 72 72 59 62",
+          "Télécopie": "03 21 50 07 14",
+          "Email": "contact@artisanat-nordpasdecalais.fr",
+          "Url": "http://www.artisanat-npdc.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

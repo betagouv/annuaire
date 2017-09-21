@@ -1,0 +1,466 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.374386,
+          48.981904
+        ]
+      },
+      "properties": {
+        "id": "msa-51108-01",
+        "codeInsee": "51108",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Grand Est - accueil de Châlons-en-Champagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Complexe agricole du Mont-Bernard",
+              "Route de Suippes"
+            ],
+            "CodePostal": "51012",
+            "NomCommune": "Châlons-en-Champagne",
+            "Localisation": {
+              "Latitude": "48.981904",
+              "Longitude": "4.374386",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Grand Est",
+              "24 boulevard Louis-Roederer",
+              "CS 30001"
+            ],
+            "CodePostal": "51077",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au jeudi de 8h30 à 17h30 et le vendredi de 9h à 17h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.586142,
+          48.725909
+        ]
+      },
+      "properties": {
+        "id": "msa-51649-01",
+        "codeInsee": "51649",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Vitry-le-François",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "40 place d'Armes",
+            "CodePostal": "51300",
+            "NomCommune": "Vitry-le-François",
+            "Localisation": {
+              "Latitude": "48.725909",
+              "Longitude": "4.586142",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Marne-Ardennes-Meuse",
+              "24 boulevard Louis-Roederer",
+              "CS 30001"
+            ],
+            "CodePostal": "51077",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au jeudi de 8h30 à 17h30 et le vendredi de 9h à 17h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "19:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil physique uniquement sur rendez-vous le vendredi."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.022184,
+          49.2565612
+        ]
+      },
+      "properties": {
+        "id": "msa-51454-01",
+        "codeInsee": "51454",
+        "dateMiseAJour": "2016-09-08",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Reims",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 boulevard Louis-Roederer",
+            "CS 30001"
+          ],
+          "CodePostal": "51077",
+          "NomCommune": "Reims Cedex",
+          "Localisation": {
+            "Latitude": "49.2565612",
+            "Longitude": "4.022184",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Email": "msa.accueil@mam.msa.fr",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9552267,
+          49.0459282
+        ]
+      },
+      "properties": {
+        "id": "msa-51230-01",
+        "codeInsee": "51230",
+        "dateMiseAJour": "2016-09-08",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil d'Épernay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "10 place Léon-Bourgeois",
+            "CodePostal": "51200",
+            "NomCommune": "Épernay",
+            "Localisation": {
+              "Latitude": "49.0459282",
+              "Longitude": "3.9552267",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Marne-Ardennes-Meuse",
+              "24 boulevard Louis-Roederer",
+              "CS 30001"
+            ],
+            "CodePostal": "51077",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Email": "msa.accueil@mam.msa.fr",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 17h30."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.72256,
+          48.7235967
+        ]
+      },
+      "properties": {
+        "id": "msa-51535-01",
+        "codeInsee": "51535",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Sézanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "42 place de la République",
+            "CodePostal": "51120",
+            "NomCommune": "Sézanne",
+            "Localisation": {
+              "Latitude": "48.7235967",
+              "Longitude": "3.72256",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Marne-Ardennes-Meuse",
+              "24 boulevard Louis-Roederer",
+              "CS 30001"
+            ],
+            "CodePostal": "51077",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil physique uniquement sur rendez-vous le vendredi. Accueil téléphonique du lundi au jeudi de 8h30 à 17h30 et le vendredi de 9h à 17h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.898453,
+          49.0919124
+        ]
+      },
+      "properties": {
+        "id": "msa-51507-01",
+        "codeInsee": "51507",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Sainte-Menehould",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 place du Général-Leclerc",
+            "CodePostal": "51800",
+            "NomCommune": "Sainte-Menehould",
+            "Localisation": {
+              "Latitude": "49.0919124",
+              "Longitude": "4.898453",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Marne-Ardennes-Meuse",
+              "24 boulevard Louis-Roederer",
+              "CS 30001"
+            ],
+            "CodePostal": "51077",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 32 35 62",
+          "Url": "http://www.msa085155.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au jeudi de 8h30 à 17h30 et le vendredi de 9h à 17h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

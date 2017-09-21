@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.707951009274,
+          47.8312988281
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-53062-01",
+        "codeInsee": "53062",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Château-Gontier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, rue Michel-Gasnier",
+            "BP 401"
+          ],
+          "CodePostal": "53204",
+          "NomCommune": "Château-Gontier Cedex",
+          "Localisation": {
+            "Latitude": "47.8312988281",
+            "Longitude": "-0.707951009274",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 09 22 22",
+          "Télécopie": "+33 2 43 09 22 21",
+          "Email": "sp-chateau-gontier@mayenne.gouv.fr",
+          "Url": "http://www.mayenne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6200119,
+          48.307155
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-53147-01",
+        "codeInsee": "53147",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "40, rue Ambroise-de-Loré",
+            "BP 90105"
+          ],
+          "CodePostal": "53103",
+          "NomCommune": "Mayenne Cedex",
+          "Localisation": {
+            "Latitude": "48.307155",
+            "Longitude": "-0.6200119",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 53 54 54 00",
+          "Télécopie": "+33 2 53 54 54 04",
+          "Email": "sp-mayenne@mayenne.gouv.fr",
+          "Url": "http://www.mayenne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

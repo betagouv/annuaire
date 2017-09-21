@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7700128,
+          45.2655678
+        ]
+      },
+      "properties": {
+        "id": "anah-19272-01",
+        "codeInsee": "19272",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l’habitat (Anah) - Corrèze",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Jean-Montalat",
+            "Place Martial-Brigouleix",
+            "BP 314"
+          ],
+          "CodePostal": "19011",
+          "NomCommune": "Tulle Cedex",
+          "Localisation": {
+            "Latitude": "45.2655678",
+            "Longitude": "1.7700128",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 21 83 37",
+          "Email": "ddt-anah@correze.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique uniquement."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

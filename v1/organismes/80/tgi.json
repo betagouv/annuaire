@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301079,
+          49.893275
+        ]
+      },
+      "properties": {
+        "codeInsee": "80021",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-80021-01",
+        "idPresta": "4cac9e6a293594648a0017ba",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Amiens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "14 rue Robert de Luzarches"
+          ],
+          "CodePostal": "80027",
+          "NomCommune": "AMIENS CEDEX 1",
+          "Localisation": {
+            "Latitude": "49.893275",
+            "Longitude": "2.301079",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 82 35 00",
+          "Télécopie": "+33 3 22 91 22 11",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

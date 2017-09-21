@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8798047,
+          45.0368693
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-43157-01",
+        "codeInsee": "43157",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Haute-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Vals",
+            "7 rue de l'École-Normale",
+            "BP 80349"
+          ],
+          "CodePostal": "43012",
+          "NomCommune": "Le Puy-en-Velay Cedex",
+          "Localisation": {
+            "Latitude": "45.0368693",
+            "Longitude": "3.8798047",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 04 57 57",
+          "Télécopie": "04 71 04 56 91",
+          "Email": "ia43@ac-clermont.fr",
+          "Url": "http://www.ia43.ac-clermont.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

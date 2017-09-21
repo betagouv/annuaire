@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34544801712,
+          45.2759170532
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-73248-01",
+        "codeInsee": "73248",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Saint-Jean-de-Maurienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place de la Sous-Préfecture",
+            "BP106"
+          ],
+          "CodePostal": "73300",
+          "NomCommune": "Saint-Jean-de-Maurienne",
+          "Localisation": {
+            "Latitude": "45.2759170532",
+            "Longitude": "6.34544801712",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 64 07 00",
+          "Télécopie": "+33 4 79 59 95 27",
+          "Email": "sp-st-jean-de-mne@savoie.gouv.fr",
+          "Url": "http://www.savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Attention : le guichet cartes grises des particuliers ouvre le lundi à 9h et est fermé le lundi après-midi, le guichet cartes grises pour les garages est ouvert de 8h30 à 11h uniquement"
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Attention : le guichet cartes grises est fermé l'après-midi,le guichet cartes grises pour les garages est fermé"
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Attention : le guichet cartes grises des particuliers ouvre à 9h et est fermé l'après-midi, le guichet cartes grises pour les garages est ouvert de de 8h30 à 11h uniquement"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38752603531,
+          45.6729507446
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-73011-01",
+        "codeInsee": "73011",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Albertville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "83, rue Jean-Baptiste-Mathias",
+            "BP112"
+          ],
+          "CodePostal": "73209",
+          "NomCommune": "Albertville Cedex",
+          "Localisation": {
+            "Latitude": "45.6729507446",
+            "Longitude": "6.38752603531",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 32 06 55",
+          "Télécopie": "+33 4 79 37 08 11",
+          "Email": "sp-albertville@savoie.gouv.fr",
+          "Url": "http://www.savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Les professionnels de l'automobile peuvent être accueillis sur rendez-vous les mardi et vendredi de 13h15 à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

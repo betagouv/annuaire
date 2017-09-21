@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.418721,
+          46.6693784
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-85191-01",
+        "codeInsee": "85191",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation -  Vendée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "29, rue Delille",
+            "CS 20002"
+          ],
+          "CodePostal": "85023",
+          "NomCommune": "La Roche-sur-Yon Cedex",
+          "Localisation": {
+            "Latitude": "46.6693784",
+            "Longitude": "-1.418721",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 36 75 22",
+          "Télécopie": "+33 2 51 07 00 06",
+          "Email": "ddcs@vendee.gouv.fr",
+          "Url": "http://www.ddcs85.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

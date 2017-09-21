@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7622711,
+          48.5787291
+        ]
+      },
+      "properties": {
+        "id": "ddpp-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2014-07-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14, rue du Maréchal-Juin",
+            "CS 50016",
+            "Cité administrative - Entrée 21"
+          ],
+          "CodePostal": "67084",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5787291",
+            "Longitude": "7.7622711",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 88 88 86 00",
+          "Télécopie": "+33 3 88 88 86 01",
+          "Email": "ddpp@bas-rhin.gouv.fr",
+          "Url": "http://www.bas-rhin.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Permanence consommation : 03 88 88 86 86"
+          }
+        }
+      }
+    }
+  ]
+}

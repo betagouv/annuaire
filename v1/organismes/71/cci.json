@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.849265,
+          46.7835761
+        ]
+      },
+      "properties": {
+        "id": "cci-71076-01",
+        "codeInsee": "71076",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Saône-et-Loire - Chalon-sur-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 avenue de Verdun",
+            "BP 60190"
+          ],
+          "CodePostal": "71105",
+          "NomCommune": "Chalon-sur-Saône Cedex",
+          "Localisation": {
+            "Latitude": "46.7835761",
+            "Longitude": "4.849265",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 42 36 00",
+          "Télécopie": "03 85 42 36 01",
+          "Email": "contact.chalon@cci71.fr",
+          "Url": "http://www.saone-et-loire.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8291874,
+          46.306324
+        ]
+      },
+      "properties": {
+        "id": "cci-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Saône-et-Loire - Mâcon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 place Gérard-Genevès",
+            "CS 31110"
+          ],
+          "CodePostal": "71010",
+          "NomCommune": "Mâcon Cedex",
+          "Localisation": {
+            "Latitude": "46.306324",
+            "Longitude": "4.8291874",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "l'usager est invité à appeler avant de se déplacer"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 21 53 00",
+          "Télécopie": "03 85 38 20 97",
+          "Email": "contact.macon@cci71.fr",
+          "Url": "http://www.saone-et-loire.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

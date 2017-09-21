@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.502615,
+          16.27395
+        ]
+      },
+      "properties": {
+        "id": "caf-97101-01",
+        "codeInsee": "97101",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Guadeloupe - siège des Abymes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZAC de Dothémare",
+            "Parc d'activités La Providence"
+          ],
+          "CodePostal": "97139",
+          "NomCommune": "Les Abymes",
+          "Localisation": {
+            "Latitude": "16.27395",
+            "Longitude": "-61.502615",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 97 10"
+          },
+          "Télécopie": "+590 5 90 90 53 50",
+          "Url": "http://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 7h30 à 13h45."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3122727,
+          15.8913588
+        ]
+      },
+      "properties": {
+        "id": "caf-97112-01",
+        "codeInsee": "97112",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Guadeloupe - accueil de Grand-Bourg de Marie-Galante",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Bambara",
+            "CodePostal": "97112",
+            "NomCommune": "Grand-Bourg",
+            "Localisation": {
+              "Latitude": "15.8913588",
+              "Longitude": "-61.3122727",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Guadeloupe",
+              "Parc d'activités La Providence",
+              "ZAC de Dothémare"
+            ],
+            "CodePostal": "97139",
+            "NomCommune": "Les Abymes"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 97 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 7h30 à 13h45."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.76882,
+          16.132712
+        ]
+      },
+      "properties": {
+        "id": "caf-97106-01",
+        "codeInsee": "97106",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Guadeloupe - accueil de Bouillante",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Bourg",
+            "CodePostal": "97125",
+            "NomCommune": "Bouillante",
+            "Localisation": {
+              "Latitude": "16.132712",
+              "Longitude": "-61.76882",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Guadeloupe",
+              "Parc d'activités La Providence",
+              "ZAC de Dothémare"
+            ],
+            "CodePostal": "97139",
+            "NomCommune": "Les Abymes"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 97 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 7h30 à 13h45."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.502615,
+          16.27395
+        ]
+      },
+      "properties": {
+        "id": "caf-97105-01",
+        "codeInsee": "97105",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Guadeloupe - accueil de Basse-Terre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "33-35 rue Ali-Tur",
+            "CodePostal": "97100",
+            "NomCommune": "Basse-Terre",
+            "Localisation": {
+              "Latitude": "16.27395",
+              "Longitude": "-61.502615",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Guadeloupe",
+              "ZAC de Dothémare",
+              "Parc d'activités La Providence"
+            ],
+            "CodePostal": "97139",
+            "NomCommune": "Les Abymes"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 97 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "13:15:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "15:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "13:15:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "15:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 7h30 à 13h45."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3444,
+          16.3306
+        ]
+      },
+      "properties": {
+        "id": "caf-97117-01",
+        "codeInsee": "97117",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Guadeloupe - accueil du Moule",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue Saint-Jean-Prolongée",
+            "CodePostal": "97120",
+            "NomCommune": "Le Moule",
+            "Localisation": {
+              "Latitude": "16.3306",
+              "Longitude": "-61.3444",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Guadeloupe",
+              "Parc d'activités La Providence",
+              "ZAC de Dothémare"
+            ],
+            "CodePostal": "97139",
+            "NomCommune": "Les Abymes"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 97 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "13:15:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "15:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "13:15:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "15:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 7h30 à 13h45."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

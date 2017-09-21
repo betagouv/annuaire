@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5440579,
+          47.4712741
+        ]
+      },
+      "properties": {
+        "codeInsee": "49007",
+        "dateMiseAJour": "2014-07-21",
+        "id": "cour_appel-49007-01",
+        "idPresta": "4cac9e5f293594648a0002e9",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel d'Angers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Waldeck Rousseau",
+          "CodePostal": "49043",
+          "NomCommune": "ANGERS CEDEX 01",
+          "Localisation": {
+            "Latitude": "47.4712741",
+            "Longitude": "-0.5440579",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 20 51 00",
+          "Télécopie": "+33 2 41 87 02 65",
+          "Email": "mailto:ca-angers@justice.fr",
+          "Url": "http://www.ca-angers.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

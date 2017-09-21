@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.925389,
+          43.126293
+        ]
+      },
+      "properties": {
+        "codeInsee": "83137",
+        "dateMiseAJour": "2014-02-25",
+        "id": "tgi-83137-01",
+        "idPresta": "4cac9e61293594648a0005fb",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Toulon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Gabriel Péri",
+            "CS 90506"
+          ],
+          "CodePostal": "83041",
+          "NomCommune": "TOULON CEDEX 9",
+          "Localisation": {
+            "Latitude": "43.126293",
+            "Longitude": "5.925389",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 09 60 00",
+          "Télécopie": "+33 4 94 09 60 04",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "17:15:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.465504,
+          43.536804
+        ]
+      },
+      "properties": {
+        "codeInsee": "83050",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-83050-01",
+        "idPresta": "4cac9e87293594648a004ccf",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Draguignan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "11 rue Pierre Clément BP 273"
+          ],
+          "CodePostal": "83007",
+          "NomCommune": "DRAGUIGNAN CEDEX",
+          "Localisation": {
+            "Latitude": "43.536804",
+            "Longitude": "6.465504",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 60 57 00",
+          "Télécopie": "+33 4 94 47 01 92",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

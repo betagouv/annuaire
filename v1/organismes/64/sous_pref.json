@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4794417,
+          43.4955644
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-64102-01",
+        "codeInsee": "64102",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Bayonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4, allées Marines",
+            "BP 3"
+          ],
+          "CodePostal": "64109",
+          "NomCommune": "Bayonne Cedex",
+          "Localisation": {
+            "Latitude": "43.4955644",
+            "Longitude": "-1.4794417",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 44 59 44",
+          "Télécopie": "+33 5 59 25 49 72",
+          "Email": "sous-prefecture-de-bayonne@pyrenees-atlantiques.pref.gouv.fr",
+          "Url": "http://www.pyrenees-atlantiques.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Attention : le service Permis de conduire n'est ouvert que de 13h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.604553,
+          43.1933008
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-64422-01",
+        "codeInsee": "64422",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture d'Oloron-Sainte-Marie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7, rue de la Poste",
+            "BP 140"
+          ],
+          "CodePostal": "64404",
+          "NomCommune": "Oloron-Sainte-Marie Cedex",
+          "Localisation": {
+            "Latitude": "43.1933008",
+            "Longitude": "-0.604553",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 88 59 88",
+          "Télécopie": "+33 5 59 39 89 30",
+          "Email": "sp-oloron@pyrenees-atlantiques.gouv.fr",
+          "Url": "http://www.pyrenees-atlantiques.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.045131,
+          48.784956
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-04-25",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "34 avenue du Centre",
+            "CodePostal": "78180",
+            "NomCommune": "Montigny-le-Bretonneux",
+            "Localisation": {
+              "Latitude": "48.784956",
+              "Longitude": "2.045131",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "plain-pied"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Immeuble La Diagonale",
+              "34 avenue du Centre"
+            ],
+            "CodePostal": "78182",
+            "NomCommune": "Saint-Quentin-en-Yvelines Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "01 61 37 10 00",
+          "Télécopie": "01 61 37 10 01",
+          "Email": "dd-78.direction@direccte.gouv.fr",
+          "Url": "http://idf.direccte.gouv.fr/Yvelines"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

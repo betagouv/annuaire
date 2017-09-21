@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551328003407,
+          47.4617004395
+        ]
+      },
+      "properties": {
+        "id": "cdg-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des maires",
+            "9 rue du Clon"
+          ],
+          "CodePostal": "49000",
+          "NomCommune": "Angers",
+          "Localisation": {
+            "Latitude": "47.4617004395",
+            "Longitude": "-0.551328003407",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 24 18 80",
+          "Télécopie": "02 41 24 18 99",
+          "Email": "contact@cdg49.fr",
+          "Url": "http://www.cdg49.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

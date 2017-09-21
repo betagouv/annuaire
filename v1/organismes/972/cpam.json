@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9856186,
+          14.6132059
+        ]
+      },
+      "properties": {
+        "id": "cpam-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse générale de sécurité sociale (CGSS) de Martinique - siège du Lamentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Quartier Place d'Armes",
+          "CodePostal": "97210",
+          "NomCommune": "Le Lamentin Cedex 2",
+          "Localisation": {
+            "Latitude": "14.6132059",
+            "Longitude": "-60.9856186",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 22 25 55"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "07:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

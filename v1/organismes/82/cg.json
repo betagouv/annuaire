@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3595933,
+          44.0088379
+        ]
+      },
+      "properties": {
+        "id": "cg-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Tarn-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "100 boulevard Hubert-Gouze",
+            "BP 783"
+          ],
+          "CodePostal": "82013",
+          "NomCommune": "Montauban Cedex",
+          "Localisation": {
+            "Latitude": "44.0088379",
+            "Longitude": "1.3595933",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 91 82 00",
+          "Télécopie": "05 63 03 28 52",
+          "Email": "courrier@ledepartement82.fr",
+          "Url": "http://www.ledepartement.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

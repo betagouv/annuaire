@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.330129,
+          48.07397
+        ]
+      },
+      "properties": {
+        "codeInsee": "68066",
+        "dateMiseAJour": "2014-02-25",
+        "id": "mjd-68066-01",
+        "idPresta": "51b08c97b473e41478000431",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Colmar et du Centre Alsace",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 avenue de Rome",
+          "CodePostal": "68000",
+          "NomCommune": "COLMAR",
+          "Localisation": {
+            "Latitude": "48.07397",
+            "Longitude": "7.330129",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 80 11 67",
+          "Télécopie": "+33 3 89 79 06 68",
+          "Email": "mailto:mjd-colmar@justice.fr",
+          "Url": "http://www.mjd-colmar.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "Fermé"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.335871,
+          47.750826
+        ]
+      },
+      "properties": {
+        "codeInsee": "68224",
+        "dateMiseAJour": "2017-05-24",
+        "id": "mjd-68224-01",
+        "idPresta": "51b08c99b473e414780004b7",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Mulhouse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 rue du 6ème RTM",
+            "Enceinte des Ateliers Municipaux"
+          ],
+          "CodePostal": "68200",
+          "NomCommune": "MULHOUSE",
+          "Localisation": {
+            "Latitude": "47.750826",
+            "Longitude": "7.335871",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 36 80 30",
+          "Télécopie": "+33 3 89 36 80 39",
+          "Email": "mailto:mjd-mulhouse@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

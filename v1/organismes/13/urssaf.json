@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4077066,
+          43.2594555
+        ]
+      },
+      "properties": {
+        "id": "urssaf-13203-01",
+        "codeInsee": "13203",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Provence-Alpes-Côte d'azur - siège social - site de Marseille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 avenue Viton",
+          "CodePostal": "13299",
+          "NomCommune": "Marseille Cedex 20",
+          "Localisation": {
+            "Latitude": "43.2594555",
+            "Longitude": "5.4077066",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.paca.urssaf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+      }
+    }
+  ]
+}

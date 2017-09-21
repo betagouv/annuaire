@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1364194,
+          48.0929102
+        ]
+      },
+      "properties": {
+        "id": "cidf-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Haute-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7-21 rue Fleming",
+          "CodePostal": "52000",
+          "NomCommune": "Chaumont",
+          "Localisation": {
+            "Latitude": "48.0929102",
+            "Longitude": "5.1364194",
+            "Précision": "10"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "accueil possible au point d'accès au droit"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 02 07 02",
+          "Télécopie": "03 25 02 07 03",
+          "Email": "cidf52@wanadoo.fr",
+          "Url": "http://www.infofemmes.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

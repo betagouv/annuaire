@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6330826,
+          44.8947002
+        ]
+      },
+      "properties": {
+        "id": "sie-05023-01",
+        "codeInsee": "05023",
+        "dateMiseAJour": "2014-12-04",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Briançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6, avenue du Général-de-Gaulle",
+          "CodePostal": "05105",
+          "NomCommune": "Briançon",
+          "Localisation": {
+            "Latitude": "44.8947002",
+            "Longitude": "6.6330826",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 21 28 42",
+          "Email": "sip-sie.briancon@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:15:00"
+              }
+            ],
+            "Note": "Accueil ouvert avec ou sans rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0818088,
+          44.5614403
+        ]
+      },
+      "properties": {
+        "id": "sie-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2016-11-14",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place Ladoucette",
+            "BP 1604"
+          ],
+          "CodePostal": "05016",
+          "NomCommune": "Gap",
+          "Localisation": {
+            "Latitude": "44.5614403",
+            "Longitude": "6.0818088",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 40 16 78",
+          "Télécopie": "+33 4 92 40 16 77",
+          "Email": "sie.gap@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé au public le jeudi. Uniquement par téléphone de 8h30 à 12h et de 13h30 à 16h au 04 92 40 16 78"
+          }
+        }
+      }
+    }
+  ]
+}

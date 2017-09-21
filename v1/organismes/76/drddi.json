@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1222098,
+          49.4922327
+        ]
+      },
+      "properties": {
+        "id": "drddi-76351-01",
+        "codeInsee": "76351",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Le Havre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "201 boulevard de Strasbourg",
+            "BP 27"
+          ],
+          "CodePostal": "76083",
+          "NomCommune": "Le Havre Cedex",
+          "Localisation": {
+            "Latitude": "49.4922327",
+            "Longitude": "0.1222098",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 41 00",
+          "Télécopie": "02 35 54 43 40",
+          "Email": "dr-le-havre@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0747461,
+          49.4444703
+        ]
+      },
+      "properties": {
+        "id": "drddi-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction interrégionale des douanes et droits indirects - Rouen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13 avenue du Mont-Riboudet",
+            "CS 64084"
+          ],
+          "CodePostal": "76022",
+          "NomCommune": "Rouen Cedex",
+          "Localisation": {
+            "Latitude": "49.4444703",
+            "Longitude": "1.0747461",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 38 00",
+          "Télécopie": "02 35 52 36 82",
+          "Email": "di-rouen@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

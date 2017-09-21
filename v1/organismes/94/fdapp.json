@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35771989822,
+          48.8134994507
+        ]
+      },
+      "properties": {
+        "id": "fdapp-94043-01",
+        "codeInsee": "94043",
+        "dateMiseAJour": "2014-10-08",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération interdépartementale pour la pêche et la protection du milieu aquatique de Paris - Petite-Couronne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4, rue Étienne-Dolet",
+          "CodePostal": "94270",
+          "NomCommune": "Le Kremlin-Bicêtre",
+          "Localisation": {
+            "Latitude": "48.8134994507",
+            "Longitude": "2.35771989822",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 53 14 19 80",
+          "Télécopie": "+33 1 53 14 19 81",
+          "Email": "fppma75@club-internet.fr",
+          "Url": "http://www.fppma75.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.171156,
+          49.116836
+        ]
+      },
+      "properties": {
+        "codeInsee": "57463",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-57463-01",
+        "idPresta": "4cac9e5f293594648a00031f",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Metz",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Haute-Pierre",
+            "BP 41063"
+          ],
+          "CodePostal": "57036",
+          "NomCommune": "METZ CEDEX 01",
+          "Localisation": {
+            "Latitude": "49.116836",
+            "Longitude": "6.171156",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 87 56 76 00",
+          "Télécopie": "+33 3 87 56 76 16",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

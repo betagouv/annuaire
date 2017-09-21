@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15919995308,
+          47.0036010742
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Nièvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 place Saint-Exupéry",
+            "CS 774"
+          ],
+          "CodePostal": "58028",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "47.0036010742",
+            "Longitude": "3.15919995308",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 71 86 71",
+          "Télécopie": "03 86 71 86 86",
+          "Email": "dsden58@ac-dijon.fr",
+          "Url": "http://ariane58.ec.ac-dijon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

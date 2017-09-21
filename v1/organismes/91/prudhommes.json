@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29219,
+          48.698458
+        ]
+      },
+      "properties": {
+        "codeInsee": "91345",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-91345-01",
+        "idPresta": "4cac9ed6293594648a00ed7f",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Longjumeau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 avenue du Maréchal Leclerc",
+            "BP 58"
+          ],
+          "CodePostal": "91160",
+          "NomCommune": "LONGJUMEAU",
+          "Localisation": {
+            "Latitude": "48.698458",
+            "Longitude": "2.29219",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 64 48 80 40",
+          "Télécopie": "+33 1 64 48 07 33",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.430545,
+          48.629427
+        ]
+      },
+      "properties": {
+        "codeInsee": "91228",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-91228-01",
+        "idPresta": "4cac9e60293594648a00036d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Evry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de la Patinoire",
+          "CodePostal": "91011",
+          "NomCommune": "EVRY CEDEX",
+          "Localisation": {
+            "Latitude": "48.629427",
+            "Longitude": "2.430545",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 69 47 36 26",
+          "Télécopie": "+33 1 60 78 60 77",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5331,
+          16.2411
+        ]
+      },
+      "properties": {
+        "id": "cidf-97120-01",
+        "codeInsee": "97120",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Guadeloupe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tour Miquel 3",
+            "Boulevard Légitimus",
+            "Porte 311"
+          ],
+          "CodePostal": "97110",
+          "NomCommune": "Pointe-à-Pitre",
+          "Localisation": {
+            "Latitude": "16.2411",
+            "Longitude": "-61.5331",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+590 5 90 82 52 92",
+          "Email": "cidf.gpe@wanadoo.fr",
+          "Url": "http://www.guadeloupe.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

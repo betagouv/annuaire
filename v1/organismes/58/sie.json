@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.515491,
+          47.4558331
+        ]
+      },
+      "properties": {
+        "id": "sie-58079-01",
+        "codeInsee": "58079",
+        "dateMiseAJour": "2015-11-02",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Clamecy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue Francis-Carco",
+            "CS 10200"
+          ],
+          "CodePostal": "58508",
+          "NomCommune": "Clamecy Cedex",
+          "Localisation": {
+            "Latitude": "47.4558331",
+            "Longitude": "3.515491",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 27 54 60",
+          "Télécopie": "+33 3 86 27 92 58",
+          "Email": "sip-sie.clamecy@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé les mercredi et vendredi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1326341,
+          46.9873964
+        ]
+      },
+      "properties": {
+        "id": "sie-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2015-11-02",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Nevers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19, rue Camille-Baynac",
+            "BP 888"
+          ],
+          "CodePostal": "58015",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "46.9873964",
+            "Longitude": "3.1326341",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 68 49 38",
+          "Télécopie": "+33 3 86 68 40 25",
+          "Email": "sie.nevers@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé les mercredi et vendredi après-midi."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.927128,
+          47.3967662
+        ]
+      },
+      "properties": {
+        "id": "sie-58086-01",
+        "codeInsee": "58086",
+        "dateMiseAJour": "2015-11-02",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Cosne-Cours-sur-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20, rue du Berry",
+            "CS50120"
+          ],
+          "CodePostal": "58205",
+          "NomCommune": "Cosne-Cours-sur-Loire Cedex",
+          "Localisation": {
+            "Latitude": "47.3967662",
+            "Longitude": "2.927128",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 39 58 20",
+          "Email": "sip-sie.cosne-sur-loire@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "également sur rendez-vous. Fermé les mercredi et vendredi après-midi"
+          }
+        }
+      }
+    }
+  ]
+}

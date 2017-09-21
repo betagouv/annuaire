@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6164632,
+          43.1154161
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-09225-01",
+        "codeInsee": "09225",
+        "dateMiseAJour": "2012-11-07",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Pamiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 rue Frédéric-Soulié",
+            "BP 40172"
+          ],
+          "CodePostal": "09102",
+          "NomCommune": "Pamiers Cedex",
+          "Localisation": {
+            "Latitude": "43.1154161",
+            "Longitude": "1.6164632",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 60 97 30",
+          "Télécopie": "+33 5 61 67 55 10",
+          "Email": "sous-prefecture-de-pamiers@ariege.pref.gouv.fr",
+          "Url": "http://www.ariege.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.14588179999998,
+          42.9872121
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-09261-01",
+        "codeInsee": "09261",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Saint-Girons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12, avenue René-Plaisant",
+            "BP 10109"
+          ],
+          "CodePostal": "09201",
+          "NomCommune": "Saint-Girons Cedex",
+          "Localisation": {
+            "Latitude": "42.9872121",
+            "Longitude": "1.14588179999998",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 96 25 80",
+          "Télécopie": "+33 5 61 96 25 87",
+          "Email": "sous-prefecture-de-saint-girons@ariege.pref.gouv.fr",
+          "Url": "http://www.ariege.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

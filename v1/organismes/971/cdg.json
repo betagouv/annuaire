@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.720561,
+          15.9928768
+        ]
+      },
+      "properties": {
+        "id": "cdg-97105-01",
+        "codeInsee": "97105",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Guadeloupe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue Paul-Lacavé-Petit-Paris",
+            "BP 465"
+          ],
+          "CodePostal": "97108",
+          "NomCommune": "Basse-Terre Cedex",
+          "Localisation": {
+            "Latitude": "15.9928768",
+            "Longitude": "-61.720561",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+590 5 90 99 45 00",
+          "Télécopie": "+590 5 90 99 45 20",
+          "Email": "direction@cdg971.com",
+          "Url": "http://www.cdg971.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

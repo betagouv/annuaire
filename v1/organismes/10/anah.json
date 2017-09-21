@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0825502,
+          48.2947776
+        ]
+      },
+      "properties": {
+        "id": "anah-10387-01",
+        "codeInsee": "10387",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Aube",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 mail des Charmilles",
+            "CodePostal": "10000",
+            "NomCommune": "Troyes",
+            "Localisation": {
+              "Latitude": "48.2947776",
+              "Longitude": "4.0825502",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "1 boulevard Jules-Guesde",
+            "CodePostal": "10026",
+            "NomCommune": "Troyes Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 46 21 44",
+          "Télécopie": "03 25 73 70 22",
+          "Email": "ddt-shcd-bhap@aube.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

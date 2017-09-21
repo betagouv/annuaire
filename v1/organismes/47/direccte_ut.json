@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.620836,
+          44.1937
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Lot-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1050 bis avenue du Docteur-Jean-Bru",
+          "CodePostal": "47916",
+          "NomCommune": "Agen Cedex 9",
+          "Localisation": {
+            "Latitude": "44.1937",
+            "Longitude": "0.620836",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 68 40 40",
+          "Télécopie": "05 53 68 40 99",
+          "Email": "alpc-ud47.direction@direccte.gouv.fr",
+          "Url": "http://nouvelle-aquitaine.direccte.gouv.fr/Lot-et-Garonne"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

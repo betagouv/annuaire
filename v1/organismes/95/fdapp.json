@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0489144,
+          49.1334287
+        ]
+      },
+      "properties": {
+        "id": "fdapp-95370-01",
+        "codeInsee": "95370",
+        "dateMiseAJour": "2014-10-08",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Val-d'oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "28, rue du Général-de-Gaulle",
+          "CodePostal": "95810",
+          "NomCommune": "Grisy-les-Plâtres",
+          "Localisation": {
+            "Latitude": "49.1334287",
+            "Longitude": "2.0489144",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 30 39 94 56",
+          "Email": "peche95@wanadoo.fr",
+          "Url": "http://www.pecheurs95.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

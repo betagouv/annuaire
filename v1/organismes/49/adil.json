@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5725698,
+          47.4862653
+        ]
+      },
+      "properties": {
+        "id": "adil-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'Architecture",
+            "312 avenue René-Gasnier"
+          ],
+          "CodePostal": "49100",
+          "NomCommune": "Angers",
+          "Localisation": {
+            "Latitude": "47.4862653",
+            "Longitude": "-0.5725698",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 81 89 40",
+          "Télécopie": "+33 2 41 32 97 11",
+          "Email": "contact@adil49.com",
+          "Url": "http://www.adil49.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique ouvert uniquement le matin et accueil physique ouvert uniquement sur rendez-vous l'après-midi."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil physique ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

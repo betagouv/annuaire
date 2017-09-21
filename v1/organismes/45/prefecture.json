@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91084599495,
+          47.9002532959
+        ]
+      },
+      "properties": {
+        "id": "prefecture-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "181, rue de Bourgogne",
+          "CodePostal": "45042",
+          "NomCommune": "Orléans Cedex 1",
+          "Localisation": {
+            "Latitude": "47.9002532959",
+            "Longitude": "1.91084599495",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "0,12 euro la minute depuis un réseau fixe",
+            "$t": "0821 80 30 45"
+          },
+          "Télécopie": "+33 2 38 53 32 48",
+          "Email": "http://www.loiret.gouv.fr/Contactez-nous",
+          "Url": "http://www.loiret.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Attention : service Certificats d'immatriculation et Permis de conduire : ouvert uniquement de 8h30 à 14h, service Titres de séjour : ouvert du lundi au jeudi de 9h à 16h, le vendredi de 9h à 15h, service Naturalisations : ouvert uniquement les lundi et mercredi de 9h à 11h"
+          }
+        }
+      }
+    }
+  ]
+}

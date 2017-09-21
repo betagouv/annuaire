@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3759177,
+          51.0294576
+        ]
+      },
+      "properties": {
+        "id": "drddi-59183-01",
+        "codeInsee": "59183",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Dunkerque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue de Paris",
+            "BP 16531"
+          ],
+          "CodePostal": "59386",
+          "NomCommune": "Dunkerque Cedex 1",
+          "Localisation": {
+            "Latitude": "51.0294576",
+            "Longitude": "2.3759177",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 07 00",
+          "Télécopie": "03 28 61 33 27",
+          "Email": "dr-dunkerque@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0679519,
+          50.6419811
+        ]
+      },
+      "properties": {
+        "id": "drddi-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction interrégionale des douanes et droits indirects - Lille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue de Courtrai",
+            "CS 10683"
+          ],
+          "CodePostal": "59033",
+          "NomCommune": "Lille Cedex",
+          "Localisation": {
+            "Latitude": "50.6419811",
+            "Longitude": "3.0679519",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 10 00",
+          "Télécopie": "03 20 06 30 59",
+          "Email": "di-lille@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

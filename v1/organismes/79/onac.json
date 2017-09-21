@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4644234,
+          46.3226195
+        ]
+      },
+      "properties": {
+        "id": "onac-79191-01",
+        "codeInsee": "79191",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Deux-Sèvres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "78 rue Saint-Jean",
+            "BP 99103"
+          ],
+          "CodePostal": "79061",
+          "NomCommune": "Niort Cedex 9",
+          "Localisation": {
+            "Latitude": "46.3226195",
+            "Longitude": "-0.4644234",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 28 25 02",
+          "Email": "sd79@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:79/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert l'après-midi uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358854,
+          48.078072
+        ]
+      },
+      "properties": {
+        "codeInsee": "68066",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-68066-01",
+        "idPresta": "4cac9ed6293594648a00ed73",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Colmar",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue des Prêtres",
+            "CS 90532"
+          ],
+          "CodePostal": "68021",
+          "NomCommune": "COLMAR CEDEX",
+          "Localisation": {
+            "Latitude": "48.078072",
+            "Longitude": "7.358854",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 20 23 90",
+          "Télécopie": "+33 3 89 20 23 99",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342416,
+          47.747416
+        ]
+      },
+      "properties": {
+        "codeInsee": "68224",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-68224-01",
+        "idPresta": "4cac9e5f293594648a0002e2",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Mulhouse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "21 rue de la Somme",
+            "CS 41188"
+          ],
+          "CodePostal": "68053",
+          "NomCommune": "MULHOUSE CEDEX 1",
+          "Localisation": {
+            "Latitude": "47.747416",
+            "Longitude": "7.342416",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 36 82 40",
+          "Télécopie": "+33 3 89 56 67 08",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

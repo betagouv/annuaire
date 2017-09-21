@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04983997345,
+          46.1208000183
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-87011-01",
+        "codeInsee": "87011",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Bellac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8, rue Lamartine",
+          "CodePostal": "87300",
+          "NomCommune": "Bellac",
+          "Localisation": {
+            "Latitude": "46.1208000183",
+            "Longitude": "1.04983997345",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 60 92 50",
+          "Url": "http://www.haute-vienne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.819603025913,
+          45.8221588135
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-87126-01",
+        "codeInsee": "87126",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Rochechouart",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, place des Halls",
+            "BP 1"
+          ],
+          "CodePostal": "87600",
+          "NomCommune": "Rochechouart",
+          "Localisation": {
+            "Latitude": "45.8221588135",
+            "Longitude": "0.819603025913",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 43 83 10",
+          "Télécopie": "+33 5 55 43 83 23",
+          "Email": "sp-rochechouart@haute-vienne.gouv.fr",
+          "Url": "http://www.haute-vienne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

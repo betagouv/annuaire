@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7910323,
+          50.2849879
+        ]
+      },
+      "properties": {
+        "id": "suio-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service d'accueil, d'orientation et d'insertion professionnelle (SAOIP) - Université Artois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 rue du Temple",
+            "BP 10665"
+          ],
+          "CodePostal": "62030",
+          "NomCommune": "Arras Cedex",
+          "Localisation": {
+            "Latitude": "50.2849879",
+            "Longitude": "2.7910323",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 60 37 15",
+          "Télécopie": "03 21 60 38 60",
+          "Email": "saoip-arras@univ-artois.fr",
+          "Url": "http://www.univ-artois.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

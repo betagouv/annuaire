@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3123137,
+          47.7327993
+        ]
+      },
+      "properties": {
+        "id": "suio-68224-01",
+        "codeInsee": "68224",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Mulhouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'étudiant",
+            "1 rue Alfred-Werner"
+          ],
+          "CodePostal": "68093",
+          "NomCommune": "Mulhouse Cedex",
+          "Localisation": {
+            "Latitude": "47.7327993",
+            "Longitude": "7.3123137",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 33 64 40",
+          "Télécopie": "03 89 33 64 79",
+          "Email": "sio@uha.fr",
+          "Url": "http://www.uha.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

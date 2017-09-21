@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9585015,
+          43.3190962
+        ]
+      },
+      "properties": {
+        "id": "greta-11076-01",
+        "codeInsee": "11076",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta de Castelnaudary - Lauragais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée professionnel Andréossy",
+            "1 rue Saint-François",
+            "BP 81402"
+          ],
+          "CodePostal": "11494",
+          "NomCommune": "Castelnaudary Cedex",
+          "Localisation": {
+            "Latitude": "43.3190962",
+            "Longitude": "1.9585015",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 23 21 71",
+          "Télécopie": "04 68 23 62 60",
+          "Email": "greta-castelnaudary@ac-montpellier.fr",
+          "Url": "http://www.greta-castelnaudary.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3699936,
+          43.2085758
+        ]
+      },
+      "properties": {
+        "id": "greta-11069-01",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Haute Vallée de l'Aude - Agence de Carcassonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "122 avenue du Général-Leclerc",
+          "CodePostal": "11007",
+          "NomCommune": "Carcassonne Cedex",
+          "Localisation": {
+            "Latitude": "43.2085758",
+            "Longitude": "2.3699936",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 25 00 19",
+          "Télécopie": "04 68 47 65 04",
+          "Email": "greta-carcassonne@ac-montpellier.fr",
+          "Url": "http://www.gretalr.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.01902,
+          43.1899207
+        ]
+      },
+      "properties": {
+        "id": "greta-11262-01",
+        "codeInsee": "11262",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Aude - Méditerranée",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Louise-Michel",
+            "2 rue Jean-Moulin"
+          ],
+          "CodePostal": "11100",
+          "NomCommune": "Narbonne",
+          "Localisation": {
+            "Latitude": "43.1899207",
+            "Longitude": "3.01902",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 32 84 09",
+          "Télécopie": "04 68 32 46 33",
+          "Email": "greta-narbonne@ac-montpellier.fr",
+          "Url": "http://www.gretalr.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

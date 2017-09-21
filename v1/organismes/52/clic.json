@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.147128,
+          48.101318
+        ]
+      },
+      "properties": {
+        "id": "clic-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Chaumont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Service autonomie insertion et logement",
+            "Direction de la solidarité départementale",
+            "7 rue Eugène-Issartel"
+          ],
+          "CodePostal": "52000",
+          "NomCommune": "Chaumont",
+          "Localisation": {
+            "Latitude": "48.101318",
+            "Longitude": "5.147128",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 11 44 20"
+          },
+          "Télécopie": "03 25 02 89 01",
+          "Email": "apa@haute-marne.fr",
+          "Url": "http://haute-marne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95365649,
+          48.6320194
+        ]
+      },
+      "properties": {
+        "id": "clic-52448-01",
+        "codeInsee": "52448",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Saint-Dizier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Coordination gérontologique arrondissement Nord",
+            "2 rue Godard-Jeanson"
+          ],
+          "CodePostal": "52100",
+          "NomCommune": "Saint-Dizier",
+          "Localisation": {
+            "Latitude": "48.6320194",
+            "Longitude": "4.95365649",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 04 19 19",
+          "Télécopie": "03 25 04 91 64",
+          "Email": "florence.puyssegur@haute-marne.fr",
+          "Url": "http://www.haute-marne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3329946,
+          47.8487742
+        ]
+      },
+      "properties": {
+        "id": "clic-52269-01",
+        "codeInsee": "52269",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Langres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Coordination gérontologique arrondissement Sud",
+            "Avenue du 11e-Régiment-d'Infanterie"
+          ],
+          "CodePostal": "52200",
+          "NomCommune": "Langres",
+          "Localisation": {
+            "Latitude": "47.8487742",
+            "Longitude": "5.3329946",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 84 43 86",
+          "Télécopie": "03 25 90 51 40",
+          "Email": "anne-sophie.drouot@haute-marne.fr",
+          "Url": "http://www.haute-marne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

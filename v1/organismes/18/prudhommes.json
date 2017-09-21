@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3928513,
+          47.0866001
+        ]
+      },
+      "properties": {
+        "codeInsee": "18033",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-18033-01",
+        "idPresta": "4cac9e5f293594648a000216",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bourges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Henri Mirpied",
+          "CodePostal": "18014",
+          "NomCommune": "BOURGES CEDEX",
+          "Localisation": {
+            "Latitude": "47.0866001",
+            "Longitude": "2.3928513",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 48 23 01 20",
+          "Télécopie": "+33 2 48 69 06 85",
+          "Email": "mailto:cph-bourges@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

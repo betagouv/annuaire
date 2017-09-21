@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457751799999983,
+          46.3281002
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-79191-01",
+        "codeInsee": "79191",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Deux-Sèvres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "68 rue Alsace-Lorraine",
+          "CodePostal": "79000",
+          "NomCommune": "Niort",
+          "Localisation": {
+            "Latitude": "46.3281002",
+            "Longitude": "-0.457751799999983",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 04 41 30",
+          "Télécopie": "05 16 43 21 17",
+          "Email": "mdph@deux-sevres.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil fermé le matin des 1er et 3e vendredis du mois."
+          }
+        }
+      }
+    }
+  ]
+}

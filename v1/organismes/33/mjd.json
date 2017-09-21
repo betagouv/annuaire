@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575328,
+          44.866041
+        ]
+      },
+      "properties": {
+        "codeInsee": "33063",
+        "dateMiseAJour": "2016-04-22",
+        "id": "mjd-33063-01",
+        "idPresta": "51b08ca6b473e4147800075a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Bordeaux-Nord",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 place Ravezies",
+            "entrée A"
+          ],
+          "CodePostal": "33300",
+          "NomCommune": "BORDEAUX",
+          "Localisation": {
+            "Latitude": "44.866041",
+            "Longitude": "-0.575328",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 47 33 90 00",
+          "Télécopie": "+33 5 56 11 27 19",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.511847,
+          44.871956
+        ]
+      },
+      "properties": {
+        "codeInsee": "33249",
+        "dateMiseAJour": "2016-02-12",
+        "id": "mjd-33249-01",
+        "idPresta": "51b08c98b473e41478000485",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  des Hauts de Garonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "45 avenue de la Libération",
+          "CodePostal": "33305",
+          "NomCommune": "LORMONT CEDEX",
+          "Localisation": {
+            "Latitude": "44.871956",
+            "Longitude": "-0.511847",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 57 77 74 60",
+          "Télécopie": "+33 5 57 77 74 61",
+          "Url": "http://www.maisondejustice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

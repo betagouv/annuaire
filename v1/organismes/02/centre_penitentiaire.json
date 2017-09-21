@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6387,
+          49.581041
+        ]
+      },
+      "properties": {
+        "codeInsee": "02408",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-02408-01",
+        "idPresta": "4eb263302935944ef5000181",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Laon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "chemin des Epinettes",
+          "CodePostal": "02007",
+          "NomCommune": "LAON CEDEX",
+          "Localisation": {
+            "Latitude": "49.581041",
+            "Longitude": "3.6387",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 23 60 60",
+          "Télécopie": "+33 3 23 23 60 69",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.39786,
+          49.049595
+        ]
+      },
+      "properties": {
+        "codeInsee": "02168",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-02168-01",
+        "idPresta": "4eb263302935944ef5000180",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Château-Thierry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "54 avenue de Soissons",
+            "BP 228"
+          ],
+          "CodePostal": "02401",
+          "NomCommune": "CHATEAU THIERRY CEDEX",
+          "Localisation": {
+            "Latitude": "49.049595",
+            "Longitude": "3.39786",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 84 27 50",
+          "Télécopie": "+33 3 23 84 27 51",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

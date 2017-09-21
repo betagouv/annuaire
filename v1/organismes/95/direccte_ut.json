@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03883,
+          49.0525
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2017-04-25",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Atrium",
+            "3 boulevard de l'Oise"
+          ],
+          "CodePostal": "95014",
+          "NomCommune": "Cergy-Pontoise Cedex",
+          "Localisation": {
+            "Latitude": "49.0525",
+            "Longitude": "2.03883",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 34 35 49 49",
+          "Télécopie": "01 30 30 37 23",
+          "Email": "idf-ut95.administration@direccte.gouv.fr",
+          "Url": "http://idf.direccte.gouv.fr/Val-d-Oise"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

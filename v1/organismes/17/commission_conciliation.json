@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1403209,
+          46.1672409
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-17300-01",
+        "codeInsee": "17300",
+        "dateMiseAJour": "2014-02-28",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Charente-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "89, avenue des Cordeliers",
+          "CodePostal": "17018",
+          "NomCommune": "La Rochelle Cedex",
+          "Localisation": {
+            "Latitude": "46.1672409",
+            "Longitude": "-1.1403209",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 16 49 63 05",
+          "Télécopie": "+33 5 16 49 64 00",
+          "Email": "ddtm@charente-maritime.gouv.fr",
+          "Url": "http://www.charente-maritime.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

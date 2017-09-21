@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7676143,
+          45.2646735
+        ]
+      },
+      "properties": {
+        "id": "cg-19272-01",
+        "codeInsee": "19272",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Corrèze",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département Marbot",
+            "9 rue René-et-Émile-Fage",
+            "BP 199"
+          ],
+          "CodePostal": "19005",
+          "NomCommune": "Tulle Cedex",
+          "Localisation": {
+            "Latitude": "45.2646735",
+            "Longitude": "1.7676143",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 93 70 00",
+          "Télécopie": "05 55 93 70 82",
+          "Email": "atabaste@correze.fr",
+          "Url": "http://www.correze.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

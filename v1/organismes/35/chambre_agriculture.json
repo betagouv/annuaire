@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.713539958,
+          48.1136016846
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Technopôle Atalante-Champeaux",
+            "Rond-point Maurice-le-Lannou",
+            "CS 14226"
+          ],
+          "CodePostal": "35042",
+          "NomCommune": "Rennes Cedex",
+          "Localisation": {
+            "Latitude": "48.1136016846",
+            "Longitude": "-1.713539958",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 23 48 23 23",
+          "Télécopie": "02 23 48 23 25",
+          "Email": "contact@bretagne.chambagri.fr",
+          "Url": "http://www.synagri.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

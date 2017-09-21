@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.534893,
+          16.237983
+        ]
+      },
+      "properties": {
+        "codeInsee": "97120",
+        "dateMiseAJour": "2014-06-09",
+        "id": "prudhommes-97120-01",
+        "idPresta": "4cac9e61293594648a0005cf",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Pointe-à-Pitre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14 place de l'Eglise",
+          "CodePostal": "97110",
+          "NomCommune": "POINTE A PITRE",
+          "Localisation": {
+            "Latitude": "16.237983",
+            "Longitude": "-61.534893",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 82 03 16",
+          "Télécopie": "+33 5 90 82 64 24",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5857963,
+          16.2681696
+        ]
+      },
+      "properties": {
+        "codeInsee": "97105",
+        "dateMiseAJour": "2017-03-17",
+        "id": "prudhommes-97105-01",
+        "idPresta": "4cac9e86293594648a004c82",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Basse-Terre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Zone Artisanale de Calebassier",
+          "CodePostal": "97100",
+          "NomCommune": "BASSE TERRE",
+          "Localisation": {
+            "Latitude": "16.2681696",
+            "Longitude": "-61.5857963",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 80 63 73",
+          "Télécopie": "+33 5 90 80 63 79",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

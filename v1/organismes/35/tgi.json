@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686493,
+          48.105532
+        ]
+      },
+      "properties": {
+        "codeInsee": "35238",
+        "dateMiseAJour": "2014-09-01",
+        "id": "tgi-35238-01",
+        "idPresta": "4cac9e78293594648a002fdf",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Rennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire - CS 73127",
+            "7 rue Pierre Abélard"
+          ],
+          "CodePostal": "35031",
+          "NomCommune": "RENNES CEDEX",
+          "Localisation": {
+            "Latitude": "48.105532",
+            "Longitude": "-1.686493",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 65 37 37",
+          "Télécopie": "+33 2 99 31 06 15",
+          "Email": "mailto:tgi-rennes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.026448,
+          48.650284
+        ]
+      },
+      "properties": {
+        "codeInsee": "35288",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-35288-01",
+        "idPresta": "4cac9e87293594648a004cc6",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saint-Malo",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place Saint-Aaron",
+            "CS 51731"
+          ],
+          "CodePostal": "35417",
+          "NomCommune": "ST MALO CEDEX",
+          "Localisation": {
+            "Latitude": "48.650284",
+            "Longitude": "-2.026448",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 20 20 20",
+          "Télécopie": "+33 2 99 20 20 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

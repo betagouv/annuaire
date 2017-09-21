@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7615247,
+          47.6734815
+        ]
+      },
+      "properties": {
+        "id": "ddpp-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2016-09-19",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Morbihan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "32 boulevard de la Résistance",
+            "CS 92526"
+          ],
+          "CodePostal": "56019",
+          "NomCommune": "Vannes Cedex",
+          "Localisation": {
+            "Latitude": "47.6734815",
+            "Longitude": "-2.7615247",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 63 29 45",
+          "Télécopie": "02 97 40 57 83",
+          "Email": "ddpp@morbihan.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

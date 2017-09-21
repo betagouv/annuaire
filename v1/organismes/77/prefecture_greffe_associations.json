@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65414,
+          48.535119
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Melun - Fontainebleau - Provins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Cité administrative",
+            "Bâtiment A - 6e étage",
+            "20 quai Hippolyte-Rossignol"
+          ],
+          "CodePostal": "77010",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.535119",
+            "Longitude": "2.65414",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 41 58 82",
+          "Email": "cecile.toure@seine-et-marne.gouv.fr",
+          "Url": "http://www.seine-et-marne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

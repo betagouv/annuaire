@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3443194,
+          46.5597237
+        ]
+      },
+      "properties": {
+        "id": "maia-03321-01",
+        "codeInsee": "03321",
+        "dateMiseAJour": "2013-11-27",
+        "pivotLocal": "maia",
+        "Nom": "Mission d'accueil et d'information des associations (Maia) - Allier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20, rue Aristide-Briand",
+            "CS 60042"
+          ],
+          "CodePostal": "03402",
+          "NomCommune": "Yzeure Cedex",
+          "Localisation": {
+            "Latitude": "46.5597237",
+            "Longitude": "3.3443194",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 48 35 00",
+          "Télécopie": "+33 4 70 48 35 99",
+          "Email": "veronique.soussan@allier.gouv.fr",
+          "Url": "http://www.associations.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

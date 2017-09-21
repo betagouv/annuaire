@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1503774,
+          46.9862796
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Nièvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue Pierre-Émile-Gaspard",
+            "CS 70066"
+          ],
+          "CodePostal": "58027",
+          "NomCommune": "Nevers Cedex",
+          "Localisation": {
+            "Latitude": "46.9862796",
+            "Longitude": "3.1503774",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 60 52 52",
+          "Télécopie": "03 86 60 52 50",
+          "Email": "bfc-ud58.direction@direccte.gouv.fr",
+          "Url": "http://www.bourgogne.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

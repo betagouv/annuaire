@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.60017,
+          44.734646
+        ]
+      },
+      "properties": {
+        "codeInsee": "07186",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-07186-01",
+        "idPresta": "4cac9e6a293594648a00178d",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Privas",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Cours du Palais",
+          "CodePostal": "07000",
+          "NomCommune": "PRIVAS",
+          "Localisation": {
+            "Latitude": "44.734646",
+            "Longitude": "4.60017",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 75 66 40 00",
+          "Télécopie": "+33 4 75 64 51 95",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

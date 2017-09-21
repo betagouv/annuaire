@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44565105438,
+          45.5628738403
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-38509-01",
+        "codeInsee": "38509",
+        "dateMiseAJour": "2013-12-18",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - La Tour-du-Pin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CS 30205",
+            "19 bis, rue Joseph-Savoyat"
+          ],
+          "CodePostal": "38354",
+          "NomCommune": "La Tour-du-Pin Cedex",
+          "Localisation": {
+            "Latitude": "45.5628738403",
+            "Longitude": "5.44565105438",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 83 29 99",
+          "Télécopie": "+33 4 74 97 18 86",
+          "Url": "http://www.isere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              "Note": "Attention : l'accueil des demandeurs de titre de séjour se fait uniquement sur rendez-vous. Celui-ci peut être demandé par courriel à  etrangers-sptdp@isere.pref.gouv.fr, par courrier, par téléphone au 04.74.83.72.40 les lundi, mardi, jeudi et vendredi de 10h30 à 12h et le jeudi de 13h45 à 16h15."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8698849678,
+          45.5187988281
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-38544-01",
+        "codeInsee": "38544",
+        "dateMiseAJour": "2013-09-30",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16, boulevard Eugène-Arnaud",
+            "BP 116"
+          ],
+          "CodePostal": "38209",
+          "NomCommune": "Vienne Cedex",
+          "Localisation": {
+            "Latitude": "45.5187988281",
+            "Longitude": "4.8698849678",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 53 26 25",
+          "Télécopie": "+33 4 74 53 15 82",
+          "Email": "pref-question-spvienne@isere.pref.gouv.fr",
+          "Url": "http://www.isere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Ces horaires concernent l' accueil des étrangers, les permis de conduire et cartes grises ( les professionnels de l' automobile sont reçus les jeudis de 13h30 à 15h). Autres services: les mercredis de 8h30 à 11h30 et les jeudis et vendredis de 13h30 à 15h. Par ailleurs leur numéro de téléphone est joignable du lundi au vendredi de 14h à 16h."
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

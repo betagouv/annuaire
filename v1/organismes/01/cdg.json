@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21214008331,
+          46.1791000366
+        ]
+      },
+      "properties": {
+        "id": "cdg-01289-01",
+        "codeInsee": "01289",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "145 chemin de Bellevue",
+          "CodePostal": "01960",
+          "NomCommune": "Péronnas",
+          "Localisation": {
+            "Latitude": "46.1791000366",
+            "Longitude": "5.21214008331",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied et ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 32 13 81",
+          "Télécopie": "04 74 21 76 44",
+          "Email": "direction@cdg01.fr",
+          "Url": "http://www.cdg01.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

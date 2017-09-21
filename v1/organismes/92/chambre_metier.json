@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20307993889,
+          48.8899993896
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-92050-01",
+        "codeInsee": "92050",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "17 bis rue des Venêts",
+            "BP 1410"
+          ],
+          "CodePostal": "92014",
+          "NomCommune": "Nanterre",
+          "Localisation": {
+            "Latitude": "48.8899993896",
+            "Longitude": "2.20307993889",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 47 29 43 43",
+          "Télécopie": "01 47 29 43 00",
+          "Email": "contact@cma-nanterre.fr",
+          "Url": "http://www.cma92.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert pour le centre de formalités des entreprises de 9h à 16h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "15:30:00"
+              },
+              "Note": "Accueil ouvert pour le centre de formalités des entreprises de 9h à 15h."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

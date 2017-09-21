@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5459608,
+          47.2067952
+        ]
+      },
+      "properties": {
+        "id": "pmi-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Nantes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 quai Ceineray",
+            "CS 94109"
+          ],
+          "CodePostal": "44041",
+          "NomCommune": "Nantes Cedex 1",
+          "Localisation": {
+            "Latitude": "47.2067952",
+            "Longitude": "-1.5459608",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 51 17 22 47",
+          "Télécopie": "+33 2 51 17 22 10",
+          "Email": "cg44@loire-atlantique.fr",
+          "Url": "http://www.loire-atlantique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

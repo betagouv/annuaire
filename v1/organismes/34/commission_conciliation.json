@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8842025,
+          43.6100205
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Hérault",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Rue Serge-Lifar",
+            "CS 97378"
+          ],
+          "CodePostal": "34184",
+          "NomCommune": "Montpellier Cedex 4",
+          "Localisation": {
+            "Latitude": "43.6100205",
+            "Longitude": "3.8842025",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 41 72 00",
+          "Télécopie": "+33 4 67 41 72 90",
+          "Email": "ddcs@herault.gouv.fr",
+          "Url": "http://www.herault.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

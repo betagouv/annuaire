@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.470699,
+          45.087962
+        ]
+      },
+      "properties": {
+        "codeInsee": "24309",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_detention-24309-01",
+        "idPresta": "4eb2624c2935944ef5000061",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention de Neuvic-sur-l'Isle",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "BP 01",
+          "CodePostal": "24190",
+          "NomCommune": "NEUVIC",
+          "Localisation": {
+            "Latitude": "45.087962",
+            "Longitude": "0.470699",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 80 82 00",
+          "Télécopie": "+33 5 53 81 35 88",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.776046,
+          44.883317
+        ]
+      },
+      "properties": {
+        "codeInsee": "24260",
+        "dateMiseAJour": "2015-02-09",
+        "id": "centre_detention-24260-01",
+        "idPresta": "4eb263292935944ef5000130",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention de Mauzac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre de détention",
+            "Sablière"
+          ],
+          "CodePostal": "24150",
+          "NomCommune": "MAUZAC ET GRAND CASTANG",
+          "Localisation": {
+            "Latitude": "44.883317",
+            "Longitude": "0.776046",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 73 55 00",
+          "Télécopie": "+33 5 53 24 68 03",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

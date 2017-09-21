@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.650129,
+          41.92282
+        ]
+      },
+      "properties": {
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-2A004-01",
+        "idPresta": "4cac9e5f293594648a00023e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Ajaccio",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Jardin du Centre Bat. 2",
+            "chemin de Loreto"
+          ],
+          "CodePostal": "20090",
+          "NomCommune": "AJACCIO",
+          "Localisation": {
+            "Latitude": "41.92282",
+            "Longitude": "8.650129",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 23 73 95",
+          "Télécopie": "+33 4 95 51 11 85",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "12:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.954185,
+          45.954185
+        ]
+      },
+      "properties": {
+        "id": "sip-23008-01",
+        "codeInsee": "23008",
+        "dateMiseAJour": "2015-12-22",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques d'Aubusson",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Allée Jean-Marie-Couturier",
+            "BP 1"
+          ],
+          "CodePostal": "23200",
+          "NomCommune": "Aubusson",
+          "Localisation": {
+            "Latitude": "45.954185",
+            "Longitude": "45.954185",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 83 41 00",
+          "Télécopie": "+33 5 55 83 82 61",
+          "Email": "sip-sie.aubusson@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "De 13h30 à 16h lundi, le mercredi et le jeudi. Accueil également sur rendez-vous"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8716442,
+          46.1670022
+        ]
+      },
+      "properties": {
+        "id": "sip-23096-01",
+        "codeInsee": "23096",
+        "dateMiseAJour": "2015-12-18",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Guéret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3, avenue de Laure",
+            "BP 102"
+          ],
+          "CodePostal": "23002",
+          "NomCommune": "Guéret Cedex",
+          "Localisation": {
+            "Latitude": "46.1670022",
+            "Longitude": "1.8716442",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 51 63 00",
+          "Télécopie": "+33 5 55 52 81 82",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil également sur rendez-vous. Ouverture de 13h30 à 16 h lundi, mercredi et jeudi"
+          }
+        }
+      }
+    }
+  ]
+}

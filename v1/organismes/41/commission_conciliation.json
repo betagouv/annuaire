@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3314653,
+          47.5828053
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Loir-et-Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale et de la protection des populations",
+            "Centre administratif",
+            "34, avenue Maunoury",
+            "BP 10269"
+          ],
+          "CodePostal": "41006",
+          "NomCommune": "Blois Cedex",
+          "Localisation": {
+            "Latitude": "47.5828053",
+            "Longitude": "1.3314653",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)",
+            "$t": "0810 02 41 41"
+          },
+          "Télécopie": "+33 2 54 78 65 34",
+          "Email": "ddcspp@loir-et-cher.gouv.fr",
+          "Url": "http://www.loir-et-cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

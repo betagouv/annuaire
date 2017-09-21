@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6216199398,
+          49.5637016296
+        ]
+      },
+      "properties": {
+        "id": "cg-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-02-28",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hotel du département",
+            "Rue Paul-Doumer"
+          ],
+          "CodePostal": "02013",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.5637016296",
+            "Longitude": "3.6216199398",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 24 60 60",
+          "Email": "http://aisne.com/Contactez-nous",
+          "Url": "http://www.aisne.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

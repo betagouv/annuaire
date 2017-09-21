@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3913209,
+          48.8433216
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-75108-01",
+        "codeInsee": "75108",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Siège national - Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "80 rue de Reuilly",
+            "CS 41232"
+          ],
+          "CodePostal": "75578",
+          "NomCommune": "Paris Cedex 12",
+          "Localisation": {
+            "Latitude": "48.8433216",
+            "Longitude": "2.3913209",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 55 27 44 00",
+          "Télécopie": "01 55 27 44 01",
+          "Email": "accueil.siege@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

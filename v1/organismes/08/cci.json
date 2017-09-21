@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7219875,
+          49.7673783
+        ]
+      },
+      "properties": {
+        "id": "cci-08409-01",
+        "codeInsee": "08409",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 A avenue Georges-Corneau",
+            "BP 389"
+          ],
+          "CodePostal": "08106",
+          "NomCommune": "Charleville-Mézières",
+          "Localisation": {
+            "Latitude": "49.7673783",
+            "Longitude": "4.7219875",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 24 56 62 62",
+          "Télécopie": "03 24 56 62 22",
+          "Email": "cci@ardennes.cci.fr",
+          "Url": "http://www.ardennes.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

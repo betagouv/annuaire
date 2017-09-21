@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3835383,
+          49.1642542
+        ]
+      },
+      "properties": {
+        "id": "sie-55545-01",
+        "codeInsee": "55545",
+        "dateMiseAJour": "2016-02-10",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Verdun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue Roland-Dorgeles",
+            "BP 30714"
+          ],
+          "CodePostal": "55107",
+          "NomCommune": "Verdun Cedex",
+          "Localisation": {
+            "Latitude": "49.1642542",
+            "Longitude": "5.3835383",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 83 46 65",
+          "Télécopie": "+33 3 29 83 46 69",
+          "Email": "sie.verdun@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé le mardi et le jeudi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.171232,
+          48.766759
+        ]
+      },
+      "properties": {
+        "id": "sie-55029-01",
+        "codeInsee": "55029",
+        "dateMiseAJour": "2016-02-10",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Bar-le-Duc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue du 94e-Régiment-d'Infanterie",
+            "BP 20609"
+          ],
+          "CodePostal": "55013",
+          "NomCommune": "Bar-le-Duc Cedex",
+          "Localisation": {
+            "Latitude": "48.766759",
+            "Longitude": "5.171232",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 79 50 44",
+          "Télécopie": "+33 3 29 79 50 48",
+          "Email": "sie.bar-le-duc@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert également sur rendez-vous. Fermé le mercredi et la vendredi après-midi"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.896681,
+          48.955219
+        ]
+      },
+      "properties": {
+        "codeInsee": "77335",
+        "dateMiseAJour": "2015-02-09",
+        "id": "centre_penitentiaire-77335-01",
+        "idPresta": "4eb262982935944ef50000c0",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Meaux-Chauconin-Neufmontiers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue du Lycée - RD 5",
+            "BP 20177 Chauconin-Neufmontiers"
+          ],
+          "CodePostal": "77351",
+          "NomCommune": "MEAUX CEDEX",
+          "Localisation": {
+            "Latitude": "48.955219",
+            "Longitude": "2.896681",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 64 36 95 10",
+          "Télécopie": "+33 1 64 36 95 31",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.600115,
+          48.624673
+        ]
+      },
+      "properties": {
+        "codeInsee": "77384",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-77384-01",
+        "idPresta": "4ef301622935942b7b0000be",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire du Sud-Francilien",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Le Plessis Picard",
+            "Réau"
+          ],
+          "CodePostal": "77558",
+          "NomCommune": "MOISSY CRAMAYEL CEDEX",
+          "Localisation": {
+            "Latitude": "48.624673",
+            "Longitude": "2.600115",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 72 62 60 00",
+          "Télécopie": "+33 1 72 62 61 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

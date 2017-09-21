@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75467,
+          48.6004
+        ]
+      },
+      "properties": {
+        "id": "cr-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "cr",
+        "Nom": "Conseil régional - Grand Est",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place Adrien-Zeller",
+            "BP 91006"
+          ],
+          "CodePostal": "67070",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.6004",
+            "Longitude": "7.75467",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 15 68 67",
+          "Télécopie": "03 88 15 68 15",
+          "Email": "contact@grandest.fr",
+          "Url": "http://www.alsacechampagneardennelorraine.eu"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

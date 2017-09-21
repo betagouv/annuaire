@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4444406,
+          44.9272863
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pôle solidarité départementale",
+            "Espace Georges-Pompidou",
+            "1 rue Alexandre-Pinard"
+          ],
+          "CodePostal": "15015",
+          "NomCommune": "Aurillac Cedex",
+          "Localisation": {
+            "Latitude": "44.9272863",
+            "Longitude": "2.4444406",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 43 88 88",
+          "Télécopie": "04 71 49 79 80",
+          "Email": "http://www.cantal.fr/contactez-le-conseil-general-du-cantal-c32-auvergne-aurillac-saint-flour-mauriac.html",
+          "Url": "http://www.cantal.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "L'accueil ferme à 16h15 les veilles de fête."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

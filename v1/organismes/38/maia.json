@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7369554,
+          45.189455
+        ]
+      },
+      "properties": {
+        "id": "maia-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2013-11-26",
+        "pivotLocal": "maia",
+        "Nom": "Mission d'accueil et d'information des associations (Maia) - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CS 20094",
+            "Direction départementale de la cohésion sociale",
+            "Cité administrative - Bâtiment 2",
+            "1, rue Joseph-Chanrion"
+          ],
+          "CodePostal": "38032",
+          "NomCommune": "Grenoble Cedex 1",
+          "Localisation": {
+            "Latitude": "45.189455",
+            "Longitude": "5.7369554",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 57 38 65 17",
+          "Télécopie": "+33 4 76 40 82 14",
+          "Email": "ddcs-associations@isere.gouv.fr",
+          "Url": "http://www.isere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08364105225,
+          45.7760696411
+        ]
+      },
+      "properties": {
+        "id": "prefecture-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, rue d'Assas",
+          "CodePostal": "63033",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7760696411",
+            "Longitude": "3.08364105225",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 98 63 63",
+          "Télécopie": "+33 4 73 98 61 00",
+          "Url": "http://www.puy-de-dome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:15:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:15:00",
+                "fin": "15:30:00"
+              },
+              "Note": "Attention : les guichets des cartes grises et des permis de conduire sont ouverts uniquement de 8h15 à 12h30."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

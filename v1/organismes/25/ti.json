@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.022072,
+          47.236631
+        ]
+      },
+      "properties": {
+        "codeInsee": "25056",
+        "dateMiseAJour": "2017-04-07",
+        "id": "ti-25056-01",
+        "idPresta": "4cac9ed7293594648a00ee35",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Besançon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Mégevand",
+            "BP 339"
+          ],
+          "CodePostal": "25017",
+          "NomCommune": "BESANCON CEDEX",
+          "Localisation": {
+            "Latitude": "47.236631",
+            "Longitude": "6.022072",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 65 13 00",
+          "Télécopie": "+33 3 81 83 55 54",
+          "Email": "mailto:ti-besancon@justice.fr et accueil-besancon@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7997133,
+          47.5118726
+        ]
+      },
+      "properties": {
+        "codeInsee": "25388",
+        "dateMiseAJour": "2017-09-14",
+        "id": "ti-25388-01",
+        "idPresta": "4cac9ed7293594648a00ee36",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Montbéliard",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Wolfgang Amadeus Mozart",
+          "CodePostal": "25200",
+          "NomCommune": "MONTBELIARD",
+          "Localisation": {
+            "Latitude": "47.5118726",
+            "Longitude": "6.7997133",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 90 70 00",
+          "Télécopie": "+33 3 81 90 70 93",
+          "Email": "mailto:ti-montbeliard@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3528643,
+          46.9012726
+        ]
+      },
+      "properties": {
+        "codeInsee": "25462",
+        "dateMiseAJour": "2017-04-07",
+        "id": "ti-25462-01",
+        "idPresta": "4cac9ed7293594648a00ee37",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Pontarlier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Villingen Schwenningen",
+          "CodePostal": "25300",
+          "NomCommune": "PONTARLIER",
+          "Localisation": {
+            "Latitude": "46.9012726",
+            "Longitude": "6.3528643",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 38 63 00",
+          "Télécopie": "+33 3 81 38 63 09",
+          "Email": "mailto:ti-pontarlier@justice.fr et accueil.ti-pontarlier@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

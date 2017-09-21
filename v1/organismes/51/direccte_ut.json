@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34111,
+          48.9554
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-51108-01",
+        "codeInsee": "51108",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "60 avenue Daniel-Simonnot",
+            "CS 10452"
+          ],
+          "CodePostal": "51038",
+          "NomCommune": "Châlons-en-Champagne Cedex",
+          "Localisation": {
+            "Latitude": "48.9554",
+            "Longitude": "4.34111",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 69 57 51",
+          "Télécopie": "03 26 69 57 52",
+          "Email": "acal-ud51.direction@direccte.gouv.fr",
+          "Url": "http://grand-est.direccte.gouv.fr/Marne"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

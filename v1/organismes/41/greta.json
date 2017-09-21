@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3290092,
+          47.5966852
+        ]
+      },
+      "properties": {
+        "id": "greta-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2014-12-04",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loir-et-Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Augustin-Thierry",
+            "13, avenue de Châteaudun",
+            "CS 83416"
+          ],
+          "CodePostal": "41034",
+          "NomCommune": "Blois Cedex",
+          "Localisation": {
+            "Latitude": "47.5966852",
+            "Longitude": "1.3290092",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 55 15 15",
+          "Télécopie": "+33 2 54 55 15 10",
+          "Email": "greta41@ac-orleans-tours.fr",
+          "Url": "http://www.greta41.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

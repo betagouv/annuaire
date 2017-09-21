@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.607701,
+          46.339908
+        ]
+      },
+      "properties": {
+        "codeInsee": "03185",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-03185-01",
+        "idPresta": "4cac9ed6293594648a00ed59",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Montluçon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "114 boulevard de Courtais",
+            "BP 101"
+          ],
+          "CodePostal": "03105",
+          "NomCommune": "MONTLUCON CEDEX",
+          "Localisation": {
+            "Latitude": "46.339908",
+            "Longitude": "2.607701",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 05 04 53",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3353369,
+          46.5661042
+        ]
+      },
+      "properties": {
+        "codeInsee": "03190",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-03190-01",
+        "idPresta": "4cac9ed6293594648a00ed5a",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Moulins",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais d'Ansac",
+            "16 rue Diderot BP 1837"
+          ],
+          "CodePostal": "03018",
+          "NomCommune": "MOULINS CEDEX",
+          "Localisation": {
+            "Latitude": "46.5661042",
+            "Longitude": "3.3353369",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 20 27 32",
+          "Télécopie": "+33 4 70 20 69 05",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.425088,
+          46.123333
+        ]
+      },
+      "properties": {
+        "codeInsee": "03310",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-03310-01",
+        "idPresta": "4cac9ed6293594648a00ed5b",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Vichy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 boulevard Carnot",
+            "BP 83"
+          ],
+          "CodePostal": "03200",
+          "NomCommune": "VICHY",
+          "Localisation": {
+            "Latitude": "46.123333",
+            "Longitude": "3.425088",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 31 98 77",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

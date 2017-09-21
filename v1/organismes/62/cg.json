@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7639579,
+          50.2916116
+        ]
+      },
+      "properties": {
+        "id": "cg-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue Ferdinand-Buisson",
+          "CodePostal": "62018",
+          "NomCommune": "Arras Cedex 9",
+          "Localisation": {
+            "Latitude": "50.2916116",
+            "Longitude": "2.7639579",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 21 62 62",
+          "Télécopie": "03 21 21 62 99",
+          "Email": "presidence.secretariat@pasdecalais.fr",
+          "Url": "http://www.pasdecalais.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1142615,
+          49.4924724
+        ]
+      },
+      "properties": {
+        "id": "crib-76351-01",
+        "codeInsee": "76351",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Association havraise pour l’accueil, la médiation et l’insertion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 rue Anfray",
+          "CodePostal": "76600",
+          "NomCommune": "Le Havre",
+          "Localisation": {
+            "Latitude": "49.4924724",
+            "Longitude": "0.1142615",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 42 32 20",
+          "Télécopie": "02 35 19 05 74",
+          "Email": "contact@aham.fr",
+          "Url": "http://www.aham.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0648259,
+          49.4147396
+        ]
+      },
+      "properties": {
+        "id": "crib-76498-01",
+        "codeInsee": "76498",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "crib",
+        "Nom": "Centre information jeunesse - Le Petit Quevilly",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Association profession sport jeunesse 76",
+            "2 rue d'Alembert"
+          ],
+          "CodePostal": "76140",
+          "NomCommune": "Le Petit-Quevilly",
+          "Localisation": {
+            "Latitude": "49.4147396",
+            "Longitude": "1.0648259",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 58 07 50",
+          "Email": "melandine.preira@profession-sport-loisirs.fr",
+          "Url": "http://www.apsj76.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077483,
+          49.922992
+        ]
+      },
+      "properties": {
+        "id": "crib-76217-01",
+        "codeInsee": "76217",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Association Oxygène",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Christophe-Colomb 2",
+            "Avenue Claude-Debussy"
+          ],
+          "CodePostal": "76370",
+          "NomCommune": "Neuville-lès-Dieppe",
+          "Localisation": {
+            "Latitude": "49.922992",
+            "Longitude": "1.077483",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 40 28 87",
+          "Télécopie": "02 35 82 15 09",
+          "Email": "oxygene-neuville@orange.fr",
+          "Url": "http://www.oxygene-association.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0221315,
+          47.2335615
+        ]
+      },
+      "properties": {
+        "id": "prefecture-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2014-01-30",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Doubs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 bis, rue Charles-Nodier",
+          "CodePostal": "25035",
+          "NomCommune": "Besançon Cedex",
+          "Localisation": {
+            "Latitude": "47.2335615",
+            "Longitude": "6.0221315",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 25 10 00",
+          "Télécopie": "+33 3 81 83 21 82",
+          "Email": "pref-courrier@doubs.gouv.fr",
+          "Url": "http://www.doubs.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "14:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

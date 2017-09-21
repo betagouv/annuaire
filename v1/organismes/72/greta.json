@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.364899,
+          44.671934
+        ]
+      },
+      "properties": {
+        "id": "greta-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Vivarais-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "La Treuillère",
+              "Faubourg d'Antraigues"
+            ],
+            "CodePostal": "07600",
+            "NomCommune": "Vals-les-Bains",
+            "Localisation": {
+              "Latitude": "44.671934",
+              "Longitude": "4.364899",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Quartier Roqua",
+              "BP 90123"
+            ],
+            "CodePostal": "07203",
+            "NomCommune": "Aubenas"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 93 03 03",
+          "Télécopie": "04 75 87 81 80",
+          "Email": "contact.gvp@ac-grenoble.fr",
+          "Url": "http://www.gretaformation.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.648135,
+          48.184546
+        ]
+      },
+      "properties": {
+        "id": "greta-72132-01",
+        "codeInsee": "72132",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Sarthe Nord-Est",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "50 avenue du Général-de-Gaulle",
+          "CodePostal": "72400",
+          "NomCommune": "La Ferté-Bernard",
+          "Localisation": {
+            "Latitude": "48.184546",
+            "Longitude": "0.648135",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 93 12 53",
+          "Télécopie": "02 43 93 09 07",
+          "Email": "greta.maine@ac-nantes.fr",
+          "Url": "http://www.greta-paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1728294,
+          47.9793051
+        ]
+      },
+      "properties": {
+        "id": "greta-72181-02",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Maine - Antenne du Mans",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "28 rue des Grandes-Courbes",
+          "CodePostal": "72100",
+          "NomCommune": "Le Mans",
+          "Localisation": {
+            "Latitude": "47.9793051",
+            "Longitude": "0.1728294",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 84 04 50",
+          "Télécopie": "02 43 72 01 08",
+          "Email": "greta.maine@ac-nantes.fr",
+          "Url": "http://www.greta-paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

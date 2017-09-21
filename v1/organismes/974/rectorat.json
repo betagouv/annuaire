@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4880289,
+          -20.9029275
+        ]
+      },
+      "properties": {
+        "id": "rectorat-97411-01",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de la Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 avenue Georges-Brassens",
+            "CS 71003"
+          ],
+          "CodePostal": "97743",
+          "NomCommune": "Saint-Denis Cedex 9",
+          "Localisation": {
+            "Latitude": "-20.9029275",
+            "Longitude": "55.4880289",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 48 10 10",
+          "Télécopie": "+262 2 62 28 69 48",
+          "Email": "http://www.ac-reunion.fr/outils/infos-pratiques/contact.html",
+          "Url": "http://www.ac-reunion.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert durant les vacances scolaires du lundi au vendredi de 8h30 à 11h30."
+          }
+        }
+      }
+    }
+  ]
+}

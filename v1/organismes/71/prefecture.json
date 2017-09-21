@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83542490005,
+          46.3069725037
+        ]
+      },
+      "properties": {
+        "id": "prefecture-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2013-12-10",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "196, rue de Strasbourg",
+          "CodePostal": "71021",
+          "NomCommune": "Mâcon Cedex 9",
+          "Localisation": {
+            "Latitude": "46.3069725037",
+            "Longitude": "4.83542490005",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 85 21 81 00",
+          "Télécopie": "+33 3 85 39 17 16",
+          "Email": "http://www.pref71.fr/q&a2/template.php",
+          "Url": "http://www.saone-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "12:15:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

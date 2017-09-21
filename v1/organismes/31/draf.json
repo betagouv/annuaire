@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4348183,
+          43.6073197
+        ]
+      },
+      "properties": {
+        "id": "draf-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "draf",
+        "Nom": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Occitanie - Siège de Toulouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Boulevard Armand-Duportal",
+            "Bâtiment E"
+          ],
+          "CodePostal": "31074",
+          "NomCommune": "Toulouse Cedex",
+          "Localisation": {
+            "Latitude": "43.6073197",
+            "Longitude": "1.4348183",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 10 61 10",
+          "Email": "draaf-occitanie@agriculture.gouv.fr",
+          "Url": "http://draaf.occitanie.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

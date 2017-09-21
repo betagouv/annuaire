@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1628209,
+          45.6491546
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-16015-01",
+        "codeInsee": "16015",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations d'Angoulème",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Direction départementale de la cohésion sociale et de la protection des populations",
+              "Cité administrative",
+              "Bâtiment A",
+              "Rue Raymond-Poincaré"
+            ],
+            "CodePostal": "16000",
+            "NomCommune": "Angoulême",
+            "Localisation": {
+              "Latitude": "45.6491546",
+              "Longitude": "0.1628209",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC",
+              "$t": "rampe"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "7-9 rue de la Préfecture",
+              "CS 22303"
+            ],
+            "CodePostal": "16023",
+            "NomCommune": "Angoulême Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 16 16 62 00",
+          "Télécopie": "+33 5 16 16 62 77",
+          "Email": "ddcspp@charente.gouv.fr",
+          "Url": "http://www.charente.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

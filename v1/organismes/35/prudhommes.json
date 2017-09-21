@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6802654,
+          48.1117611
+        ]
+      },
+      "properties": {
+        "codeInsee": "35238",
+        "dateMiseAJour": "2014-06-09",
+        "id": "prudhommes-35238-01",
+        "idPresta": "4cac9e69293594648a0016ea",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Rennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 place de la rotonde",
+            "CS 56538"
+          ],
+          "CodePostal": "35065",
+          "NomCommune": "RENNES CEDEX",
+          "Localisation": {
+            "Latitude": "48.1117611",
+            "Longitude": "-1.6802654",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 65 65 80",
+          "Télécopie": "+33 2 99 65 65 81",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0060383,
+          48.6483603
+        ]
+      },
+      "properties": {
+        "codeInsee": "35288",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-35288-01",
+        "idPresta": "4cac9e5f293594648a000258",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Malo",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 avenue Jean-Jaurès",
+            "BP 27"
+          ],
+          "CodePostal": "35401",
+          "NomCommune": "ST MALO CEDEX",
+          "Localisation": {
+            "Latitude": "48.6483603",
+            "Longitude": "-2.0060383",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 56 73 00",
+          "Télécopie": "+33 2 99 56 52 22",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.106168,
+          45.639106
+        ]
+      },
+      "properties": {
+        "codeInsee": "38449",
+        "dateMiseAJour": "2015-10-16",
+        "id": "centre_penitentiaire-38449-01",
+        "idPresta": "4eb263292935944ef500012d",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Saint-Quentin-Fallavier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lieu-dit Le Biais",
+            "rue de la Ronta",
+            "CS 50160"
+          ],
+          "CodePostal": "38077",
+          "NomCommune": "ST QUENTIN FALLAVIER CEDEX",
+          "Localisation": {
+            "Latitude": "45.639106",
+            "Longitude": "5.106168",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 95 95 10",
+          "Télécopie": "+33 4 74 95 95 11",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.681817,
+          45.0866
+        ]
+      },
+      "properties": {
+        "codeInsee": "38524",
+        "dateMiseAJour": "2016-12-16",
+        "id": "centre_penitentiaire-38524-01",
+        "idPresta": "5887281bb473e41dbd347cb2",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Grenoble-Varces",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "BP 15",
+          "CodePostal": "38769",
+          "NomCommune": "VARCES ALLIERES CEDEX",
+          "Localisation": {
+            "Latitude": "45.0866",
+            "Longitude": "5.681817",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 76 73 29 50",
+          "Télécopie": "00476728763"
+        }
+      }
+    }
+  ]
+}

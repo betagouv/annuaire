@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.546724,
+          47.2062
+        ]
+      },
+      "properties": {
+        "codeInsee": "44109",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-44109-01",
+        "idPresta": "4cac9e6a293594648a0016ef",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Nantes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 boulevard Vincent Gache",
+            "BP 90311"
+          ],
+          "CodePostal": "44203",
+          "NomCommune": "NANTES CEDEX 2",
+          "Localisation": {
+            "Latitude": "47.2062",
+            "Longitude": "-1.546724",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 40 20 61 30",
+          "Télécopie": "+33 2 40 20 61 31",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.214212,
+          47.2788231637
+        ]
+      },
+      "properties": {
+        "codeInsee": "44184",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-44184-01",
+        "idPresta": "4cac9e6a293594648a0016f0",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Nazaire",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "7 rue du Palais BP 263"
+          ],
+          "CodePostal": "44606",
+          "NomCommune": "ST NAZAIRE CEDEX",
+          "Localisation": {
+            "Latitude": "47.2788231637",
+            "Longitude": "-2.214212",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 72 27 31 40",
+          "Télécopie": "+33 2 72 27 31 55",
+          "Email": "mailto:cph-st-nazaire@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

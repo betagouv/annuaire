@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7589563,
+          48.5842418
+        ]
+      },
+      "properties": {
+        "id": "crous-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Strasbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 quai du Maire-Dietrich",
+            "BP 50168"
+          ],
+          "CodePostal": "67004",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5842418",
+            "Longitude": "7.7589563",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "sonner pour obtenir une rampe dépliable"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 21 28 00",
+          "Télécopie": "03 88 21 28 09",
+          "Url": "http://www.crous-strasbourg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

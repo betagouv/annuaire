@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5857963,
+          16.2681696
+        ]
+      },
+      "properties": {
+        "codeInsee": "97105",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-97105-01",
+        "idPresta": "4cac9e61293594648a000583",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Basse-Terre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 boulevard Félix Eboué",
+          "CodePostal": "97100",
+          "NomCommune": "BASSE TERRE",
+          "Localisation": {
+            "Latitude": "16.2681696",
+            "Longitude": "-61.5857963",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 80 63 36",
+          "Télécopie": "+33 5 90 80 63 19",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

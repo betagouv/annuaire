@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32568001747,
+          48.8832817078
+        ]
+      },
+      "properties": {
+        "id": "pif-75117-01",
+        "codeInsee": "75117",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de l'Udaf de Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mairie du 17e arrondissement",
+            "16-20 rue des Batignolles",
+            "Rez-de-chaussée",
+            "Bureau 15"
+          ],
+          "CodePostal": "75017",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8832817078",
+            "Longitude": "2.32568001747",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 44 69 13 33",
+          "Email": "point-info.famille.mairie17@paris.fr",
+          "Url": "http://www.point-infofamille.fr"
+        },
+        "Commentaire": "Contacter l'accueil pour connaitre les horaires d'ouverture."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36942100525,
+          48.8641853333
+        ]
+      },
+      "properties": {
+        "id": "pif-75111-01",
+        "codeInsee": "75111",
+        "dateMiseAJour": "2016-09-08",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille - Café de l'école des parents de Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "162 boulevard Voltaire",
+          "CodePostal": "75011",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8641853333",
+            "Longitude": "2.36942100525",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 67 54 00",
+          "Email": "cafedesparents@epe-idf.com",
+          "Url": "http://www.epe-idf.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "9:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

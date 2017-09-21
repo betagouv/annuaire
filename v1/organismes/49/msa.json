@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6167835,
+          47.4652086
+        ]
+      },
+      "properties": {
+        "id": "msa-49020-01",
+        "codeInsee": "49020",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Pays de la Loire - accueil de Beaucouzé",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "3 rue Charles-Lacretelle",
+            "CodePostal": "49070",
+            "NomCommune": "Beaucouzé",
+            "Localisation": {
+              "Latitude": "47.4652086",
+              "Longitude": "-0.6167835",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Mutualité sociale agricole Pays de la Loire",
+            "CodePostal": "49938",
+            "NomCommune": "Angers Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 31 75 75",
+          "Url": "http://www.msa49.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous de 9h à 13h et le mercredi."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2894143,
+          49.890485
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "3, boulevard de Guyencourt"
+          ],
+          "CodePostal": "80027",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.890485",
+            "Longitude": "2.2894143",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 50 23 23",
+          "Télécopie": "+33 3 22 50 23 67",
+          "Email": "ddcs@somme.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

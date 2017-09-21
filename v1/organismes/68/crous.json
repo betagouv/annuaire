@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3102302,
+          47.7320048
+        ]
+      },
+      "properties": {
+        "id": "crous-68224-01",
+        "codeInsee": "68224",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Mulhouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'étudiant",
+            "1 rue Alfred-Werner"
+          ],
+          "CodePostal": "68093",
+          "NomCommune": "Mulhouse Cedex 2",
+          "Localisation": {
+            "Latitude": "47.7320048",
+            "Longitude": "7.3102302",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 89 55 72 20",
+          "Télécopie": "03 89 55 72 30",
+          "Email": "hebergements.mulhouse@crous-strasbourg.fr",
+          "Url": "http://www.crous-strasbourg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

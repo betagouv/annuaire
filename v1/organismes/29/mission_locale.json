@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81559991837,
+          48.592300415
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-29151-01",
+        "codeInsee": "29151",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-de-Morlaix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZA La Boissière",
+            "1 rue Jean-Caërou"
+          ],
+          "CodePostal": "29600",
+          "NomCommune": "Morlaix",
+          "Localisation": {
+            "Latitude": "48.592300415",
+            "Longitude": "-3.81559991837",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 15 15 50",
+          "Télécopie": "02 98 15 15 51",
+          "Email": "contact@mlpm29.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0919395,
+          47.9940256
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-29232-01",
+        "codeInsee": "29232",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-de-Cornouaille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 place Louis-Armand",
+            "CS 72039"
+          ],
+          "CodePostal": "29018",
+          "NomCommune": "Quimper Cedex",
+          "Localisation": {
+            "Latitude": "47.9940256",
+            "Longitude": "-4.0919395",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "un agent peut descendre pour traiter la demande de l'usager"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 64 42 10",
+          "Télécopie": "02 98 64 42 20",
+          "Email": "cornouaille@mlpc.asso.fr",
+          "Url": "http://www.mlpc.asso.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.577801,
+          48.277382
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-29024-01",
+        "codeInsee": "29024",
+        "dateMiseAJour": "2017-06-01",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale du Faouët",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "36 rue de l'Eglise",
+            "BP 220"
+          ],
+          "CodePostal": "29834",
+          "NomCommune": "Carhaix-Plouguer Cedex",
+          "Localisation": {
+            "Latitude": "48.277382",
+            "Longitude": "-3.577801",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 99 15 80",
+          "Télécopie": "02 97 23 17 30",
+          "Email": "contact@missionlocalecob.bzh",
+          "Url": "http://www.cnml.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert deux samedis par mois et uniquement sur rendez-vous, contacter l'accueil pour connaître les dates."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5033862,
+          48.3897369
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-29019-01",
+        "codeInsee": "29019",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-de-Brest",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Keravel",
+            "BP 71028"
+          ],
+          "CodePostal": "29210",
+          "NomCommune": "Brest Cedex 1",
+          "Localisation": {
+            "Latitude": "48.3897369",
+            "Longitude": "-4.5033862",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 43 51 00",
+          "Télécopie": "02 98 43 51 31",
+          "Email": "contact@mission-locale-brest.org",
+          "Url": "http://www.mission-locale-brest.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

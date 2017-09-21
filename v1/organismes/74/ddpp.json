@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1047891,
+          45.886385
+        ]
+      },
+      "properties": {
+        "id": "ddpp-74268-01",
+        "codeInsee": "74268",
+        "dateMiseAJour": "2013-07-15",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9, rue Blaise-Pascal",
+            "BP 82"
+          ],
+          "CodePostal": "74603",
+          "NomCommune": "Seynod Cedex",
+          "Localisation": {
+            "Latitude": "45.886385",
+            "Longitude": "6.1047891",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 33 55 55",
+          "Télécopie": "+33 4 50 10 90 80",
+          "Email": "http://www.haute-savoie.gouv.fr/Contactez-nous",
+          "Url": "http://www.haute-savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

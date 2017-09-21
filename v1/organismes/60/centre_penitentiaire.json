@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.088035,
+          49.417104
+        ]
+      },
+      "properties": {
+        "codeInsee": "60057",
+        "dateMiseAJour": "2015-12-11",
+        "id": "centre_penitentiaire-60057-01",
+        "idPresta": "54201a68b473e41de13b0adc",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Beauvais",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue de Pontoise",
+            "route départementale 93"
+          ],
+          "CodePostal": "60000",
+          "NomCommune": "BEAUVAIS",
+          "Localisation": {
+            "Latitude": "49.417104",
+            "Longitude": "2.088035",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.475075,
+          49.333604
+        ]
+      },
+      "properties": {
+        "codeInsee": "60360",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-60360-01",
+        "idPresta": "4eb2624c2935944ef5000067",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Liancourt",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 avenue Robert Badinter",
+          "CodePostal": "60140",
+          "NomCommune": "LIANCOURT",
+          "Localisation": {
+            "Latitude": "49.333604",
+            "Longitude": "2.475075",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 28 82 10",
+          "Télécopie": "+33 3 44 28 82 15",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

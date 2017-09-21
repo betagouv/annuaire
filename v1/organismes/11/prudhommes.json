@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.008973,
+          43.184576
+        ]
+      },
+      "properties": {
+        "codeInsee": "11262",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-11262-01",
+        "idPresta": "4cac9e5f293594648a0001fd",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Narbonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "40 boulevard Général de Gaulle",
+          "CodePostal": "11100",
+          "NomCommune": "NARBONNE",
+          "Localisation": {
+            "Latitude": "43.184576",
+            "Longitude": "3.008973",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 41 05 45",
+          "Télécopie": "+33 4 68 40 47 38",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355012,
+          43.214359
+        ]
+      },
+      "properties": {
+        "codeInsee": "11069",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-11069-01",
+        "idPresta": "4cac9e5f293594648a0001fa",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Carcassonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 boulevard Jean Jaurès",
+            "BP 818"
+          ],
+          "CodePostal": "11012",
+          "NomCommune": "CARCASSONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.214359",
+            "Longitude": "2.355012",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 42 49 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

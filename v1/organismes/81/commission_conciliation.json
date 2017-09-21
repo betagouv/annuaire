@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14028000832,
+          43.9239006042
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-81004-01",
+        "codeInsee": "81004",
+        "dateMiseAJour": "2013-12-04",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale des territoires",
+            "19, rue de Ciron"
+          ],
+          "CodePostal": "81013",
+          "NomCommune": "Albi Cedex 9",
+          "Localisation": {
+            "Latitude": "43.9239006042",
+            "Longitude": "2.14028000832",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 81 27 50 01",
+          "Télécopie": "+33 5 81 27 50 06",
+          "VersionMobile": "http://www.tarn.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

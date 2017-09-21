@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7529105,
+          48.5875377
+        ]
+      },
+      "properties": {
+        "id": "drac-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2016-11-02",
+        "pivotLocal": "drac",
+        "Nom": "Direction régionale des affaires culturelles (DRAC) - Grand Est",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais du Rhin",
+            "2 place de la République"
+          ],
+          "CodePostal": "67082",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5875377",
+            "Longitude": "7.7529105",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 15 57 00",
+          "Télécopie": "03 88 75 60 95",
+          "Email": "alsace@culture.gouv.fr",
+          "Url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Grand-Est"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

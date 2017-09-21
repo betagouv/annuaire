@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5771086,
+          44.3621519
+        ]
+      },
+      "properties": {
+        "id": "greta-12202-01",
+        "codeInsee": "12202",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Quercy-Rouergue",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 avenue du Maréchal-Joffre",
+          "CodePostal": "12000",
+          "NomCommune": "Rodez",
+          "Localisation": {
+            "Latitude": "44.3621519",
+            "Longitude": "2.5771086",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 67 17 92",
+          "Télécopie": "05 65 42 66 08",
+          "Email": "greta-mpnord@ac-toulouse.fr",
+          "Url": "http://www.greta-mpyn.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0735105,
+          44.0981871
+        ]
+      },
+      "properties": {
+        "id": "greta-12145-01",
+        "codeInsee": "12145",
+        "dateMiseAJour": "2014-12-04",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Sud-Aveyron",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13, rue Jean-Moulin",
+          "CodePostal": "12100",
+          "NomCommune": "Millau",
+          "Localisation": {
+            "Latitude": "44.0981871",
+            "Longitude": "3.0735105",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 61 46 00",
+          "Télécopie": "+33 5 65 61 24 96",
+          "Email": "12gremil@ac-toulouse.fr",
+          "Url": "http://www.greta-sud-aveyron.ac-toulouse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

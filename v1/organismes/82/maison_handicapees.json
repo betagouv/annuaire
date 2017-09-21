@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3579067,
+          44.0135764
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2017-03-28",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Tarn-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 rue de la Banque",
+            "BP 783"
+          ],
+          "CodePostal": "82013",
+          "NomCommune": "Montauban Cedex",
+          "Localisation": {
+            "Latitude": "44.0135764",
+            "Longitude": "1.3579067",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accès par l'entrée située au 28 rue de la Banque"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 10 28 48"
+          },
+          "Email": "mdph@ledepartement82.fr",
+          "Url": "http://www.ledepartement.fr/mon-quotidien/vivre-le-handicap/maison-departementale-des-personnes-handicapees-mdph.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

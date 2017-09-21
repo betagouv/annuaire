@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0860238,
+          45.7706284
+        ]
+      },
+      "properties": {
+        "id": "agefiph-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Auvergne-Rhône-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Gergovia",
+              "65 boulevard François-Mitterrand",
+              "6e étage"
+            ],
+            "CodePostal": "63010",
+            "NomCommune": "Clermont-Ferrand",
+            "Localisation": {
+              "Latitude": "45.7706284",
+              "Longitude": "3.0860238",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Parc d'affaires de Saint-Hubert",
+              "33 Rue Saint-Théobald"
+            ],
+            "CodePostal": "38080",
+            "NomCommune": "L'Isle-d'Abeau"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "04 73 34 76 93",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

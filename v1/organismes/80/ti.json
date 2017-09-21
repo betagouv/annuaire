@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.931625,
+          49.926836
+        ]
+      },
+      "properties": {
+        "codeInsee": "80620",
+        "dateMiseAJour": "2017-04-21",
+        "id": "ti-80620-01",
+        "idPresta": "4cac9e6b293594648a001a90",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Péronne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "57 rue Saint-Fursy",
+            "CS 50039"
+          ],
+          "CodePostal": "80201",
+          "NomCommune": "PERONNE CEDEX",
+          "Localisation": {
+            "Latitude": "49.926836",
+            "Longitude": "2.931625",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 84 72 80",
+          "Télécopie": "+33 3 22 84 72 81",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301753,
+          49.892083
+        ]
+      },
+      "properties": {
+        "codeInsee": "80021",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-80021-01",
+        "idPresta": "4cac9e6a293594648a001810",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Amiens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14 rue Robert de Luzarches",
+          "CodePostal": "80027",
+          "NomCommune": "AMIENS CEDEX 1",
+          "Localisation": {
+            "Latitude": "49.892083",
+            "Longitude": "2.301753",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 82 45 00",
+          "Télécopie": "+33 3 22 82 45 98",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.837252,
+          50.103733
+        ]
+      },
+      "properties": {
+        "codeInsee": "80001",
+        "dateMiseAJour": "2017-04-21",
+        "id": "ti-80001-01",
+        "idPresta": "4cac9ed7293594648a00ee59",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Abbeville",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "79 rue du Maréchal Foch",
+          "CodePostal": "80100",
+          "NomCommune": "ABBEVILLE",
+          "Localisation": {
+            "Latitude": "50.103733",
+            "Longitude": "1.837252",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 25 37 30",
+          "Télécopie": "+33 3 22 25 37 69",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "16:45:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

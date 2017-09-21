@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76440906525,
+          48.514339447
+        ]
+      },
+      "properties": {
+        "id": "prefecture-22278-01",
+        "codeInsee": "22278",
+        "dateMiseAJour": "2014-07-03",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Côtes-d'Armor",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1, place du Général-de-Gaulle",
+            "BP 2370"
+          ],
+          "CodePostal": "22023",
+          "NomCommune": "Saint-Brieuc Cedex 1",
+          "Localisation": {
+            "Latitude": "48.514339447",
+            "Longitude": "-2.76440906525",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "boucle magnétique pour les malvoyants"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 96 62 44 22",
+          "Télécopie": "+33 2 96 62 05 75",
+          "Email": "prefecture@cotes-darmor.gouv.fr",
+          "Url": "http://www.cotes-darmor.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:15:00"
+              }
+            ],
+            "Note": "Accueil fermé le jeudi matin pour le service des étrangers"
+          }
+        }
+      }
+    }
+  ]
+}

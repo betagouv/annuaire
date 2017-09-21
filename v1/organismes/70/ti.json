@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.158217,
+          47.623827
+        ]
+      },
+      "properties": {
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-04-07",
+        "id": "ti-70550-01",
+        "idPresta": "4cac9e62293594648a000673",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Vesoul",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14 place du 11ème chasseurs",
+          "CodePostal": "70000",
+          "NomCommune": "VESOUL",
+          "Localisation": {
+            "Latitude": "47.623827",
+            "Longitude": "6.158217",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 78 58 00",
+          "Télécopie": "+33 3 84 68 68 31",
+          "Email": "mailto:ti-vesoul@justice.fr et accueil-vesoul@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.494828,
+          47.686267
+        ]
+      },
+      "properties": {
+        "codeInsee": "70310",
+        "dateMiseAJour": "2017-04-07",
+        "id": "ti-70310-01",
+        "idPresta": "4cac9e62293594648a000672",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Lure",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "60 avenue de la République",
+            "BP 25"
+          ],
+          "CodePostal": "70201",
+          "NomCommune": "LURE CEDEX",
+          "Localisation": {
+            "Latitude": "47.686267",
+            "Longitude": "6.494828",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 30 22 41",
+          "Télécopie": "+33 3 84 62 88 38",
+          "Email": "mailto:ti-lure@justice.fr et accueil-lure@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.719942,
+          45.186963
+        ]
+      },
+      "properties": {
+        "codeInsee": "24322",
+        "dateMiseAJour": "2017-02-17",
+        "id": "tgi-24322-01",
+        "idPresta": "4cac9e87293594648a004cc2",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Périgueux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": [
+          {
+            "type": "géopostale",
+            "Ligne": [
+              "19 bis boulevard Montaigne",
+              "BP 246"
+            ],
+            "CodePostal": "24019",
+            "NomCommune": "PERIGUEUX CEDEX",
+            "Localisation": {
+              "Latitude": "45.185932",
+              "Longitude": "0.720082",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "physique",
+            "Ligne": "19 bis boulevard Montaigne",
+            "CodePostal": "24000",
+            "NomCommune": "PERIGUEUX",
+            "Localisation": {
+              "Latitude": "45.186963",
+              "Longitude": "0.719942",
+              "Précision": "8"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 02 77 00",
+          "Télécopie": "+33 5 53 08 26 76",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.485636,
+          44.85283
+        ]
+      },
+      "properties": {
+        "codeInsee": "24037",
+        "dateMiseAJour": "2016-05-06",
+        "id": "tgi-24037-01",
+        "idPresta": "4cac9ed7293594648a00ee03",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Bergerac",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la République",
+          "CodePostal": "24100",
+          "NomCommune": "BERGERAC",
+          "Localisation": {
+            "Latitude": "44.85283",
+            "Longitude": "0.485636",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 74 40 00",
+          "Télécopie": "+33 5 53 74 40 09",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

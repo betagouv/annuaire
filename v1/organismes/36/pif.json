@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0669479,
+          46.6335248
+        ]
+      },
+      "properties": {
+        "id": "pif-36018-01",
+        "codeInsee": "36018",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille du centre social du Blanc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Jean-Giraudoux",
+          "CodePostal": "36300",
+          "NomCommune": "Le Blanc",
+          "Localisation": {
+            "Latitude": "46.6335248",
+            "Longitude": "1.0669479",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 28 33 40",
+          "Télécopie": "02 54 28 33 49"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.70841889,
+          46.8045762
+        ]
+      },
+      "properties": {
+        "id": "pif-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille du CIDFF de l'Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 allée Buffon",
+          "CodePostal": "36000",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.8045762",
+            "Longitude": "1.70841889",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 34 48 71",
+          "Email": "cidfbaie-36@wanadoo.fr"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69765189,
+          46.8216472
+        ]
+      },
+      "properties": {
+        "id": "pif-36044-02",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille des familles rurales de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "148 avenue Marcel-Lemoine",
+            "BP 145"
+          ],
+          "CodePostal": "36003",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.8216472",
+            "Longitude": "1.69765189",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 08 71 71",
+          "Télécopie": "02 54 27 63 81",
+          "Email": "pif36@famillesrurales.org"
+        }
+      }
+    }
+  ]
+}
