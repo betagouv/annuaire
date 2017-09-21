@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://etablissements-public.api.gouv.fr/annuaire/v1
+HOST: http://etablissements-publics.api.gouv.fr/v1
 
 # Annuaire de l'administration
 
