@@ -21,7 +21,7 @@ Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes so
   docker run -p 4000:80 annuaire  
 ```
 
-3. La documentation de l'API est alors disponible sur `http://localhost:4000`  `http://localhost:4000/organismes/13/maison_handicapees`
+3. La documentation de l'API est alors disponible sur `http://localhost:4000`  `http://localhost:4000/v1/organismes/13/maison_handicapees`
 
 
 ## Liste des organismes [/organismes/{departement}/{type}]
