@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.068495,
+          49.42951
+        ]
+      },
+      "properties": {
+        "codeInsee": "60057",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-60057-01",
+        "idPresta": "4eb263332935944ef50001be",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Beauvais",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 rue des teinturiers",
+            "BP 90458"
+          ],
+          "CodePostal": "60004",
+          "NomCommune": "BEAUVAIS CEDEX",
+          "Localisation": {
+            "Latitude": "49.42951",
+            "Longitude": "2.068495",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 06 74 00",
+          "Télécopie": "+33 3 44 06 74 01",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.829047,
+          49.417842
+        ]
+      },
+      "properties": {
+        "codeInsee": "60159",
+        "dateMiseAJour": "2017-03-24",
+        "id": "tribunal_commerce-60159-01",
+        "idPresta": "4eb263332935944ef50001bd",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Compiègne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue du Dahomey",
+          "CodePostal": "60200",
+          "NomCommune": "COMPIEGNE",
+          "Localisation": {
+            "Latitude": "49.417842",
+            "Longitude": "2.829047",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 38 51 51",
+          "Télécopie": "+33 3 44 38 51 50",
+          "Email": "mailto:tc.compiegne@wanadoo.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

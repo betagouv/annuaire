@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.189811,
+          43.673417
+        ]
+      },
+      "properties": {
+        "id": "ddcs-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2014-07-15",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "CADAM",
+            "BP 3003"
+          ],
+          "CodePostal": "06201",
+          "NomCommune": "Nice Cedex 3",
+          "Localisation": {
+            "Latitude": "43.673417",
+            "Longitude": "7.189811",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 72 20 00",
+          "Télécopie": "+33 4 93 21 67 18",
+          "Email": "dd06-direction@sante.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.044611,
+          49.039049
+        ]
+      },
+      "properties": {
+        "codeInsee": "95500",
+        "dateMiseAJour": "2015-07-10",
+        "id": "prudhommes-95500-01",
+        "idPresta": "4cac9ed6293594648a00ed80",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Cergy-Pontoise",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Victor Hugo",
+          "CodePostal": "95302",
+          "NomCommune": "CERGY PONTOISE CEDEX",
+          "Localisation": {
+            "Latitude": "49.039049",
+            "Longitude": "2.044611",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 72 58 74 30",
+          "Url": "http://www.cph-cergypontoise.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3202438,
+          48.9859545
+        ]
+      },
+      "properties": {
+        "codeInsee": "95428",
+        "dateMiseAJour": "2014-09-22",
+        "id": "prudhommes-95428-01",
+        "idPresta": "4cac9e86293594648a004c81",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Montmorency",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Pierre Mendès France",
+          "CodePostal": "95160",
+          "NomCommune": "MONTMORENCY",
+          "Localisation": {
+            "Latitude": "48.9859545",
+            "Longitude": "2.3202438",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 78 70 50 50",
+          "Télécopie": "+33 1 34 17 37 16",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2330742,
+          48.9556573
+        ]
+      },
+      "properties": {
+        "codeInsee": "95018",
+        "dateMiseAJour": "2017-01-04",
+        "id": "prudhommes-95018-01",
+        "idPresta": "4cac9e60293594648a000388",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Argenteuil",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue des Celtes",
+          "CodePostal": "95813",
+          "NomCommune": "ARGENTEUIL CEDEX",
+          "Localisation": {
+            "Latitude": "48.9556573",
+            "Longitude": "2.2330742",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 39 80 40 40",
+          "Télécopie": "+33 1 39 80 95 25",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

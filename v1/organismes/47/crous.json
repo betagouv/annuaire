@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.634770989418,
+          44.1836013794
+        ]
+      },
+      "properties": {
+        "id": "crous-47031-01",
+        "codeInsee": "47031",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Agen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue d'Aquitaine",
+          "CodePostal": "47550",
+          "NomCommune": "Boé",
+          "Localisation": {
+            "Latitude": "44.1836013794",
+            "Longitude": "0.634770989418",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 98 92 96",
+          "Télécopie": "+33 5 53 98 92 99",
+          "Email": "ru-rapierre.agen@crous-bordeaux.fr",
+          "Url": "http://www.crous-bordeaux.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

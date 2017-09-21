@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09362,
+          48.431856
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Place Bonnet",
+            "CS 40020"
+          ],
+          "CodePostal": "61013",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.431856",
+            "Longitude": "0.09362",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 32 51 89",
+          "Télécopie": "02 33 32 25 27",
+          "Email": "ce.dsden61@ac-caen.fr",
+          "Url": "https://www.ac-caen.frdsden61"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

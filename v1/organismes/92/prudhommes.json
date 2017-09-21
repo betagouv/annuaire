@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2343065,
+          48.8459949
+        ]
+      },
+      "properties": {
+        "codeInsee": "92012",
+        "dateMiseAJour": "2016-07-08",
+        "id": "prudhommes-92012-01",
+        "idPresta": "4cac9e61293594648a0005ce",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Boulogne-Billancourt",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 rue Mahias",
+          "CodePostal": "92643",
+          "NomCommune": "BOULOGNE BILLANCOURT CEDEX",
+          "Localisation": {
+            "Latitude": "48.8459949",
+            "Longitude": "2.2343065",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 46 99 91 20",
+          "Télécopie": "+33 1 46 99 91 21",
+          "Email": "mailto:cph-boulogne-billancourt@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2158839,
+          48.8956444
+        ]
+      },
+      "properties": {
+        "codeInsee": "92050",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-92050-01",
+        "idPresta": "4cac9e6a293594648a00170e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Nanterre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Pablo Néruda",
+          "CodePostal": "92020",
+          "NomCommune": "NANTERRE CEDEX",
+          "Localisation": {
+            "Latitude": "48.8956444",
+            "Longitude": "2.2158839",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 40 97 16 50",
+          "Télécopie": "+33 1 40 97 16 51",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

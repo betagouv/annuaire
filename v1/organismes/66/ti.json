@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88823,
+          42.696562
+        ]
+      },
+      "properties": {
+        "codeInsee": "66136",
+        "dateMiseAJour": "2015-03-20",
+        "id": "ti-66136-01",
+        "idPresta": "4cac9e6a293594648a001801",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Perpignan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 boulevard des Pyrénées",
+            "CS 10932"
+          ],
+          "CodePostal": "66020",
+          "NomCommune": "PERPIGNAN CEDEX",
+          "Localisation": {
+            "Latitude": "42.696562",
+            "Longitude": "2.88823",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 19 61 73",
+          "Télécopie": "+33 4 68 35 66 74",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

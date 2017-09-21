@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4488567,
+          42.6945174
+        ]
+      },
+      "properties": {
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2014-06-09",
+        "id": "prudhommes-2B033-01",
+        "idPresta": "4cac9e69293594648a0016e5",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bastia",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 boulevard Auguste Gaudin",
+          "CodePostal": "20200",
+          "NomCommune": "BASTIA",
+          "Localisation": {
+            "Latitude": "42.6945174",
+            "Longitude": "9.4488567",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 32 38 56",
+          "Télécopie": "+33 4 95 31 69 25",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            ],
+            "Note": "Pendant l'été,les horaires sont  : 9h00-12h00 et 14h00-17h00 du lundi au vendredi."
+          }
+        }
+      }
+    }
+  ]
+}

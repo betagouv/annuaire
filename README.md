@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: https://raw.githubusercontent.com/sgmap/annuaire/master
+HOST: https://raw.githubusercontent.com/sgmap/annuaire/master/v1
 
 # Annuaire de l'administration
 
@@ -170,48 +170,46 @@ Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes so
                     ]
                 },
                 "properties": {
-                    "Organisme": {
-                        "id": "maison_handicapees-14118-01",
-                        "codeInsee": "14118",
-                        "dateMiseAJour": "2017-02-21",
-                        "pivotLocal": "maison_handicapees",
-                        "Nom": "Maison départementale des personnes handicapées (MDPH) - Calvados",
-                        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-                        "Adresse": {
-                            "type": "géopostale",
-                            "Ligne": "17 rue du 11-Novembre",
-                            "CodePostal": "14000",
-                            "NomCommune": "Caen",
-                            "Localisation": {
-                                "Latitude": "49.1777992249",
-                                "Longitude": "-0.3576579988",
-                                "Précision": "6"
-                            },
-                            "Accessibilité": {
-                                "type": "ACC"
-                            }
+                    "id": "maison_handicapees-14118-01",
+                    "codeInsee": "14118",
+                    "dateMiseAJour": "2017-02-21",
+                    "pivotLocal": "maison_handicapees",
+                    "Nom": "Maison départementale des personnes handicapées (MDPH) - Calvados",
+                    "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+                    "Adresse": {
+                        "type": "géopostale",
+                        "Ligne": "17 rue du 11-Novembre",
+                        "CodePostal": "14000",
+                        "NomCommune": "Caen",
+                        "Localisation": {
+                            "Latitude": "49.1777992249",
+                            "Longitude": "-0.3576579988",
+                            "Précision": "6"
                         },
-                        "CoordonnéesNum": {
-                            "Téléphone": "02 31 78 91 75",
-                            "Télécopie": "02 31 78 91 99",
-                            "Email": "mdph@calvados.fr",
-                            "Url": "http://www.calvados.fr"
-                        },
-                        "Ouverture": {
-                            "PlageJ": {
-                                "début": "lundi",
-                                "fin": "vendredi",
-                                "PlageH": [
-                                    {
-                                        "début": "09:00:00",
-                                        "fin": "12:15:00"
-                                    },
-                                    {
-                                        "début": "13:30:00",
-                                        "fin": "16:15:00"
-                                    }
-                                ]
-                            }
+                        "Accessibilité": {
+                            "type": "ACC"
+                        }
+                    },
+                    "CoordonnéesNum": {
+                        "Téléphone": "02 31 78 91 75",
+                        "Télécopie": "02 31 78 91 99",
+                        "Email": "mdph@calvados.fr",
+                        "Url": "http://www.calvados.fr"
+                    },
+                    "Ouverture": {
+                        "PlageJ": {
+                            "début": "lundi",
+                            "fin": "vendredi",
+                            "PlageH": [
+                                {
+                                    "début": "09:00:00",
+                                    "fin": "12:15:00"
+                                },
+                                {
+                                    "début": "13:30:00",
+                                    "fin": "16:15:00"
+                                }
+                            ]
                         }
                     }
                 }

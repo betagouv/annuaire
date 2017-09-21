@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4035739,
+          43.3151236
+        ]
+      },
+      "properties": {
+        "id": "cg-13203-01",
+        "codeInsee": "13203",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "52 avenue Saint-Just",
+            "BP 56"
+          ],
+          "CodePostal": "13256",
+          "NomCommune": "Marseille Cedex 20",
+          "Localisation": {
+            "Latitude": "43.3151236",
+            "Longitude": "5.4035739",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 13 31 13 13",
+          "Url": "http://www.cg13.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "20:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil téléphonique uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

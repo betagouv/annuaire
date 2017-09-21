@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2173237,
+          48.8970537
+        ]
+      },
+      "properties": {
+        "id": "driea_ut-92050-01",
+        "codeInsee": "92050",
+        "dateMiseAJour": "2013-12-10",
+        "pivotLocal": "driea_ut",
+        "Nom": "Unité territoriale - Direction régionale et interdépartementale de l'équipement et de l'aménagement - Hauts-de-Seine (DRIEA)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "167/177 avenue Joliot-Curie",
+            "BP 102",
+            "Centre administratif départemental"
+          ],
+          "CodePostal": "92013",
+          "NomCommune": "Nanterre Cedex",
+          "Localisation": {
+            "Latitude": "48.8970537",
+            "Longitude": "2.2173237",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 40 97 29 06",
+          "Télécopie": "+33 1 47 21 77 91",
+          "Email": "ut92.driea-if@developpement-durable.gouv.fr",
+          "Url": "http://www.driea.ile-de-france.developpement-durable.gouv.fr",
+          "Sve": "http://www.driea.ile-de-france.developpement-durable.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

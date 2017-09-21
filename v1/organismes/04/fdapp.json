@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23671007156,
+          44.090801239
+        ]
+      },
+      "properties": {
+        "id": "fdapp-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Alpes-de-Haute-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Étoile des Alpes",
+            "Bâtiment B",
+            "3 traverse des Eaux-Chaudes",
+            "BP 103"
+          ],
+          "CodePostal": "04003",
+          "NomCommune": "Digne-les-Bains Cedex",
+          "Localisation": {
+            "Latitude": "44.090801239",
+            "Longitude": "6.23671007156",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 32 25 40",
+          "Télécopie": "04 92 32 32 11",
+          "Email": "fdpeche04@wanadoo.fr",
+          "Url": "http://www.federationpeche04.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

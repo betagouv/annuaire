@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.91277003288,
+          42.6813011169
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "45 avenue Jean-Giraudoux",
+            "BP 71080"
+          ],
+          "CodePostal": "66103",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.6813011169",
+            "Longitude": "2.91277003288",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 66 28 00",
+          "Télécopie": "04 68 66 28 23",
+          "Email": "ce.dsden66@ac-montpellier.fr",
+          "Url": "http://www.ac-montpellier.frsections/ia66"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

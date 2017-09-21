@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07688999176,
+          49.4382629395
+        ]
+      },
+      "properties": {
+        "id": "cg-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2017-02-28",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Cambry",
+            "CS 80941"
+          ],
+          "CodePostal": "60024",
+          "NomCommune": "Beauvais Cedex",
+          "Localisation": {
+            "Latitude": "49.4382629395",
+            "Longitude": "2.07688999176",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 06 60 60",
+          "Télécopie": "03 44 06 60 01",
+          "Email": "http://www.oise.fr/contactez-nous",
+          "Url": "http://www.oise.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

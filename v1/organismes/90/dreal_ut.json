@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82779,
+          47.6159
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Territoire de Belfort et Nord Doubs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Zone industrielle",
+            "8 rue Heim",
+            "CS 70201"
+          ],
+          "CodePostal": "90004",
+          "NomCommune": "Belfort Cedex",
+          "Localisation": {
+            "Latitude": "47.6159",
+            "Longitude": "6.82779",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 58 82 08",
+          "Télécopie": "03 84 58 82 07",
+          "Email": "ud90-25.dreal-bourgogne-franche-comte@developpement-durable.gouv.fr",
+          "Url": "http://www.bourgogne-franche-comte.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:15:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

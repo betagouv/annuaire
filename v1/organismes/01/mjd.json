@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2272134,
+          46.2064358
+        ]
+      },
+      "properties": {
+        "codeInsee": "01053",
+        "dateMiseAJour": "2007-04-02",
+        "id": "mjd-01053-01",
+        "idPresta": "51b08cb8b473e41478000b45",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Bourg en Bresse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "34 cours de Verdun",
+          "CodePostal": "01000",
+          "NomCommune": "BOURG EN BRESSE",
+          "Localisation": {
+            "Latitude": "46.2064358",
+            "Longitude": "5.2272134",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 14 01 40",
+          "Télécopie": "+33 4 74 14 01 48",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

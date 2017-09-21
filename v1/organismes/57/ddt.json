@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1709554,
+          49.1284493
+        ]
+      },
+      "properties": {
+        "id": "ddt-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "17, quai Paul-Wiltzer",
+            "BP 31035"
+          ],
+          "CodePostal": "57036",
+          "NomCommune": "Metz Cedex 1",
+          "Localisation": {
+            "Latitude": "49.1284493",
+            "Longitude": "6.1709554",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 87 34 34 34",
+          "Télécopie": "+33 3 87 34 33 85",
+          "Email": "ddt@moselle.gouv.fr",
+          "Url": "http://www.moselle.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

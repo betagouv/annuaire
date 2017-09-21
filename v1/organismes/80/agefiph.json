@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.303709,
+          49.8896359
+        ]
+      },
+      "properties": {
+        "id": "agefiph-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Hauts-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Vincent-Auriol",
+            "CS 64801"
+          ],
+          "CodePostal": "80048",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.8896359",
+            "Longitude": "2.303709",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "03 22 54 26 85",
+          "Email": "picardie@agefiph.asso.fr",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

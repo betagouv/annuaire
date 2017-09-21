@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4576505,
+          43.6039869
+        ]
+      },
+      "properties": {
+        "id": "agefiph-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Occitanie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble La Passerelle Saint Aubin",
+            "17 boulevard de la Gare",
+            "BP 95827"
+          ],
+          "CodePostal": "31505",
+          "NomCommune": "Toulouse Cedex 5",
+          "Localisation": {
+            "Latitude": "43.6039869",
+            "Longitude": "1.4576505",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "05 62 47 88 25",
+          "Email": "midi-pyrenees@agefiph.asso.fr",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

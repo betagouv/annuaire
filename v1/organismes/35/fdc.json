@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8256187439,
+          48.2933585273
+        ]
+      },
+      "properties": {
+        "id": "fdc-35130-01",
+        "codeInsee": "35130",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de la chasse",
+            "Beauregard"
+          ],
+          "CodePostal": "35630",
+          "NomCommune": "Saint-Symphorien",
+          "Localisation": {
+            "Latitude": "48.2933585273",
+            "Longitude": "-1.8256187439",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 45 50 20",
+          "Télécopie": "02 99 45 54 26",
+          "Email": "fdc35@fdc35.com",
+          "Url": "http://www.fdc35.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:15:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:15:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

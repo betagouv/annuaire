@@ -1,0 +1,791 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.559047,
+          44.795908
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05006-01",
+        "codeInsee": "05006",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de L'Argentière",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de services au public du Pays-des-Écrins",
+            "12 avenue de Vallouise"
+          ],
+          "CodePostal": "05120",
+          "NomCommune": "L'Argentière-la-Bessée",
+          "Localisation": {
+            "Latitude": "44.795908",
+            "Longitude": "6.559047",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 23 06 21",
+          "Télécopie": "04 92 23 04 00",
+          "Email": "rsp@cc-paysdesecrins.com",
+          "Url": "http://www.cc-paysdesecrins.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil fermé en juillet-août."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2087836,
+          44.5631941
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05017-01",
+        "codeInsee": "05017",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Communauté de commune du pays de Serre-Ponçon",
+            "33 rue de la Lauzière"
+          ],
+          "CodePostal": "05230",
+          "NomCommune": "La Bâtie-Neuve",
+          "Localisation": {
+            "Latitude": "44.5631941",
+            "Longitude": "6.2087836",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 50 20 50",
+          "Télécopie": "04 92 50 21 65",
+          "Email": "secretariat@ccspva.com",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0892926,
+          44.5622417
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 cours Vieux-Moulin",
+          "CodePostal": "05010",
+          "NomCommune": "Gap Cedex",
+          "Localisation": {
+            "Latitude": "44.5622417",
+            "Longitude": "6.0892926",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 53 00 00",
+          "Télécopie": "04 92 53 00 01",
+          "Email": "info@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63305997849,
+          44.8945999146
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05023-01",
+        "codeInsee": "05023",
+        "dateMiseAJour": "2011-08-12",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Briançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 avenue Général de Gaulle",
+            "Pré du Moulin"
+          ],
+          "CodePostal": "05100",
+          "NomCommune": "BRIANCON",
+          "Localisation": {
+            "Latitude": "44.8945999146",
+            "Longitude": "6.63305997849",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 20 16 13",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82466,
+          44.5346
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05179-01",
+        "codeInsee": "05179",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Veynes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "42 rue Jean-Jaurès",
+          "CodePostal": "05400",
+          "NomCommune": "Veynes",
+          "Localisation": {
+            "Latitude": "44.5346",
+            "Longitude": "5.82466",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 43 84 05",
+          "Télécopie": "04 92 45 42 14",
+          "Email": "buechnord@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "'09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05453014374,
+          44.4602012634
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05170-01",
+        "codeInsee": "05170",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Tallard - Barcillonnette",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Communauté de communes",
+            "Place du Château"
+          ],
+          "CodePostal": "05130",
+          "NomCommune": "Tallard",
+          "Localisation": {
+            "Latitude": "44.4602012634",
+            "Longitude": "6.05453014374",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 54 05 96",
+          "Email": "info@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous. Contacter le siège au 04 92 53 00 00 pour obtenir un rendez-vous."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous. Contacter le siège au 04 92 53 00 00 pour obtenir un rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75009012222,
+          44.5228996277
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05010-01",
+        "codeInsee": "05010",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale d'Aspres-sur-Buëch",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre intercommunal d'action sociale",
+            "Grande rue"
+          ],
+          "CodePostal": "05140",
+          "NomCommune": "Aspres-sur-Buëch",
+          "Localisation": {
+            "Latitude": "44.5228996277",
+            "Longitude": "5.75009012222",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 58 79 62",
+          "Télécopie": "04 92 58 63 16",
+          "Email": "kerim.bacha@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "'09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83388,
+          44.3082
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05070-01",
+        "codeInsee": "05070",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Laragne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de service au public",
+            "8 A place de l'Église"
+          ],
+          "CodePostal": "05300",
+          "NomCommune": "Laragne-Montéglin",
+          "Localisation": {
+            "Latitude": "44.3082",
+            "Longitude": "5.83388",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 65 26 97",
+          "Télécopie": "04 92 65 24 51",
+          "Email": "buechsud@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4968228,
+          44.5636087
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05046-01",
+        "codeInsee": "05046",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale d'Embrun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de services au public",
+            "Place Dongois"
+          ],
+          "CodePostal": "05200",
+          "NomCommune": "Embrun",
+          "Localisation": {
+            "Latitude": "44.5636087",
+            "Longitude": "6.4968228",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 43 48 09",
+          "Télécopie": "04 92 55 26 23",
+          "Email": "embrun@mj-05.org",
+          "Url": "http://www.mj05.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64936499999999,
+          44.6610919
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05065-01",
+        "codeInsee": "05065",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Guillestre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Communauté de communes du Guillestrois",
+            "Relais services publics",
+            "Passage des Écoles"
+          ],
+          "CodePostal": "05600",
+          "NomCommune": "Guillestre",
+          "Localisation": {
+            "Latitude": "44.6610919",
+            "Longitude": "6.64936499999999",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 43 48 09",
+          "Télécopie": "04 92 55 26 23",
+          "Email": "pomme.depras@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71733808517,
+          44.4291801453
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05166-01",
+        "codeInsee": "05166",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Serres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue des Jardins",
+          "CodePostal": "05700",
+          "NomCommune": "Serres",
+          "Localisation": {
+            "Latitude": "44.4291801453",
+            "Longitude": "5.71733808517",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 67 08 25",
+          "Télécopie": "04 92 67 18 97",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "14:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07773499999996,
+          44.68277
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05132-01",
+        "codeInsee": "05132",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Champsaur-Valgaudemar",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue des Lagerons",
+          "CodePostal": "05500",
+          "NomCommune": "Saint-Bonnet-en-Champsaur",
+          "Localisation": {
+            "Latitude": "44.68277",
+            "Longitude": "6.07773499999996",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 53 00 00",
+          "Email": "champsaur@mj-05.org",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88881015778,
+          44.9721984863
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-05003-01",
+        "codeInsee": "05003",
+        "dateMiseAJour": "2009-11-19",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Aiguilles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Point Public - EREF",
+            "Le Bourg"
+          ],
+          "CodePostal": "05470",
+          "NomCommune": "AIGUILLES",
+          "Localisation": {
+            "Latitude": "44.9721984863",
+            "Longitude": "4.88881015778",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 45 85 23",
+          "Url": "http://www.mj-05.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "sur rendez-vous"
+          }
+        }
+      }
+    }
+  ]
+}

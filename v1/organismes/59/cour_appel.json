@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.078225,
+          50.370402
+        ]
+      },
+      "properties": {
+        "codeInsee": "59178",
+        "dateMiseAJour": "2016-12-09",
+        "id": "cour_appel-59178-01",
+        "idPresta": "4cac9e60293594648a000346",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Douai",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Charles de Pollinchove",
+            "CS 20705"
+          ],
+          "CodePostal": "59507",
+          "NomCommune": "DOUAI CEDEX",
+          "Localisation": {
+            "Latitude": "50.370402",
+            "Longitude": "3.078225",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 27 93 27 00",
+          "Télécopie": "+33 3 33 27 13 01",
+          "Email": "mailto:ca-douai@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

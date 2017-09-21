@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.072897,
+          46.040049
+        ]
+      },
+      "properties": {
+        "codeInsee": "42187",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-42187-01",
+        "idPresta": "4cac9e61293594648a000580",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Roanne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 bis place Georges Clémenceau",
+            "BP 515"
+          ],
+          "CodePostal": "42328",
+          "NomCommune": "ROANNE CEDEX",
+          "Localisation": {
+            "Latitude": "46.040049",
+            "Longitude": "4.072897",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 77 44 48 00",
+          "Télécopie": "+33 4 77 44 48 75",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Pour les mois de juillet et août les horaires sont différents :\n8h30 - 12h00/ 14h00 -17h00"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3842586,
+          45.4379283
+        ]
+      },
+      "properties": {
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-01-04",
+        "id": "tgi-42218-01",
+        "idPresta": "4cac9e61293594648a000581",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saint-Etienne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Palais de Justice",
+          "CodePostal": "42022",
+          "NomCommune": "ST ETIENNE CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.4379283",
+            "Longitude": "4.3842586",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 77 43 33 00",
+          "Télécopie": "+33 4 77 43 33 77",
+          "Email": "mailto:accueil-saint-etienne@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Du 9 juillet au 7 septembre les horaires sont les suivants :\n09h 00 - 12h 00 / 13h00 - 16h"
+          }
+        }
+      }
+    }
+  ]
+}

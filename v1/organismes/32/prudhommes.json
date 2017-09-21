@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.584433,
+          43.651406
+        ]
+      },
+      "properties": {
+        "codeInsee": "32013",
+        "dateMiseAJour": "2016-11-25",
+        "id": "prudhommes-32013-01",
+        "idPresta": "4cac9e5f293594648a000249",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Auch",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Maréchal Lannes",
+          "CodePostal": "32000",
+          "NomCommune": "AUCH",
+          "Localisation": {
+            "Latitude": "43.651406",
+            "Longitude": "0.584433",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 70 87 00",
+          "Télécopie": "+33 5 62 60 89 12",
+          "Email": "mailto:cph-auch@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

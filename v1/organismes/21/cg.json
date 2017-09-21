@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04225301743,
+          47.3243408203
+        ]
+      },
+      "properties": {
+        "id": "cg-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "53 bis rue de la Préfecture",
+            "BP 1601"
+          ],
+          "CodePostal": "21035",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3243408203",
+            "Longitude": "5.04225301743",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 63 66 00",
+          "Télécopie": "03 80 63 69 59",
+          "Email": "cabinet@cotedor.fr",
+          "Url": "http://www.cotedor.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

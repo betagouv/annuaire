@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.907722,
+          47.48822
+        ]
+      },
+      "properties": {
+        "id": "caf-89025-01",
+        "codeInsee": "89025",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Yonne - accueil d'Avallon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 allée de la Croix-Sirot",
+            "CodePostal": "89200",
+            "NomCommune": "Avallon",
+            "Localisation": {
+              "Latitude": "47.48822",
+              "Longitude": "3.907722",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de l'Yonne",
+              "12 rue du Clos"
+            ],
+            "CodePostal": "89021",
+            "NomCommune": "Auxerre Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 89 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2770099,
+          48.1976034
+        ]
+      },
+      "properties": {
+        "id": "caf-89387-01",
+        "codeInsee": "89387",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Yonne - accueil de Sens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Ecoparc",
+              "Bâtiment F",
+              "43 rue du 19-Mars-1962"
+            ],
+            "CodePostal": "89100",
+            "NomCommune": "Sens",
+            "Localisation": {
+              "Latitude": "48.1976034",
+              "Longitude": "3.2770099",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de l'Yonne",
+              "12 rue du Clos"
+            ],
+            "CodePostal": "89021",
+            "NomCommune": "Auxerre Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 89 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5696477999999843,
+          47.7898199
+        ]
+      },
+      "properties": {
+        "id": "caf-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Yonne - siège d'Auxerre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "BP 80087",
+            "12 rue du Clos"
+          ],
+          "CodePostal": "89021",
+          "NomCommune": "Auxerre Cedex",
+          "Localisation": {
+            "Latitude": "47.7898199",
+            "Longitude": "3.5696477999999843",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 89 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.398961,
+          47.981432
+        ]
+      },
+      "properties": {
+        "id": "caf-89206-01",
+        "codeInsee": "89206",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Yonne - accueil de Joigny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "5 rue Jules-Dumont-d'Urville",
+            "CodePostal": "89300",
+            "NomCommune": "Joigny",
+            "Localisation": {
+              "Latitude": "47.981432",
+              "Longitude": "3.398961",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de l'Yonne",
+              "12 rue du Clos"
+            ],
+            "CodePostal": "89021",
+            "NomCommune": "Auxerre Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 89 10"
+          },
+          "Url": "https://www.caf.fr"
+        }
+      }
+    }
+  ]
+}

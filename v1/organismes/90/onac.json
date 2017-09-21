@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.857873,
+          47.631193
+        ]
+      },
+      "properties": {
+        "id": "onac-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-03-14",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Territoire de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue Heim",
+          "CodePostal": "90000",
+          "NomCommune": "Belfort",
+          "Localisation": {
+            "Latitude": "47.631193",
+            "Longitude": "6.857873",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 22 21 41",
+          "Email": "sd90@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:90/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

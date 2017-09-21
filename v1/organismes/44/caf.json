@@ -1,0 +1,1241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2685883,
+          47.1627273
+        ]
+      },
+      "properties": {
+        "id": "caf-44212-01",
+        "codeInsee": "44212",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Vallet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "20 rue Émile-Gabory",
+            "CodePostal": "44330",
+            "NomCommune": "Vallet",
+            "Localisation": {
+              "Latitude": "47.1627273",
+              "Longitude": "-1.2685883",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex  9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5818008,
+          47.2333068
+        ]
+      },
+      "properties": {
+        "id": "caf-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - siège de Nantes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22 rue Malville",
+          "CodePostal": "44937",
+          "NomCommune": "Nantes Cedex 9",
+          "Localisation": {
+            "Latitude": "47.2333068",
+            "Longitude": "-1.5818008",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.08772420883,
+          47.4377035233
+        ]
+      },
+      "properties": {
+        "id": "caf-44129-01",
+        "codeInsee": "44129",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Pontchâteau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "7 place de l'Église",
+            "CodePostal": "44160",
+            "NomCommune": "Pontchâteau",
+            "Localisation": {
+              "Latitude": "47.4377035233",
+              "Longitude": "-2.08772420883",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.642111,
+          47.037638
+        ]
+      },
+      "properties": {
+        "id": "caf-44188-01",
+        "codeInsee": "44188",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Saint-Philbert-de-Grand-Lieu",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Point d'accueil numérique",
+              "24 rue de l'Hôtel-de-Ville"
+            ],
+            "CodePostal": "44310",
+            "NomCommune": "Saint-Philbert-de-Grand-Lieu",
+            "Localisation": {
+              "Latitude": "47.037638",
+              "Longitude": "-1.642111",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Point d'accueil numérique et accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.210784,
+          47.285414
+        ]
+      },
+      "properties": {
+        "id": "caf-44184-01",
+        "codeInsee": "44184",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Saint-Nazaire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "10 place Pierre-Sémard",
+            "CodePostal": "44600",
+            "NomCommune": "Saint-Nazaire",
+            "Localisation": {
+              "Latitude": "47.285414",
+              "Longitude": "-2.210784",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4272731,
+          47.3315522
+        ]
+      },
+      "properties": {
+        "id": "caf-44069-01",
+        "codeInsee": "44069",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Guérande",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Relais Caf de la presqu'île guérandaise",
+              "1 impasse Anne-de-Bretagne"
+            ],
+            "CodePostal": "44350",
+            "NomCommune": "Guérande",
+            "Localisation": {
+              "Latitude": "47.3315522",
+              "Longitude": "-2.4272731",
+              "Précision": "9"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil sur rendez-vous uniquement."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3116900999999643,
+          47.4489857
+        ]
+      },
+      "properties": {
+        "id": "caf-44072-01",
+        "codeInsee": "44072",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Herbignac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "1 avenue de la Monneraye"
+            ],
+            "CodePostal": "44410",
+            "NomCommune": "Herbignac",
+            "Localisation": {
+              "Latitude": "47.4489857",
+              "Longitude": "-2.3116900999999643",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1788785,
+          47.3704045
+        ]
+      },
+      "properties": {
+        "id": "caf-44003-01",
+        "codeInsee": "44003",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil d'Ancenis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace Corail",
+              "28 place Francis-Robert"
+            ],
+            "CodePostal": "44150",
+            "NomCommune": "Ancenis",
+            "Localisation": {
+              "Latitude": "47.3704045",
+              "Longitude": "-1.1788785",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18323004246,
+          47.5246009827
+        ]
+      },
+      "properties": {
+        "id": "caf-44180-01",
+        "codeInsee": "44180",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Saint-Mars-la-Jaille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Point d'accueil numérique",
+              "18 rue Charles-Henri-de-Cossé-Brissac"
+            ],
+            "CodePostal": "44540",
+            "NomCommune": "Saint-Mars-la-Jaille",
+            "Localisation": {
+              "Latitude": "47.5246009827",
+              "Longitude": "-1.18323004246",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil téléphonique du lundi au vendredi de 9h à 16h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7674141,
+          47.4720806
+        ]
+      },
+      "properties": {
+        "id": "caf-44015-01",
+        "codeInsee": "44015",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Blain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue des Bataillons-FFI",
+            "CodePostal": "44130",
+            "NomCommune": "Blain",
+            "Localisation": {
+              "Latitude": "47.4720806",
+              "Longitude": "-1.7674141",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et Fermeture du 1er juillet au 31 août 2017 inclus."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5605516,
+          47.1842703
+        ]
+      },
+      "properties": {
+        "id": "caf-44143-01",
+        "codeInsee": "44143",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Rezé",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "6 bis allée du Lac-de-Grand-Lieu",
+            "CodePostal": "44400",
+            "NomCommune": "Rezé",
+            "Localisation": {
+              "Latitude": "47.1842703",
+              "Longitude": "-1.5605516",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 10 juillet au 31 août 2017."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4990824,
+          47.4397897
+        ]
+      },
+      "properties": {
+        "id": "caf-44110-01",
+        "codeInsee": "44110",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Nort-sur-Erdre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Salle Nord",
+              "7 rue de la Fraternité"
+            ],
+            "CodePostal": "44390",
+            "NomCommune": "Nort-sur-Erdre",
+            "Localisation": {
+              "Latitude": "47.4397897",
+              "Longitude": "-1.4990824",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.378495,
+          47.7188841
+        ]
+      },
+      "properties": {
+        "id": "caf-44036-01",
+        "codeInsee": "44036",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Châteaubriant",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "7 rue Gabriel-Delatour",
+            "CodePostal": "44110",
+            "NomCommune": "Châteaubriant",
+            "Localisation": {
+              "Latitude": "47.7188841",
+              "Longitude": "-1.378495",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Accueil sur rendez-vous de 13h30 à 16h. Accueil téléphonique du lundi au vendredi de 9h à 16h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2910985,
+          47.0923628
+        ]
+      },
+      "properties": {
+        "id": "caf-44043-01",
+        "codeInsee": "44043",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Clisson",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre médico-social",
+              "2 rue du Docteur-Doussain"
+            ],
+            "CodePostal": "44190",
+            "NomCommune": "Clisson",
+            "Localisation": {
+              "Latitude": "47.0923628",
+              "Longitude": "-1.2910985",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9453753,
+          47.3605657
+        ]
+      },
+      "properties": {
+        "id": "caf-44195-01",
+        "codeInsee": "44195",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Savenay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Dojo salle 3",
+              "Rue des Mésanges"
+            ],
+            "CodePostal": "44260",
+            "NomCommune": "Savenay",
+            "Localisation": {
+              "Latitude": "47.3605657",
+              "Longitude": "-1.9453753",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus et durant les congés scolaires."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4735205,
+          47.1684751
+        ]
+      },
+      "properties": {
+        "id": "caf-44215-01",
+        "codeInsee": "44215",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Vertou",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace social",
+              "1 rue de la Garenne",
+              "Rez-de-chaussée",
+              "Porte 3"
+            ],
+            "CodePostal": "44120",
+            "NomCommune": "Vertou",
+            "Localisation": {
+              "Latitude": "47.1684751",
+              "Longitude": "-1.4735205",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1 juillet au 31 août 2017."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8343982,
+          47.6284889
+        ]
+      },
+      "properties": {
+        "id": "caf-44067-01",
+        "codeInsee": "44067",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Guémené-Penfao",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Mairie",
+            "CodePostal": "44290",
+            "NomCommune": "Guémené-Penfao",
+            "Localisation": {
+              "Latitude": "47.6284889",
+              "Longitude": "-1.8343982",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.106087,
+          47.1186557
+        ]
+      },
+      "properties": {
+        "id": "caf-44131-01",
+        "codeInsee": "44131",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Pornic",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre médico-social",
+              "35 rue de la Dette"
+            ],
+            "CodePostal": "44210",
+            "NomCommune": "Pornic",
+            "Localisation": {
+              "Latitude": "47.1186557",
+              "Longitude": "-2.106087",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 13h45 à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16749310493,
+          47.2471419514
+        ]
+      },
+      "properties": {
+        "id": "caf-44154-01",
+        "codeInsee": "44154",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Loire-Atlantique - accueil de Saint-Brevin-les-Pins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Place de l'Hôtel-de-Ville",
+            "CodePostal": "44250",
+            "NomCommune": "Saint-Brevin-les-Pins",
+            "Localisation": {
+              "Latitude": "47.2471419514",
+              "Longitude": "-2.16749310493",
+              "Précision": "9"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Loire-Atlantique",
+              "22 rue de Malville"
+            ],
+            "CodePostal": "44937",
+            "NomCommune": "Nantes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 44 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h et fermeture du 1er juillet au 31 août 2017 inclus."
+          }
+        }
+      }
+    }
+  ]
+}

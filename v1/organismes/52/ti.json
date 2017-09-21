@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136812,
+          48.112727
+        ]
+      },
+      "properties": {
+        "codeInsee": "52121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-52121-01",
+        "idPresta": "4cac9e6a293594648a0017f1",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Chaumont",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue du Palais",
+            "Bâtiment B BP 2061"
+          ],
+          "CodePostal": "52903",
+          "NomCommune": "CHAUMONT CEDEX 9",
+          "Localisation": {
+            "Latitude": "48.112727",
+            "Longitude": "5.136812",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 35 34 34",
+          "Télécopie": "+33 3 25 35 34 35",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9474544,
+          48.6362998
+        ]
+      },
+      "properties": {
+        "codeInsee": "52448",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-52448-01",
+        "idPresta": "4cac9ed7293594648a00ee47",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Saint-Dizier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Administrative",
+            "12 rue de la Commune de Paris"
+          ],
+          "CodePostal": "52100",
+          "NomCommune": "ST DIZIER",
+          "Localisation": {
+            "Latitude": "48.6362998",
+            "Longitude": "4.9474544",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 05 10 46",
+          "Télécopie": "+33 3 25 05 91 60",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

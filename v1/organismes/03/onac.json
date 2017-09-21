@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3345839,
+          46.5675227
+        ]
+      },
+      "properties": {
+        "id": "onac-03190-01",
+        "codeInsee": "03190",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Allier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue Michel-de-l'Hospital",
+            "BP 1624"
+          ],
+          "CodePostal": "03016",
+          "NomCommune": "Moulins Cedex",
+          "Localisation": {
+            "Latitude": "46.5675227",
+            "Longitude": "3.3345839",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 44 10 20",
+          "Télécopie": "04 70 44 89 37",
+          "Email": "sd03@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:3/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

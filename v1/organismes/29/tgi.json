@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109171,
+          47.992409
+        ]
+      },
+      "properties": {
+        "codeInsee": "29232",
+        "dateMiseAJour": "2015-09-11",
+        "id": "tgi-29232-01",
+        "idPresta": "4cac9e87293594648a004cc3",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Quimper",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "48 A quai de l'Odet",
+            "CS66031"
+          ],
+          "CodePostal": "29327",
+          "NomCommune": "QUIMPER CEDEX",
+          "Localisation": {
+            "Latitude": "47.992409",
+            "Longitude": "-4.109171",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 98 82 88 00",
+          "Email": "mailto:tgi-quimper@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485579,
+          48.384355
+        ]
+      },
+      "properties": {
+        "codeInsee": "29019",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-29019-01",
+        "idPresta": "4cac9e6a293594648a001794",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Brest",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "32 rue de Denver",
+            "CS 91948"
+          ],
+          "CodePostal": "29219",
+          "NomCommune": "BREST CEDEX 2",
+          "Localisation": {
+            "Latitude": "48.384355",
+            "Longitude": "-4.485579",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 98 33 78 00",
+          "Télécopie": "+33 2 98 33 78 01",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

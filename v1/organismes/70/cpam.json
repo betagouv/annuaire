@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.156194,
+          47.617508
+        ]
+      },
+      "properties": {
+        "id": "cpam-70550-02",
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Haute-Saône - accueil de Vesoul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "9 boulevard des Alliés",
+            "CodePostal": "70000",
+            "NomCommune": "Vesoul",
+            "Localisation": {
+              "Latitude": "47.617508",
+              "Longitude": "6.156194",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie de Haute-Saône",
+              "9 boulevard des Alliés",
+              "BP 439"
+            ],
+            "CodePostal": "70020",
+            "NomCommune": "Vesoul Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1561936,
+          47.6175077
+        ]
+      },
+      "properties": {
+        "id": "cpam-70550-01",
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Haute-Saône - siège de Vesoul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 boulevard des Alliés",
+            "BP 439"
+          ],
+          "CodePostal": "70020",
+          "NomCommune": "Vesoul Cedex",
+          "Localisation": {
+            "Latitude": "47.6175077",
+            "Longitude": "6.1561936",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

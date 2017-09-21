@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3933132,
+          47.7602454
+        ]
+      },
+      "properties": {
+        "id": "urssaf-56121-01",
+        "codeInsee": "56121",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Bretagne - site de Lorient",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue Raymond-Queudet",
+            "CodePostal": "56100",
+            "NomCommune": "Lorient",
+            "Localisation": {
+              "Latitude": "47.7602454",
+              "Longitude": "-3.3933132",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Bretagne",
+              "Quartier Beauregard",
+              "6 rue Robert-d'Arbrissel"
+            ],
+            "CodePostal": "35052",
+            "NomCommune": "Rennes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.bretagne.urssaf.fr"
+        },
+        "Commentaire": "Accueil physique uniquement sur rendez-vous du mardi au jeudi. Accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.784565,
+          47.666982
+        ]
+      },
+      "properties": {
+        "id": "urssaf-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Bretagne - site de Vannes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Zone d'activité de Laroiseau",
+              "2 rue Anita-Conti"
+            ],
+            "CodePostal": "56000",
+            "NomCommune": "Vannes",
+            "Localisation": {
+              "Latitude": "47.666982",
+              "Longitude": "-2.784565",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Bretagne",
+              "Quartier Beauregard",
+              "6 rue Robert-d'Arbrissel"
+            ],
+            "CodePostal": "35052",
+            "NomCommune": "Rennes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.bretagne.urssaf.fr"
+        },
+        "Commentaire": "Accueil du lundi au vendredi, uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    }
+  ]
+}

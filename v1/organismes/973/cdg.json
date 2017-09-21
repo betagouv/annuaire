@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3250146,
+          4.9421106
+        ]
+      },
+      "properties": {
+        "id": "cdg-97302-01",
+        "codeInsee": "97302",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Guyane",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "36 avenue Louis-Pasteur",
+            "BP 493"
+          ],
+          "CodePostal": "97332",
+          "NomCommune": "Cayenne Cedex",
+          "Localisation": {
+            "Latitude": "4.9421106",
+            "Longitude": "-52.3250146",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+594 5 94 29 00 91",
+          "Télécopie": "+594 5 94 37 96 97",
+          "Email": "cdgguyane@cdg973.fr",
+          "Url": "http://www.cdg973.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "15:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

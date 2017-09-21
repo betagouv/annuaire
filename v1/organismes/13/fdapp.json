@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4550331,
+          43.4541968
+        ]
+      },
+      "properties": {
+        "id": "fdapp-13041-01",
+        "codeInsee": "13041",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 parc d'activités de Bompertuis",
+            "Avenue d'Arménie"
+          ],
+          "CodePostal": "13120",
+          "NomCommune": "Gardanne",
+          "Localisation": {
+            "Latitude": "43.4541968",
+            "Longitude": "5.4550331",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 42 26 59 15",
+          "Télécopie": "04 42 27 71 64",
+          "Email": "fdpeche13@free.fr",
+          "Url": "http://www.peche13.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

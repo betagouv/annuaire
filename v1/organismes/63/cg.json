@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0849655,
+          45.7767838
+        ]
+      },
+      "properties": {
+        "id": "cg-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "24 rue Saint-Esprit"
+          ],
+          "CodePostal": "63033",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7767838",
+            "Longitude": "3.0849655",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 42 20 20",
+          "Télécopie": "04 73 42 20 04",
+          "Url": "http://www.puydedome.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

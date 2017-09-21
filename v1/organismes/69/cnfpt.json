@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80099010468,
+          45.7578010559
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-69385-01",
+        "codeInsee": "69385",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 rue Édmond-Locard",
+          "CodePostal": "69322",
+          "NomCommune": "Lyon Cedex 5",
+          "Localisation": {
+            "Latitude": "45.7578010559",
+            "Longitude": "4.80099010468",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 72 32 43 00",
+          "Télécopie": "04 72 32 43 98",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.801955,
+          45.757642
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-69385-02",
+        "codeInsee": "69385",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Auvergne-Rhône-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 rue Docteur-Edmond-Locard",
+          "CodePostal": "69322",
+          "NomCommune": "Lyon Cedex 5",
+          "Localisation": {
+            "Latitude": "45.757642",
+            "Longitude": "4.801955",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 72 32 43 00",
+          "Télécopie": "04 72 32 43 43",
+          "Url": "http://www.cnftp.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

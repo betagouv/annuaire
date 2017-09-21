@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1536929,
+          46.159808
+        ]
+      },
+      "properties": {
+        "codeInsee": "17300",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-17300-01",
+        "idPresta": "4cac9e61293594648a000548",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de La Rochelle",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue du Palais",
+          "CodePostal": "17028",
+          "NomCommune": "LA ROCHELLE CEDEX 1",
+          "Localisation": {
+            "Latitude": "46.159808",
+            "Longitude": "-1.1536929",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 46 50 87 10",
+          "Télécopie": "+33 5 46 41 28 31",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.633681,
+          45.747428
+        ]
+      },
+      "properties": {
+        "codeInsee": "17415",
+        "dateMiseAJour": "2016-04-01",
+        "id": "tgi-17415-01",
+        "idPresta": "4cac9e6a293594648a001791",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saintes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Square Maréchal Foch",
+            "CS 80324"
+          ],
+          "CodePostal": "17108",
+          "NomCommune": "SAINTES CEDEX",
+          "Localisation": {
+            "Latitude": "45.747428",
+            "Longitude": "-0.633681",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 17 28 39 00",
+          "Télécopie": "+33 5 46 74 15 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5121879,
+          47.2530958
+        ]
+      },
+      "properties": {
+        "id": "cicas-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cicas",
+        "Nom": "Centre d'information de conseil et d'accueil des salariés (Cicas) - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue du Chemin-Rouge",
+            "Bâtiment B",
+            "CS 27352"
+          ],
+          "CodePostal": "44373",
+          "NomCommune": "Nantes Cedex 3",
+          "Localisation": {
+            "Latitude": "47.2530958",
+            "Longitude": "-1.5121879",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 20 01 89"
+          },
+          "Url": "https://www.agirc-arrco.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

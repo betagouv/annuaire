@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.085622,
+          18.0671612
+        ]
+      },
+      "properties": {
+        "codeInsee": "97801",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-97801-01",
+        "idPresta": "4cac9e6a293594648a001833",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Saint-Martin",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "23 rue de la Liberté",
+            "BP 376",
+            "Marigot"
+          ],
+          "CodePostal": "97150",
+          "NomCommune": "ST MARTIN",
+          "Localisation": {
+            "Latitude": "18.0671612",
+            "Longitude": "-63.085622",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 90 87 50 49",
+          "Télécopie": "+33 5 90 87 98 13",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

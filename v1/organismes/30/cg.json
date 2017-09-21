@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3632377,
+          43.8317017
+        ]
+      },
+      "properties": {
+        "id": "cg-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "3 rue Guillemette"
+          ],
+          "CodePostal": "30044",
+          "NomCommune": "Nîmes Cedex 9",
+          "Localisation": {
+            "Latitude": "43.8317017",
+            "Longitude": "4.3632377",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 76 76 76",
+          "Télécopie": "04 66 76 79 40",
+          "Email": "courrier-internet@gard.fr",
+          "Url": "http://www.gard.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Contacter l'accueil pour vérifier les horaires des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

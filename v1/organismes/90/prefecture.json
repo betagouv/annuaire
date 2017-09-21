@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86125612259,
+          47.6390914917
+        ]
+      },
+      "properties": {
+        "id": "prefecture-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2013-12-19",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Territoire de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la République",
+          "CodePostal": "90020",
+          "NomCommune": "Belfort Cedex",
+          "Localisation": {
+            "Latitude": "47.6390914917",
+            "Longitude": "6.86125612259",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 57 00 07",
+          "Télécopie": "+33 3 84 21 32 62",
+          "Email": "courrier90@territoire-de-belfort.pref.gouv.fr",
+          "Url": "http://www.territoire-belfort.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Attention : Toute l'année, le service Carte grise est fermé le mercredi après-midi, le service Permis de conduire est fermé le jeudi après-midi. Pendant les fêtes de fin d'année, fermeture au public à 15h les 24 et 31 décembre. Les bureaux de la circulation et des nationalités ainsi que la caisse seront fermés au public le 31/12 toute la journée en raison de la clôture de l'exercice comptable. Les autres services restent accessibles jusqu'à 15h ce jour-là."
+          }
+        }
+      }
+    }
+  ]
+}

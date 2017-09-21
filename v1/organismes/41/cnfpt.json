@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2986586,
+          47.5553366
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-41295-01",
+        "codeInsee": "41295",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Loir-et-Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Ducoux",
+            "CS 93328"
+          ],
+          "CodePostal": "41033",
+          "NomCommune": "Blois Cedex",
+          "Localisation": {
+            "Latitude": "47.5553366",
+            "Longitude": "1.2986586",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 74 68 47",
+          "Email": "loiretcher@cnfpt.fr",
+          "Url": "http://www.centre.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

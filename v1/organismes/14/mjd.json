@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3356213,
+          49.2032226
+        ]
+      },
+      "properties": {
+        "codeInsee": "14327",
+        "dateMiseAJour": "2015-09-11",
+        "id": "mjd-14327-01",
+        "idPresta": "51b08ccfb473e4147800107f",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  d'Hérouville-St-Clair",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1bis place de l'Europe",
+          "CodePostal": "14200",
+          "NomCommune": "HEROUVILLE ST CLAIR",
+          "Localisation": {
+            "Latitude": "49.2032226",
+            "Longitude": "-0.3356213",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 31 53 20 04",
+          "Email": "mailto:mjd.tgi-caen.@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

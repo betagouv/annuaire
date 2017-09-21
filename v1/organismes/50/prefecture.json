@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0900811,
+          49.1155996
+        ]
+      },
+      "properties": {
+        "id": "prefecture-50502-01",
+        "codeInsee": "50502",
+        "dateMiseAJour": "2014-05-22",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Manche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place de la Préfecture",
+            "BP 70522"
+          ],
+          "CodePostal": "50002",
+          "NomCommune": "Saint-Lô Cedex",
+          "Localisation": {
+            "Latitude": "49.1155996",
+            "Longitude": "-1.0900811",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 75 49 50",
+          "Télécopie": "+33 2 33 57 36 66",
+          "Email": "prefecture@manche.gouv.fr",
+          "Url": "http://www.manche.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "(Horaires de l’accueil général et accueil téléphonique: 9h- 16h15). Attention : horaires d’ouverture du guichet des Cartes grises de 8h30 à 12h30, du guichet étrangers de 8h30 à 12h30, du guichet Permis de conduire de 8h30 à 12h30."
+          }
+        }
+      }
+    }
+  ]
+}

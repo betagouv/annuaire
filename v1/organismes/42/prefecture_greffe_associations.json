@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0700436,
+          46.0351952
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-42187-01",
+        "codeInsee": "42187",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Roanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Roanne",
+            "Bureau des libertés et de la sécurité publique",
+            "2 rue Joseph-Déchelette"
+          ],
+          "CodePostal": "42328",
+          "NomCommune": "Roanne Cedex",
+          "Localisation": {
+            "Latitude": "46.0351952",
+            "Longitude": "4.0700436",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 23 64 64",
+          "Télécopie": "04 77 71 42 78",
+          "Email": "sp-roanne@loire.gouv.fr",
+          "Url": "http://www.loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Permanence téléphonique de 14h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3863878,
+          45.4423646
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Saint-Étienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture de la Loire",
+            "Bureau des associations",
+            "2 rue Charles-de-Gaulle",
+            "CS 12241"
+          ],
+          "CodePostal": "42022",
+          "NomCommune": "Saint-Étienne Cedex 1",
+          "Localisation": {
+            "Latitude": "45.4423646",
+            "Longitude": "4.3863878",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 48 47 63",
+          "Télécopie": "04 77 48 47 53",
+          "Email": "associations@loire.pref.gouv.fr",
+          "Url": "http://www.loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "15:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0633267,
+          45.6097596
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-42147-01",
+        "codeInsee": "42147",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Montbrison",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Montbrison",
+            "Bureau des associations",
+            "Square Honoré-d'Urfé"
+          ],
+          "CodePostal": "42600",
+          "NomCommune": "Montbrison",
+          "Localisation": {
+            "Latitude": "45.6097596",
+            "Longitude": "4.0633267",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 96 37 28",
+          "Télécopie": "04 77 96 11 01",
+          "Email": "francoise.busali@loire.gouv.fr",
+          "Url": "http://www.loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

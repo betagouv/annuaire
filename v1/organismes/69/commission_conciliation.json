@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84781980515,
+          45.759601593
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-69383-01",
+        "codeInsee": "69383",
+        "dateMiseAJour": "2014-01-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33, rue Moncey",
+          "CodePostal": "69421",
+          "NomCommune": "Lyon Cedex 03",
+          "Localisation": {
+            "Latitude": "45.759601593",
+            "Longitude": "4.84781980515",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 81 92 44 00",
+          "Url": "http://www.rhone.equipement.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "12:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

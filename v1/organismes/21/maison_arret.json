@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05032,
+          47.313188
+        ]
+      },
+      "properties": {
+        "codeInsee": "21231",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-21231-01",
+        "idPresta": "4eb263312935944ef500019a",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Dijon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "72 Bis rue d'Auxonne",
+            "BP 1505"
+          ],
+          "CodePostal": "21033",
+          "NomCommune": "DIJON CEDEX",
+          "Localisation": {
+            "Latitude": "47.313188",
+            "Longitude": "5.05032",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 66 47 32",
+          "Télécopie": "+33 3 80 67 20 57",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

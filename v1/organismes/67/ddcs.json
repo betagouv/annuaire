@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7622746,
+          48.5779444
+        ]
+      },
+      "properties": {
+        "id": "ddcs-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) du Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Gaujot",
+            "14, rue du Maréchal-Juin",
+            "CS 516"
+          ],
+          "CodePostal": "67084",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5779444",
+            "Longitude": "7.7622746",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 88 76 76 16",
+          "Télécopie": "+33 3 88 76 76 11",
+          "Email": "ddcs@bas-rhin.gouv.fr",
+          "Url": "http://www.bas-rhin.gouv.fr/site/cohesion-sociale-265.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

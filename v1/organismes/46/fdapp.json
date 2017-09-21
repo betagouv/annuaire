@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.441989,
+          44.4475229
+        ]
+      },
+      "properties": {
+        "id": "fdapp-46042-01",
+        "codeInsee": "46042",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Lot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "133 quai Albert-Cappus",
+          "CodePostal": "46000",
+          "NomCommune": "Cahors",
+          "Localisation": {
+            "Latitude": "44.4475229",
+            "Longitude": "1.441989",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 35 50 22",
+          "Télécopie": "05 65 23 92 48",
+          "Email": "info@pechelot.com",
+          "Url": "http://www.pechelot.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

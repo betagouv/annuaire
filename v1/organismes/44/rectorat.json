@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5554352,
+          47.2398907
+        ]
+      },
+      "properties": {
+        "id": "rectorat-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2015-12-15",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Nantes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4, rue de la Houssinière",
+            "BP 72616"
+          ],
+          "CodePostal": "44326",
+          "NomCommune": "Nantes Cedex 3",
+          "Localisation": {
+            "Latitude": "47.2398907",
+            "Longitude": "-1.5554352",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 40 37 37 37",
+          "Email": "contact@ac-nantes.fr",
+          "Url": "http://www.ac-nantes.fr",
+          "Sve": "http://www.ac-nantes.fr/academie/services-academiques/nous-ecrire/nous-ecrire-602410.kjsp?RH=ACTUALITE"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

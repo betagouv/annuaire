@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07749269312,
+          44.5574061697
+        ]
+      },
+      "properties": {
+        "codeInsee": "05061",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-05061-01",
+        "idPresta": "4cac9e5f293594648a0001f3",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Gap",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "place Saint-Arnoux BP 77"
+          ],
+          "CodePostal": "05007",
+          "NomCommune": "GAP CEDEX",
+          "Localisation": {
+            "Latitude": "44.5574061697",
+            "Longitude": "6.07749269312",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 52 06 37",
+          "Télécopie": "+33 4 92 52 66 72",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73736000061,
+          41.9297981262
+        ]
+      },
+      "properties": {
+        "id": "adil-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Panero",
+            "Boulevard Dominique-Paoli"
+          ],
+          "CodePostal": "20090",
+          "NomCommune": "Ajaccio",
+          "Localisation": {
+            "Latitude": "41.9297981262",
+            "Longitude": "8.73736000061",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 20 85 25",
+          "Télécopie": "04 95 10 15 82",
+          "Email": "adil.2a@orange.fr",
+          "Url": "http://www.adil2a.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

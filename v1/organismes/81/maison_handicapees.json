@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1511016,
+          43.9461545
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-81004-01",
+        "codeInsee": "81004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "221 avenue Albert-Thomas",
+          "CodePostal": "81000",
+          "NomCommune": "Albi",
+          "Localisation": {
+            "Latitude": "43.9461545",
+            "Longitude": "2.1511016",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 43 32 40",
+          "Télécopie": "05 63 54 13 22",
+          "Email": "mdph.accueil@tarn.fr",
+          "Url": "http://www.tarn.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

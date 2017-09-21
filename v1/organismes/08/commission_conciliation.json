@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70788002014,
+          49.7545013428
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2013-09-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation -  Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale des territoires des Ardennes",
+            "3, rue des Granges-Moulues",
+            "BP 852"
+          ],
+          "CodePostal": "08011",
+          "NomCommune": "Charleville-Mézières Cedex",
+          "Localisation": {
+            "Latitude": "49.7545013428",
+            "Longitude": "4.70788002014",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 51 16 50 00"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

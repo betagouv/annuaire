@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4357698,
+          43.6109636
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 esplanade Compans-Caffarelli",
+            "BP 98016"
+          ],
+          "CodePostal": "31080",
+          "NomCommune": "Toulouse Cedex 6",
+          "Localisation": {
+            "Latitude": "43.6109636",
+            "Longitude": "1.4357698",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 89 81 00",
+          "Télécopie": "05 62 89 81 01",
+          "Email": "midipy-ut31@direccte.gouv.fr",
+          "Url": "http://occitanie.direccte.gouv.fr/Haute-Garonne"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

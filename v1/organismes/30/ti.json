@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.364141,
+          43.834058
+        ]
+      },
+      "properties": {
+        "codeInsee": "30189",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-30189-01",
+        "idPresta": "4cac9ed7293594648a00ee3c",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Nîmes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 avenue Feuchères",
+          "CodePostal": "30000",
+          "NomCommune": "NIMES",
+          "Localisation": {
+            "Latitude": "43.834058",
+            "Longitude": "4.364141",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 36 39 00",
+          "Télécopie": "+33 4 66 67 76 23",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.094377,
+          44.122417
+        ]
+      },
+      "properties": {
+        "codeInsee": "30007",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-30007-01",
+        "idPresta": "4cac9e6a293594648a0017e0",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Alès",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "3 place Henri Barbusse BP 157"
+          ],
+          "CodePostal": "30107",
+          "NomCommune": "ALES CEDEX",
+          "Localisation": {
+            "Latitude": "44.122417",
+            "Longitude": "4.094377",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 56 27 50",
+          "Télécopie": "+33 4 66 52 70 40",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.421781,
+          44.01251
+        ]
+      },
+      "properties": {
+        "codeInsee": "30334",
+        "dateMiseAJour": "2013-09-30",
+        "id": "ti-30334-01",
+        "idPresta": "4cac9ed7293594648a00ee3d",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Uzès",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place de l'Evéché",
+            "CS 41109"
+          ],
+          "CodePostal": "30701",
+          "NomCommune": "UZES CEDEX",
+          "Localisation": {
+            "Latitude": "44.01251",
+            "Longitude": "4.421781",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 22 12 12",
+          "Télécopie": "+33 4 66 22 98 20",
+          "Email": "mailto:ti-uzes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              },
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            ],
+            "Note": "En période de vacances scolaires : de 8h30 à 12h00  et de 13h30 à 17h00"
+          }
+        }
+      }
+    }
+  ]
+}

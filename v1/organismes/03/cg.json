@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33419394493,
+          46.5689201355
+        ]
+      },
+      "properties": {
+        "id": "cg-03190-01",
+        "codeInsee": "03190",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Allier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "1 avenue Victor-Hugo",
+            "BP 1669"
+          ],
+          "CodePostal": "03016",
+          "NomCommune": "Moulins Cedex",
+          "Localisation": {
+            "Latitude": "46.5689201355",
+            "Longitude": "3.33419394493",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 34 40 03",
+          "Télécopie": "04 70 34 40 40",
+          "Email": "contact@allier.fr",
+          "Url": "http://www.allier.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil fermé à 17h pendant les congés de Noël, de même que pendant les congés d'été (en général du 14 juillet au 20 août, contacter l'accueil pour confirmer les dates)."
+          }
+        }
+      }
+    }
+  ]
+}

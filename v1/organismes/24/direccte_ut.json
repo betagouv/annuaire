@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.717144,
+          45.1823
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-24322-01",
+        "codeInsee": "24322",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Dordogne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de la Cité",
+          "CodePostal": "24016",
+          "NomCommune": "Périgueux Cedex",
+          "Localisation": {
+            "Latitude": "45.1823",
+            "Longitude": "0.717144",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 02 88 00",
+          "Télécopie": "05 53 02 88 59",
+          "Email": "direccte.dordogne@direccte.gouv.fr",
+          "Url": "http://www.nouvelle-aquitaine.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Le service des renseignements juridiques est ouvert uniquement le matin."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Le service des renseignements juridiques est ouvert uniquement le matin."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

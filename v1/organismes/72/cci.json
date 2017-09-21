@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1976856,
+          48.0031032
+        ]
+      },
+      "properties": {
+        "id": "cci-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Le Mans et la Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 boulevard René-Levasseur",
+            "CS 91435"
+          ],
+          "CodePostal": "72002",
+          "NomCommune": "Le Mans Cedex 2",
+          "Localisation": {
+            "Latitude": "48.0031032",
+            "Longitude": "0.1976856",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 21 00 00",
+          "Télécopie": "02 43 21 00 50",
+          "Email": "mgauthier@lemans.cci.fr",
+          "Url": "http://www.lemans.sarthe.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

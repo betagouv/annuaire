@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37970110000003,
+          44.6212375
+        ]
+      },
+      "properties": {
+        "id": "cidf-07019-01",
+        "codeInsee": "07019",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Ardèche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pôle de services d'Aubenas",
+            "Les Oliviers",
+            "30 avenue de Zelzate"
+          ],
+          "CodePostal": "07200",
+          "NomCommune": "Aubenas",
+          "Localisation": {
+            "Latitude": "44.6212375",
+            "Longitude": "4.37970110000003",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 93 31 70",
+          "Télécopie": "04 75 93 41 95",
+          "Email": "cidff07@cidff07.fr",
+          "Url": "http://www.cidff07.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique 9h à 12h30 et de 13h30 à 17h."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil téléphonique de 13h30 à 17h."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Accueil téléphonique de 9h à 12h30."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

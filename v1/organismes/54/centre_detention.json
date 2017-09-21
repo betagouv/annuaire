@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884262,
+          48.659681
+        ]
+      },
+      "properties": {
+        "codeInsee": "54528",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_detention-54528-01",
+        "idPresta": "4eb263252935944ef5000117",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention de Toul",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "804 rue du Maréchal Lyautey",
+            "BP 305"
+          ],
+          "CodePostal": "54201",
+          "NomCommune": "TOUL CEDEX",
+          "Localisation": {
+            "Latitude": "48.659681",
+            "Longitude": "5.884262",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 65 28 08",
+          "Télécopie": "+33 3 83 65 28 17",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.851163,
+          48.681192
+        ]
+      },
+      "properties": {
+        "codeInsee": "54174",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_detention-54174-01",
+        "idPresta": "4eb263082935944ef50000f2",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention d'Ecrouves",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "323 route de Pagney",
+            "BP 311"
+          ],
+          "CodePostal": "54200",
+          "NomCommune": "ECROUVES",
+          "Localisation": {
+            "Latitude": "48.681192",
+            "Longitude": "5.851163",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 65 85 85",
+          "Télécopie": "+33 3 83 64 18 38",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

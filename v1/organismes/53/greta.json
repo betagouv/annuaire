@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7757176,
+          48.0615073
+        ]
+      },
+      "properties": {
+        "id": "greta-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Maine - Antenne de Laval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "80 rue de la Dacterie",
+          "CodePostal": "53000",
+          "NomCommune": "Laval",
+          "Localisation": {
+            "Latitude": "48.0615073",
+            "Longitude": "-0.7757176",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 66 87 23",
+          "Télécopie": "02 43 66 14 04",
+          "Email": "greta.maine@ac-nantes.fr",
+          "Url": "http://www.greta-paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

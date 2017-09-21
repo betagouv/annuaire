@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387924,
+          43.2790868
+        ]
+      },
+      "properties": {
+        "id": "apec-13208-01",
+        "codeInsee": "13208",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "apec",
+        "Nom": "Association pour l'emploi des cadres (Apec) de Marseille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "141-145 avenue du Prado",
+            "BP 352"
+          ],
+          "CodePostal": "13271",
+          "NomCommune": "Marseille Cedex 8",
+          "Localisation": {
+            "Latitude": "43.2790868",
+            "Longitude": "5.387924",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 91 17 73 10",
+          "Email": "act@apec.fr",
+          "Url": "http://www.apec.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7643624,
+          50.2918267
+        ]
+      },
+      "properties": {
+        "id": "ddpp-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue Ferdinand-Buisson",
+            "BP 40019"
+          ],
+          "CodePostal": "62022",
+          "NomCommune": "Arras Cedex",
+          "Localisation": {
+            "Latitude": "50.2918267",
+            "Longitude": "2.7643624",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 21 26 26",
+          "Télécopie": "+33 3 21 21 26 27",
+          "Email": "ddpp@pas-de-calais.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil des consommateurs"
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil des consommateurs"
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil des consommateurs"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

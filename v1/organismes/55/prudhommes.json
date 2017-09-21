@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386604,
+          49.158723
+        ]
+      },
+      "properties": {
+        "codeInsee": "55545",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-55545-01",
+        "idPresta": "4cac9e5f293594648a000292",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Verdun",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 rue Poincaré",
+            "BP 711"
+          ],
+          "CodePostal": "55107",
+          "NomCommune": "VERDUN CEDEX",
+          "Localisation": {
+            "Latitude": "49.158723",
+            "Longitude": "5.386604",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 86 13 84",
+          "Télécopie": "+33 3 29 84 38 37",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1592725,
+          48.7687461
+        ]
+      },
+      "properties": {
+        "codeInsee": "55029",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-55029-01",
+        "idPresta": "4cac9e5f293594648a000291",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bar-le-Duc",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "29 place Saint-Pierre",
+          "CodePostal": "55000",
+          "NomCommune": "BAR LE DUC",
+          "Localisation": {
+            "Latitude": "48.7687461",
+            "Longitude": "5.1592725",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 76 13 09",
+          "Télécopie": "+33 3 29 76 29 01",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

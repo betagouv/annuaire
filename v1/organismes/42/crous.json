@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.39287996292,
+          45.4253997803
+        ]
+      },
+      "properties": {
+        "id": "crous-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Saint-Étienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 rue Tréfilerie",
+          "CodePostal": "42023",
+          "NomCommune": "Saint-Étienne Cedex 2",
+          "Localisation": {
+            "Latitude": "45.4253997803",
+            "Longitude": "4.39287996292",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 81 85 50",
+          "Télécopie": "04 77 81 85 59",
+          "Email": "logclous@crous-lyon.fr",
+          "Url": "http://www.crous-lyon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

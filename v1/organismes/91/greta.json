@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.257078,
+          48.7325208
+        ]
+      },
+      "properties": {
+        "id": "greta-91377-01",
+        "codeInsee": "91377",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Agence de développement de Massy",
+            "9 rue du Docteur-Schaffner"
+          ],
+          "CodePostal": "91300",
+          "NomCommune": "Massy",
+          "Localisation": {
+            "Latitude": "48.7325208",
+            "Longitude": "2.257078",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 90 91 91",
+          "Télécopie": "01 69 53 74 84",
+          "Email": "accueil.massy@greta-essonne.fr",
+          "Url": "http://www.greta-essonne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4605384,
+          48.612295
+        ]
+      },
+      "properties": {
+        "id": "greta-91174-01",
+        "codeInsee": "91174",
+        "dateMiseAJour": "2014-12-04",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Est-Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Robert-Doisneau",
+            "95, boulevard Jean-Jaurès"
+          ],
+          "CodePostal": "91107",
+          "NomCommune": "Corbeil-Essonnes Cedex",
+          "Localisation": {
+            "Latitude": "48.612295",
+            "Longitude": "2.4605384",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 64 90 91 91",
+          "Télécopie": "+33 1 60 88 14 23",
+          "Email": "greta.essonne@ac-versailles.fr",
+          "Url": "http://www.greta-essonne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

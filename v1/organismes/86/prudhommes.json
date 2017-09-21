@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.344064,
+          46.587179
+        ]
+      },
+      "properties": {
+        "codeInsee": "86194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-86194-01",
+        "idPresta": "4cac9e60293594648a00035e",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Poitiers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15 rue Guillaume Troubadour",
+            "Lotissement de l'Hôtel Dieu"
+          ],
+          "CodePostal": "86000",
+          "NomCommune": "POITIERS",
+          "Localisation": {
+            "Latitude": "46.587179",
+            "Longitude": "0.344064",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 41 18 85",
+          "Télécopie": "+33 5 49 41 31 43",
+          "Url": "http://www.prudhomme.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

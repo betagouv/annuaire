@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.70024991035,
+          43.4100990295
+        ]
+      },
+      "properties": {
+        "id": "dml-34301-02",
+        "codeInsee": "34301",
+        "dateMiseAJour": "2017-03-27",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Hérault",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue Hoche",
+            "BP 472"
+          ],
+          "CodePostal": "34207",
+          "NomCommune": "Sète Cedex",
+          "Localisation": {
+            "Latitude": "43.4100990295",
+            "Longitude": "3.70024991035",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 34 46 63 16",
+          "Télécopie": "04 34 46 63 18",
+          "Url": "http://www.affaires-maritimes.mediterranee.equipement.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

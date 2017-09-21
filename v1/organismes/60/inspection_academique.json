@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0779644,
+          49.4360212
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22 avenue Victor-Hugo",
+          "CodePostal": "60025",
+          "NomCommune": "Beauvais Cedex",
+          "Localisation": {
+            "Latitude": "49.4360212",
+            "Longitude": "2.0779644",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 06 45 00",
+          "Télécopie": "04 44 48 67 25",
+          "Email": "ce.ia60@ac-amiens.fr",
+          "Url": "http://ia60.ac-amiens.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

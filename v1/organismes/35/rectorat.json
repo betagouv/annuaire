@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67422950268,
+          48.11952623
+        ]
+      },
+      "properties": {
+        "id": "rectorat-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Rennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "96 rue d'Antrain",
+            "CS 10503"
+          ],
+          "CodePostal": "35705",
+          "NomCommune": "Rennes Cedex 7",
+          "Localisation": {
+            "Latitude": "48.11952623",
+            "Longitude": "-1.67422950268",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 23 21 77 77",
+          "Télécopie": "02 23 21 73 05",
+          "Email": "ce.rectorat@ac-rennes.fr",
+          "Url": "http://www.ac-rennes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

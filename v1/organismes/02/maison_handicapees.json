@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.59338998795,
+          49.5800018311
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Route de Besny",
+          "CodePostal": "02000",
+          "NomCommune": "Laon",
+          "Localisation": {
+            "Latitude": "49.5800018311",
+            "Longitude": "3.59338998795",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 24 89 89",
+          "Télécopie": "03 23 24 89 65",
+          "Email": "mdph@aisne.fr",
+          "Url": "http://www.mdph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

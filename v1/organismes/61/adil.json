@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0930059999228,
+          48.4337005615
+        ]
+      },
+      "properties": {
+        "id": "adil-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "88 rue Saint-Blaise",
+          "CodePostal": "61000",
+          "NomCommune": "Alençon",
+          "Localisation": {
+            "Latitude": "48.4337005615",
+            "Longitude": "0.0930059999228",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 32 94 76",
+          "Télécopie": "02 33 32 99 00",
+          "Email": "adil61@wanadoo.fr",
+          "Url": "http://www.adil61.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

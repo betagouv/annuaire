@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.89098000526,
+          42.6969985962
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Perpignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 boulevard du conflent",
+          "CodePostal": "66000",
+          "NomCommune": "Perpignan",
+          "Localisation": {
+            "Latitude": "42.6969985962",
+            "Longitude": "2.89098000526",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 34 26 61",
+          "Télécopie": "04 68 34 62 90",
+          "Email": "mission.locale.jeunes@mlj66.org",
+          "Url": "http://www.mlj66.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "13:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.748826,
+          42.485952
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-66049-01",
+        "codeInsee": "66049",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Céret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 boulevard Simon-Battle",
+          "CodePostal": "66400",
+          "NomCommune": "Céret",
+          "Localisation": {
+            "Latitude": "42.485952",
+            "Longitude": "2.748826",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 87 32 02",
+          "Télécopie": "04 68 87 60 56",
+          "Email": "antenne.ceret@mlj66.org",
+          "Url": "http://www.mlj66.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43423008919,
+          42.6208000183
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-66149-01",
+        "codeInsee": "66149",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale jeune des Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bâtiment Chefdebien",
+            "Boulevard de la Gare"
+          ],
+          "CodePostal": "66500",
+          "NomCommune": "Prades",
+          "Localisation": {
+            "Latitude": "42.6208000183",
+            "Longitude": "2.43423008919",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 96 56 90",
+          "Télécopie": "04 68 96 56 91",
+          "Email": "antenne.prades@mlj66.org",
+          "Url": "http://www.mlj66.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

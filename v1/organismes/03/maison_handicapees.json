@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35387396812,
+          46.5661392212
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-03321-01",
+        "codeInsee": "03321",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Allier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Château de Bellevue",
+              "Rue Aristide-Briand"
+            ],
+            "CodePostal": "03400",
+            "NomCommune": "Yzeure",
+            "Localisation": {
+              "Latitude": "46.5661392212",
+              "Longitude": "3.35387396812",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Château de Bellevue",
+              "BP 1669"
+            ],
+            "CodePostal": "03016",
+            "NomCommune": "Moulins Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 34 15 25",
+          "Télécopie": "04 70 34 15 26",
+          "Email": "contact.mdph03@allier.fr",
+          "Url": "http://www.mdph03.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

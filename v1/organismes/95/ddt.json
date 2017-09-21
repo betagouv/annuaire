@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0783,
+          49.0342321
+        ]
+      },
+      "properties": {
+        "id": "ddt-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture du Val-d'Oise",
+            "5, avenue Bernard-Hirsch"
+          ],
+          "CodePostal": "95010",
+          "NomCommune": "Cergy-Pontoise Cedex",
+          "Localisation": {
+            "Latitude": "49.0342321",
+            "Longitude": "2.0783",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 34 25 25 00",
+          "Télécopie": "+33 1 34 25 26 87",
+          "Email": "ddt-directeur@val-doise.gouv.fr",
+          "Url": "http://www.val-doise.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

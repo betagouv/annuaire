@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5442924,
+          47.2083636
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-44109-02",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Loire-Atlantique (baux commerciaux)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la protection des populations",
+            "10, boulevard Gaston-Doumergue",
+            "BP 76315"
+          ],
+          "CodePostal": "44263",
+          "NomCommune": "Nantes Cedex 2",
+          "Localisation": {
+            "Latitude": "47.2083636",
+            "Longitude": "-1.5442924",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 40 08 82 31",
+          "Télécopie": "+33 2 40 08 80 66",
+          "Email": "ddpp-ccrs@loire-atlantique.gouv.fr",
+          "Url": "http://www.loire-atlantique.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5382151,
+          47.2067345
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "9, rue René-Viviani",
+            "CS 86227"
+          ],
+          "CodePostal": "44262",
+          "NomCommune": "Nantes Cedex 2",
+          "Localisation": {
+            "Latitude": "47.2067345",
+            "Longitude": "-1.5382151",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 40 12 81 56",
+          "Télécopie": "+33 2 40 12 82 25",
+          "Url": "http://www.loire-atlantique.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

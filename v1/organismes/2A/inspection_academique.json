@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72653007507,
+          41.9142990112
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Boulevard Pugliesi-Conti",
+            "BP 832"
+          ],
+          "CodePostal": "20192",
+          "NomCommune": "Ajaccio Cedex 4",
+          "Localisation": {
+            "Latitude": "41.9142990112",
+            "Longitude": "8.72653007507",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 51 59 51",
+          "Télécopie": "04 95 51 13 09",
+          "Email": "ce.ia2a@ac-corse.fr",
+          "Url": "http://web.ac-corse.fria2a"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

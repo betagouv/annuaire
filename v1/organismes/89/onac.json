@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.568498,
+          47.7999964
+        ]
+      },
+      "properties": {
+        "id": "onac-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "136 rue de Paris",
+          "CodePostal": "89000",
+          "NomCommune": "Auxerre",
+          "Localisation": {
+            "Latitude": "47.7999964",
+            "Longitude": "3.568498",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 94 24 74",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:89/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique uniquement le matin de 9h à 12h."
+          }
+        }
+      }
+    }
+  ]
+}

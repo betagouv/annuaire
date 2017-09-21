@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226781,
+          43.335765
+        ]
+      },
+      "properties": {
+        "codeInsee": "34032",
+        "dateMiseAJour": "2016-06-24",
+        "id": "tgi-34032-01",
+        "idPresta": "4cac9e61293594648a000573",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Béziers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "93 avenue du président Wilson",
+          "CodePostal": "34500",
+          "NomCommune": "BEZIERS",
+          "Localisation": {
+            "Latitude": "43.335765",
+            "Longitude": "3.226781",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 17 34 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.868906,
+          43.6104379
+        ]
+      },
+      "properties": {
+        "codeInsee": "34172",
+        "dateMiseAJour": "2014-06-16",
+        "id": "tgi-34172-01",
+        "idPresta": "4cac9e61293594648a000574",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Montpellier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Pierre Flotte",
+          "CodePostal": "34040",
+          "NomCommune": "MONTPELLIER CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.6104379",
+            "Longitude": "3.868906",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 12 60 00",
+          "Télécopie": "+33 4 67 12 63 91",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

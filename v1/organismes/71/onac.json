@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8395198,
+          46.3130705
+        ]
+      },
+      "properties": {
+        "id": "onac-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "24 boulevard Henri-Dunant"
+          ],
+          "CodePostal": "71025",
+          "NomCommune": "Mâcon Cedex",
+          "Localisation": {
+            "Latitude": "46.3130705",
+            "Longitude": "4.8395198",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 22 56 40",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:71/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

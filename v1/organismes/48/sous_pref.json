@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5941752,
+          44.324745
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-48061-01",
+        "codeInsee": "48061",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Florac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14, avenue Marceau-Farelle",
+          "CodePostal": "48400",
+          "NomCommune": "Florac",
+          "Localisation": {
+            "Latitude": "44.324745",
+            "Longitude": "3.5941752",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 65 62 80",
+          "Télécopie": "+33 4 66 65 62 81",
+          "Email": "sp-florac@lozere.gouv.fr",
+          "Url": "http://www.lozere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

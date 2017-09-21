@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.14405,
+          42.9864603
+        ]
+      },
+      "properties": {
+        "codeInsee": "09261",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-09261-01",
+        "idPresta": "4cac9e6a293594648a0017d1",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Saint-Girons",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Château Vicomtes du Couserans",
+            "rue Renée Dejean BP 70 112"
+          ],
+          "CodePostal": "09201",
+          "NomCommune": "ST GIRONS CEDEX",
+          "Localisation": {
+            "Latitude": "42.9864603",
+            "Longitude": "1.14405",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 66 01 34",
+          "Télécopie": "+33 5 61 66 61 82",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.612416,
+          42.952656
+        ]
+      },
+      "properties": {
+        "codeInsee": "09122",
+        "dateMiseAJour": "2015-10-16",
+        "id": "ti-09122-01",
+        "idPresta": "4cac9e61293594648a000615",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Foix",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 boulevard du Sud",
+            "BP 50078"
+          ],
+          "CodePostal": "09008",
+          "NomCommune": "FOIX CEDEX",
+          "Localisation": {
+            "Latitude": "42.952656",
+            "Longitude": "1.612416",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 81 29 11 65",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

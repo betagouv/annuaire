@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7553477,
+          48.0639184
+        ]
+      },
+      "properties": {
+        "id": "anah-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Rue Mac-Donald",
+            "BP 23009"
+          ],
+          "CodePostal": "53063",
+          "NomCommune": "Laval Cedex 9",
+          "Localisation": {
+            "Latitude": "48.0639184",
+            "Longitude": "-0.7553477",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 67 88 47",
+          "Télécopie": "02 43 56 98 84",
+          "Email": "ddt-anah@mayenne.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

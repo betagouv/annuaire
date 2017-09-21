@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8842344,
+          44.9103821
+        ]
+      },
+      "properties": {
+        "id": "cicas-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cicas",
+        "Nom": "Centre d'information de conseil et d'accueil des salariés (Cicas) - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Sud",
+            "Bâtiment B",
+            "497 avenue Victor-Hugo",
+            "CS 5043"
+          ],
+          "CodePostal": "26004",
+          "NomCommune": "Valence Cedex",
+          "Localisation": {
+            "Latitude": "44.9103821",
+            "Longitude": "4.8842344",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 20 01 89"
+          },
+          "Url": "https://www.agirc-arrco.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

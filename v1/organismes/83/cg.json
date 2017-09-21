@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93678,
+          43.128726
+        ]
+      },
+      "properties": {
+        "id": "cg-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "390 avenue des Lices",
+            "CS 41303"
+          ],
+          "CodePostal": "83076",
+          "NomCommune": "Toulon Cedex",
+          "Localisation": {
+            "Latitude": "43.128726",
+            "Longitude": "5.93678",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 83 95 00 00",
+          "Télécopie": "04 83 95 03 95",
+          "Email": "contact@var.fr",
+          "Url": "http://www.var.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

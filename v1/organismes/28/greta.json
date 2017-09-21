@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4735645,
+          48.4586432
+        ]
+      },
+      "properties": {
+        "id": "greta-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Eure-et-Loir",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue du Commandant-Chesne",
+          "CodePostal": "28000",
+          "NomCommune": "Chartres",
+          "Localisation": {
+            "Latitude": "48.4586432",
+            "Longitude": "1.4735645",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 18 78 35",
+          "Télécopie": "02 37 18 66 38",
+          "Email": "greta28@ac-orleans-tours.fr",
+          "Url": "http://www.greta28.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

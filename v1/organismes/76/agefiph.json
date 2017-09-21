@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0808377,
+          49.4297363
+        ]
+      },
+      "properties": {
+        "id": "agefiph-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Normandie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Saint-Sever",
+            "Immeuble Les Galées Du Roi",
+            "30 Rue Henri-Gadeau-de-Kerville",
+            "5e étage"
+          ],
+          "CodePostal": "76107",
+          "NomCommune": "Rouen Cedex 1",
+          "Localisation": {
+            "Latitude": "49.4297363",
+            "Longitude": "1.0808377",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "02 32 81 94 81",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

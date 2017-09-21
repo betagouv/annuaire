@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4309592,
+          48.6297484
+        ]
+      },
+      "properties": {
+        "codeInsee": "91228",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-91228-01",
+        "idPresta": "4cac9e6a293594648a0017bd",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Evry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue des Mazières",
+          "CodePostal": "91012",
+          "NomCommune": "EVRY CEDEX",
+          "Localisation": {
+            "Latitude": "48.6297484",
+            "Longitude": "2.4309592",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 60 76 78 00",
+          "Télécopie": "+33 1 60 79 30 03",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

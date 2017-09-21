@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.939245,
+          49.249284
+        ]
+      },
+      "properties": {
+        "codeInsee": "54099",
+        "dateMiseAJour": "2017-05-24",
+        "id": "tgi-54099-01",
+        "idPresta": "4cac9e61293594648a00059e",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Val de Briey",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue du Maréchal Foch",
+            "CS 20139"
+          ],
+          "CodePostal": "54151",
+          "NomCommune": "BRIEY CEDEX",
+          "Localisation": {
+            "Latitude": "49.249284",
+            "Longitude": "5.939245",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 82 47 56 00",
+          "Télécopie": "+33 3 82 47 56 30",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1757727,
+          48.6776425
+        ]
+      },
+      "properties": {
+        "codeInsee": "54395",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-54395-01",
+        "idPresta": "4cac9e6a293594648a0017a8",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Nancy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "rue du Général Fabvier"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "NANCY CEDEX",
+          "Localisation": {
+            "Latitude": "48.6776425",
+            "Longitude": "6.1757727",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 90 85 00",
+          "Télécopie": "+33 3 83 27 49 84",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              },
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            ],
+            "Note": "Congés scolaires : ouverture de 8h30 à 12h et de 13h à 16h.\nLe tribunal est accessible aux personnes handicapées."
+          }
+        }
+      }
+    }
+  ]
+}

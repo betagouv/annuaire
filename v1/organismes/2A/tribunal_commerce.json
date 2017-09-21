@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.744415,
+          41.936088
+        ]
+      },
+      "properties": {
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2015-10-09",
+        "id": "tribunal_commerce-2A004-01",
+        "idPresta": "4eb262982935944ef50000c3",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce d'Ajaccio",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais du Finosello",
+            "Av. Maréchal Lyautey CS 20983"
+          ],
+          "CodePostal": "20700",
+          "NomCommune": "AJACCIO CEDEX 9",
+          "Localisation": {
+            "Latitude": "41.936088",
+            "Longitude": "8.744415",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 23 17 82",
+          "Télécopie": "+33 4 95 20 75 93",
+          "Url": "http://www.greffe-tc-ajaccio.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0487341,
+          47.327568
+        ]
+      },
+      "properties": {
+        "id": "urssaf-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Bourgogne-Franche-Comté - siège social - site de Dijon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 boulevard Clemenceau",
+          "CodePostal": "21037",
+          "NomCommune": "Dijon Cedex 9",
+          "Localisation": {
+            "Latitude": "47.327568",
+            "Longitude": "5.0487341",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.bourgogne.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil l'après-midi sur rendez-vous en écrivant sur www.contact.urssaf.fr. Accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

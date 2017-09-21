@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.163557,
+          48.683651
+        ]
+      },
+      "properties": {
+        "id": "ddt-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2016-04-06",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Meurthe-et-Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place des Ducs-de-Bar",
+            "CO 60025"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "Nancy Cedex",
+          "Localisation": {
+            "Latitude": "48.683651",
+            "Longitude": "6.163557",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "code d'accès à demander par téléphone pour accéder à l'ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 91 40 00",
+          "Télécopie": "+33 3 83 28 04 23",
+          "Email": "ddt@meurthe-et-moselle.gouv.fr",
+          "Url": "http://www.meurthe-et-moselle.gouv.fr/Services-de-l-Etat"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

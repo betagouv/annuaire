@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2404992,
+          46.1970608
+        ]
+      },
+      "properties": {
+        "codeInsee": "74012",
+        "dateMiseAJour": "2016-01-15",
+        "id": "mjd-74012-01",
+        "idPresta": "51b08c9bb473e41478000519",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  d'Annemasse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue du Levant",
+          "CodePostal": "74102",
+          "NomCommune": "ANNEMASSE CEDEX",
+          "Localisation": {
+            "Latitude": "46.1970608",
+            "Longitude": "6.2404992",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 84 06 70",
+          "Télécopie": "+33 4 50 84 06 71",
+          "Email": "mailto:mjd-annemasse@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.086394,
+          46.148422
+        ]
+      },
+      "properties": {
+        "codeInsee": "74243",
+        "dateMiseAJour": "2017-02-17",
+        "id": "mjd-74243-01",
+        "idPresta": "51b08cd0b473e414780010ba",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Saint Julien en Genevois",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Galien",
+            "26 avenue de Genève"
+          ],
+          "CodePostal": "74160",
+          "NomCommune": "ST JULIEN EN GENEVOIS",
+          "Localisation": {
+            "Latitude": "46.148422",
+            "Longitude": "6.086394",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 74 86 86",
+          "Télécopie": "+33 4 50 36 40 32",
+          "Email": "mailto:mjd.st-julien-en-genevois@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

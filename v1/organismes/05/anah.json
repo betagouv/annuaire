@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.086272,
+          44.5645853
+        ]
+      },
+      "properties": {
+        "id": "anah-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Hautes-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 place Champsaur",
+            "BP 50026"
+          ],
+          "CodePostal": "05001",
+          "NomCommune": "Gap Cedex",
+          "Localisation": {
+            "Latitude": "44.5645853",
+            "Longitude": "6.086272",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 40 36 53",
+          "Télécopie": "04 92 40 35 83",
+          "Email": "ddt-sas-ad@hautes-alpes.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

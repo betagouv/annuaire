@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3672637,
+          47.7505991
+        ]
+      },
+      "properties": {
+        "codeInsee": "56121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-56121-01",
+        "idPresta": "4cac9ed7293594648a00edc7",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Lorient",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue Maître Esvelin",
+            "Porte B"
+          ],
+          "CodePostal": "56325",
+          "NomCommune": "LORIENT CEDEX",
+          "Localisation": {
+            "Latitude": "47.7505991",
+            "Longitude": "-3.3672637",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 84 12 81",
+          "Télécopie": "+33 2 97 84 84 72",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.761394,
+          47.656336
+        ]
+      },
+      "properties": {
+        "codeInsee": "56260",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-56260-01",
+        "idPresta": "4cac9ed7293594648a00edc8",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Vannes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 place de la République",
+            "BP 503"
+          ],
+          "CodePostal": "56019",
+          "NomCommune": "VANNES CEDEX",
+          "Localisation": {
+            "Latitude": "47.656336",
+            "Longitude": "-2.761394",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 43 77 09",
+          "Télécopie": "+33 2 97 42 53 16",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

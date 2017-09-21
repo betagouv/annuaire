@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3127578,
+          49.8894457
+        ]
+      },
+      "properties": {
+        "id": "cidf-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "50 rue Riolan",
+          "CodePostal": "80000",
+          "NomCommune": "Amiens",
+          "Localisation": {
+            "Latitude": "49.8894457",
+            "Longitude": "2.3127578",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 22 01 94",
+          "Télécopie": "03 22 22 01 95",
+          "Email": "cidf80@wanadoo.fr",
+          "Url": "http://www.cidff-somme.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

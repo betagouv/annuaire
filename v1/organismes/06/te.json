@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270946,
+          43.709165
+        ]
+      },
+      "properties": {
+        "codeInsee": "06088",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-06088-01",
+        "idPresta": "4cac9e6a293594648a001760",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Nice",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 place du Palais Palais Rusca",
+          "CodePostal": "06357",
+          "NomCommune": "NICE CEDEX 4",
+          "Localisation": {
+            "Latitude": "43.709165",
+            "Longitude": "7.270946",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 17 30 00",
+          "Télécopie": "+33 4 93 62 08 67",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.928526,
+          43.656694
+        ]
+      },
+      "properties": {
+        "codeInsee": "06069",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-06069-01",
+        "idPresta": "4cac9e6a293594648a00175f",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Grasse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "37 avenue Pierre Semard",
+            "BP 71029"
+          ],
+          "CodePostal": "06133",
+          "NomCommune": "GRASSE CEDEX",
+          "Localisation": {
+            "Latitude": "43.656694",
+            "Longitude": "6.928526",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 60 72 85",
+          "Télécopie": "+33 4 92 60 72 90",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

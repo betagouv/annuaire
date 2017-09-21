@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1496217,
+          43.9276907
+        ]
+      },
+      "properties": {
+        "id": "fdc-81004-01",
+        "codeInsee": "81004",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Chemin du Séminaire-du-Roc",
+          "CodePostal": "81012",
+          "NomCommune": "Albi Cedex 9",
+          "Localisation": {
+            "Latitude": "43.9276907",
+            "Longitude": "2.1496217",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 49 19 00",
+          "Télécopie": "05 63 47 14 78",
+          "Email": "fdc81@chasseurdefrance.com",
+          "Url": "http://www.chasse-nature-midipyrenees.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

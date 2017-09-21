@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8814043,
+          45.0407876
+        ]
+      },
+      "properties": {
+        "id": "crib-43157-01",
+        "codeInsee": "43157",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de Haute-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue de la Ronzade",
+          "CodePostal": "43000",
+          "NomCommune": "Le Puy-en-Velay",
+          "Localisation": {
+            "Latitude": "45.0407876",
+            "Longitude": "3.8814043",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 02 45 01",
+          "Télécopie": "04 71 02 49 30",
+          "Email": "cdos43@wanadoo.fr",
+          "Url": "http://www.hauteloire.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

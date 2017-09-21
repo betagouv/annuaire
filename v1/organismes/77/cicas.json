@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6607973,
+          48.5382307
+        ]
+      },
+      "properties": {
+        "id": "cicas-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cicas",
+        "Nom": "Centre d'information de conseil et d'accueil des salariés (Cicas) - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12-14 rue Eugene-Briais",
+          "CodePostal": "77000",
+          "NomCommune": "Melun",
+          "Localisation": {
+            "Latitude": "48.5382307",
+            "Longitude": "2.6607973",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 20 01 89"
+          },
+          "Url": "https://www.agirc-arrco.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1211102,
+          48.8045807
+        ]
+      },
+      "properties": {
+        "id": "bsn-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2015-12-15",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Versailles (78, 91, 92, 95)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Caserne d'Artois",
+              "9 rue Édouard-Lefèbvre"
+            ],
+            "CodePostal": "78000",
+            "NomCommune": "Versailles",
+            "Localisation": {
+              "Latitude": "48.8045807",
+              "Longitude": "2.1211102",
+              "Précision": "9"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Établissement du Service National Île-de-France",
+              "CS 10702"
+            ],
+            "CodePostal": "78013",
+            "NomCommune": "Versailles Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 30 97 52 52",
+          "Email": "dsn-esnidf-csn-versailles.jdc.fct@intradef.gouv.fr",
+          "Url": "http://www.defense.gouv.fr/jdc",
+          "Sve": "http://www.defense.gouv.fr/portail-defense/rubriques-complementaires/contact"
+        },
+        "Commentaire": "Le Centre du service national de Versailles ne reçoit plus du public."
+      }
+    }
+  ]
+}

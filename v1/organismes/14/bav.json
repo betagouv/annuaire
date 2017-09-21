@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.225841,
+          49.146682
+        ]
+      },
+      "properties": {
+        "codeInsee": "14366",
+        "dateMiseAJour": "2013-02-01",
+        "id": "bav-14366-01",
+        "idPresta": "51b08c95b473e414780003bd",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Lisieux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cour Matignon",
+            "CS 47227"
+          ],
+          "CodePostal": "14107",
+          "NomCommune": "LISIEUX CEDEX",
+          "Localisation": {
+            "Latitude": "49.146682",
+            "Longitude": "0.225841",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 31 48 53 60",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37062,
+          49.181945
+        ]
+      },
+      "properties": {
+        "codeInsee": "14118",
+        "dateMiseAJour": "2016-01-15",
+        "id": "bav-14118-01",
+        "idPresta": "51b08c88b473e414780000f0",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Caen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue Dumont d'Urville",
+            "CS 45257"
+          ],
+          "CodePostal": "14052",
+          "NomCommune": "CAEN CEDEX 4",
+          "Localisation": {
+            "Latitude": "49.181945",
+            "Longitude": "-0.37062",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 50 01 12 00",
+          "Télécopie": "+33 2 50 01 12 21",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

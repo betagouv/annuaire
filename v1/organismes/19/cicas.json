@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5353453,
+          45.1596697
+        ]
+      },
+      "properties": {
+        "id": "cicas-19031-01",
+        "codeInsee": "19031",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cicas",
+        "Nom": "Centre d'information de conseil et d'accueil des salariés (Cicas) - Corrèze",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 boulevard du Salan",
+          "CodePostal": "19100",
+          "NomCommune": "Brive-la-Gaillarde",
+          "Localisation": {
+            "Latitude": "45.1596697",
+            "Longitude": "1.5353453",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 20 01 89"
+          },
+          "Url": "https://www.agirc-arrco.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.44642996788,
+          44.9289016724
+        ]
+      },
+      "properties": {
+        "id": "onac-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des affaires sociales",
+            "Rue de l'Olmet",
+            "BP 10726"
+          ],
+          "CodePostal": "15007",
+          "NomCommune": "Aurillac Cedex",
+          "Localisation": {
+            "Latitude": "44.9289016724",
+            "Longitude": "2.44642996788",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 46 83 90",
+          "Email": "dir.sd15@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:15/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

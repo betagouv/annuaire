@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78585,
+          43.828906
+        ]
+      },
+      "properties": {
+        "id": "clic-04112-01",
+        "codeInsee": "04112",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Manosque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination COOMAID du pays de Haute-Provence",
+            "Maison de retraite Saint-André",
+            "45 avenue Jean-Giono"
+          ],
+          "CodePostal": "04100",
+          "NomCommune": "Manosque",
+          "Localisation": {
+            "Latitude": "43.828906",
+            "Longitude": "5.78585",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 77 49 54",
+          "Télécopie": "04 92 77 49 54",
+          "Email": "asso.coomaid@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Accueil ouvert l'après-midi uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.945396,
+          44.182842
+        ]
+      },
+      "properties": {
+        "id": "clic-04209-01",
+        "codeInsee": "04209",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Sisteron",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination - Val-de-Durance",
+            "2 avenue du Stade"
+          ],
+          "CodePostal": "04200",
+          "NomCommune": "Sisteron",
+          "Localisation": {
+            "Latitude": "44.182842",
+            "Longitude": "5.945396",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 61 53 57",
+          "Télécopie": "04 92 35 14 61",
+          "Email": "clicvaldedurance@lesmutuellesdusoleil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

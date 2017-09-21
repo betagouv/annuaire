@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.520787,
+          48.8986128
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-93062-01",
+        "codeInsee": "93062",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations du Raincy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "57 avenue Thiers",
+            "Sous-préfecture de Raincy",
+            "Bureau de la réglementation de la prévention et des affaires locatives",
+            "Bureau des associations"
+          ],
+          "CodePostal": "93344",
+          "NomCommune": "Le Raincy Cedex",
+          "Localisation": {
+            "Latitude": "48.8986128",
+            "Longitude": "2.520787",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 43 01 47 36",
+          "Télécopie": "+33 1 43 04 47 30",
+          "Email": "sp-le-raincy-associations@seine-saint-denis.gouv.fr",
+          "Url": "http://www.seine-saint-denis.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Uniquement sur rendez-vous, permanence téléphonique de 14h à 16h."
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Uniquement sur rendez-vous, permanence téléphonique de 14h à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4765328,
+          48.9108232
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Bobigny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture de la Seine-Saint-Denis",
+            "Direction de la réglementation",
+            "Bureau des associations et des élections",
+            "Bâtiment Malraux"
+          ],
+          "CodePostal": "93007",
+          "NomCommune": "Bobigny Cedex",
+          "Localisation": {
+            "Latitude": "48.9108232",
+            "Longitude": "2.4765328",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 41 60 64 32",
+          "Télécopie": "+33 1 41 60 64 46",
+          "Email": "pref-associations@seine-saint-denis.gouv.fr",
+          "Url": "http://www.seine-saint-denis.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:15:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:15:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous. Permanence téléphonique le jeudi et le vendredi de 14h à 16h au 01 41 60 64 32."
+          }
+        }
+      }
+    }
+  ]
+}

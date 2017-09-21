@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3965788,
+          47.082892
+        ]
+      },
+      "properties": {
+        "id": "anah-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 place de la Pyrotechnie",
+            "CS 20001"
+          ],
+          "CodePostal": "18019",
+          "NomCommune": "Bourges Cedex",
+          "Localisation": {
+            "Latitude": "47.082892",
+            "Longitude": "2.3965788",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 15 15 15"
+          },
+          "Télécopie": "02 34 34 63 02",
+          "Email": "ddt-shbc-balphi@cher.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous le lundi. Accueil téléphonique du lundi au vendredi de 9h à 11h30."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "10:45:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil sans rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

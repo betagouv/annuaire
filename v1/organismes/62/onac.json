@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77009010315,
+          50.2909011841
+        ]
+      },
+      "properties": {
+        "id": "onac-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue du Général-Barbot",
+          "CodePostal": "62000",
+          "NomCommune": "Arras",
+          "Localisation": {
+            "Latitude": "50.2909011841",
+            "Longitude": "2.77009010315",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 71 58 26",
+          "Email": "sd62@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:62/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

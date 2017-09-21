@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17271995544,
+          49.1118011475
+        ]
+      },
+      "properties": {
+        "id": "cci-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10-12 avenue Foch",
+            "BP 70330"
+          ],
+          "CodePostal": "57016",
+          "NomCommune": "Metz Cedex 1",
+          "Localisation": {
+            "Latitude": "49.1118011475",
+            "Longitude": "6.17271995544",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 87 52 31 00",
+          "Télécopie": "03 87 52 31 99",
+          "Email": "accueil-info@moselle.cci.fr",
+          "Url": "http://www.moselle.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

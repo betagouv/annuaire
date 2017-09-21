@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.31580603123,
+          47.9717597961
+        ]
+      },
+      "properties": {
+        "id": "28103-03",
+        "codeInsee": "28103",
+        "dateMiseAJour": "2017-03-28",
+        "pivotLocal": "",
+        "Nom": "Mairie déléguée de Charray",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Charray",
+            "9 rue de la Mairie"
+          ],
+          "CodePostal": "28220",
+          "NomCommune": "Cloyes-les-Trois-Rivières",
+          "Localisation": {
+            "Latitude": "47.9717597961",
+            "Longitude": "1.31580603123",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 44 19 06",
+          "Email": "mairie.charray@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Le 1er janvier 2017, la commune nouvelle de Cloyes-les-Trois-Rivières est créée en lieu et place des communes d'Autheuil, de Charray, de Cloyes-sur-le-Loir, de Douy, de La Ferté-Villeneuil, du Mée, de Montigny-le-Gannelon, de Romilly-sur-Aigre et de Saint-Hilaire-sur-Yerre (canton de Brou, arrondissement de Châteaudun)"
+      }
+    }
+  ]
+}

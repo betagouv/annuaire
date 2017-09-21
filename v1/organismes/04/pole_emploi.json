@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2431898,
+          44.0912009
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi de Digne-les-Bains",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "53 bis avenue du 8-Mai-1945",
+          "CodePostal": "04000",
+          "NomCommune": "Digne-les-Bains",
+          "Localisation": {
+            "Latitude": "44.0912009",
+            "Longitude": "6.2431898",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service gratuit + prix appel (depuis l’étranger composez le +33 1 77 86 39 49) ; Employeur : 3995 (depuis l'étranger composez le +33 1 77 86 39 95).",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7994814,
+          43.8229364
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-04112-01",
+        "codeInsee": "04112",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi de Manosque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "260 avenue Blaise-Pascal",
+          "CodePostal": "04100",
+          "NomCommune": "Manosque",
+          "Localisation": {
+            "Latitude": "43.8229364",
+            "Longitude": "5.7994814",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service gratuit + prix appel (depuis l’étranger composez le +33 1 77 86 39 49) ; Employeur : 3995 (depuis l'étranger composez le +33 1 77 86 39 95).",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

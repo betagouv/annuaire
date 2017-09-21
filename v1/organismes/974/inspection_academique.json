@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48146,
+          46.6892
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-97411-01",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2012-10-12",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale, ex-Inspection académique - Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "24 avenue Georges Brassens - Le Moufia",
+          "CodePostal": "97702",
+          "NomCommune": "ST DENIS CEDEX 9",
+          "Localisation": {
+            "Latitude": "46.6892",
+            "Longitude": "2.48146",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 48 10 10",
+          "Télécopie": "+262 2 62 48 12 97",
+          "Url": "http://www.ac-reunion.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "07:45:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "07:45:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:45:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

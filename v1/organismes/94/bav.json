@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4423209,
+          48.7836024
+        ]
+      },
+      "properties": {
+        "codeInsee": "94028",
+        "dateMiseAJour": "2012-09-04",
+        "id": "bav-94028-01",
+        "idPresta": "4d5e64df2935941fe9000040",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Créteil",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue pasteur Valléry Radot",
+          "CodePostal": "94011",
+          "NomCommune": "CRETEIL CEDEX",
+          "Localisation": {
+            "Latitude": "48.7836024",
+            "Longitude": "2.4423209",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 800 17 18 05",
+          "Télécopie": "+33 1 48 99 07 39",
+          "Email": "mailto:victimes@sajir.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

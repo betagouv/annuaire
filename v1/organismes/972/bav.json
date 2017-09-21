@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0678656,
+          14.6072147
+        ]
+      },
+      "properties": {
+        "codeInsee": "97209",
+        "dateMiseAJour": "2012-06-21",
+        "id": "bav-97209-01",
+        "idPresta": "4d5e67b02935941fe9000046",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Fort de France",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "35 boulevard du général de Gaulle",
+            "BP 633"
+          ],
+          "CodePostal": "97200",
+          "NomCommune": "FORT DE FRANCE",
+          "Localisation": {
+            "Latitude": "14.6072147",
+            "Longitude": "-61.0678656",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 96 48 41 41",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "Permanences lors des audiences de comparution immédiate"
+          }
+        }
+      }
+    }
+  ]
+}

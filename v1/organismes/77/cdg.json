@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62383008003,
+          48.5386009216
+        ]
+      },
+      "properties": {
+        "id": "cdg-77285-01",
+        "codeInsee": "77285",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 Points-de-Vue",
+            "CS 40056"
+          ],
+          "CodePostal": "77564",
+          "NomCommune": "Lieusaint Cedex",
+          "Localisation": {
+            "Latitude": "48.5386009216",
+            "Longitude": "2.62383008003",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 14 17 00",
+          "Télécopie": "01 64 14 17 50",
+          "Email": "cdg77@cdg77.fr",
+          "Url": "http://www.cdg77.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

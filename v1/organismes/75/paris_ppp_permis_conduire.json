@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3476425,
+          48.8982942
+        ]
+      },
+      "properties": {
+        "id": "paris_ppp_permis_conduire-75118-01",
+        "codeInsee": "75118",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "paris_ppp_permis_conduire",
+        "Nom": "Préfecture de police de Paris - Bureau des permis de conduire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 boulevard du palais",
+            "Direction de la police générale"
+          ],
+          "CodePostal": "75195",
+          "NomCommune": "Paris Cedex 04",
+          "Localisation": {
+            "Latitude": "48.8982942",
+            "Longitude": "2.3476425",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique du lundi au vendredi de 9h00 à 12h00",
+            "$t": "3430"
+          },
+          "Email": "pp-dpg-permisdeconduire@interieur.gouv.fr",
+          "Url": "http://www.prefecturedepolice.interieur.gouv.fr/Demarches/Particulier/Permis-de-conduire-et-papiers-du-vehicule/Permis-de-conduire#ancre-6"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Sur rendez-vous"
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Sur rendez-vous"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4656895,
+          48.7844093
+        ]
+      },
+      "properties": {
+        "id": "onac-94028-01",
+        "codeInsee": "94028",
+        "dateMiseAJour": "2017-07-25",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Val-de-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 rue du Porte-Dîner",
+          "CodePostal": "94000",
+          "NomCommune": "Créteil",
+          "Localisation": {
+            "Latitude": "48.7844093",
+            "Longitude": "2.4656895",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 39 71 23",
+          "Email": "http://www.onac-vg.fr/fr/contact/sid:124/",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:94/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi. Accueil téléphonique du lundi au vendredi de 9h à 12h et de 14h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

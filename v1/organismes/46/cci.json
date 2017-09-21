@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44106996059,
+          44.4420013428
+        ]
+      },
+      "properties": {
+        "id": "cci-46042-01",
+        "codeInsee": "46042",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Lot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "107 quai Eugène-Cavaignac",
+            "CS 10079"
+          ],
+          "CodePostal": "46002",
+          "NomCommune": "Cahors Cedex 9",
+          "Localisation": {
+            "Latitude": "44.4420013428",
+            "Longitude": "1.44106996059",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 20 35 01",
+          "Télécopie": "05 65 20 35 24",
+          "Email": "assist.dir@lot.cci.fr",
+          "Url": "http://www.lot.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

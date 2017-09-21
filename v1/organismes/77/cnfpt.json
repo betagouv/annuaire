@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6377377,
+          48.8510722
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-77468-01",
+        "codeInsee": "77468",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 allée des Commerces",
+          "CodePostal": "77200",
+          "NomCommune": "Torcy",
+          "Localisation": {
+            "Latitude": "48.8510722",
+            "Longitude": "2.6377377",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 53 60 25",
+          "Télécopie": "01 60 17 80 50",
+          "Url": "http://www.grandecouronne.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

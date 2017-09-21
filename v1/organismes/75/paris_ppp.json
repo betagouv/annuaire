@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3468563,
+          48.8549448
+        ]
+      },
+      "properties": {
+        "id": "paris_ppp-75104-01",
+        "codeInsee": "75104",
+        "dateMiseAJour": "2015-07-09",
+        "pivotLocal": "paris_ppp",
+        "Nom": "Préfecture de police de Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place Louis Lépine",
+            "1 rue de Lutèce"
+          ],
+          "CodePostal": "75004",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8549448",
+            "Longitude": "2.3468563",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 53 71 53 71",
+          "Email": "https://www.prefecturedepolice.interieur.gouv.fr/Nous-connaitre/Presentation/Presentation-de-la-prefecture-de-police/Nous-contacter",
+          "Url": "http://www.prefecturedepolice.interieur.gouv.fr",
+          "Sve": "http://www.prefecturedepolice.interieur.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Merci de vous présenter 30 mn avant la fermeture. Pas d'accueil au public l'après-midi"
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

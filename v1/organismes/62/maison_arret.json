@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.63696,
+          50.527836
+        ]
+      },
+      "properties": {
+        "codeInsee": "62119",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-62119-01",
+        "idPresta": "4eb263332935944ef50001c2",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Béthune",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "106 rue d'Aire",
+          "CodePostal": "62407",
+          "NomCommune": "BETHUNE CEDEX",
+          "Localisation": {
+            "Latitude": "50.527836",
+            "Longitude": "2.63696",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 63 15 70",
+          "Télécopie": "+33 3 21 63 15 59",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.769012,
+          50.289468
+        ]
+      },
+      "properties": {
+        "codeInsee": "62041",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-62041-01",
+        "idPresta": "4eb2622c2935944ef5000032",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt d'Arras",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 rue des Carabiniers d'Artois",
+            "BP 915"
+          ],
+          "CodePostal": "62022",
+          "NomCommune": "ARRAS CEDEX",
+          "Localisation": {
+            "Latitude": "50.289468",
+            "Longitude": "2.769012",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 21 34 00",
+          "Télécopie": "+33 3 21 21 34 06",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

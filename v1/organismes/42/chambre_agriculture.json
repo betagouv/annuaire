@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3723189,
+          45.4729851
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-42275-01",
+        "codeInsee": "42275",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "43 avenue Albert-Raimond",
+            "BP 40050"
+          ],
+          "CodePostal": "42272",
+          "NomCommune": "Saint-Priest-en-Jarez Cedex",
+          "Localisation": {
+            "Latitude": "45.4729851",
+            "Longitude": "4.3723189",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 92 12 12",
+          "Télécopie": "04 77 92 12 78",
+          "Email": "cda42@loire.chambagri.fr",
+          "Url": "http://www.terresdeloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

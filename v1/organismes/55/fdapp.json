@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.294587,
+          49.121454
+        ]
+      },
+      "properties": {
+        "id": "fdapp-55385-01",
+        "codeInsee": "55385",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Meuse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Moulin-Brûlé",
+          "CodePostal": "55120",
+          "NomCommune": "Nixéville-Blercourt",
+          "Localisation": {
+            "Latitude": "49.121454",
+            "Longitude": "5.294587",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 86 15 70",
+          "Télécopie": "03 29 86 89 30",
+          "Email": "secretariat.peche55@gmail.com",
+          "Url": "http://www.peche55.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

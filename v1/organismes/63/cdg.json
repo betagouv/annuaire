@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1329712,
+          45.7656302
+        ]
+      },
+      "properties": {
+        "id": "cdg-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Condorcet",
+            "CS 70007",
+            "Parc technologique de La Pardieu"
+          ],
+          "CodePostal": "63063",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7656302",
+            "Longitude": "3.1329712",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 28 59 80",
+          "Télécopie": "04 73 28 59 81",
+          "Email": "accueil@cdg63.fr",
+          "Url": "http://www.cdg63.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

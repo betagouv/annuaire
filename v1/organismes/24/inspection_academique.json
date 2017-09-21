@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7255771,
+          45.1886603
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-24322-01",
+        "codeInsee": "24322",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Dordogne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 rue Alfred-de-Musset",
+            "CS 10013"
+          ],
+          "CodePostal": "24054",
+          "NomCommune": "Périgueux Cedex",
+          "Localisation": {
+            "Latitude": "45.1886603",
+            "Longitude": "0.7255771",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "par parking"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 02 84 84",
+          "Télécopie": "05 53 02 84 91",
+          "Email": "ce.ia24-cabinet@ac-bordeaux.fr",
+          "Url": "http://www.ac-bordeaux.frdsden24"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

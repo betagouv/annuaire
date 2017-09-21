@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93614006042,
+          45.5663986206
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Savoie Technolac",
+            "19 rue du Lac-Saint-André"
+          ],
+          "CodePostal": "73370",
+          "NomCommune": "Le Bourget-du-Lac",
+          "Localisation": {
+            "Latitude": "45.5663986206",
+            "Longitude": "5.93614006042",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 85 58 95",
+          "Télécopie": "04 79 85 03 43",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

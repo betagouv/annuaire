@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.947274,
+          48.288902
+        ]
+      },
+      "properties": {
+        "codeInsee": "88413",
+        "dateMiseAJour": "2014-02-25",
+        "id": "ti-88413-01",
+        "idPresta": "4cac9e62293594648a0006cc",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Saint-Dié-des-Vosges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 rue d'Amérique",
+            "BP 244"
+          ],
+          "CodePostal": "88107",
+          "NomCommune": "ST DIE DES VOSGES CEDEX",
+          "Localisation": {
+            "Latitude": "48.288902",
+            "Longitude": "6.947274",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 53 52 52",
+          "Télécopie": "+33 3 29 56 05 08",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.448125,
+          48.172912
+        ]
+      },
+      "properties": {
+        "codeInsee": "88160",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-88160-01",
+        "idPresta": "4cac9e6a293594648a001816",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Epinal",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Foch",
+          "CodePostal": "88000",
+          "NomCommune": "EPINAL",
+          "Localisation": {
+            "Latitude": "48.172912",
+            "Longitude": "6.448125",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 54 04 10 00",
+          "Télécopie": "+33 3 54 04 10 30",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

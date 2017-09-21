@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83514022827,
+          47.0231018066
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-21054-01",
+        "codeInsee": "21054",
+        "dateMiseAJour": "2013-07-02",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Beaune",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12, rue Fraysse",
+          "CodePostal": "21200",
+          "NomCommune": "Beaune",
+          "Localisation": {
+            "Latitude": "47.0231018066",
+            "Longitude": "4.83514022827",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 24 32 00",
+          "Télécopie": "+33 3 80 24 32 40",
+          "Email": "sous-prefecture-de-beaune@cote-dor.pref.gouv.fr",
+          "Url": "http://www.cote-dor.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:45:00"
+            },
+            "Note": "fermeture tous les après-midis"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35090017319,
+          47.6239013672
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-21425-01",
+        "codeInsee": "21425",
+        "dateMiseAJour": "2012-11-13",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Montbard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "25, rue du Champfleury",
+            "CS 60"
+          ],
+          "CodePostal": "21502",
+          "NomCommune": "Montbard Cedex",
+          "Localisation": {
+            "Latitude": "47.6239013672",
+            "Longitude": "4.35090017319",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 89 22 22",
+          "Télécopie": "+33 3 80 89 22 02",
+          "Email": "sp-montbard@cote-dor.gouv.fr",
+          "Url": "http://www.cote-dor.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

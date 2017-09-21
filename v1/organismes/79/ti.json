@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.470879,
+          46.324538
+        ]
+      },
+      "properties": {
+        "codeInsee": "79191",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-79191-01",
+        "idPresta": "4cac9e62293594648a0006a7",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Niort",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 rue Marcel Paul-Espace Thémis",
+            "BP 8820"
+          ],
+          "CodePostal": "79028",
+          "NomCommune": "NIORT CEDEX",
+          "Localisation": {
+            "Latitude": "46.324538",
+            "Longitude": "-0.470879",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 05 45 40",
+          "Télécopie": "+33 5 49 05 45 45",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4890378,
+          46.83937
+        ]
+      },
+      "properties": {
+        "codeInsee": "79049",
+        "dateMiseAJour": "2015-09-11",
+        "id": "ti-79049-01",
+        "idPresta": "4cac9e62293594648a0006a6",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Bressuire",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 boulevard Albert 1er",
+          "CodePostal": "79300",
+          "NomCommune": "BRESSUIRE",
+          "Localisation": {
+            "Latitude": "46.83937",
+            "Longitude": "-0.4890378",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 65 87 32",
+          "Télécopie": "+33 5 49 80 61 95",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

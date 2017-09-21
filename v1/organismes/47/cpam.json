@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.166385,
+          44.500483
+        ]
+      },
+      "properties": {
+        "id": "cpam-47157-01",
+        "codeInsee": "47157",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) du Lot-et-Garonne - accueil de Marmande",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "13 rue du Docteur-Courret",
+            "CodePostal": "47200",
+            "NomCommune": "Marmande",
+            "Localisation": {
+              "Latitude": "44.500483",
+              "Longitude": "0.166385",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie du Lot-et-Garonne",
+              "2 rue Diderot"
+            ],
+            "CodePostal": "47914",
+            "NomCommune": "Agen Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716726,
+          44.407082
+        ]
+      },
+      "properties": {
+        "id": "cpam-47323-01",
+        "codeInsee": "47323",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) du Lot-et-Garonne - accueil de Villeneuve-sur-Lot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "26 avenue de Fumel",
+            "CodePostal": "47300",
+            "NomCommune": "Villeneuve-sur-Lot",
+            "Localisation": {
+              "Latitude": "44.407082",
+              "Longitude": "0.716726",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie du Lot-et-Garonne",
+              "2 rue Diderot"
+            ],
+            "CodePostal": "47914",
+            "NomCommune": "Agen Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6172739,
+          44.2007228
+        ]
+      },
+      "properties": {
+        "id": "cpam-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) du Lot-et-Garonne - siège d'Agen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Diderot",
+          "CodePostal": "47914",
+          "NomCommune": "Agen Cedex 9",
+          "Localisation": {
+            "Latitude": "44.2007228",
+            "Longitude": "0.6172739",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

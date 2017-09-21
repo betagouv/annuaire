@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.604993,
+          48.756724
+        ]
+      },
+      "properties": {
+        "id": "cci-61169-01",
+        "codeInsee": "61169",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Ouest-Normandie - Flers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "3 rue Denys-Boudard",
+            "CodePostal": "61100",
+            "NomCommune": "La Lande-Patry",
+            "Localisation": {
+              "Latitude": "48.756724",
+              "Longitude": "-0.604993",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Aéroport de Flers-Saint-Paul",
+              "Route de Granville",
+              "CS 80159"
+            ],
+            "CodePostal": "61103",
+            "NomCommune": "Flers Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 64 68 00",
+          "Télécopie": "02 33 64 00 87",
+          "Email": "cci@normandie.cci.fr",
+          "Url": "http://www.ouestnormandie.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.088326998055,
+          48.431098938
+        ]
+      },
+      "properties": {
+        "id": "cci-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Alençon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 place du Palais",
+            "BP 42"
+          ],
+          "CodePostal": "61002",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.431098938",
+            "Longitude": "0.088326998055",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 82 82 82",
+          "Télécopie": "02 33 32 10 16",
+          "Email": "info.alencon@normandie.cci.fr",
+          "Url": "http://www.alencon.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

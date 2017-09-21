@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.688851,
+          47.3903
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2017-04-19",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Indre-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 rue Alexander-Fleming",
+            "BP 2729"
+          ],
+          "CodePostal": "37027",
+          "NomCommune": "Tours Cedex 1",
+          "Localisation": {
+            "Latitude": "47.3903",
+            "Longitude": "0.688851",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 31 57 01",
+          "Télécopie": "02 47 31 57 39",
+          "Email": "centre-ud37@direccte.gouv.fr",
+          "Url": "http://centre-val-de-loire.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

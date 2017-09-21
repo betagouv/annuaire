@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3372088,
+          4.9366541
+        ]
+      },
+      "properties": {
+        "id": "drac-97302-01",
+        "codeInsee": "97302",
+        "dateMiseAJour": "2016-11-02",
+        "pivotLocal": "drac",
+        "Nom": "Direction des affaires culturelles (DAC) - Guyane",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue du Vieux-Port",
+          "CodePostal": "97321",
+          "NomCommune": "Cayenne Cedex",
+          "Localisation": {
+            "Latitude": "4.9366541",
+            "Longitude": "-52.3372088",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+594 5 94 25 54 00",
+          "Télécopie": "+594 5 94 25 54 10",
+          "Email": "secretariat.dac.guyane@culture.gouv.fr",
+          "Url": "http://www.culturecommunication.gouv.frfr/regionsfr/dac-guyane"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

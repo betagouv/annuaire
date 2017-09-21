@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8622207,
+          47.6388323
+        ]
+      },
+      "properties": {
+        "id": "cidf-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Territoire de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Jules-Vallès",
+          "CodePostal": "90000",
+          "NomCommune": "Belfort",
+          "Localisation": {
+            "Latitude": "47.6388323",
+            "Longitude": "6.8622207",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 28 00 24",
+          "Télécopie": "03 84 90 21 97",
+          "Email": "cidf-belfort@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

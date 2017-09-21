@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4979027,
+          43.8909703
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-40192-01",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des communes",
+            "175 place de la Caserne-Bosquet",
+            "BP 30069"
+          ],
+          "CodePostal": "40002",
+          "NomCommune": "Mont-de-Marsan Cedex",
+          "Localisation": {
+            "Latitude": "43.8909703",
+            "Longitude": "-0.4979027",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 85 80 40",
+          "Email": "antenne40.aquitaine@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

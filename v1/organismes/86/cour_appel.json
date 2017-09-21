@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341729,
+          46.583217
+        ]
+      },
+      "properties": {
+        "codeInsee": "86194",
+        "dateMiseAJour": "2014-06-09",
+        "id": "cour_appel-86194-01",
+        "idPresta": "4cac9e5e293594648a000184",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Poitiers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 place Alphonse Lepetit",
+            "CS 30527"
+          ],
+          "CodePostal": "86020",
+          "NomCommune": "POITIERS CEDEX",
+          "Localisation": {
+            "Latitude": "46.583217",
+            "Longitude": "0.341729",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 50 22 00",
+          "Télécopie": "+33 5 49 50 22 13",
+          "Email": "mailto:ca-poitiers@justice.fr",
+          "Url": "http://www.ca-poitiers.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

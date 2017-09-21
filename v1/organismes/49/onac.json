@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.552406311035,
+          47.4630094772
+        ]
+      },
+      "properties": {
+        "id": "onac-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "15 bis rue Dupetit-Thouars"
+          ],
+          "CodePostal": "49047",
+          "NomCommune": "Angers Cedex 1",
+          "Localisation": {
+            "Latitude": "47.4630094772",
+            "Longitude": "-0.552406311035",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 47 82 92",
+          "Email": "sd49@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:49/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

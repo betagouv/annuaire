@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3134531,
+          4.92242
+        ]
+      },
+      "properties": {
+        "id": "greta-97302-01",
+        "codeInsee": "97302",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Centre-Est-Guyane",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue André-Aron",
+            "BP 17022"
+          ],
+          "CodePostal": "97307",
+          "NomCommune": "Cayenne Cedex",
+          "Localisation": {
+            "Latitude": "4.92242",
+            "Longitude": "-52.3134531",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+594 5 94 35 11 68",
+          "Télécopie": "+594 5 94 37 87 53",
+          "Email": "gretace@ac-guyane.fr",
+          "Url": "http://www.greta-gipfcip-guyane.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "07:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

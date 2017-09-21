@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6051402,
+          42.9608106
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-09122-01",
+        "codeInsee": "09122",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Foix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale et de la protection des populations de l'Ariège",
+            "Greffe départemental des associations",
+            "9 rue du Lieutenant-Paul-Delpech",
+            "BP 130"
+          ],
+          "CodePostal": "09003",
+          "NomCommune": "Foix Cedex",
+          "Localisation": {
+            "Latitude": "42.9608106",
+            "Longitude": "1.6051402",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 02 43 75",
+          "Télécopie": "+33 5 61 02 43 91",
+          "Email": "magali.gaubert@ariege.gouv.fr",
+          "Url": "http://www.ariege.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

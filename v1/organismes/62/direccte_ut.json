@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7705739,
+          50.2932172
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue Pierre-Bérégovoy",
+            "BP 60539"
+          ],
+          "CodePostal": "62008",
+          "NomCommune": "Arras Cedex",
+          "Localisation": {
+            "Latitude": "50.2932172",
+            "Longitude": "2.7705739",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 60 28 00",
+          "Télécopie": "03 21 60 28 50",
+          "Email": "nordpasdecalais-ud62.direction@direccte.gouv.fr",
+          "Url": "http://hauts-de-france.direccte.gouv.frpas-de-calais"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:45:00"
+              }
+            ],
+            "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

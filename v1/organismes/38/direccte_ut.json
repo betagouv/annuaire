@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72902,
+          45.163
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 avenue Marie-Reynoard",
+          "CodePostal": "38029",
+          "NomCommune": "Grenoble Cedex 2",
+          "Localisation": {
+            "Latitude": "45.163",
+            "Longitude": "5.72902",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 56 58 38 38",
+          "Télécopie": "04 56 58 38 01",
+          "Url": "http://auvergne-rhone-alpes.direccte.gouv.fr/Isere"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

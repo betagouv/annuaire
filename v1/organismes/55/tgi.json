@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384349,
+          49.16373
+        ]
+      },
+      "properties": {
+        "codeInsee": "55545",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-55545-01",
+        "idPresta": "4cac9e61293594648a0005a4",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Verdun",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Saint-Paul",
+            "Case Officielle 724"
+          ],
+          "CodePostal": "55107",
+          "NomCommune": "VERDUN CEDEX",
+          "Localisation": {
+            "Latitude": "49.16373",
+            "Longitude": "5.384349",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 86 14 05",
+          "Télécopie": "+33 3 29 86 31 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.159238,
+          48.769016
+        ]
+      },
+      "properties": {
+        "codeInsee": "55029",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-55029-01",
+        "idPresta": "4cac9e6a293594648a0017a9",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Bar-le-Duc",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21-25 place Saint-Pierre",
+          "CodePostal": "55014",
+          "NomCommune": "BAR LE DUC CEDEX",
+          "Localisation": {
+            "Latitude": "48.769016",
+            "Longitude": "5.159238",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 79 02 95",
+          "Télécopie": "+33 3 29 79 18 33",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.521135,
+          47.45979
+        ]
+      },
+      "properties": {
+        "codeInsee": "58079",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-58079-01",
+        "idPresta": "4cac9e87293594648a004ce6",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Clamecy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Emile Zola",
+            "BP 108"
+          ],
+          "CodePostal": "58503",
+          "NomCommune": "CLAMECY CEDEX",
+          "Localisation": {
+            "Latitude": "47.45979",
+            "Longitude": "3.521135",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 27 01 50",
+          "Télécopie": "+33 3 86 27 10 37",
+          "Email": "mailto:ti-clamecy@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.159654,
+          46.989938
+        ]
+      },
+      "properties": {
+        "codeInsee": "58194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-58194-01",
+        "idPresta": "4cac9ed7293594648a00ee48",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Nevers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Gambetta",
+          "CodePostal": "58020",
+          "NomCommune": "NEVERS CEDEX",
+          "Localisation": {
+            "Latitude": "46.989938",
+            "Longitude": "3.159654",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 93 02 70",
+          "Télécopie": "+33 3 86 59 55 03",
+          "Email": "mailto:ti-nevers@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

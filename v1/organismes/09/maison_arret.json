@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.609392,
+          42.960447
+        ]
+      },
+      "properties": {
+        "codeInsee": "09122",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-09122-01",
+        "idPresta": "4eb263342935944ef50001c9",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Foix",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "26 avenue du Général de Gaulle",
+            "BP 62"
+          ],
+          "CodePostal": "09008",
+          "NomCommune": "FOIX CEDEX",
+          "Localisation": {
+            "Latitude": "42.960447",
+            "Longitude": "1.609392",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 05 01 50",
+          "Télécopie": "+33 5 61 02 93 09",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

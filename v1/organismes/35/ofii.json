@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6888164,
+          48.1244545
+        ]
+      },
+      "properties": {
+        "id": "ofii-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "ofii",
+        "Nom": "Office français de l'immigration et de l'intégration (Ofii) - Direction territoriale de Rennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue Jean-Julien-Lemordant",
+          "CodePostal": "35000",
+          "NomCommune": "Rennes",
+          "Localisation": {
+            "Latitude": "48.1244545",
+            "Longitude": "-1.6888164",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 22 98 60",
+          "Email": "rennes@ofii.fr",
+          "Url": "http://www.ofii.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

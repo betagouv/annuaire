@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13175010681,
+          48.797000885
+        ]
+      },
+      "properties": {
+        "id": "anah-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "35 rue de Noailles",
+            "BP 1115"
+          ],
+          "CodePostal": "78001",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.797000885",
+            "Longitude": "2.13175010681",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 30 84 30 80",
+          "Email": "ddt-shru-pphi@yvelines.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

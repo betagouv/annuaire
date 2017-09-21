@@ -1,0 +1,178 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74336004257,
+          48.582698822
+        ]
+      },
+      "properties": {
+        "id": "cidf-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "24 rue du 22-Novembre",
+          "CodePostal": "67000",
+          "NomCommune": "Strasbourg",
+          "Localisation": {
+            "Latitude": "48.582698822",
+            "Longitude": "7.74336004257",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 32 03 22",
+          "Télécopie": "03 88 24 60 86",
+          "Email": "strasbourg@cidff67.fr",
+          "Url": "http://www.cidff67.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Pas de permanence téléphonique le mercredi après-midi."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Pas de permanence téléphonique le lundi après-midi."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.787221,
+          48.8162619
+        ]
+      },
+      "properties": {
+        "id": "cidf-67180-01",
+        "codeInsee": "67180",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de la Vieille-Île",
+          "CodePostal": "67500",
+          "NomCommune": "Haguenau",
+          "Localisation": {
+            "Latitude": "48.8162619",
+            "Longitude": "7.787221",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 32 03 22",
+          "Télécopie": "03 88 53 20 62",
+          "Email": "haguenau@cidff67.fr",
+          "Url": "http://www.cidff67.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Permanence téléphonique uniquement."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366101,
+          48.88056
+        ]
+      },
+      "properties": {
+        "codeInsee": "75110",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-75110-01",
+        "idPresta": "4cac9e5f293594648a00030c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Paris",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "27 rue Louis Blanc",
+          "CodePostal": "75484",
+          "NomCommune": "PARIS CEDEX 10",
+          "Localisation": {
+            "Latitude": "48.88056",
+            "Longitude": "2.366101",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 40 38 52 00",
+          "Télécopie": "+33 1 40 38 54 60",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

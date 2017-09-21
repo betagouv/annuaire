@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.171022,
+          48.687251
+        ]
+      },
+      "properties": {
+        "codeInsee": "54395",
+        "dateMiseAJour": "2016-04-22",
+        "id": "cour_appel-54395-01",
+        "idPresta": "4cac9e5f293594648a000308",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Nancy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Suzanne Régnault-Gousset",
+            "CO 90010"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "NANCY CEDEX",
+          "Localisation": {
+            "Latitude": "48.687251",
+            "Longitude": "6.171022",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 83 17 24 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Chaque service a son numéro de télécopieur :\n- Parquet général : 03 83 17 24 88,\n- 1ère Présidence : 03 83 17 24 27,\n- Chambre sociale : 03 83 17 24 87,\n- Chaîne pénale : 03 83 17 24 83,"
+          }
+        }
+      }
+    }
+  ]
+}

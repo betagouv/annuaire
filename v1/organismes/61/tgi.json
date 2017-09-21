@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0828104,
+          48.430277
+        ]
+      },
+      "properties": {
+        "codeInsee": "61001",
+        "dateMiseAJour": "2014-10-20",
+        "id": "tgi-61001-01",
+        "idPresta": "4cac9ed7293594648a00ee13",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Alençon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Maréchal Foch",
+            "CS 70355"
+          ],
+          "CodePostal": "61014",
+          "NomCommune": "ALENCON CEDEX",
+          "Localisation": {
+            "Latitude": "48.430277",
+            "Longitude": "0.0828104",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 82 25 00",
+          "Télécopie": "+33 2 33 32 94 64",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019443,
+          48.743269
+        ]
+      },
+      "properties": {
+        "codeInsee": "61006",
+        "dateMiseAJour": "2014-10-20",
+        "id": "tgi-61006-01",
+        "idPresta": "4cac9ed7293594648a00ee14",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Argentan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue des Anciens Combattants",
+            "CS 70211"
+          ],
+          "CodePostal": "61203",
+          "NomCommune": "ARGENTAN CEDEX",
+          "Localisation": {
+            "Latitude": "48.743269",
+            "Longitude": "-0.019443",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 67 97 97",
+          "Télécopie": "+33 2 33 67 28 81",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

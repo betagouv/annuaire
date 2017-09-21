@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.369694,
+          48.736791
+        ]
+      },
+      "properties": {
+        "codeInsee": "28134",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-28134-01",
+        "idPresta": "51b08ccbb473e41478000f8c",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Dreux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Doumer",
+          "CodePostal": "28100",
+          "NomCommune": "DREUX",
+          "Localisation": {
+            "Latitude": "48.736791",
+            "Longitude": "1.369694",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 38 84 21",
+          "Télécopie": "+33 2 37 38 84 70",
+          "Email": "mailto:mjd-dreux@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.814876,
+          48.315913
+        ]
+      },
+      "properties": {
+        "codeInsee": "28280",
+        "dateMiseAJour": "2010-05-31",
+        "id": "mjd-28280-01",
+        "idPresta": "51b08cbeb473e41478000cc6",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Nogent le Rotrou",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue Saint-Denis",
+          "CodePostal": "28400",
+          "NomCommune": "NOGENT LE ROTROU",
+          "Localisation": {
+            "Latitude": "48.315913",
+            "Longitude": "0.814876",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 53 37 75",
+          "Télécopie": "+33 2 37 53 93 26",
+          "Email": "mailto:mjd-nogent-le-rotrou@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

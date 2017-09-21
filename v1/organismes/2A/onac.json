@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7348619,
+          41.928743
+        ]
+      },
+      "properties": {
+        "id": "onac-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 avenue Colonel-Colonna-d'Ornano",
+            "BP 271"
+          ],
+          "CodePostal": "20181",
+          "NomCommune": "Ajaccio Cedex 1",
+          "Localisation": {
+            "Latitude": "41.928743",
+            "Longitude": "8.7348619",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 21 42 81",
+          "Email": "sd2a@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:2a/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

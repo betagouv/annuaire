@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7192401886,
+          45.1814994812
+        ]
+      },
+      "properties": {
+        "id": "onac-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 rue du Colonel-Dumont",
+          "CodePostal": "38000",
+          "NomCommune": "Grenoble",
+          "Localisation": {
+            "Latitude": "45.1814994812",
+            "Longitude": "5.7192401886",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 76 46 10 33",
+          "Email": "sd38@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:38/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

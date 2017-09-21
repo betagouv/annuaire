@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45548,
+          48.2014789
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-88160-01",
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Vosges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 allée des Chênes",
+          "CodePostal": "88026",
+          "NomCommune": "Épinal Cedex",
+          "Localisation": {
+            "Latitude": "48.2014789",
+            "Longitude": "6.45548",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 29 09 91",
+          "Télécopie": "03 29 29 02 86",
+          "Email": "mdph88@vosges.fr",
+          "Url": "http://www.handicap.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.937759,
+          47.8473573
+        ]
+      },
+      "properties": {
+        "id": "crib-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Ligue de l’enseignement fédération des œuvres laïques du Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue du Parc-Floral",
+          "CodePostal": "45100",
+          "NomCommune": "Orléans",
+          "Localisation": {
+            "Latitude": "47.8473573",
+            "Longitude": "1.937759",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 62 75 37",
+          "Email": "vieassociative@laligue45.fr",
+          "Url": "http://www.laligue.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9160816,
+          47.8463083
+        ]
+      },
+      "properties": {
+        "id": "crib-45232-02",
+        "codeInsee": "45232",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1240 rue de la Bergeresse",
+          "CodePostal": "45160",
+          "NomCommune": "Olivet",
+          "Localisation": {
+            "Latitude": "47.8463083",
+            "Longitude": "1.9160816",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 62 97 20",
+          "Email": "crib45@profession-sport-loisirs.fr",
+          "Url": "http://loiret.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91608159999998,
+          47.8463083
+        ]
+      },
+      "properties": {
+        "id": "crib-45232-01",
+        "codeInsee": "45232",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif du Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des sports",
+            "1240 rue de la Bergeresse"
+          ],
+          "CodePostal": "45160",
+          "NomCommune": "Olivet",
+          "Localisation": {
+            "Latitude": "47.8463083",
+            "Longitude": "1.91608159999998",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 49 88 46",
+          "Email": "loiret@franceolympique.com",
+          "Url": "http://www.loiret.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil possible sur rendez-vous du lundi au vendredi en dehors de ces horaires."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

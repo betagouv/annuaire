@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.069122,
+          14.604701
+        ]
+      },
+      "properties": {
+        "codeInsee": "97209",
+        "dateMiseAJour": "2015-06-03",
+        "id": "cour_appel-97209-01",
+        "idPresta": "4cac9e61293594648a000589",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Fort-de-France",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 rue Victor Schoelcher",
+            "BP 634"
+          ],
+          "CodePostal": "97200",
+          "NomCommune": "FORT DE FRANCE",
+          "Localisation": {
+            "Latitude": "14.604701",
+            "Longitude": "-61.069122",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 96 48 41 41",
+          "Télécopie": "+33 5 96 63 27 08",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "07:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

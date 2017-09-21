@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0582257,
+          47.3311378
+        ]
+      },
+      "properties": {
+        "id": "sie-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Dijon Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 rue de la Boudronnée",
+          "CodePostal": "21047",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3311378",
+            "Longitude": "5.0582257",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 28 65 51",
+          "Télécopie": "+33 3 80 28 66 57",
+          "Email": "sie.dijon-nord@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.336679,
+          47.620879
+        ]
+      },
+      "properties": {
+        "id": "sie-21425-01",
+        "codeInsee": "21425",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Montbard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place Aline-Gibez",
+            "BP 107"
+          ],
+          "CodePostal": "21506",
+          "NomCommune": "Montbard Cedex",
+          "Localisation": {
+            "Latitude": "47.620879",
+            "Longitude": "4.336679",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 92 10 12",
+          "Email": "sip-sie.montbard@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8341929,
+          47.017413
+        ]
+      },
+      "properties": {
+        "id": "sie-21054-01",
+        "codeInsee": "21054",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Beaune",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Gaston-Roupnel",
+            "BP 94"
+          ],
+          "CodePostal": "21203",
+          "NomCommune": "Beaune Cedex",
+          "Localisation": {
+            "Latitude": "47.017413",
+            "Longitude": "4.8341929",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 24 39 00",
+          "Email": "sie.beaune@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3418551,
+          47.4885143
+        ]
+      },
+      "properties": {
+        "id": "sie-21603-01",
+        "codeInsee": "21603",
+        "dateMiseAJour": "2016-09-05",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Semur-en-Auxois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 place de la Gare",
+          "CodePostal": "21140",
+          "NomCommune": "Semur-en-Auxois",
+          "Localisation": {
+            "Latitude": "47.4885143",
+            "Longitude": "4.3418551",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 89 85 60",
+          "Télécopie": "+33 3 80 89 91 94",
+          "Email": "sip-sie.semur-en-auxois@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0582257,
+          47.3311378
+        ]
+      },
+      "properties": {
+        "id": "sie-21231-02",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2015-05-12",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Dijon Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 rue de la Boudronnée",
+          "CodePostal": "21047",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3311378",
+            "Longitude": "5.0582257",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 28 65 44",
+          "Email": "sie.dijon-sud@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

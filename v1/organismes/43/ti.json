@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.883991,
+          45.043496
+        ]
+      },
+      "properties": {
+        "codeInsee": "43157",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-43157-01",
+        "idPresta": "4cac9e87293594648a004ce3",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance du Puy-en-Velay",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 place du Clauzel",
+            "CS 10309"
+          ],
+          "CodePostal": "43009",
+          "NomCommune": "LE PUY EN VELAY CEDEX",
+          "Localisation": {
+            "Latitude": "45.043496",
+            "Longitude": "3.883991",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 63 20 70 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

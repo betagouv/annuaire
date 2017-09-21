@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.558054983616,
+          44.8958015442
+        ]
+      },
+      "properties": {
+        "id": "carsat-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "carsat",
+        "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Aquitaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "80 avenue de la Jallère",
+          "CodePostal": "33053",
+          "NomCommune": "Bordeaux Cedex",
+          "Localisation": {
+            "Latitude": "44.8958015442",
+            "Longitude": "-0.558054983616",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "6 centimes d’euro par minute, + prix de l’appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3960"
+          },
+          "Url": "http://www.carsat-aquitaine.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil avec un conseiller retraite du lundi au vendredi de 8h à 17h uniquement sur rendez-vous (fermeture chaque 3e mardi du mois l'après-midi). Accueil téléphonique du lundi au vendredi de 8h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

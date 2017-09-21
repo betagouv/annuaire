@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72495,
+          48.591
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 rue du Bataillon-de-Marche",
+            "Numéro 24",
+            "BP 81005"
+          ],
+          "CodePostal": "67070",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.591",
+            "Longitude": "7.72495",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 13 05 00",
+          "Email": "ut-pyrenees-atlantiques-pau.dreal-aquitaine@developpement-durable.gouv.fr",
+          "Url": "http://www.alsace.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

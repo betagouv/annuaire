@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0819433,
+          49.4330956
+        ]
+      },
+      "properties": {
+        "id": "adil-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 rue Jean-Racine",
+          "CodePostal": "60000",
+          "NomCommune": "Beauvais",
+          "Localisation": {
+            "Latitude": "49.4330956",
+            "Longitude": "2.0819433",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "accessibilité à l'arrière du bâtiment"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 48 61 30",
+          "Télécopie": "03 44 45 46 74",
+          "Email": "adil60@wanadoo.fr",
+          "Url": "http://www.adil60.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

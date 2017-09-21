@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0330926,
+          47.3274601
+        ]
+      },
+      "properties": {
+        "id": "pmi-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Dijon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Accueil solidarité et famille de Dijon - Centre-ville",
+            "1 rue Nicolas-Berthot"
+          ],
+          "CodePostal": "21000",
+          "NomCommune": "Dijon",
+          "Localisation": {
+            "Latitude": "47.3274601",
+            "Longitude": "5.0330926",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 63 66 51",
+          "Télécopie": "03 80 63 69 66",
+          "Email": "dgsd.ps.damst.asfd.acdv@cotedor.fr",
+          "Url": "http://www.cg21.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5730566,
+          47.8515407
+        ]
+      },
+      "properties": {
+        "id": "pmi-21154-01",
+        "codeInsee": "21154",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Châtillon-sur-Seine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Accueil solidarité et famille",
+            "11 rue Albert-Camus"
+          ],
+          "CodePostal": "21400",
+          "NomCommune": "Châtillon-sur-Seine",
+          "Localisation": {
+            "Latitude": "47.8515407",
+            "Longitude": "4.5730566",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 81 50 78",
+          "Télécopie": "03 80 81 58 58"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9045532,
+          44.9032582
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Plateau de Lautagne",
+            "Bâtiment G",
+            "42 C avenue des Langories",
+            "BP 145"
+          ],
+          "CodePostal": "26905",
+          "NomCommune": "Valence Cedex 9",
+          "Localisation": {
+            "Latitude": "44.9032582",
+            "Longitude": "4.9045532",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 01 26 26"
+          },
+          "Télécopie": "04 75 79 70 54",
+          "Email": "dromesolidarites@ladrome.fr",
+          "Url": "http://www.ladrome.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 17h30."
+          }
+        }
+      }
+    }
+  ]
+}

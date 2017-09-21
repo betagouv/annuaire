@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7421098,
+          47.357993
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-41194-01",
+        "codeInsee": "41194",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Romorantin-Lanthenay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place du Château",
+            "BP 139"
+          ],
+          "CodePostal": "41205",
+          "NomCommune": "Romorantin-Lanthenay Cedex",
+          "Localisation": {
+            "Latitude": "47.357993",
+            "Longitude": "1.7421098",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)",
+            "$t": "0810 02 41 41"
+          },
+          "Télécopie": "+33 2 54 76 35 18",
+          "Email": "sous-prefecture-de-romorantin@loir-et-cher.pref.gouv.fr",
+          "Url": "http://www.loir-et-cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.06660599999,
+          47.7918263
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-41269-01",
+        "codeInsee": "41269",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Vendôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8, place Saint-Martin",
+          "CodePostal": "41106",
+          "NomCommune": "Vendôme Cedex",
+          "Localisation": {
+            "Latitude": "47.7918263",
+            "Longitude": "1.06660599999",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)",
+            "$t": "0810 02 41 41"
+          },
+          "Télécopie": "+33 2 54 73 20 98",
+          "Email": "sous-prefecture-de-vendome@loir-et-cher.pref.gouv.fr",
+          "Url": "http://www.loir-et-cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

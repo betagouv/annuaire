@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.902642,
+          42.6904362
+        ]
+      },
+      "properties": {
+        "id": "ddpp-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2013-03-11",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Espadon Voilier",
+            "BP 30988",
+            "1, boulevard John-Fitzgerald-Kennedy"
+          ],
+          "CodePostal": "66020",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.6904362",
+            "Longitude": "2.902642",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 66 27 00",
+          "Télécopie": "+33 4 68 66 27 10",
+          "Email": "ddpp@pyrenees-orientales.gouv.fr",
+          "Url": "http://www.pyrenees-orientales.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Pour en savoir plus sur chaque pôle, veuillez consulter le site http://www.pyrenees-orientales.gouv.fr/Organisation-des-services/Directions-interministerielles/DDPP/Coordonnees2"
+          }
+        }
+      }
+    }
+  ]
+}

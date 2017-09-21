@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82919,
+          46.3063
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-04-24",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "952 avenue Maréchal-de-Lattre-de-Tassigny",
+          "CodePostal": "71031",
+          "NomCommune": "Mâcon Cedex",
+          "Localisation": {
+            "Latitude": "46.3063",
+            "Longitude": "4.82919",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "porte d'accès par le parking Monnier"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 32 72 00",
+          "Télécopie": "03 85 32 71 93",
+          "Email": "bfc-ud71.direction@direccte.gouv.fr",
+          "Url": "http://bourgogne-franche-comte.direccte.gouv.fr/Saone-et-Loire"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Fermeture à 16h la veille des jours fériés."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.91305994987,
+          42.6814002991
+        ]
+      },
+      "properties": {
+        "id": "fdc-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "47 avenue Jean-Giraudoux",
+            "BP 91021"
+          ],
+          "CodePostal": "66101",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.6814002991",
+            "Longitude": "2.91305994987",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 08 21 41",
+          "Télécopie": "04 68 08 21 42",
+          "Email": "fdc66@fdc66.fr",
+          "Url": "http://www.fdc66.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

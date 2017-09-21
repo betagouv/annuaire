@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88958978653,
+          44.9351997375
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "33, avenue de Romans",
+            "BP 2108"
+          ],
+          "CodePostal": "26021",
+          "NomCommune": "Valence Cedex",
+          "Localisation": {
+            "Latitude": "44.9351997375",
+            "Longitude": "4.88958978653",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 26 52 22 80",
+          "Télécopie": "+33 4 26 52 22 79",
+          "Email": "ddcs@drome.gouv.fr",
+          "Url": "http://www.drome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

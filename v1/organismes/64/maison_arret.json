@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.373502,
+          43.30283
+        ]
+      },
+      "properties": {
+        "codeInsee": "64445",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-64445-01",
+        "idPresta": "4eb263342935944ef50001c5",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Pau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 Bis rue Viard",
+            "BP 1616"
+          ],
+          "CodePostal": "64037",
+          "NomCommune": "PAU CEDEX",
+          "Localisation": {
+            "Latitude": "43.30283",
+            "Longitude": "-0.373502",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 02 38 54",
+          "Télécopie": "+33 5 59 02 17 97",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.463445,
+          43.492033
+        ]
+      },
+      "properties": {
+        "codeInsee": "64102",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-64102-01",
+        "idPresta": "4eb263332935944ef50001c4",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Bayonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "44 rue Charles Floquet",
+            "BP 718"
+          ],
+          "CodePostal": "64107",
+          "NomCommune": "BAYONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.492033",
+            "Longitude": "-1.463445",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 50 62 00",
+          "Télécopie": "+33 5 59 55 18 06",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

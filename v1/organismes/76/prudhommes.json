@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0790597,
+          49.4454619
+        ]
+      },
+      "properties": {
+        "codeInsee": "76540",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-76540-01",
+        "idPresta": "4cac9e6a293594648a001704",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Rouen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place de la Madeleine",
+          "CodePostal": "76000",
+          "NomCommune": "ROUEN",
+          "Localisation": {
+            "Latitude": "49.4454619",
+            "Longitude": "1.0790597",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 07 94 50",
+          "Télécopie": "+33 2 35 89 91 69",
+          "Email": "mailto:cph-rouen@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.070274,
+          49.922325
+        ]
+      },
+      "properties": {
+        "codeInsee": "76217",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-76217-01",
+        "idPresta": "4cac9ed6293594648a00ed76",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Dieppe",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "54 rue du Faubourg de la Barre",
+            "BP 214"
+          ],
+          "CodePostal": "76201",
+          "NomCommune": "DIEPPE CEDEX",
+          "Localisation": {
+            "Latitude": "49.922325",
+            "Longitude": "1.070274",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 84 32 91",
+          "Télécopie": "+33 2 35 84 62 58",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120111,
+          49.491481
+        ]
+      },
+      "properties": {
+        "codeInsee": "76351",
+        "dateMiseAJour": "2016-11-10",
+        "id": "prudhommes-76351-01",
+        "idPresta": "4cac9ed6293594648a00ed77",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes du Havre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16 rue du Colonel Fabien",
+            "BP 50"
+          ],
+          "CodePostal": "76084",
+          "NomCommune": "LE HAVRE CEDEX",
+          "Localisation": {
+            "Latitude": "49.491481",
+            "Longitude": "0.120111",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 74 91 80",
+          "Télécopie": "+33 2 35 51 46 28",
+          "Email": "mailto:cph-le-havre@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

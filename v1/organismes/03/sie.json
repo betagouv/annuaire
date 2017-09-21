@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.605397,
+          46.345915
+        ]
+      },
+      "properties": {
+        "id": "sie-03185-01",
+        "codeInsee": "03185",
+        "dateMiseAJour": "2016-10-13",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Montluçon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quai Forey",
+            "CS 40252"
+          ],
+          "CodePostal": "03109",
+          "NomCommune": "Montluçon Cedex",
+          "Localisation": {
+            "Latitude": "46.345915",
+            "Longitude": "2.605397",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 08 22 00",
+          "Email": "sie.montlucon@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert avec ou sans rendez-vous. Fermé le mardi et le jeudi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3449164,
+          46.5589611
+        ]
+      },
+      "properties": {
+        "id": "sie-03321-01",
+        "codeInsee": "03321",
+        "dateMiseAJour": "2016-10-13",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Moulins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14, rue Aristide-Briand",
+          "CodePostal": "03405",
+          "NomCommune": "Yzeure Cedex",
+          "Localisation": {
+            "Latitude": "46.5589611",
+            "Longitude": "3.3449164",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 48 29 00",
+          "Email": "sie.moulins@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Egalement sur rendez-vous. Fermé le mardi et le jeudi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.450429,
+          46.1348315
+        ]
+      },
+      "properties": {
+        "id": "sie-03095-01",
+        "codeInsee": "03095",
+        "dateMiseAJour": "2016-10-13",
+        "pivotLocal": "sie",
+        "Nom": "Service des impôts des entreprises du centre des finances publiques de Vichy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8, rue du Bief",
+            "BP 60092"
+          ],
+          "CodePostal": "03307",
+          "NomCommune": "Cusset Cedex",
+          "Localisation": {
+            "Latitude": "46.1348315",
+            "Longitude": "3.450429",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 30 85 00",
+          "Email": "sie.vichy@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:15:00"
+              }
+            ],
+            "Note": "Accueil ouvert également sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

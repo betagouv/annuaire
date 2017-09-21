@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.489012,
+          48.443854
+        ]
+      },
+      "properties": {
+        "id": "crib-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Centre de ressources Via 28",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Ancienne base aérienne 122",
+            "Allée du Général-Martial-Valin"
+          ],
+          "CodePostal": "28000",
+          "NomCommune": "Chartres",
+          "Localisation": {
+            "Latitude": "48.443854",
+            "Longitude": "1.489012",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 21 77 56",
+          "Email": "via28@orange.fr",
+          "Url": "http://www.via28.asso.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

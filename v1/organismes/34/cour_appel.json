@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8794455,
+          43.608176
+        ]
+      },
+      "properties": {
+        "codeInsee": "34172",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-34172-01",
+        "idPresta": "4cac9e5e293594648a00010b",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Montpellier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Maréchal Foch",
+          "CodePostal": "34023",
+          "NomCommune": "MONTPELLIER CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.608176",
+            "Longitude": "3.8794455",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 08 80 80",
+          "Télécopie": "+33 4 34 08 82 87",
+          "Url": "http://www.ca-montpellier.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

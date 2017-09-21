@@ -1,0 +1,378 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4811818,
+          48.8821045
+        ]
+      },
+      "properties": {
+        "id": "caf-93064-01",
+        "codeInsee": "93064",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-Saint-Denis - accueil de Rosny-sous-Bois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "15-17 mail Jean-Pierre-Timbaud",
+            "CodePostal": "93110",
+            "NomCommune": "Rosny-sous-Bois",
+            "Localisation": {
+              "Latitude": "48.8821045",
+              "Longitude": "2.4811818",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "ascenseur"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales de Seine-Saint-Denis",
+            "CodePostal": "93024",
+            "NomCommune": "Bobigny Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 93 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h45 à 12h et de 13h à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.552755,
+          48.8477982
+        ]
+      },
+      "properties": {
+        "id": "caf-93051-01",
+        "codeInsee": "93051",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-Saint-Denis - accueil de Noisy-le-Grand",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Le Descartes",
+              "29 promenade Michel-Simon"
+            ],
+            "CodePostal": "93160",
+            "NomCommune": "Noisy-le-Grand",
+            "Localisation": {
+              "Latitude": "48.8477982",
+              "Longitude": "2.552755",
+              "Précision": "4"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales de Seine-Saint-Denis",
+            "CodePostal": "93024",
+            "NomCommune": "Bobigny Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 93 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4367485,
+          48.9067551
+        ]
+      },
+      "properties": {
+        "id": "caf-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-Saint-Denis - siège de Bobigny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "52 rue de la République",
+          "CodePostal": "93024",
+          "NomCommune": "Bobigny Cedex",
+          "Localisation": {
+            "Latitude": "48.9067551",
+            "Longitude": "2.4367485",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 93 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h45 à 12h et de 13h à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3617303,
+          48.9383142
+        ]
+      },
+      "properties": {
+        "id": "caf-93066-01",
+        "codeInsee": "93066",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-Saint-Denis - accueil de Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "9 boulevard de la Commune-de-Paris",
+            "CodePostal": "93200",
+            "NomCommune": "Saint-Denis",
+            "Localisation": {
+              "Latitude": "48.9383142",
+              "Longitude": "2.3617303",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales de Seine-Saint-Denis",
+            "CodePostal": "93024",
+            "NomCommune": "Bobigny Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 93 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 8h45 à 12h et de 13h à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4949426,
+          48.9452121
+        ]
+      },
+      "properties": {
+        "id": "caf-93005-01",
+        "codeInsee": "93005",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-Saint-Denis - accueil d'Aulnay-sous-Bois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "134 rue Jacques-Duclos",
+            "CodePostal": "93600",
+            "NomCommune": "Aulnay-sous-Bois",
+            "Localisation": {
+              "Latitude": "48.9452121",
+              "Longitude": "2.4949426",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Caisse d'allocations familiales de Seine-Saint-Denis",
+            "CodePostal": "93024",
+            "NomCommune": "Bobigny Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 93 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

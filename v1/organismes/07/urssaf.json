@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.604208,
+          44.737592
+        ]
+      },
+      "properties": {
+        "id": "urssaf-07186-01",
+        "codeInsee": "07186",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site de Privas",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "La Chaumette",
+            "CodePostal": "07000",
+            "NomCommune": "Privas",
+            "Localisation": {
+              "Latitude": "44.737592",
+              "Longitude": "4.604208",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 40001"
+            ],
+            "CodePostal": "38046",
+            "NomCommune": "Grenoble Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.rhonealpes.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

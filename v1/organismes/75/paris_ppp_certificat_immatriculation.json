@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369506,
+          48.8298382
+        ]
+      },
+      "properties": {
+        "id": "paris_ppp_certificat_immatriculation-75113-01",
+        "codeInsee": "75113",
+        "dateMiseAJour": "2017-02-22",
+        "pivotLocal": "paris_ppp_certificat_immatriculation",
+        "Nom": "Préfecture de police de Paris - Bureau des certifications d'immatriculation (ex-cartes grises)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "42, rue Charcot",
+            "CodePostal": "75013",
+            "NomCommune": "Paris",
+            "Localisation": {
+              "Latitude": "48.8298382",
+              "Longitude": "2.369506",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Bureau des cartes grises - DPG/SDCLP",
+              "Cellule des cartes grises par correspondance",
+              "9, boulevard du Palais"
+            ],
+            "CodePostal": "75195",
+            "NomCommune": "Paris Cedex 04"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet, Accueil téléphonique ouvert de 8h45 à 12h.",
+            "$t": "3430"
+          },
+          "Email": "pp-dpg-cartegrise@interieur.gouv.fr",
+          "Url": "https://www.rdv-cartegrise-ppol.interieur.gouv.fr/eAppointmentCGI/element/jsp/specific/pgcp_DSIC_CGG.jsp"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Uniquement sur rendez-vous, par téléphone ou par internet."
+          }
+        }
+      }
+    }
+  ]
+}

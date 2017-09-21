@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.44637,
+          44.9289
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-04-20",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Rieu",
+          "CodePostal": "15007",
+          "NomCommune": "Aurillac Cedex",
+          "Localisation": {
+            "Latitude": "44.9289",
+            "Longitude": "2.44637",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 46 83 60",
+          "Télécopie": "04 71 46 83 75",
+          "Email": "auver-utu15.direction@direccte.gouv.fr",
+          "Url": "http://www.auvergne.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

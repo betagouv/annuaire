@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2662,
+          43.7034
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Alpes Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "455 promenade des Anglais",
+            "Porte de l'Arénas",
+            "Immeuble B - 3e étage",
+            "CS 43311"
+          ],
+          "CodePostal": "06206",
+          "NomCommune": "Nice Cedex 3",
+          "Localisation": {
+            "Latitude": "43.7034",
+            "Longitude": "7.2662",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 93 72 76 00",
+          "Télécopie": "+33 4 93 83 66 90",
+          "Email": "dd-06.direction@direccte.gouv.fr",
+          "Url": "http://www.paca.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              "Note": "Accueil ouvert uniquement pour le service des renseignements."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "15:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

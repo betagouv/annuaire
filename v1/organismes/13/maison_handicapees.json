@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365659,
+          43.3151525
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-13203-01",
+        "codeInsee": "13203",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 quai d'Arenc",
+            "CS 80096"
+          ],
+          "CodePostal": "13304",
+          "NomCommune": "Marseille Cedex 2",
+          "Localisation": {
+            "Latitude": "43.3151525",
+            "Longitude": "5.365659",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 81 48 44"
+          },
+          "Email": "accueil.information.mdph@mdph13.fr",
+          "Url": "http://www.cd13.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Permanence téléphonique le 1er et le 3e vendredi du mois."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

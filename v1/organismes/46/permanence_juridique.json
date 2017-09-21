@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0357282,
+          44.6107587
+        ]
+      },
+      "properties": {
+        "codeInsee": "46102",
+        "dateMiseAJour": "2015-11-03",
+        "id": "permanence_juridique-46102-01",
+        "idPresta": "4cac9e5f293594648a0002e0",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit - PAD de FIGEAC",
+        "EditeurSource": "Comarquage.fr",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Ancien Tribunal d'Instance",
+            "bd Georges Juskiewenski"
+          ],
+          "CodePostal": "46100",
+          "NomCommune": "FIGEAC",
+          "Localisation": {
+            "Latitude": "44.6107587",
+            "Longitude": "2.0357282",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 50 03 20",
+          "Email": "mailto:pad-figeac@orange.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "Tous les lundis et jeudis : 9h à 12h - 14h à 17h\net les mercredis après-midi de 14h à 17h"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3850892,
+          44.736701
+        ]
+      },
+      "properties": {
+        "codeInsee": "46127",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-46127-01",
+        "idPresta": "4cac9e5f293594648a0002e1",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques de Gourdon",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison communautaire",
+            "98 avenue Gambetta"
+          ],
+          "CodePostal": "46300",
+          "NomCommune": "GOURDON",
+          "Localisation": {
+            "Latitude": "44.736701",
+            "Longitude": "1.3850892",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 50 05 40",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

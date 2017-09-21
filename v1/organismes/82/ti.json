@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.107335,
+          44.039808
+        ]
+      },
+      "properties": {
+        "codeInsee": "82033",
+        "dateMiseAJour": "2015-05-07",
+        "id": "ti-82033-01",
+        "idPresta": "4cac9e6a293594648a001811",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Castelsarrasin",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 ter rue de la Fraternité",
+          "CodePostal": "82100",
+          "NomCommune": "CASTELSARRASIN",
+          "Localisation": {
+            "Latitude": "44.039808",
+            "Longitude": "1.107335",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 32 72 10",
+          "Télécopie": "+33 5 63 32 72 19",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.353348,
+          44.0169
+        ]
+      },
+      "properties": {
+        "codeInsee": "82121",
+        "dateMiseAJour": "2016-11-25",
+        "id": "ti-82121-01",
+        "idPresta": "4cac9e6a293594648a001812",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Montauban",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 place du Coq",
+            "BP 749"
+          ],
+          "CodePostal": "82013",
+          "NomCommune": "MONTAUBAN CEDEX",
+          "Localisation": {
+            "Latitude": "44.0169",
+            "Longitude": "1.353348",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 21 40 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

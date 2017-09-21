@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.401972,
+          43.5841823
+        ]
+      },
+      "properties": {
+        "id": "fdc-13001-01",
+        "codeInsee": "13001",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "950 chemin de Maliverny",
+          "CodePostal": "13540",
+          "NomCommune": "Puyricard - Aix-en-Provence",
+          "Localisation": {
+            "Latitude": "43.5841823",
+            "Longitude": "5.401972",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 42 92 16 75",
+          "Télécopie": "04 42 92 26 48",
+          "Email": "contact@fdc-13.com",
+          "Url": "http://www.fdc-13.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "15:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

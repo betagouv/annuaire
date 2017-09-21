@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.363232,
+          43.8317258
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Nîmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture du Gard",
+            "1 rue Guillemette"
+          ],
+          "CodePostal": "30045",
+          "NomCommune": "Nîmes Cedex 9",
+          "Localisation": {
+            "Latitude": "43.8317258",
+            "Longitude": "4.363232",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 36 40 19",
+          "Télécopie": "04 66 36 41 76",
+          "Email": "pref-associations@gard.gouv.fr",
+          "Url": "http://www.gard.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6044077,
+          43.9898707
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-30350-01",
+        "codeInsee": "30350",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations du Vigan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture du Vigan",
+            "Service des associations",
+            "24 rue des Barris"
+          ],
+          "CodePostal": "30123",
+          "NomCommune": "Le Vigan Cedex",
+          "Localisation": {
+            "Latitude": "43.9898707",
+            "Longitude": "3.6044077",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 81 67 12",
+          "Télécopie": "+33 4 67 81 87 08",
+          "Email": "francoise.chene@gard.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

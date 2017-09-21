@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9274683,
+          45.5707861
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Chambéry",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale et de la protection des populations de Savoie",
+            "Service jeunesse, sports et vie associative",
+            "321, chemin des Moulins"
+          ],
+          "CodePostal": "73011",
+          "NomCommune": "Chambéry Cedex",
+          "Localisation": {
+            "Latitude": "45.5707861",
+            "Longitude": "5.9274683",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 56 11 06 51",
+          "Télécopie": "+33 4 79 33 06 19",
+          "Email": "francoise.cosnefroy@savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3882402,
+          45.6743382
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-73011-01",
+        "codeInsee": "73011",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Saint-Jean-de-Maurienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture d'Albertville",
+            "Service des associations",
+            "8 rue Jean-Baptiste-Mathias"
+          ],
+          "CodePostal": "73207",
+          "NomCommune": "Saint-Jean-de-Marienne Cedex",
+          "Localisation": {
+            "Latitude": "45.6743382",
+            "Longitude": "6.3882402",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 59 56 11",
+          "Télécopie": "04 79 59 95 27",
+          "Email": "pref-associations@savoie.gouv.fr",
+          "Url": "http://www.associations.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.344672,
+          45.276266
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-73248-01",
+        "codeInsee": "73248",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Saint-Jean-de-Maurienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Saint-Jean-de-Maurienne",
+            "Service des associations",
+            "Rue de la Sous-Préfecture",
+            "BP 106"
+          ],
+          "CodePostal": "73302",
+          "NomCommune": "Saint-Jean-de-Maurienne Cedex",
+          "Localisation": {
+            "Latitude": "45.276266",
+            "Longitude": "6.344672",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 59 56 11",
+          "Télécopie": "04 79 59 95 27",
+          "Email": "pref-associations@savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 10h à 12h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

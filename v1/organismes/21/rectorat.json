@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0532832,
+          47.3315199
+        ]
+      },
+      "properties": {
+        "id": "rectorat-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Dijon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 G rue Général-Delaborde",
+            "BP 81921"
+          ],
+          "CodePostal": "21019",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3315199",
+            "Longitude": "5.0532832",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 44 84 00",
+          "Url": "http://www.ac-dijon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

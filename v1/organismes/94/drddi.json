@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3612952,
+          48.7415714
+        ]
+      },
+      "properties": {
+        "id": "drddi-94054-01",
+        "codeInsee": "94054",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Orly",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 allée du Commandant-Mouchotte",
+            "BP 405"
+          ],
+          "CodePostal": "94546",
+          "NomCommune": "Orly Aérogare Ouest Cedex",
+          "Localisation": {
+            "Latitude": "48.7415714",
+            "Longitude": "2.3612952",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accueil au rez-de-chaussée, un agent peut descendre traiter la demande de l'usager"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 49 75 84 00",
+          "Télécopie": "01 49 75 84 01",
+          "Email": "dr-orly@douane.finances.gouv.fr",
+          "Url": "http://www.douane.finances.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "20:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 17h30."
+          }
+        }
+      }
+    }
+  ]
+}

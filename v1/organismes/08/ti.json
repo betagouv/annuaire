@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.943716,
+          49.70259
+        ]
+      },
+      "properties": {
+        "codeInsee": "08409",
+        "dateMiseAJour": "2015-10-16",
+        "id": "ti-08409-01",
+        "idPresta": "4cac9e61293594648a000614",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Sedan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue de la Comédie",
+            "BP 90234"
+          ],
+          "CodePostal": "08208",
+          "NomCommune": "SEDAN CEDEX",
+          "Localisation": {
+            "Latitude": "49.70259",
+            "Longitude": "4.943716",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 24 29 10 17",
+          "Télécopie": "+33 3 24 29 80 58",
+          "Email": "mailto:ti-sedan@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.717206,
+          49.771015
+        ]
+      },
+      "properties": {
+        "codeInsee": "08105",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-08105-01",
+        "idPresta": "4cac9e87293594648a004cda",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Charleville-Mézières",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 rue Mme de Sévigné",
+          "CodePostal": "08000",
+          "NomCommune": "CHARLEVILLE MEZIERES",
+          "Localisation": {
+            "Latitude": "49.771015",
+            "Longitude": "4.717206",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 24 56 34 13",
+          "Télécopie": "+33 3 24 59 35 22",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

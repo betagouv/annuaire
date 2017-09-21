@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0651957,
+          48.2946495
+        ]
+      },
+      "properties": {
+        "codeInsee": "10387",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-10387-01",
+        "idPresta": "4cac9e69293594648a0016de",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Troyes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Bégand",
+          "CodePostal": "10000",
+          "NomCommune": "TROYES",
+          "Localisation": {
+            "Latitude": "48.2946495",
+            "Longitude": "4.0651957",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 83 17 29",
+          "Url": "http://www.prudhomme.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

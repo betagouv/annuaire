@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88502001762,
+          45.042098999
+        ]
+      },
+      "properties": {
+        "id": "onac-43157-01",
+        "codeInsee": "43157",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 place du Breuil",
+          "CodePostal": "43000",
+          "NomCommune": "Le-Puy-en-Velay",
+          "Localisation": {
+            "Latitude": "45.042098999",
+            "Longitude": "3.88502001762",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 09 32 46",
+          "Email": "sec.sd43@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:43/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

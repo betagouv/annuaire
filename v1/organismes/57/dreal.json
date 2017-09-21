@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1717722,
+          49.0605511
+        ]
+      },
+      "properties": {
+        "id": "dreal-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2017-01-11",
+        "pivotLocal": "dreal",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est - Siège de Metz",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Greenpark",
+            "2 rue Augustin-Fresnel",
+            "BP 95038"
+          ],
+          "CodePostal": "57071",
+          "NomCommune": "Metz Cedex 3",
+          "Localisation": {
+            "Latitude": "49.0605511",
+            "Longitude": "6.1717722",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée uniquement"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 87 62 81 00",
+          "Télécopie": "03 87 62 81 99",
+          "Email": "http://www.grand-est.developpement-durable.gouv.fr/contacter-la-dreal-r12.html",
+          "Url": "http://www.grand-est.developpement-durable.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

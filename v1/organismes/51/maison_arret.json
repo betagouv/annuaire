@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367429,
+          48.962136
+        ]
+      },
+      "properties": {
+        "codeInsee": "51108",
+        "dateMiseAJour": "2016-12-30",
+        "id": "maison_arret-51108-01",
+        "idPresta": "4eb2632d2935944ef5000152",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Châlons-en-Champagne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, rue Jacques SONGY",
+          "CodePostal": "51022",
+          "NomCommune": "CHALONS EN CHAMPAGNE CEDEX",
+          "Localisation": {
+            "Latitude": "48.962136",
+            "Longitude": "4.367429",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 26 65 17 87",
+          "Télécopie": "+33 3 26 65 90 97",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.027327,
+          49.270536
+        ]
+      },
+      "properties": {
+        "codeInsee": "51454",
+        "dateMiseAJour": "2016-12-30",
+        "id": "maison_arret-51454-01",
+        "idPresta": "4eb2632d2935944ef5000155",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Reims",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "23 boulevard Robespierre",
+          "CodePostal": "51090",
+          "NomCommune": "REIMS CEDEX",
+          "Localisation": {
+            "Latitude": "49.270536",
+            "Longitude": "4.027327",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 26 09 37 83",
+          "Télécopie": "+33 3 26 09 76 83",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

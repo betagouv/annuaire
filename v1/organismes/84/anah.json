@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8059666,
+          43.9486126
+        ]
+      },
+      "properties": {
+        "id": "anah-84007-01",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2017-02-14",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Vaucluse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Services de l'état en Vaucluse",
+              "Direction départementale des territoires",
+              "Cité administrative",
+              "Avenue du 7e-Génie"
+            ],
+            "CodePostal": "84000",
+            "NomCommune": "Avignon",
+            "Localisation": {
+              "Latitude": "43.9486126",
+              "Longitude": "4.8059666",
+              "Précision": "4"
+            },
+            "Accessibilité": {
+              "type": "DEM"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Services de l'état en Vaucluse",
+              "Direction départementale des territoires",
+              "VLH",
+              "28, boulevard Limbert"
+            ],
+            "CodePostal": "84905",
+            "NomCommune": "Avignon Cedex 9",
+            "Localisation": {
+              "Latitude": "43.9493817",
+              "Longitude": "4.8193879",
+              "Précision": "8"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "08 08 800 700",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

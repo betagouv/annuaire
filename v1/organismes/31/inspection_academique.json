@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4467724,
+          43.5782205
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "75 rue Saint-Roch",
+            "CodePostal": "31400",
+            "NomCommune": "Toulouse",
+            "Localisation": {
+              "Latitude": "43.5782205",
+              "Longitude": "1.4467724",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Rectorat de l'Académie",
+              "CS 87703"
+            ],
+            "CodePostal": "31077",
+            "NomCommune": "Toulouse Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "05 36 25 70 00",
+          "Email": "contact@ac-toulouse.fr",
+          "Url": "http://www.ac-toulouse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

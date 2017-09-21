@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.648707,
+          49.632333
+        ]
+      },
+      "properties": {
+        "id": "fdapp-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 chemin du Pont-de-la-Planche",
+          "CodePostal": "02000",
+          "NomCommune": "Barenton-Bugny",
+          "Localisation": {
+            "Latitude": "49.632333",
+            "Longitude": "3.648707",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 23 13 16",
+          "Télécopie": "03 23 79 60 25",
+          "Email": "fed.peche.02@wanadoo.fr",
+          "Url": "http://www.federationpeche.com/02"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

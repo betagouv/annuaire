@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7338235,
+          41.9171497
+        ]
+      },
+      "properties": {
+        "id": "rectorat-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie d'Ajaccio",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Boulevard Pascal-Rossini",
+            "BP 808"
+          ],
+          "CodePostal": "20192",
+          "NomCommune": "Ajaccio Cedex 4",
+          "Localisation": {
+            "Latitude": "41.9171497",
+            "Longitude": "8.7338235",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 50 33 33",
+          "Télécopie": "04 95 51 27 06",
+          "Email": "webmestre@ac-corse.fr",
+          "Url": "http://www.ac-corse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

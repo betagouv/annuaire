@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21332979202,
+          46.1822013855
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-01289-01",
+        "codeInsee": "01289",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des communes",
+            "119 chemin Bellevue"
+          ],
+          "CodePostal": "01960",
+          "NomCommune": "Péronnas",
+          "Localisation": {
+            "Latitude": "46.1822013855",
+            "Longitude": "5.21332979202",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 37 62 11 60",
+          "Télécopie": "04 74 21 57 69",
+          "Email": "antenne.ain@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

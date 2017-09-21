@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15563988686,
+          48.8037376404
+        ]
+      },
+      "properties": {
+        "id": "caa-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Versailles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 esplanade Grand-Siècle",
+            "CS 1102"
+          ],
+          "CodePostal": "78011",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.8037376404",
+            "Longitude": "2.15563988686",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 30 84 47 00",
+          "Télécopie": "01 30 84 47 04",
+          "Email": "greffe.caa-versailles@juradm.fr",
+          "Url": "http://versailles.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

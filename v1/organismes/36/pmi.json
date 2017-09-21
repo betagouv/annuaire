@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0672098,
+          46.6324149
+        ]
+      },
+      "properties": {
+        "id": "pmi-36018-01",
+        "codeInsee": "36018",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) du Blanc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Jean-Giraudoux",
+          "CodePostal": "36300",
+          "NomCommune": "Le Blanc",
+          "Localisation": {
+            "Latitude": "46.6324149",
+            "Longitude": "1.0672098",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 28 35 20",
+          "Télécopie": "+33 2 54 28 69 78"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.703094,
+          46.8102377
+        ]
+      },
+      "properties": {
+        "id": "pmi-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction de la prévention et du développement social",
+            "Centre Colbert",
+            "4 rue Eugène-Rolland",
+            "BP 601"
+          ],
+          "CodePostal": "36020",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8102377",
+            "Longitude": "1.703094",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 08 38 09",
+          "Télécopie": "02 54 08 38 98",
+          "Email": "dpds-pmi@indre.fr",
+          "Url": "http://www.indre.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:15:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

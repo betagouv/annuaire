@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5460496,
+          46.8177607
+        ]
+      },
+      "properties": {
+        "codeInsee": "86066",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-86066-01",
+        "idPresta": "4cac9e61293594648a00050b",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Châtellerault",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel de ville",
+            "78 boulevard Blossac"
+          ],
+          "CodePostal": "86100",
+          "NomCommune": "CHATELLERAULT",
+          "Localisation": {
+            "Latitude": "46.8177607",
+            "Longitude": "0.5460496",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341038,
+          46.584375
+        ]
+      },
+      "properties": {
+        "codeInsee": "86194",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-86194-01",
+        "idPresta": "4cac9e61293594648a00050d",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Poitiers",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tribunal d'instance",
+            "24 rue Moulin à Vent",
+            "BP 79"
+          ],
+          "CodePostal": "86002",
+          "NomCommune": "POITIERS CEDEX",
+          "Localisation": {
+            "Latitude": "46.584375",
+            "Longitude": "0.341038",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

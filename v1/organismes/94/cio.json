@@ -1,0 +1,829 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4081321,
+          48.8248683
+        ]
+      },
+      "properties": {
+        "id": "cio-94018-01",
+        "codeInsee": "94018",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Charenton-le-Pont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "131 bis rue de Paris",
+          "CodePostal": "94220",
+          "NomCommune": "Charenton-le-Pont",
+          "Localisation": {
+            "Latitude": "48.8248683",
+            "Longitude": "2.4081321",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 68 15 79",
+          "Télécopie": "01 49 77 79 71",
+          "Email": "cio.charenton@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ],
+              "Note": "Horaires pendant les congés scolaires de 9h à 12h30 et de 13h30 à 17h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4372072,
+          48.8484988
+        ]
+      },
+      "properties": {
+        "id": "cio-94080-01",
+        "codeInsee": "94080",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Vincennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence Saint Louis",
+            "46 avenue du Château"
+          ],
+          "CodePostal": "94300",
+          "NomCommune": "Vincennes",
+          "Localisation": {
+            "Latitude": "48.8484988",
+            "Longitude": "2.4372072",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 28 04 73",
+          "Télécopie": "01 43 74 68 85",
+          "Email": "cio.vincennes@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3414161,
+          48.7761869
+        ]
+      },
+      "properties": {
+        "id": "cio-94038-01",
+        "codeInsee": "94038",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de L’Haÿ-les-Roses",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de Chevilly",
+          "CodePostal": "94240",
+          "NomCommune": "L'Haÿ-les-Roses",
+          "Localisation": {
+            "Latitude": "48.7761869",
+            "Longitude": "2.3414161",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 46 64 19 12",
+          "Email": "cio.lhay@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.frcio-lhaylesroses"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3907942,
+          48.8140548
+        ]
+      },
+      "properties": {
+        "id": "cio-94041-01",
+        "codeInsee": "94041",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) d'Ivry-sur-Seine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 place Marcel-Cachin",
+          "CodePostal": "94205",
+          "NomCommune": "Ivry-Sur-Seine Cedex",
+          "Localisation": {
+            "Latitude": "48.8140548",
+            "Longitude": "2.3907942",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 46 72 78 20",
+          "Télécopie": "01 46 72 04 40",
+          "Email": "cio.ivry@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.frcio-ivry"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil fermé pendant les vacances scolaires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.46810007095,
+          48.775100708
+        ]
+      },
+      "properties": {
+        "id": "cio-94028-01",
+        "codeInsee": "94028",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Créteil",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue Louis-Blériot",
+          "CodePostal": "94000",
+          "NomCommune": "Créteil",
+          "Localisation": {
+            "Latitude": "48.775100708",
+            "Longitude": "2.46810007095",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 49 56 06 94",
+          "Télécopie": "01 43 77 49 70",
+          "Email": "cio.creteil@ac-creteil.fr",
+          "Url": "http://www.orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert du lundi au vendredi de 9h30 à 13h et de 13h30 à 17h pendant les vacances scolaires."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48836994171,
+          48.7957000732
+        ]
+      },
+      "properties": {
+        "id": "cio-94068-01",
+        "codeInsee": "94068",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Saint-Maur-des-Fossés",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "72 avenue Henri-Martin",
+          "CodePostal": "94100",
+          "NomCommune": "Saint-Maur-des-Fossés",
+          "Localisation": {
+            "Latitude": "48.7957000732",
+            "Longitude": "2.48836994171",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "passer par la cour de l'école"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 42 83 64 62",
+          "Télécopie": "01 42 83 64 91",
+          "Email": "cio.st-maur@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous un samedi par mois."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37122011185,
+          48.7858009338
+        ]
+      },
+      "properties": {
+        "id": "cio-94076-01",
+        "codeInsee": "94076",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Villejuif",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 avenue Paul-Vaillant-Couturier",
+          "CodePostal": "94800",
+          "NomCommune": "Villejuif",
+          "Localisation": {
+            "Latitude": "48.7858009338",
+            "Longitude": "2.37122011185",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 46 77 69 33",
+          "Email": "cio.villejuif@ac-creteil.fr",
+          "Url": "http://www.orientation.ac-creteil.frcio-villejuif"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h30 à 12h30 et de 13h30 à 17h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h30 à 12h30 et de 13h30 à 17h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "19:00:00"
+                }
+              ],
+              "Note": "Accueil de juin à octobre de 9h à 12h et de 13h30 à 17h. Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h30 à 12h30 et de 13h30 à 17h. Accueil fermé de mi-juillet à mi-août."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4827299118,
+          48.8413009644
+        ]
+      },
+      "properties": {
+        "id": "cio-94052-01",
+        "codeInsee": "94052",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Nogent-sur-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "124 boulevard de Strasbourg",
+          "CodePostal": "94130",
+          "NomCommune": "Nogent-sur-Marne",
+          "Localisation": {
+            "Latitude": "48.8413009644",
+            "Longitude": "2.4827299118",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 76 04 10",
+          "Télécopie": "01 48 76 66 34",
+          "Email": "cio.nogent@ac-creteil.fr",
+          "Url": "http://www.orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert jusqu'à 19h le mercredi."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.50362992287,
+          48.7528991699
+        ]
+      },
+      "properties": {
+        "id": "cio-94004-01",
+        "codeInsee": "94004",
+        "dateMiseAJour": "2015-01-15",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Boissy-Saint-Léger",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3, avenue Charles-de-Gaulle",
+            "6e étage"
+          ],
+          "CodePostal": "94470",
+          "NomCommune": "Boissy-Saint-Léger",
+          "Localisation": {
+            "Latitude": "48.7528991699",
+            "Longitude": "2.50362992287",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 45 69 65 73",
+          "Télécopie": "+33 1 45 69 90 80",
+          "Email": "cio.boissy@ac-creteil.fr",
+          "Url": "http://www.education.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              "Note": "Accueil ouvert le 1er et 3e samedi du mois, sauf pendant les congés scolaires."
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5007717,
+          48.816644
+        ]
+      },
+      "properties": {
+        "id": "cio-94017-01",
+        "codeInsee": "94017",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Champigny-sur-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "155 avenue Roger-Salengro",
+          "CodePostal": "94500",
+          "NomCommune": "Champigny-sur-Marne",
+          "Localisation": {
+            "Latitude": "48.816644",
+            "Longitude": "2.5007717",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 80 98 31",
+          "Télécopie": "01 48 80 60 01",
+          "Email": "cio.champigny@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert pendant les congés scolaires de 9h à 12h30 et de 13h30 à 16h."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires de 9h à 12h30 et de 13h30 à 16h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires de 9h à 12h30 et de 13h30 à 16h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert pendant les congés scolaires de 9h à 12h30 et de 13h30 à 16h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4078042,
+          48.7612919
+        ]
+      },
+      "properties": {
+        "id": "cio-94022-01",
+        "codeInsee": "94022",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Choisy-le-Roi",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 avenue de la République",
+          "CodePostal": "94600",
+          "NomCommune": "Choisy-le-Roi",
+          "Localisation": {
+            "Latitude": "48.7612919",
+            "Longitude": "2.4078042",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 52 30 18",
+          "Télécopie": "01 48 90 65 52",
+          "Email": "cio.choisy@ac-creteil.fr",
+          "Url": "http://orientation.ac-creteil.frcio-choisyleroi"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

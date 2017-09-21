@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08060464285,
+          44.5624911343
+        ]
+      },
+      "properties": {
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-05061-01",
+        "idPresta": "4cac9e5e293594648a000078",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de GAP",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison Pommier",
+            "rue des jardins",
+            "(en face du parking de Bonne)"
+          ],
+          "CodePostal": "05000",
+          "NomCommune": "GAP",
+          "Localisation": {
+            "Latitude": "44.5624911343",
+            "Longitude": "6.08060464285",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 52 10 27",
+          "Télécopie": "+33 4 92 51 76 54",
+          "Email": "mailto:mediavic05@wanadoo.fr",
+          "Url": "http://www.justice.gouv.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

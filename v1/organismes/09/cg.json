@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5994007,
+          42.9611082
+        ]
+      },
+      "properties": {
+        "id": "cg-09122-01",
+        "codeInsee": "09122",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Ariège",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "5 rue du Cap-de-la-Ville",
+            "BP 60023"
+          ],
+          "CodePostal": "09001",
+          "NomCommune": "Foix Cedex",
+          "Localisation": {
+            "Latitude": "42.9611082",
+            "Longitude": "1.5994007",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 02 09 09",
+          "Télécopie": "05 61 02 78 41",
+          "Url": "http://www.ariege.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8216766,
+          43.9480723
+        ]
+      },
+      "properties": {
+        "id": "prefecture-84007-01",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2014-05-19",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Vaucluse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2, avenue de la Folie",
+            "CodePostal": "84000",
+            "NomCommune": "Avignon",
+            "Localisation": {
+              "Latitude": "43.9480723",
+              "Longitude": "4.8216766",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Services de l'Etat en Vaucluse Préfecture",
+            "CodePostal": "84905",
+            "NomCommune": "Avignon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 88 17 84 84",
+          "Email": "pref-contact@vaucluse.gouv.fr",
+          "Url": "http://www.vaucluse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Attention ! Les guichets Immatriculations des véhicules sont ouverts de 8h30 à 12h sauf le mercredi. Les guichets Permis de conduire sont ouverts de 8h30 à 12h sauf le mercredi, le service reçoit sur rendez-vous le mardi de 13h30 à 16h. Les guichets Titres de séjour, Visas et Asile sont ouverts le lundi, le mercredi, le jeudi et le vendredi de 8h30 à 11h30 et le mardi de 8h30 à 11h30 et de 13h30 à 16h. Les guichets Naturalisations sont ouverts tous les jours de 8h30 à 11h30 sauf le mercredi. Le service Livrets de circulation est ouvert tous les jours de 8h30 à 11h30."
+          }
+        }
+      }
+    }
+  ]
+}

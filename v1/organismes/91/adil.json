@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42167,
+          48.6349
+        ]
+      },
+      "properties": {
+        "id": "adil-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale de l'habitat",
+            "1 boulevard de l'Écoute-s'il-Pleut",
+            "BP 94"
+          ],
+          "CodePostal": "91003",
+          "NomCommune": "Évry Cedex",
+          "Localisation": {
+            "Latitude": "48.6349",
+            "Longitude": "2.42167",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 77 21 22",
+          "Télécopie": "01 64 97 27 03",
+          "Email": "adil.91@wanadoo.fr",
+          "Url": "http://www.adil91.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

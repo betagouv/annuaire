@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2410075,
+          43.6052913
+        ]
+      },
+      "properties": {
+        "id": "fdapp-81065-01",
+        "codeInsee": "81065",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Tarn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3-5 rue des Jardins-Neufs",
+          "CodePostal": "81100",
+          "NomCommune": "Castres",
+          "Localisation": {
+            "Latitude": "43.6052913",
+            "Longitude": "2.2410075",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 35 55 56",
+          "Télécopie": "05 63 51 16 65",
+          "Email": "federation81@pechetarn.fr",
+          "Url": "http://www.pechetarn.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

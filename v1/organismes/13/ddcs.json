@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3838399,
+          43.2830541
+        ]
+      },
+      "properties": {
+        "id": "ddcs-13055-01",
+        "codeInsee": "13055",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) des Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "66 A, rue Saint-Sébastien",
+          "CodePostal": "13281",
+          "NomCommune": "Marseille Cedex 6",
+          "Localisation": {
+            "Latitude": "43.2830541",
+            "Longitude": "5.3838399",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 00 57 00",
+          "Télécopie": "+33 4 91 53 10 30",
+          "Email": "ddcs@bouches-du-rhone.gouv.fr",
+          "Url": "http://www.bouches-du-rhone.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

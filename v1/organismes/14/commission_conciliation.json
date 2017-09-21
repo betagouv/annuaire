@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34679800272,
+          49.1953010559
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Calvados",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "2, place Jean-Nouzille",
+            "CS 35327"
+          ],
+          "CodePostal": "14053",
+          "NomCommune": "Caen Cedex 4",
+          "Localisation": {
+            "Latitude": "49.1953010559",
+            "Longitude": "-0.34679800272",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 31 52 73 94",
+          "Télécopie": "+33 2 31 52 74 10",
+          "Email": "ddcs14-direction@calvados.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

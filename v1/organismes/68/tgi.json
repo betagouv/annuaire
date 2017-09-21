@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3584175,
+          48.075511
+        ]
+      },
+      "properties": {
+        "codeInsee": "68066",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-68066-01",
+        "idPresta": "4cac9ed7293594648a00ee17",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Colmar",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Marché aux Fruits",
+          "CodePostal": "68027",
+          "NomCommune": "COLMAR CEDEX",
+          "Localisation": {
+            "Latitude": "48.075511",
+            "Longitude": "7.3584175",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 20 56 00",
+          "Télécopie": "+33 3 89 23 60 23",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.342856,
+          47.752329
+        ]
+      },
+      "properties": {
+        "codeInsee": "68224",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-68224-01",
+        "idPresta": "4cac9e6a293594648a0017b4",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Mulhouse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "21 avenue Robert Schumann",
+            "CS 63009"
+          ],
+          "CodePostal": "68061",
+          "NomCommune": "MULHOUSE CEDEX 3",
+          "Localisation": {
+            "Latitude": "47.752329",
+            "Longitude": "7.342856",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 36 25 00",
+          "Télécopie": "+33 3 89 45 82 10",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

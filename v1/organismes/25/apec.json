@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.001939,
+          47.249531
+        ]
+      },
+      "properties": {
+        "id": "apec-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "apec",
+        "Nom": "Association pour l'emploi des cadres (Apec) de Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Novatech Plaza",
+            "TEMIS",
+            "2 G avenue de Montboucons"
+          ],
+          "CodePostal": "25000",
+          "NomCommune": "Besançon",
+          "Localisation": {
+            "Latitude": "47.249531",
+            "Longitude": "6.001939",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro gris : service gratuit + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 09 36 12 12"
+          },
+          "Email": "act.cour@apec.fr",
+          "Url": "http://www.apec.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

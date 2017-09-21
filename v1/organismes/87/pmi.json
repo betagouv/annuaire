@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.896976699999982,
+          45.8864156
+        ]
+      },
+      "properties": {
+        "id": "pmi-87154-01",
+        "codeInsee": "87154",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Saint-Junien",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Alfred-de-Musset",
+          "CodePostal": "87200",
+          "NomCommune": "Saint-Junien",
+          "Localisation": {
+            "Latitude": "45.8864156",
+            "Longitude": "0.896976699999982",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 43 06 06"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.06315994263,
+          46.123500824
+        ]
+      },
+      "properties": {
+        "id": "pmi-87011-01",
+        "codeInsee": "87011",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Bellac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "32 rue Vincent-Auriol",
+          "CodePostal": "87300",
+          "NomCommune": "Bellac",
+          "Localisation": {
+            "Latitude": "46.123500824",
+            "Longitude": "1.06315994263",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 68 15 87",
+          "Télécopie": "05 55 60 29 31",
+          "Url": "http://www.cg87.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25013005733,
+          45.8302993774
+        ]
+      },
+      "properties": {
+        "id": "pmi-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Limoges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue François-Chénieux",
+            "CS 83112"
+          ],
+          "CodePostal": "87031",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8302993774",
+            "Longitude": "1.25013005733",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 44 00 11 65",
+          "Télécopie": "05 44 00 14 40",
+          "Email": "contact.sppe@haute-vienne.fr",
+          "Url": "http://www.haute-vienne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Permanence téléphonique du lundi au vendredi de 12h30 à 13h30."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

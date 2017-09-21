@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3039509,
+          49.8709612
+        ]
+      },
+      "properties": {
+        "id": "ddpp-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2013-02-06",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "44, rue Alexandre-Dumas",
+          "CodePostal": "80094",
+          "NomCommune": "Amiens Cedex 3",
+          "Localisation": {
+            "Latitude": "49.8709612",
+            "Longitude": "2.3039509",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 70 15 80",
+          "Télécopie": "+33 3 22 70 15 16",
+          "Email": "ddpp@somme.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil et information des consommateurs"
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil téléphonique et physique"
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil et information des consommateurs"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

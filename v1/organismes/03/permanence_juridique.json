@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.334618,
+          46.564415
+        ]
+      },
+      "properties": {
+        "codeInsee": "03190",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-03190-02",
+        "idPresta": "4cd18fb32935940531010a29",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques de Moulins",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sésame",
+            "1-3 rue Berthelot"
+          ],
+          "CodePostal": "03000",
+          "NomCommune": "MOULINS",
+          "Localisation": {
+            "Latitude": "46.564415",
+            "Longitude": "3.334618",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 48 51 78",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.334637,
+          46.564351
+        ]
+      },
+      "properties": {
+        "codeInsee": "03190",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-03190-01",
+        "idPresta": "4cac9e5e293594648a00006d",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques de Moulins",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "SESAME",
+            "1-3 rue BERTHELOT"
+          ],
+          "CodePostal": "03000",
+          "NomCommune": "MOULINS",
+          "Localisation": {
+            "Latitude": "46.564351",
+            "Longitude": "3.334637",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 48 51 20",
+          "Télécopie": "+33 4 70 48 51 51",
+          "Url": "http://www.ville-moulins.fr/-Services-de-la-ville,25-.html",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "SESAME est ouvert du lundi au vendredi de 8h00 à 12h00 et de 13h30 à 17h00"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4276307,
+          46.1245492
+        ]
+      },
+      "properties": {
+        "codeInsee": "03310",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-03310-01",
+        "idPresta": "4cac9e5e293594648a00006f",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques de Vichy",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Salle des fêtes",
+            "place de l’Hôtel de Ville"
+          ],
+          "CodePostal": "03200",
+          "NomCommune": "VICHY",
+          "Localisation": {
+            "Latitude": "46.1245492",
+            "Longitude": "3.4276307",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 30 17 19",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

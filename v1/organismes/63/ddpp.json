@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0836769,
+          45.7773285
+        ]
+      },
+      "properties": {
+        "id": "ddpp-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture",
+            "18, boulevard Desaix"
+          ],
+          "CodePostal": "63033",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7773285",
+            "Longitude": "3.0836769",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 42 14 96",
+          "Email": "ddpp@puy-de-dome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Pour le démarchage à domicile, veuillez-vous adresser à ce site de la DDPP à : 63370 Lempdes. Marmilhat au 04 73 42 14 96"
+          }
+        }
+      }
+    }
+  ]
+}

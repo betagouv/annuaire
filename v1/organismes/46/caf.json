@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43805003166,
+          44.4432983398
+        ]
+      },
+      "properties": {
+        "id": "caf-46042-01",
+        "codeInsee": "46042",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Lot - siège de Cahors",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "304 rue Victor-Hugo",
+          "CodePostal": "46019",
+          "NomCommune": "Cahors Cedex 9",
+          "Localisation": {
+            "Latitude": "44.4432983398",
+            "Longitude": "1.43805003166",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 46 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.845304,
+          44.927231
+        ]
+      },
+      "properties": {
+        "id": "caf-46029-01",
+        "codeInsee": "46029",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Lot - accueil de Biars-sur-Cère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "32 avenue de la République"
+            ],
+            "CodePostal": "46130",
+            "NomCommune": "Biars-sur-Cère",
+            "Localisation": {
+              "Latitude": "44.927231",
+              "Longitude": "1.845304",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Lot",
+              "304 rue Victor-Hugo"
+            ],
+            "CodePostal": "46019",
+            "NomCommune": "Cahors Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 46 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0322838,
+          44.608026
+        ]
+      },
+      "properties": {
+        "id": "caf-46102-01",
+        "codeInsee": "46102",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Lot - accueil de Figeac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre social de prévention",
+              "8 place Vival"
+            ],
+            "CodePostal": "46100",
+            "NomCommune": "Figeac",
+            "Localisation": {
+              "Latitude": "44.608026",
+              "Longitude": "2.0322838",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Lot",
+              "304 rue Victor-Hugo"
+            ],
+            "CodePostal": "46019",
+            "NomCommune": "Cahors Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 46 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

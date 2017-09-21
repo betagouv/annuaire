@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75308704376,
+          48.5875320435
+        ]
+      },
+      "properties": {
+        "id": "prefecture-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 place de la République",
+            "BP 1047"
+          ],
+          "CodePostal": "67073",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5875320435",
+            "Longitude": "7.75308704376",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 88 21 67 68",
+          "Télécopie": "+33 3 88 21 62 16",
+          "Url": "http://www.bas-rhin.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "'08:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Les autres services que Passeport, Carte grise, Permis de conduire et Étrangers sont ouverts de 9h à 11h30 (les après-midi : uniquement sur rendez-vous)."
+          }
+        }
+      }
+    }
+  ]
+}

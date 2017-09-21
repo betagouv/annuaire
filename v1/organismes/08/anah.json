@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7079031,
+          49.7545225
+        ]
+      },
+      "properties": {
+        "id": "anah-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale des territoires",
+            "3 rue des Granges-Moulues",
+            "BP 852"
+          ],
+          "CodePostal": "08011",
+          "NomCommune": "Charleville-Mezières Cedex",
+          "Localisation": {
+            "Latitude": "49.7545225",
+            "Longitude": "4.7079031",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 51 16 51 00",
+          "Télécopie": "03 24 37 51 17",
+          "Email": "ddt-webmestre@ardennes.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

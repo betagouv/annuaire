@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69316697121,
+          48.1268234253
+        ]
+      },
+      "properties": {
+        "id": "prefecture-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2013-12-10",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3, avenue de la Préfecture",
+          "CodePostal": "35026",
+          "NomCommune": "Rennes Cedex 9",
+          "Localisation": {
+            "Latitude": "48.1268234253",
+            "Longitude": "-1.69316697121",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 02 10 35",
+          "Télécopie": "+33 2 99 02 10 15",
+          "Email": "prefecture@ille-et-vilaine.gouv.fr",
+          "Url": "http://www.bretagne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:45:00"
+              },
+              "Note": "pour en savoir plus sur les horaires d'ouverture, vous pouvez consulter la page de la préfecture : http://www.bretagne.gouv.fr/Structures-services/Prefectures-de-departement/Prefecture-35/Horaires-d-ouverture"
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

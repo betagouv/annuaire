@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083232400000043,
+          44.5592773
+        ]
+      },
+      "properties": {
+        "id": "cpam-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) des Hautes-Alpes - siège de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 boulevard Georges-Pompidou",
+            "BP 99"
+          ],
+          "CodePostal": "05012",
+          "NomCommune": "Gap  Cedex",
+          "Localisation": {
+            "Latitude": "44.5592773",
+            "Longitude": "6.083232400000043",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:45:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

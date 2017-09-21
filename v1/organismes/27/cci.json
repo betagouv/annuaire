@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1790457,
+          49.0156548
+        ]
+      },
+      "properties": {
+        "id": "cci-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Portes de Normandie - Evreux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "215 route de Paris",
+            "CS 80187"
+          ],
+          "CodePostal": "27001",
+          "NomCommune": "Évreux Cedex",
+          "Localisation": {
+            "Latitude": "49.0156548",
+            "Longitude": "1.1790457",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 77 27 00 27",
+          "Télécopie": "02 32 38 81 07",
+          "Email": "info-eure@normandie.cci.fr",
+          "Url": "http://www.portesdenormandie.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

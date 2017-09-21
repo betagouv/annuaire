@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.725646,
+          15.998761
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-97105-01",
+        "codeInsee": "97105",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Basse-Terre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction de la jeunesse des sports et de la cohésion sociale de Guadeloupe",
+            "323 boulevard du Général-de-Gaulle"
+          ],
+          "CodePostal": "97100",
+          "NomCommune": "Basse-Terre",
+          "Localisation": {
+            "Latitude": "15.998761",
+            "Longitude": "-61.725646",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+590 5 90 80 88 27",
+          "Télécopie": "+590 5 90 81 24 28",
+          "Email": "ghislaine.larrouy@drjscs.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.526651,
+          16.264684
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-97101-01",
+        "codeInsee": "97101",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations des Abymes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction de la jeunesse des sports et de la cohésion sociale de Guadeloupe",
+            "Ancien aéroport du Raizet"
+          ],
+          "CodePostal": "97139",
+          "NomCommune": "Les Abymes",
+          "Localisation": {
+            "Latitude": "16.264684",
+            "Longitude": "-61.526651",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+590 5 90 48 91 66",
+          "Télécopie": "+590 5 90 83 21 86",
+          "Email": "marlene.souffleur@drjscs.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

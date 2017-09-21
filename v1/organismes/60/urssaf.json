@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.475767,
+          49.2601186
+        ]
+      },
+      "properties": {
+        "id": "urssaf-60175-01",
+        "codeInsee": "60175",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Hauts-de-France - site de Creil",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "4 rue de Marl",
+            "CodePostal": "60100",
+            "NomCommune": "Creil",
+            "Localisation": {
+              "Latitude": "49.2601186",
+              "Longitude": "2.475767",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Hauts-de-France",
+              "11 rue Ambroise-Paré"
+            ],
+            "CodePostal": "60015",
+            "NomCommune": "Beauvais Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.picardie.urssaf.fr"
+        },
+        "Commentaire": "Accueli ouvert uniquement sur rendez-vous."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1136885,
+          49.41383
+        ]
+      },
+      "properties": {
+        "id": "urssaf-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Hauts-de-France - site de Beauvais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 rue Ambroise-Paré",
+            "CS 40586"
+          ],
+          "CodePostal": "60015",
+          "NomCommune": "Beauvais Cedex",
+          "Localisation": {
+            "Latitude": "49.41383",
+            "Longitude": "2.1136885",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.picardie.urssaf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+      }
+    }
+  ]
+}

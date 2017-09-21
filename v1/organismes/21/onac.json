@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0438988,
+          47.3285372
+        ]
+      },
+      "properties": {
+        "id": "onac-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Caserne Vaillant",
+            "22 avenue Garibaldi",
+            "CS 55180"
+          ],
+          "CodePostal": "21051",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3285372",
+            "Longitude": "5.0438988",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 11 22 00",
+          "Email": "sd21@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:21/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1773906,
+          48.6992371
+        ]
+      },
+      "properties": {
+        "id": "rectorat-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Nancy-Metz",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 rue Philippe-de-Gueldres",
+            "CO 30013"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "Nancy Cedex",
+          "Localisation": {
+            "Latitude": "48.6992371",
+            "Longitude": "6.1773906",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 83 86 20 20",
+          "Télécopie": "03 83 86 23 01",
+          "Email": "ce.rectorat@ac-nancy-metz.fr",
+          "Url": "http://www.ac-nancy-metz.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

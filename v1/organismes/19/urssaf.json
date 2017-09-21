@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.760193,
+          45.263048
+        ]
+      },
+      "properties": {
+        "id": "urssaf-19272-01",
+        "codeInsee": "19272",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Nouvelle-Aquitaine - site de Tulles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "38 quai de Rigny",
+            "CodePostal": "19018",
+            "NomCommune": "Tulle Cedex",
+            "Localisation": {
+              "Latitude": "45.263048",
+              "Longitude": "1.760193",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Nouvelle-Aquitaine",
+              "11 rue Camille-Pelletan"
+            ],
+            "CodePostal": "87047",
+            "NomCommune": "Limoges Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.limousin.urssaf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous.\nVous pouvez demander un rendez-vous à partir de votre espace personnel. Un conseiller vous rappellera sous 48h pour répondre à votre demande ou vous proposer un entretien."
+      }
+    }
+  ]
+}

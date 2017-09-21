@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45783996582,
+          43.5937004089
+        ]
+      },
+      "properties": {
+        "id": "cdg-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2006-06-28",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale de Haute Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Guglielmo Marconi",
+            "BP 94424"
+          ],
+          "CodePostal": "31405",
+          "NomCommune": "TOULOUSE CEDEX 4",
+          "Localisation": {
+            "Latitude": "43.5937004089",
+            "Longitude": "1.45783996582",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 47 96 00",
+          "Url": "http://www.cdg31.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

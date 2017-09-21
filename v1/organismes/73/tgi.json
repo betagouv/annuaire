@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.391712,
+          45.671754
+        ]
+      },
+      "properties": {
+        "codeInsee": "73011",
+        "dateMiseAJour": "2016-01-15",
+        "id": "tgi-73011-01",
+        "idPresta": "4cac9e61293594648a0005ee",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Albertville",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "avenue des Chasseurs Alpins",
+            "CS 10125"
+          ],
+          "CodePostal": "73208",
+          "NomCommune": "ALBERTVILLE CEDEX",
+          "Localisation": {
+            "Latitude": "45.671754",
+            "Longitude": "6.391712",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 32 43 14",
+          "Télécopie": "+33 4 79 32 66 69",
+          "Email": "mailto:tgi-albertville@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918642,
+          45.568124
+        ]
+      },
+      "properties": {
+        "codeInsee": "73065",
+        "dateMiseAJour": "2016-01-15",
+        "id": "tgi-73065-01",
+        "idPresta": "4cac9e61293594648a0005ef",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Chambéry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Palais de Justice",
+          "CodePostal": "73000",
+          "NomCommune": "CHAMBERY",
+          "Localisation": {
+            "Latitude": "45.568124",
+            "Longitude": "5.918642",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 33 60 09",
+          "Télécopie": "+33 4 79 33 80 57",
+          "Email": "mailto:tgi-chambery@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

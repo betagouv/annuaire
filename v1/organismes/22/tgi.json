@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.757331,
+          48.513017
+        ]
+      },
+      "properties": {
+        "codeInsee": "22278",
+        "dateMiseAJour": "2014-09-01",
+        "id": "tgi-22278-01",
+        "idPresta": "4cac9e87293594648a004cc1",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saint-Brieuc",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Parc des Promenades",
+            "BP 2357"
+          ],
+          "CodePostal": "22023",
+          "NomCommune": "ST BRIEUC CEDEX 1",
+          "Localisation": {
+            "Latitude": "48.513017",
+            "Longitude": "-2.757331",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 96 62 30 00",
+          "Télécopie": "+33 2 96 33 11 52",
+          "Email": "mailto:tgi-st-brieuc@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

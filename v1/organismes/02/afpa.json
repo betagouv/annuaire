@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9107856,
+          49.8282345
+        ]
+      },
+      "properties": {
+        "id": "afpa-02789-01",
+        "codeInsee": "02789",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Vervins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 avenue Pierre-Mendes-France",
+          "CodePostal": "02140",
+          "NomCommune": "Vervins",
+          "Localisation": {
+            "Latitude": "49.8282345",
+            "Longitude": "3.9107856",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Url": "http://www.picardie.afpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "07:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "12:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.647344,
+          49.574494
+        ]
+      },
+      "properties": {
+        "id": "afpa-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Laon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue des Minimes",
+          "CodePostal": "02000",
+          "NomCommune": "Laon",
+          "Localisation": {
+            "Latitude": "49.574494",
+            "Longitude": "3.647344",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Url": "http://www.picardie.afpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.578572,
+          46.328278
+        ]
+      },
+      "properties": {
+        "codeInsee": "03185",
+        "dateMiseAJour": "2007-05-01",
+        "id": "mjd-03185-01",
+        "idPresta": "51b08cb2b473e414780009fa",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Montluçon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre Social",
+            "avenue de Fontbouillant"
+          ],
+          "CodePostal": "03100",
+          "NomCommune": "MONTLUCON",
+          "Localisation": {
+            "Latitude": "46.328278",
+            "Longitude": "2.578572",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 70 64 75 95",
+          "Télécopie": "+33 4 70 64 75 95",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "12:45:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

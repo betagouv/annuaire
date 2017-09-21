@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6096426,
+          43.1117185
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-09225-01",
+        "codeInsee": "09225",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Pamiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue de la Maternité",
+          "CodePostal": "09100",
+          "NomCommune": "Pamiers",
+          "Localisation": {
+            "Latitude": "43.1117185",
+            "Longitude": "1.6096426",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 67 08 40",
+          "Télécopie": "05 61 67 43 53",
+          "Email": "ml.pamiers@ml09.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6005145,
+          42.9663556
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-09122-01",
+        "codeInsee": "09122",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Foix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison commune emploi formation de l'Ariège",
+            "18 rue de L'Espinet"
+          ],
+          "CodePostal": "09000",
+          "NomCommune": "Foix",
+          "Localisation": {
+            "Latitude": "42.9663556",
+            "Longitude": "1.6005145",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "monte-charge"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 34 09 32 09",
+          "Télécopie": "05 61 02 94 71",
+          "Email": "ml.foix@ml09.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8423329,
+          42.9297035
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-09160-01",
+        "codeInsee": "09160",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Lavelanet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Victor-Hugo",
+          "CodePostal": "09300",
+          "NomCommune": "Lavelanet",
+          "Localisation": {
+            "Latitude": "42.9297035",
+            "Longitude": "1.8423329",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 03 01 55",
+          "Télécopie": "05 61 03 61 44",
+          "Email": "ml.lavelanet@ml09.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

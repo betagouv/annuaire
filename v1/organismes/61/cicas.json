@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0884894,
+          48.4284939
+        ]
+      },
+      "properties": {
+        "id": "cicas-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cicas",
+        "Nom": "Centre d'information de conseil et d'accueil des salariés (Cicas) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 rue du Pont-Neuf",
+            "BP 303"
+          ],
+          "CodePostal": "61009",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.4284939",
+            "Longitude": "0.0884894",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 20 01 89"
+          },
+          "Url": "https://www.agirc-arrco.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

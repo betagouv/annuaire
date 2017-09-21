@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69538998604,
+          46.8079986572
+        ]
+      },
+      "properties": {
+        "id": "cdg-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 rue Bourdillon",
+          "CodePostal": "36000",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.8079986572",
+            "Longitude": "1.69538998604",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 34 18 20",
+          "Télécopie": "02 54 22 97 42",
+          "Email": "cdgindre@cdg36.fr",
+          "Url": "http://www.cdg36.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

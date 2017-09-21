@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0799097,
+          49.4331792
+        ]
+      },
+      "properties": {
+        "id": "ddcs-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) de Seine-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Hastings",
+            "27, rue du 74e-Régiment-d'Infanterie"
+          ],
+          "CodePostal": "76003",
+          "NomCommune": "Rouen Cedex 1",
+          "Localisation": {
+            "Latitude": "49.4331792",
+            "Longitude": "1.0799097",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 76 27 71 01",
+          "Télécopie": "+33 2 76 27 71 04",
+          "Email": "ddcs@seine-maritime.gouv.fr",
+          "Url": "http://www.seine-maritime.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

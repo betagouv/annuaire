@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354691,
+          43.214867
+        ]
+      },
+      "properties": {
+        "codeInsee": "11069",
+        "dateMiseAJour": "2014-03-31",
+        "id": "ti-11069-01",
+        "idPresta": "4cac9e6a293594648a0017d3",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Carcassonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 boulevard Jean-Jaurès",
+            "BP 818"
+          ],
+          "CodePostal": "11000",
+          "NomCommune": "CARCASSONNE",
+          "Localisation": {
+            "Latitude": "43.214867",
+            "Longitude": "2.354691",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 42 49 00",
+          "Télécopie": "+33 4 68 10 37 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "Tous les jours : de 08h00 à 12h00"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.009311,
+          43.185887
+        ]
+      },
+      "properties": {
+        "codeInsee": "11262",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-11262-01",
+        "idPresta": "4cac9e61293594648a000616",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Narbonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "19 Bd du Général de Gaulle",
+            "BP 810"
+          ],
+          "CodePostal": "11108",
+          "NomCommune": "NARBONNE CEDEX",
+          "Localisation": {
+            "Latitude": "43.185887",
+            "Longitude": "3.009311",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 44 60 70",
+          "Télécopie": "+33 4 34 44 60 72",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

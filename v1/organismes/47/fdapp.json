@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6123375,
+          44.1970257
+        ]
+      },
+      "properties": {
+        "id": "fdapp-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Lot-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "44 cours du 9e-de-Ligne",
+            "BP 225"
+          ],
+          "CodePostal": "47006",
+          "NomCommune": "Agen Cedex",
+          "Localisation": {
+            "Latitude": "44.1970257",
+            "Longitude": "0.6123375",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 66 16 68",
+          "Télécopie": "05 53 66 68 92",
+          "Email": "federation.peche.47@wanadoo.fr",
+          "Url": "http://www.federationpeche.fr47"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

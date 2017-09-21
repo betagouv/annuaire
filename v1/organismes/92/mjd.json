@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30961,
+          48.788233
+        ]
+      },
+      "properties": {
+        "codeInsee": "92007",
+        "dateMiseAJour": "2016-04-01",
+        "id": "mjd-92007-01",
+        "idPresta": "51b08c9fb473e414780005e8",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Blagis- Bagneux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 impasse Edouard-Branly",
+          "CodePostal": "92220",
+          "NomCommune": "BAGNEUX",
+          "Localisation": {
+            "Latitude": "48.788233",
+            "Longitude": "2.30961",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 46 64 14 14",
+          "Télécopie": "+33 1 46 64 13 95",
+          "Email": "mailto:mjd@orange.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.255578,
+          48.765818
+        ]
+      },
+      "properties": {
+        "codeInsee": "92019",
+        "dateMiseAJour": "2015-06-12",
+        "id": "mjd-92019-01",
+        "idPresta": "51b08c99b473e4147800049e",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Châtenay-Malabry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Francis de Pressensé",
+          "CodePostal": "92290",
+          "NomCommune": "CHATENAY MALABRY",
+          "Localisation": {
+            "Latitude": "48.765818",
+            "Longitude": "2.255578",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 46 32 76 12",
+          "Télécopie": "+33 1 46 32 17 74",
+          "Email": "mailto:maison-justice@wanadoo.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286797,
+          48.932753
+        ]
+      },
+      "properties": {
+        "codeInsee": "92036",
+        "dateMiseAJour": "2013-07-31",
+        "id": "mjd-92036-01",
+        "idPresta": "51b08c90b473e414780002ca",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Gennevilliers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 avenue Lucette Mazalaigue",
+          "CodePostal": "92230",
+          "NomCommune": "GENNEVILLIERS",
+          "Localisation": {
+            "Latitude": "48.932753",
+            "Longitude": "2.286797",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 47 99 06 56",
+          "Télécopie": "+33 1 47 92 32 07",
+          "Email": "mailto:mjd-gennevilliers@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

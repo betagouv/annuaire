@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3261784,
+          43.4590147
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-31395-01",
+        "codeInsee": "31395",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Muret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Muret",
+            "Service des associations",
+            "10 allée Niel"
+          ],
+          "CodePostal": "31605",
+          "NomCommune": "Muret Cedex",
+          "Localisation": {
+            "Latitude": "43.4590147",
+            "Longitude": "1.3261784",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 34 46 38 08",
+          "Télécopie": "05 61 51 64 11",
+          "Email": "viviane.cucchi@haute-garonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:45:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7269883,
+          43.1084964
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-31483-01",
+        "codeInsee": "31483",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Saint-Gaudens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Saint-Gaudens",
+            "Service des associations",
+            "2 avenue du Général-Leclerc",
+            "BP 169"
+          ],
+          "CodePostal": "31806",
+          "NomCommune": "Saint-Gaudens Cedex",
+          "Localisation": {
+            "Latitude": "43.1084964",
+            "Longitude": "0.7269883",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 94 67 79",
+          "Télécopie": "05 61 94 67 99",
+          "Email": "helene.hubert@haute-garonne.gouv.fr",
+          "Url": "http://www.haute-garonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:45:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

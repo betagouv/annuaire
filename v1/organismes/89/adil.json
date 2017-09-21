@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5674941,
+          47.7999276
+        ]
+      },
+      "properties": {
+        "id": "adil-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue des Ballets",
+          "CodePostal": "89000",
+          "NomCommune": "Auxerre",
+          "Localisation": {
+            "Latitude": "47.7999276",
+            "Longitude": "3.5674941",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 72 16 16",
+          "Télécopie": "03 86 72 16 17",
+          "Email": "contact@adil89.org",
+          "Url": "http://www.adil89.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

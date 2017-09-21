@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.082814,
+          49.115469
+        ]
+      },
+      "properties": {
+        "id": "cg-50502-01",
+        "codeInsee": "50502",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Manche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "98 route de Candol",
+            "CodePostal": "50050",
+            "NomCommune": "Saint-Lô",
+            "Localisation": {
+              "Latitude": "49.115469",
+              "Longitude": "-1.082814",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Conseil départemental de la Manche",
+            "CodePostal": "50050",
+            "NomCommune": "Saint-Lô Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 05 55 50",
+          "Télécopie": "02 33 05 96 90",
+          "Email": "dclic@manche.fr",
+          "Url": "http://www.manche.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique de 8h à 18h30. Il faut présenter une pièce d'identité à l'accueil."
+          }
+        }
+      }
+    }
+  ]
+}

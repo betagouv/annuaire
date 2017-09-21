@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.34024,
+          46.583796
+        ]
+      },
+      "properties": {
+        "codeInsee": "86194",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-86194-01",
+        "idPresta": "4cac9ed7293594648a00ee5d",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Poitiers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "21 rue Saint Louis",
+            "CS 50079"
+          ],
+          "CodePostal": "86002",
+          "NomCommune": "POITIERS CEDEX",
+          "Localisation": {
+            "Latitude": "46.583796",
+            "Longitude": "0.34024",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 60 55 50",
+          "Télécopie": "+33 5 49 60 55 71",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5462628,
+          46.8176518
+        ]
+      },
+      "properties": {
+        "codeInsee": "86066",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-86066-01",
+        "idPresta": "4cac9ed7293594648a00ee5c",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Châtellerault",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 avenue Georges Clémenceau",
+            "BP 30630"
+          ],
+          "CodePostal": "86106",
+          "NomCommune": "CHATELLERAULT CEDEX",
+          "Localisation": {
+            "Latitude": "46.8176518",
+            "Longitude": "0.5462628",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 21 06 33",
+          "Télécopie": "+33 5 49 20 13 03",
+          "Email": "mailto:ti-chatellerault@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

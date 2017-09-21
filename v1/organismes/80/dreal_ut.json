@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39758,
+          49.8774
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-80379-01",
+        "codeInsee": "80379",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pôle Jules-Verne",
+            "12 rue du Maître-du-Monde"
+          ],
+          "CodePostal": "80440",
+          "NomCommune": "Glisy",
+          "Localisation": {
+            "Latitude": "49.8774",
+            "Longitude": "2.39758",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 38 32 00",
+          "Télécopie": "03 22 38 32 01",
+          "Email": "ud-somme.dreal-nord-pdc-picardie@developpement-durable.fr",
+          "Url": "http://www.hauts-de-france.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

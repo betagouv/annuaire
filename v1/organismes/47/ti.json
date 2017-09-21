@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.616693,
+          44.200652
+        ]
+      },
+      "properties": {
+        "codeInsee": "47001",
+        "dateMiseAJour": "2016-11-25",
+        "id": "ti-47001-01",
+        "idPresta": "4cac9e6a293594648a0017ec",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance d'Agen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence A. Fallières",
+            "14B rue Diderot"
+          ],
+          "CodePostal": "47007",
+          "NomCommune": "AGEN CEDEX",
+          "Localisation": {
+            "Latitude": "44.200652",
+            "Longitude": "0.616693",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 77 07 90",
+          "Télécopie": "+33 5 53 77 07 99",
+          "Email": "mailto:ti-agen@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.173689,
+          44.504695
+        ]
+      },
+      "properties": {
+        "codeInsee": "47157",
+        "dateMiseAJour": "2016-11-25",
+        "id": "ti-47157-01",
+        "idPresta": "4cac9e6a293594648a0017ed",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Marmande",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place des Droits de l'Homme",
+            "BP 321"
+          ],
+          "CodePostal": "47207",
+          "NomCommune": "MARMANDE CEDEX",
+          "Localisation": {
+            "Latitude": "44.504695",
+            "Longitude": "0.173689",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 20 39 32",
+          "Télécopie": "+33 5 53 20 39 39",
+          "Email": "mailto:ti-marmande@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.747865,
+          44.42682
+        ]
+      },
+      "properties": {
+        "codeInsee": "47323",
+        "dateMiseAJour": "2016-11-25",
+        "id": "ti-47323-01",
+        "idPresta": "4cac9e62293594648a00064d",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Villeneuve-sur-Lot",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue du Général Blaniac",
+          "CodePostal": "47300",
+          "NomCommune": "VILLENEUVE SUR LOT",
+          "Localisation": {
+            "Latitude": "44.42682",
+            "Longitude": "0.747865",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 49 64 00",
+          "Télécopie": "+33 5 53 40 06 89",
+          "Email": "mailto:ti-villeneuve-sur-lot@justice.fr",
+          "Url": "http://www.ca-agen.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

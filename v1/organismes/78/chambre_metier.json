@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13934993744,
+          48.8133010864
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 avenue du Général-Mangin",
+          "CodePostal": "78000",
+          "NomCommune": "Versailles",
+          "Localisation": {
+            "Latitude": "48.8133010864",
+            "Longitude": "2.13934993744",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 39 43 43 43",
+          "Télécopie": "01 39 43 43 00",
+          "Email": "cm-78@cm-yvelines.fr",
+          "Url": "http://www.cm-yvelines.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7824985,
+          50.2928765
+        ]
+      },
+      "properties": {
+        "id": "cidf-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des sociétés",
+            "16 rue Aristide-Briand"
+          ],
+          "CodePostal": "62000",
+          "NomCommune": "Arras",
+          "Localisation": {
+            "Latitude": "50.2928765",
+            "Longitude": "2.7824985",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 23 27 53",
+          "Email": "cidffarras@orange.fr",
+          "Url": "http://pasdecalais-arras.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.63494992256,
+          50.5322990417
+        ]
+      },
+      "properties": {
+        "id": "cidf-62119-01",
+        "codeInsee": "62119",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "335 rue Fernand-Bar",
+          "CodePostal": "62400",
+          "NomCommune": "Béthune",
+          "Localisation": {
+            "Latitude": "50.5322990417",
+            "Longitude": "2.63494992256",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 57 98 57",
+          "Télécopie": "03 21 57 98 57",
+          "Email": "cidf.assos@wanadoo.fr",
+          "Url": "http://www.cidff-lille-nord.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et informations communiquées par téléphone aux mêmes horaires."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60896003246,
+          50.7242012024
+        ]
+      },
+      "properties": {
+        "id": "cidf-62160-01",
+        "codeInsee": "62160",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "36 Grande rue",
+          "CodePostal": "62200",
+          "NomCommune": "Boulogne-sur-Mer",
+          "Localisation": {
+            "Latitude": "50.7242012024",
+            "Longitude": "1.60896003246",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 30 45 41",
+          "Télécopie": "03 21 30 45 41",
+          "Email": "cidf.62200@wanadoo.fr",
+          "Url": "http://www.pasdecalais-boulognesurmer.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

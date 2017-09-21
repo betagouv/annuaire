@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.947274,
+          48.288902
+        ]
+      },
+      "properties": {
+        "codeInsee": "88413",
+        "dateMiseAJour": "2014-02-25",
+        "id": "prudhommes-88413-01",
+        "idPresta": "4cac9e60293594648a000369",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Dié-des-Vosges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 rue d'Amérique",
+            "BP 244"
+          ],
+          "CodePostal": "88107",
+          "NomCommune": "ST DIE DES VOSGES CEDEX",
+          "Localisation": {
+            "Latitude": "48.288902",
+            "Longitude": "6.947274",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 55 03 03",
+          "Télécopie": "+33 3 29 56 23 09",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.463908,
+          48.173567
+        ]
+      },
+      "properties": {
+        "codeInsee": "88160",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-88160-01",
+        "idPresta": "4cac9e60293594648a000360",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Epinal",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Général Haxo \"La Magdeleine\"",
+          "CodePostal": "88025",
+          "NomCommune": "EPINAL CEDEX",
+          "Localisation": {
+            "Latitude": "48.173567",
+            "Longitude": "6.463908",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 82 14 06",
+          "Télécopie": "+33 3 29 35 32 21",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.495367,
+          44.518882
+        ]
+      },
+      "properties": {
+        "id": "urssaf-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Occitanie - accueil de Lozère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue des Carmes",
+            "CodePostal": "48000",
+            "NomCommune": "Mende",
+            "Localisation": {
+              "Latitude": "44.518882",
+              "Longitude": "3.495367",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Occitanie",
+              "Parc Georges Besse 2",
+              "77 chemin bas du Mas-de-Boudan"
+            ],
+            "CodePostal": "30923",
+            "NomCommune": "Nîmes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.languedocroussillon.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

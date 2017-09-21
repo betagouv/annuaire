@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9240398407,
+          45.5665016174
+        ]
+      },
+      "properties": {
+        "id": "cci-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue Salteur",
+            "CS 22416"
+          ],
+          "CodePostal": "73024",
+          "NomCommune": "Chambéry Cedex",
+          "Localisation": {
+            "Latitude": "45.5665016174",
+            "Longitude": "5.9240398407",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 57 73 73 73",
+          "Email": "info@savoie.cci.fr",
+          "Url": "http://www.savoie.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

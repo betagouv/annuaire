@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.10602998734,
+          47.3134002686
+        ]
+      },
+      "properties": {
+        "id": "cidf-21515-01",
+        "codeInsee": "21515",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22 avenue du Château",
+          "CodePostal": "21800",
+          "NomCommune": "Quetigny",
+          "Localisation": {
+            "Latitude": "47.3134002686",
+            "Longitude": "5.10602998734",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 80 48 90 28",
+          "Télécopie": "03 80 48 90 26",
+          "Email": "secretariat.cidff21@hotmail.fr",
+          "Url": "http://www.cidff21.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

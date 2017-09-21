@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4856705,
+          43.8952945
+        ]
+      },
+      "properties": {
+        "id": "ddt-40192-01",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires et de la mer (DDTM) - Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "351, boulevard Saint-Médard",
+            "BP 369"
+          ],
+          "CodePostal": "40012",
+          "NomCommune": "Mont-de-Marsan Cedex",
+          "Localisation": {
+            "Latitude": "43.8952945",
+            "Longitude": "-0.4856705",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 58 51 30 00",
+          "Télécopie": "+33 5 58 51 30 10",
+          "Email": "ddtm@landes.gouv.fr",
+          "Url": "http://www.landes.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

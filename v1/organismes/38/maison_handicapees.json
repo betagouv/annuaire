@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7121867,
+          45.1924484
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15 avenue Doyen-Louis-Weil",
+            "BP 337"
+          ],
+          "CodePostal": "38010",
+          "NomCommune": "Grenoble Cedex 1",
+          "Localisation": {
+            "Latitude": "45.1924484",
+            "Longitude": "5.7121867",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 80 00 83"
+          },
+          "Télécopie": "04 38 12 48 40",
+          "Email": "mdphi@cg38.fr",
+          "Url": "http://www.mda38.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

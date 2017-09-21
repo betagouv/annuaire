@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69370791408,
+          46.8088733771
+        ]
+      },
+      "properties": {
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-06-23",
+        "id": "prudhommes-36044-01",
+        "idPresta": "4cac9e69293594648a0016eb",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Châteauroux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Lucien Germereau",
+            "BP 532"
+          ],
+          "CodePostal": "36018",
+          "NomCommune": "CHATEAUROUX CEDEX",
+          "Localisation": {
+            "Latitude": "46.8088733771",
+            "Longitude": "1.69370791408",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 18 47 90 30",
+          "Télécopie": "+33 2 18 47 90 36",
+          "Email": "mailto:cph-chateauroux@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

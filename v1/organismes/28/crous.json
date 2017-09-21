@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.70650994778,
+          48.0448989868
+        ]
+      },
+      "properties": {
+        "id": "crous-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Orléans - Antenne de Chartres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 place François-Rabelais",
+            "Résidence universitaire Merleau-Ponty"
+          ],
+          "CodePostal": "28000",
+          "NomCommune": "Chartres",
+          "Localisation": {
+            "Latitude": "48.0448989868",
+            "Longitude": "-1.70650994778",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 90 70 30",
+          "Télécopie": "02 37 30 78 99",
+          "Email": "chartres@crous-orleans-tours.fr",
+          "Url": "http://www.crous-orleans-tours.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

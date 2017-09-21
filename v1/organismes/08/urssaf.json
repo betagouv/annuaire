@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7223578,
+          49.7445473
+        ]
+      },
+      "properties": {
+        "id": "urssaf-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Grand-Est - site de Charleville-Mézières",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "34 bis rue Ferroul",
+            "CodePostal": "08000",
+            "NomCommune": "Charleville-Mézières",
+            "Localisation": {
+              "Latitude": "49.7445473",
+              "Longitude": "4.7223578",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Grand Est",
+              "202 rue des Capucins",
+              "CS 60001"
+            ],
+            "CodePostal": "51089",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.champagneardenne.urssaf.fr"
+        },
+        "Commentaire": "Accueil uniquement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    }
+  ]
+}

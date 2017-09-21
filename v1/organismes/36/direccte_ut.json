@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69182,
+          46.8082
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Bertrand",
+            "CS 60607"
+          ],
+          "CodePostal": "36020",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8082",
+            "Longitude": "1.69182",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 53 80 20",
+          "Télécopie": "02 54 34 29 40",
+          "Email": "centre-ut36.renseignements@direccte.gouv.fr",
+          "Url": "http://centre-val-de-loire.direccte.gouv.fr/Indre-4954"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4311328,
+          48.5630256
+        ]
+      },
+      "properties": {
+        "id": "crib-91386-01",
+        "codeInsee": "91386",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de l'Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale des comités sportifs",
+            "62 bis boulevard Charles-de-Gaulle"
+          ],
+          "CodePostal": "91540",
+          "NomCommune": "Mennecy",
+          "Localisation": {
+            "Latitude": "48.5630256",
+            "Longitude": "2.4311328",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 78 27 58",
+          "Télécopie": "01 69 23 44 09",
+          "Email": "essonne@franceolympique.com",
+          "Url": "http://www.essonne.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4300035,
+          48.6365143
+        ]
+      },
+      "properties": {
+        "id": "crib-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Ligue de l'enseignement d'Évry",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 allée Stéphane-Mallarmé",
+            "BP 58"
+          ],
+          "CodePostal": "91002",
+          "NomCommune": "Évry Cedex",
+          "Localisation": {
+            "Latitude": "48.6365143",
+            "Longitude": "2.4300035",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 69 36 08 18",
+          "Télécopie": "01 69 36 08 12",
+          "Email": "crib@ligue91.org",
+          "Url": "http://www.ligue91.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

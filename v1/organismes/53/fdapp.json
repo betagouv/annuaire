@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.798050999641,
+          48.0707015991
+        ]
+      },
+      "properties": {
+        "id": "fdapp-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2014-10-08",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "78, rue Émile-Brault",
+          "CodePostal": "53000",
+          "NomCommune": "Laval",
+          "Localisation": {
+            "Latitude": "48.0707015991",
+            "Longitude": "-0.798050999641",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 69 12 13",
+          "Email": "peche.mayenne@wanadoo.fr",
+          "Url": "http://www.fedepeche53.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

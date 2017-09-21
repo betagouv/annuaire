@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.75721001625,
+          47.6464004517
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2014-04-03",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Morbihan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "113, rue du Commerce",
+          "CodePostal": "56019",
+          "NomCommune": "Vannes Cedex",
+          "Localisation": {
+            "Latitude": "47.6464004517",
+            "Longitude": "-2.75721001625",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 68 12 51",
+          "Télécopie": "+33 2 97 68 12 05",
+          "Email": "ddtm@morbihan.gouv.fr",
+          "Url": "http://www.morbihan.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

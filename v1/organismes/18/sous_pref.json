@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5061013,
+          46.7250789
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-18197-01",
+        "codeInsee": "18197",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Saint-Amand-Montrond",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12, rue de Juranville",
+            "BP 195"
+          ],
+          "CodePostal": "18206",
+          "NomCommune": "Saint-Amand-Montrond Cedex",
+          "Localisation": {
+            "Latitude": "46.7250789",
+            "Longitude": "2.5061013",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 48 62 04 00",
+          "Télécopie": "+33 2 48 96 04 03",
+          "Email": "sous-prefecture-de-st-amand-montrond@cher.gouv.fr",
+          "Url": "http://www.cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0624968,
+          47.210086
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-18279-01",
+        "codeInsee": "18279",
+        "dateMiseAJour": "2013-06-20",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Vierzon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9, avenue du Maréchal-Philippe-Leclerc-de-Hauteclocque",
+            "BP 538"
+          ],
+          "CodePostal": "18105",
+          "NomCommune": "Vierzon Cedex",
+          "Localisation": {
+            "Latitude": "47.210086",
+            "Longitude": "2.0624968",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 48 53 04 40",
+          "Télécopie": "+33 2 48 71 04 69",
+          "Email": "sous-prefecture-de-vierzon@cher.gouv.fr",
+          "Url": "http://www.cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              "Note": "Nous n' avons plus les attributions: cartes grises, permis et étrangers sauf naturalisation."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "15:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

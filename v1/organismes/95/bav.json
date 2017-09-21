@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1006419,
+          49.0518084
+        ]
+      },
+      "properties": {
+        "codeInsee": "95500",
+        "dateMiseAJour": "2015-07-10",
+        "id": "bav-95500-01",
+        "idPresta": "4d5e644f2935941fe900003e",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Pontoise",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité judiciaire",
+            "3 rue Victor Hugo - BP 50220"
+          ],
+          "CodePostal": "95302",
+          "NomCommune": "CERGY PONTOISE CEDEX",
+          "Localisation": {
+            "Latitude": "49.0518084",
+            "Longitude": "2.1006419",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 72 58 70 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

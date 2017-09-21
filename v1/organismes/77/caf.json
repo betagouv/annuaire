@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6534675,
+          48.5233174
+        ]
+      },
+      "properties": {
+        "id": "caf-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-et-Marne - siège de Melun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21-23 avenue du Général-Leclerc",
+          "CodePostal": "77024",
+          "NomCommune": "Melun",
+          "Localisation": {
+            "Latitude": "48.5233174",
+            "Longitude": "2.6534675",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 77 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0856197,
+          48.8131692
+        ]
+      },
+      "properties": {
+        "id": "caf-77131-01",
+        "codeInsee": "77131",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-et-Marne - accueil de Coulommiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Point d'accès au droit",
+              "22 rue du Palais-de-Justice"
+            ],
+            "CodePostal": "77120",
+            "NomCommune": "Coulommiers",
+            "Localisation": {
+              "Latitude": "48.8131692",
+              "Longitude": "3.0856197",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Seine-et-Marne",
+              "21-23 avenue du Général-Leclerc"
+            ],
+            "CodePostal": "77024",
+            "NomCommune": "Melun Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 77 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8828,
+          48.9634
+        ]
+      },
+      "properties": {
+        "id": "caf-77284-01",
+        "codeInsee": "77284",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-et-Marne - accueil de Meaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1 avenue de la République",
+            "CodePostal": "77100",
+            "NomCommune": "Meaux",
+            "Localisation": {
+              "Latitude": "48.9634",
+              "Longitude": "2.8828",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Seine-et-Marne",
+              "21-23 avenue du Général-Leclerc"
+            ],
+            "CodePostal": "77024",
+            "NomCommune": "Melun Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 77 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9545238,
+          48.396189
+        ]
+      },
+      "properties": {
+        "id": "caf-77305-01",
+        "codeInsee": "77305",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-et-Marne - accueil de Montereau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services publics",
+              "3 rue André-Thomas"
+            ],
+            "CodePostal": "77130",
+            "NomCommune": "Montereau",
+            "Localisation": {
+              "Latitude": "48.396189",
+              "Longitude": "2.9545238",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Seine-et-Marne",
+              "21-23 avenue du Général-Leclerc"
+            ],
+            "CodePostal": "77024",
+            "NomCommune": "Melun Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 77 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6538284,
+          48.8350842
+        ]
+      },
+      "properties": {
+        "id": "caf-77258-01",
+        "codeInsee": "77258",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Seine-et-Marne - accueil de Lognes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "97 boulevard du Segrais",
+            "CodePostal": "77185",
+            "NomCommune": "Lognes",
+            "Localisation": {
+              "Latitude": "48.8350842",
+              "Longitude": "2.6538284",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Seine-et-Marne",
+              "21-23 avenue du Général-Leclerc"
+            ],
+            "CodePostal": "77024",
+            "NomCommune": "Melun Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 77 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94540977478,
+          48.6374015808
+        ]
+      },
+      "properties": {
+        "id": "caf-52448-01",
+        "codeInsee": "52448",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Marne - accueil de Saint-Dizier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "23 rue de la République",
+            "CodePostal": "52100",
+            "NomCommune": "Saint-Dizier",
+            "Localisation": {
+              "Latitude": "48.6374015808",
+              "Longitude": "4.94540977478",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Marne",
+              "BP 22019"
+            ],
+            "CodePostal": "52901",
+            "NomCommune": "Chaumont Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 52 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.144808,
+          48.116001
+        ]
+      },
+      "properties": {
+        "id": "caf-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Haute-Marne - siège de Chaumont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "34 rue du Commandant-Hugueny",
+            "CodePostal": "52901",
+            "NomCommune": "Chaumont Cedex 9",
+            "Localisation": {
+              "Latitude": "48.116001",
+              "Longitude": "5.144808",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe d'accès"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Haute-Marne",
+              "BP 22019"
+            ],
+            "CodePostal": "52901",
+            "NomCommune": "Chaumont Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 52 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

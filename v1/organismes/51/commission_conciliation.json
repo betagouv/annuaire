@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37234020233,
+          48.9578018188
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-51108-01",
+        "codeInsee": "51108",
+        "dateMiseAJour": "2013-12-04",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation -  Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Administrative Tirlet",
+            "7, rue Charrière"
+          ],
+          "CodePostal": "51022",
+          "NomCommune": "Châlons-en-Champagne Cedex",
+          "Localisation": {
+            "Latitude": "48.9578018188",
+            "Longitude": "4.37234020233",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 26 70 82 71",
+          "Télécopie": "+33 3 26 68 19 11",
+          "Url": "http://www.marne.equipement.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

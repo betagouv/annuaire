@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1076746,
+          45.8199568
+        ]
+      },
+      "properties": {
+        "id": "adil-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Puy-de-Dôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'habitat",
+            "129 avenue de la République"
+          ],
+          "CodePostal": "63100",
+          "NomCommune": "Clermont-Ferrand",
+          "Localisation": {
+            "Latitude": "45.8199568",
+            "Longitude": "3.1076746",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 42 30 75",
+          "Télécopie": "04 73 42 30 78",
+          "Email": "contact@adil63.org",
+          "Url": "http://www.adil63.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88585996628,
+          48.9575996399
+        ]
+      },
+      "properties": {
+        "id": "adil-77284-01",
+        "codeInsee": "77284",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-et-Marne - Meaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "52 rue de l'Abreuvoir",
+          "CodePostal": "77100",
+          "NomCommune": "Meaux",
+          "Localisation": {
+            "Latitude": "48.9575996399",
+            "Longitude": "2.88585996628",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 16 77 77"
+          },
+          "Télécopie": "01 60 25 49 90",
+          "Email": "info@adil77.org",
+          "Url": "http://www.adil77.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.774048,
+          48.855945
+        ]
+      },
+      "properties": {
+        "id": "adil-77111-01",
+        "codeInsee": "77111",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-et-Marne - Chessy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des services publics",
+            "Place d'Ariane"
+          ],
+          "CodePostal": "77700",
+          "NomCommune": "Chessy",
+          "Localisation": {
+            "Latitude": "48.855945",
+            "Longitude": "2.774048",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 20 16 77 77"
+          },
+          "Email": "info@adil77.org",
+          "Url": "http://www.adil77.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil fermé la 1ère semaine de chaque mois."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6572599411,
+          48.5369987488
+        ]
+      },
+      "properties": {
+        "id": "adil-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-et-Marne - Melun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 place Praslin",
+          "CodePostal": "77000",
+          "NomCommune": "Melun",
+          "Localisation": {
+            "Latitude": "48.5369987488",
+            "Longitude": "2.6572599411",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 16 77 77"
+          },
+          "Email": "info@adil77.org",
+          "Url": "http://www.adil77.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

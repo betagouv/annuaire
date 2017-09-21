@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4160208,
+          43.5960963
+        ]
+      },
+      "properties": {
+        "id": "onac-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-09",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10 rue Roquemaurel",
+            "CS 63117",
+            "CS 33203"
+          ],
+          "CodePostal": "31026",
+          "NomCommune": "Toulouse Cedex 3",
+          "Localisation": {
+            "Latitude": "43.5960963",
+            "Longitude": "1.4160208",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 21 44 80",
+          "Email": "rep.sd31@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:31/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

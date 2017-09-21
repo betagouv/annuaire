@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05101,
+          47.3153
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Côte-d'Or",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "21 boulevard Voltaire",
+            "BP 27805"
+          ],
+          "CodePostal": "21078",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3153",
+            "Longitude": "5.05101",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 45 83 22 22",
+          "Url": "http://www.bourgogne.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

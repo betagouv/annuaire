@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.962366,
+          45.941379
+        ]
+      },
+      "properties": {
+        "codeInsee": "17299",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-17299-01",
+        "idPresta": "4eb263322935944ef50001b2",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Rochefort",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11 Ter rue Maréchal Galliéni",
+            "BP 141"
+          ],
+          "CodePostal": "17306",
+          "NomCommune": "ROCHEFORT CEDEX",
+          "Localisation": {
+            "Latitude": "45.941379",
+            "Longitude": "-0.962366",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 46 99 27 92",
+          "Télécopie": "+33 5 46 99 04 96",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.625713,
+          45.745637
+        ]
+      },
+      "properties": {
+        "codeInsee": "17415",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-17415-01",
+        "idPresta": "4eb263322935944ef50001b1",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Saintes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "59 Bis rue de l'Arc de Triomphe",
+            "BP 311"
+          ],
+          "CodePostal": "17107",
+          "NomCommune": "SAINTES CEDEX",
+          "Localisation": {
+            "Latitude": "45.745637",
+            "Longitude": "-0.625713",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 46 92 18 04",
+          "Télécopie": "+33 5 46 92 21 76",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

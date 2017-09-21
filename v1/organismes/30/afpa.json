@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.06985,
+          44.13185
+        ]
+      },
+      "properties": {
+        "id": "afpa-30007-01",
+        "codeInsee": "30007",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre d'Alès - La Grand-Combe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue des Érables",
+          "CodePostal": "30100",
+          "NomCommune": "Alès",
+          "Localisation": {
+            "Latitude": "44.13185",
+            "Longitude": "4.06985",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Télécopie": "04 66 54 99 32",
+          "Url": "http://www.afpa.fr"
+        },
+        "Commentaire": "Contacter l'accueil pour connaitre les horaires d'ouverture."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3916552,
+          43.8354487
+        ]
+      },
+      "properties": {
+        "id": "afpa-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Nîmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "168 route de Beaucaire",
+          "CodePostal": "30000",
+          "NomCommune": "Nîmes",
+          "Localisation": {
+            "Latitude": "43.8354487",
+            "Longitude": "4.3916552",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3936"
+          },
+          "Url": "http://www.languedoc-roussillon.afpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

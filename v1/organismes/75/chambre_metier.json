@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39038991928,
+          48.8441009521
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-75112-01",
+        "codeInsee": "75112",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "72 rue de Reuilly",
+          "CodePostal": "75592",
+          "NomCommune": "Paris Cedex 12",
+          "Localisation": {
+            "Latitude": "48.8441009521",
+            "Longitude": "2.39038991928",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 53 33 53 33",
+          "Email": "contact@cma-paris.fr",
+          "Url": "http://www.cma-paris.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:45:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

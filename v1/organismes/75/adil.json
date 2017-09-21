@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32674002647,
+          48.8405990601
+        ]
+      },
+      "properties": {
+        "id": "adil-75114-01",
+        "codeInsee": "75114",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "46 bis boulevard Edgar-Quinet",
+          "CodePostal": "75014",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8405990601",
+            "Longitude": "2.32674002647",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 42 79 50 50",
+          "Email": "contact@adil75.org",
+          "Url": "http://www.adil75.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Accueil possible sur rendez-vous dans les mairies d'arrondissements."
+          }
+        }
+      }
+    }
+  ]
+}

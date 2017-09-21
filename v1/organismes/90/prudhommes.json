@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8622207,
+          47.6388323
+        ]
+      },
+      "properties": {
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-04-07",
+        "id": "prudhommes-90010-01",
+        "idPresta": "4cac9e60293594648a00036c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Belfort",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue de Morimont",
+            "BP 776"
+          ],
+          "CodePostal": "90020",
+          "NomCommune": "BELFORT CEDEX",
+          "Localisation": {
+            "Latitude": "47.6388323",
+            "Longitude": "6.8622207",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 21 04 15",
+          "Télécopie": "+33 3 84 21 43 90",
+          "Email": "mailto:cph-belfort@justice.fr et accueil-belfort@justice.fr",
+          "Url": "http://www.prudhomme.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

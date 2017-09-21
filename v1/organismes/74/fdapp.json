@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.152780056,
+          45.9464988708
+        ]
+      },
+      "properties": {
+        "id": "fdapp-74245-01",
+        "codeInsee": "74245",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale des associations de pêche et de piscisulture - Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Le Villaret",
+            "2092 route des Diacquenods"
+          ],
+          "CodePostal": "74370",
+          "NomCommune": "Saint-Martin-Bellevue",
+          "Localisation": {
+            "Latitude": "45.9464988708",
+            "Longitude": "6.152780056",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 46 87 55",
+          "Télécopie": "04 50 46 90 51",
+          "Email": "info@pechehautesavoie.com",
+          "Url": "http://www.pechehautesavoie.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

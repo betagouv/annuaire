@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4557958,
+          48.7837127
+        ]
+      },
+      "properties": {
+        "id": "ddpp-94028-01",
+        "codeInsee": "94028",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Val de Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 bis, rue des Archives",
+          "CodePostal": "94046",
+          "NomCommune": "Créteil Cedex",
+          "Localisation": {
+            "Latitude": "48.7837127",
+            "Longitude": "2.4557958",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 45 13 92 30",
+          "Télécopie": "+33 1 49 80 43 44",
+          "Email": "ddpp@val-de-marne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Permanence consommateurs particuliers"
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Permanence consommateurs particuliers"
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Permanence consommateurs particuliers"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

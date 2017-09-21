@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0457632,
+          47.3193685
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2015-11-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Dijon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale de la Côte-d'Or",
+            "Cité Dampierre",
+            "6 rue Chancelier-de-l'Hospital",
+            "CS 15381"
+          ],
+          "CodePostal": "21053",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3193685",
+            "Longitude": "5.0457632",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 68 31 00",
+          "Email": "ddcs-associations@cote-dor.gouv.fr",
+          "Url": "http://www.bourgogne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil physique et téléphonique du lundi au vendredi, de 9h à 12h"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.069045,
+          14.637392
+        ]
+      },
+      "properties": {
+        "codeInsee": "97209",
+        "dateMiseAJour": "2014-06-09",
+        "id": "tgi-97209-01",
+        "idPresta": "4cac9e6a293594648a0017c4",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Fort-de-France",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "35 Bd du Gal de Gaulle BP 633"
+          ],
+          "CodePostal": "97200",
+          "NomCommune": "FORT DE FRANCE",
+          "Localisation": {
+            "Latitude": "14.637392",
+            "Longitude": "-61.069045",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 96 48 41 41",
+          "Télécopie": "+33 5 96 48 43 32",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

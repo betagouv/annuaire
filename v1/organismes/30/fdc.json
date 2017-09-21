@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3131798,
+          43.8430055
+        ]
+      },
+      "properties": {
+        "id": "fdc-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "182 route de Sauve",
+            "BP 57012"
+          ],
+          "CodePostal": "30910",
+          "NomCommune": "Nîmes Cedex 2",
+          "Localisation": {
+            "Latitude": "43.8430055",
+            "Longitude": "4.3131798",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 62 11 11",
+          "Télécopie": "04 66 23 56 95",
+          "Email": "contact@fdc30.fr",
+          "Url": "http://www.fdc30.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique ouvert à partir de 8h30."
+          }
+        }
+      }
+    }
+  ]
+}

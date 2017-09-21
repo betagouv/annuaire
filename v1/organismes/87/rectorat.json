@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2545666,
+          45.8355003
+        ]
+      },
+      "properties": {
+        "id": "rectorat-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Limoges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 rue François-Chénieux",
+          "CodePostal": "87031",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8355003",
+            "Longitude": "1.2545666",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 11 40 40",
+          "Télécopie": "05 55 79 82 21",
+          "Email": "ce.rectorat@ac-limoges.fr",
+          "Url": "http://www.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

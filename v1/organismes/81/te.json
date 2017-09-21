@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23817,
+          43.605796
+        ]
+      },
+      "properties": {
+        "codeInsee": "81065",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-81065-01",
+        "idPresta": "4cac9e6a293594648a001784",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants de Castres",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue du Palais",
+            "BP 409"
+          ],
+          "CodePostal": "81108",
+          "NomCommune": "CASTRES CEDEX",
+          "Localisation": {
+            "Latitude": "43.605796",
+            "Longitude": "2.23817",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 51 93 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.145649,
+          43.926748
+        ]
+      },
+      "properties": {
+        "codeInsee": "81004",
+        "dateMiseAJour": "2014-01-28",
+        "id": "te-81004-01",
+        "idPresta": "4cac9e6a293594648a001783",
+        "pivotLocal": "te",
+        "Nom": "Tribunal pour enfants d'Albi",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Palais",
+            "BP 156"
+          ],
+          "CodePostal": "81005",
+          "NomCommune": "ALBI CEDEX",
+          "Localisation": {
+            "Latitude": "43.926748",
+            "Longitude": "2.145649",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 49 49 82",
+          "Télécopie": "+33 5 63 49 02 73",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.536596,
+          45.156882
+        ]
+      },
+      "properties": {
+        "id": "cio-19031-01",
+        "codeInsee": "19031",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Brive-la-Gaillarde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Dejean",
+          "CodePostal": "19100",
+          "NomCommune": "Brive-la-Gaillarde",
+          "Localisation": {
+            "Latitude": "45.156882",
+            "Longitude": "1.536596",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 87 01 21 19",
+          "Télécopie": "05 87 01 21 29",
+          "Email": "ce.cio.brive@ac-limoges.fr",
+          "Url": "http://www.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.769485,
+          45.271354
+        ]
+      },
+      "properties": {
+        "id": "cio-19272-01",
+        "codeInsee": "19272",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Tulle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Souham",
+            "5e étage"
+          ],
+          "CodePostal": "19000",
+          "NomCommune": "Tulle",
+          "Localisation": {
+            "Latitude": "45.271354",
+            "Longitude": "1.769485",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "acsenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 87 01 21 19",
+          "Télécopie": "05 87 01 21 34",
+          "Email": "ce.cio.tulle@ac-limoges.fr",
+          "Url": "http://www.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "11:45:00"
+            },
+            "Note": "Accueil sur rendez-vous le lundi, mercredi et vendredi de 13h15 à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3156281,
+          45.5468689
+        ]
+      },
+      "properties": {
+        "id": "cio-19275-01",
+        "codeInsee": "19275",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) d'Ussel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue de la Civadière",
+          "CodePostal": "19200",
+          "NomCommune": "Ussel",
+          "Localisation": {
+            "Latitude": "45.5468689",
+            "Longitude": "2.3156281",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 87 01 21 19",
+          "Télécopie": "05 87 01 21 39",
+          "Email": "ce.cio.ussel@ac-limoges.fr",
+          "Url": "http://www.ac-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil uniquement sur rendez-vous de 9h à 12h. Contacter l'accueil pour obtenir les horaires pendant les congés scolaires."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43283998966,
+          43.6096992493
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Occitanie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 bis boulevard Lascrosses",
+            "BP 91030"
+          ],
+          "CodePostal": "31010",
+          "NomCommune": "Toulouse Cedex 6",
+          "Localisation": {
+            "Latitude": "43.6096992493",
+            "Longitude": "1.43283998966",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 10 47 47",
+          "Télécopie": "05 61 10 47 48",
+          "Email": "contact@cm-toulouse.fr",
+          "Url": "http://www.cm-toulouse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:45:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil ouvert uniquement pour le centre de formalités de 8h30 à 12h30."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

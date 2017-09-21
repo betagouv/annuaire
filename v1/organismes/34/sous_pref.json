@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.32137799263,
+          43.7347717285
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-34142-01",
+        "codeInsee": "34142",
+        "dateMiseAJour": "2013-08-27",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Lodève",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue de la République",
+            "BP 64"
+          ],
+          "CodePostal": "34702",
+          "NomCommune": "Lodève Cedex",
+          "Localisation": {
+            "Latitude": "43.7347717285",
+            "Longitude": "3.32137799263",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 88 34 00",
+          "Télécopie": "+33 4 67 44 23 05",
+          "Url": "http://www.herault.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "15:45:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.36758995056,
+          43.3931007385
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-34032-01",
+        "codeInsee": "34032",
+        "dateMiseAJour": "2013-08-27",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Béziers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Boulevard Édouard-Herriot",
+            "BP 742"
+          ],
+          "CodePostal": "34526",
+          "NomCommune": "Béziers Cedex",
+          "Localisation": {
+            "Latitude": "43.3931007385",
+            "Longitude": "3.36758995056",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 36 70 70",
+          "Télécopie": "+33 4 67 36 70 94",
+          "Url": "http://www.herault.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "15:30:00"
+              }
+            ],
+            "Note": "Accueil du service Cartes grises ouvert de 8h30 à 12h30 dans la limite des capacités d'accueil. Accueil du service Permis de conduire et du service Étrangers ouvert de 8h30 à 11h30."
+          }
+        }
+      }
+    }
+  ]
+}

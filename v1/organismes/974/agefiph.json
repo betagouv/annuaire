@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4964478,
+          -20.8978924
+        ]
+      },
+      "properties": {
+        "id": "agefiph-97411-01",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Réunion - Mayotte",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre d'affaires Cadjee",
+            "62 boulevard Du Chaudron",
+            "Bâtiment C - 2ème étage"
+          ],
+          "CodePostal": "97495",
+          "NomCommune": "Sainte-Clotilde Cedex",
+          "Localisation": {
+            "Latitude": "-20.8978924",
+            "Longitude": "55.4964478",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 20 98 11",
+          "Télécopie": "+262 2 62 20 98 05",
+          "Email": "dr974@agefiph.asso.fr",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4209665,
+          48.6310905
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-91228-01",
+        "codeInsee": "91228",
+        "dateMiseAJour": "2013-05-15",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Europe 1",
+              "5-7, rue François-Truffaut"
+            ],
+            "CodePostal": "91080",
+            "NomCommune": "Courcouronnes",
+            "Localisation": {
+              "Latitude": "48.6310905",
+              "Longitude": "2.4209665",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rampe"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Direction départementale de la cohésion sociale de l'Essonne",
+              "5-7, rue François-Truffaut",
+              "CP 8002",
+              "Courcouronnes"
+            ],
+            "CodePostal": "91008",
+            "NomCommune": "Évry Cedex",
+            "Localisation": {
+              "Latitude": "48.6310905",
+              "Longitude": "2.4209665",
+              "Précision": "6"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 69 87 30 22",
+          "Télécopie": "+33 1 60 77 38 56",
+          "Email": "ddcs@essonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383778,
+          43.2831534
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-13206-01",
+        "codeInsee": "13206",
+        "dateMiseAJour": "2014-04-18",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Bouches-du-Rhône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Service des baux d'habitation",
+            "Pôle Hals",
+            "66 A, rue Saint-Sébastien"
+          ],
+          "CodePostal": "13281",
+          "NomCommune": "Marseille Cedex 6",
+          "Localisation": {
+            "Latitude": "43.2831534",
+            "Longitude": "5.383778",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accessible par l'entrée du conseil général, ascenseur B - 4e étage"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 00 57 95",
+          "Télécopie": "+33 4 91 00 58 26"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Permanence téléphonique uniquement"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.922512,
+          45.579683
+        ]
+      },
+      "properties": {
+        "id": "adil-73065-01",
+        "codeInsee": "73065",
+        "dateMiseAJour": "2017-06-30",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "25 Rue Jean Pellerin",
+            "Bâtiment Évolution"
+          ],
+          "CodePostal": "73000",
+          "NomCommune": "Chambéry",
+          "Localisation": {
+            "Latitude": "45.579683",
+            "Longitude": "5.922512",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 69 90 20",
+          "Télécopie": "04 79 65 39 29",
+          "Email": "accueil@adil73.org",
+          "Url": "http://www.adil73.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

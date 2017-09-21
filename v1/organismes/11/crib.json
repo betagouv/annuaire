@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3556383,
+          43.2164005
+        ]
+      },
+      "properties": {
+        "id": "crib-11069-01",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre information jeunesse - Aube - Carcassonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Station acti city",
+            "48 rue Antoine-Marty"
+          ],
+          "CodePostal": "11000",
+          "NomCommune": "Carcassonne",
+          "Localisation": {
+            "Latitude": "43.2164005",
+            "Longitude": "2.3556383",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 11 29 30",
+          "Email": "secretariat@acticity.com",
+          "Url": "http://www.acticity.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "18:30:00"
+            },
+            "Note": "Accueil fermé le samedi en mai-juin-juillet-août."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3694129,
+          43.2083419
+        ]
+      },
+      "properties": {
+        "id": "crib-11069-02",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de l'Aude",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale des sports",
+            "8 rue Camille-Saint-Saëns"
+          ],
+          "CodePostal": "11000",
+          "NomCommune": "Carcassonne",
+          "Localisation": {
+            "Latitude": "43.2083419",
+            "Longitude": "2.3694129",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 25 97 45",
+          "Télécopie": "09 70 62 43 27",
+          "Email": "cdos.aude11@wanadoo.fr",
+          "Url": "http://www.aude.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

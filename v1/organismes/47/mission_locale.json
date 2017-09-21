@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.710124,
+          44.4065
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-47323-01",
+        "codeInsee": "47323",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-Villeneuvois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13 rue Darfeuille",
+            "BP 12"
+          ],
+          "CodePostal": "47301",
+          "NomCommune": "Villeneuve-sur-Lot Cedex",
+          "Localisation": {
+            "Latitude": "44.4065",
+            "Longitude": "0.710124",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 40 06 02",
+          "Télécopie": "05 53 40 40 08",
+          "Email": "milo.villeneuve@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.160586,
+          44.4991
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-47157-01",
+        "codeInsee": "47157",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Moyenne-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue de l'Observance",
+            "BP 20139"
+          ],
+          "CodePostal": "47203",
+          "NomCommune": "Marmande",
+          "Localisation": {
+            "Latitude": "44.4991",
+            "Longitude": "0.160586",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 64 47 88",
+          "Télécopie": "05 53 64 53 12",
+          "Email": "missionlocalemoyennegaronne@mlmg.fr",
+          "Url": "http://www.missionlocalemoyennegaronne.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6231735,
+          44.2073369
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-47001-01",
+        "codeInsee": "47001",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Agenais-de-l'Albret-et-du-Confluent",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "70 boulevard Sylvain-Dumon",
+          "CodePostal": "47000",
+          "NomCommune": "Agen",
+          "Localisation": {
+            "Latitude": "44.2073369",
+            "Longitude": "0.6231735",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 47 23 32",
+          "Télécopie": "05 53 47 56 62",
+          "Email": "siege@mission-locale-agen.org",
+          "Url": "http://www.missionlocaleagen.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.363643,
+          47.744802
+        ]
+      },
+      "properties": {
+        "codeInsee": "56121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-56121-01",
+        "idPresta": "4cac9e6a293594648a0017aa",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Lorient",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue Maître Esvelin",
+            "Porte A"
+          ],
+          "CodePostal": "56325",
+          "NomCommune": "LORIENT CEDEX",
+          "Localisation": {
+            "Latitude": "47.744802",
+            "Longitude": "-3.363643",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 84 12 50",
+          "Télécopie": "+33 2 97 84 84 70",
+          "Email": "mailto:tgi-lorient@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.761394,
+          47.656336
+        ]
+      },
+      "properties": {
+        "codeInsee": "56260",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-56260-01",
+        "idPresta": "4cac9ed7293594648a00ee10",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Vannes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 place de la République",
+            "BP 503"
+          ],
+          "CodePostal": "56019",
+          "NomCommune": "VANNES CEDEX",
+          "Localisation": {
+            "Latitude": "47.656336",
+            "Longitude": "-2.761394",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 43 77 00",
+          "Télécopie": "+33 2 97 42 53 16",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

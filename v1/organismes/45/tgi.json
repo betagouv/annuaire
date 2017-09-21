@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7297794,
+          47.9988918
+        ]
+      },
+      "properties": {
+        "codeInsee": "45208",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-45208-01",
+        "idPresta": "4cac9e6a293594648a00179d",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Montargis",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "84 rue du Général Leclerc",
+          "CodePostal": "45207",
+          "NomCommune": "MONTARGIS CEDEX",
+          "Localisation": {
+            "Latitude": "47.9988918",
+            "Longitude": "2.7297794",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 87 59 00",
+          "Télécopie": "+33 2 38 87 59 11",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9072668,
+          47.9049637
+        ]
+      },
+      "properties": {
+        "codeInsee": "45234",
+        "dateMiseAJour": "2016-05-20",
+        "id": "tgi-45234-01",
+        "idPresta": "4cac9ed7293594648a00ee0c",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Orléans",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "44 rue de la bretonnerie",
+          "CodePostal": "45044",
+          "NomCommune": "ORLEANS CEDEX 1",
+          "Localisation": {
+            "Latitude": "47.9049637",
+            "Longitude": "1.9072668",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 74 58 34",
+          "Télécopie": "+33 2 38 53 65 74",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

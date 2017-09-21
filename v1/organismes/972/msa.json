@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9885563,
+          14.6206397
+        ]
+      },
+      "properties": {
+        "id": "msa-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2016-09-08",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Martinique - accueil du Lamentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Quartier Césaire",
+            "CodePostal": "97232",
+            "NomCommune": "Le Lamentin",
+            "Localisation": {
+              "Latitude": "14.6206397",
+              "Longitude": "-60.9885563",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse générale de la sécurité sociale département agricole",
+              "Place d'Armes",
+              "Rue Case-Nègre"
+            ],
+            "CodePostal": "97232",
+            "NomCommune": "Le Lamentin Cedex 2"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 20 22 25 55"
+          },
+          "Télécopie": "+596 5 96 51 54 00",
+          "Email": "http://www.cgssm-serviceexpagri.fr/lfr/nous-contacter1",
+          "Url": "http://www.cgssm-serviceexpagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique de 7h30 à 15h."
+          }
+        }
+      }
+    }
+  ]
+}

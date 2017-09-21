@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.616558,
+          44.199505
+        ]
+      },
+      "properties": {
+        "codeInsee": "47001",
+        "dateMiseAJour": "2016-11-25",
+        "id": "tgi-47001-01",
+        "idPresta": "4cac9e6a293594648a00179f",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Agen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "avenue de Lattre de Tassigny",
+          "CodePostal": "47916",
+          "NomCommune": "AGEN CEDEX 9",
+          "Localisation": {
+            "Latitude": "44.199505",
+            "Longitude": "0.616558",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 77 95 00",
+          "Télécopie": "+33 5 53 98 07 51",
+          "Email": "mailto:tgi-agen@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

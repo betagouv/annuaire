@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.59616,
+          44.7343
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-07186-01",
+        "codeInsee": "07186",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Ardèche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue André-Philip",
+          "CodePostal": "07000",
+          "NomCommune": "Privas",
+          "Localisation": {
+            "Latitude": "44.7343",
+            "Longitude": "4.59616",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 66 74 74",
+          "Email": "ara-ud07.direction@direccte.gouv.fr",
+          "Url": "http://www.auvergne-rhone-alpes.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

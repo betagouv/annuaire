@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1525918,
+          47.6231969
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-70550-01",
+        "codeInsee": "70550",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Vesoul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture de la Haute-Saône",
+            "Service des associations",
+            "1 rue de la Préfecture",
+            "BP 429"
+          ],
+          "CodePostal": "70013",
+          "NomCommune": "Vesoul Cedex",
+          "Localisation": {
+            "Latitude": "47.6231969",
+            "Longitude": "6.1525918",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenceur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 77 70 74",
+          "Télécopie": "03 84 77 71 77",
+          "Email": "nadine.rodrigues@haute-saone.gouv.fr",
+          "Url": "http://www.haute-saone.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

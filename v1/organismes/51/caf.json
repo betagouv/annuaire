@@ -1,0 +1,314 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.036497,
+          49.2448537
+        ]
+      },
+      "properties": {
+        "id": "caf-51454-01",
+        "codeInsee": "51454",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Marne - siège de Reims",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "202 rue des Capucins",
+            "CS 40001"
+          ],
+          "CodePostal": "51087",
+          "NomCommune": "Reims Cedex",
+          "Localisation": {
+            "Latitude": "49.2448537",
+            "Longitude": "4.036497",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 51 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h à 16h30."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.95353007317,
+          49.0415992737
+        ]
+      },
+      "properties": {
+        "id": "caf-51230-01",
+        "codeInsee": "51230",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Marne - accueil d'Épernay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Aile gauche locaux caisse primaire d'assurance maladie",
+              "5 rue Jean-Chandon-Moët"
+            ],
+            "CodePostal": "51200",
+            "NomCommune": "Épernay",
+            "Localisation": {
+              "Latitude": "49.0415992737",
+              "Longitude": "3.95353007317",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de la Marne",
+              "202 rue des Capucins",
+              "CS 40001"
+            ],
+            "CodePostal": "51087",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 51 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 13h30 à 16h et accueil téléphonique du lundi au vendredi de 9h à 16h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36569023132,
+          48.9603004456
+        ]
+      },
+      "properties": {
+        "id": "caf-51108-01",
+        "codeInsee": "51108",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Marne - accueil de Châlons-en-Champagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "64 rue Léon-Bourgeois",
+            "CodePostal": "51000",
+            "NomCommune": "Châlons-en-Champagne",
+            "Localisation": {
+              "Latitude": "48.9603004456",
+              "Longitude": "4.36569023132",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de la Marne",
+              "202 rue des Capucins",
+              "CS 40001"
+            ],
+            "CodePostal": "51087",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 51 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 13h30 à 16h et accueil téléphonique du lundi au vendredi de 9h à 16h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58420991898,
+          48.7244987488
+        ]
+      },
+      "properties": {
+        "id": "caf-51649-01",
+        "codeInsee": "51649",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Marne - accueil de Vitry-le-François",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "24 rue Aristide-Briand",
+            "CodePostal": "51300",
+            "NomCommune": "Vitry-le-François",
+            "Localisation": {
+              "Latitude": "48.7244987488",
+              "Longitude": "4.58420991898",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de la Marne",
+              "202 rue des Capucins",
+              "CS 40001"
+            ],
+            "CodePostal": "51087",
+            "NomCommune": "Reims Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 51 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 13h30 à 16h et accueil téléphonique du lundi au vendredi de 9h à 16h30."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

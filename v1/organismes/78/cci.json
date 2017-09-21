@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.135038,
+          48.8012842
+        ]
+      },
+      "properties": {
+        "id": "cci-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "23 avenue de Paris",
+          "CodePostal": "78021",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.8012842",
+            "Longitude": "2.135038",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 20 01 21 12"
+          },
+          "Télécopie": "+33 1 39 02 03 99",
+          "Email": "http://www.cci-paris-idf.fr/cci-region/contenus/contact",
+          "Url": "http://www.cci-paris-idf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

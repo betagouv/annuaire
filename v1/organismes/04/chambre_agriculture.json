@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.238205,
+          44.0940877
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Alpes-de-Haute-Provence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "66 boulevard Gassendi",
+            "CS 90117"
+          ],
+          "CodePostal": "04995",
+          "NomCommune": "Digne-les-Bains Cedex 9",
+          "Localisation": {
+            "Latitude": "44.0940877",
+            "Longitude": "6.238205",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accueil du rez-de-chaussée uniquement"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 30 57 57",
+          "Télécopie": "04 92 32 10 12",
+          "Email": "accueil@ahp.chambagri.fr",
+          "Url": "http://www.ahp.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

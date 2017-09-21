@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73801004887,
+          48.9889984131
+        ]
+      },
+      "properties": {
+        "id": "fdapp-78335-01",
+        "codeInsee": "78335",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 rue du Docteur-Roux",
+          "CodePostal": "78520",
+          "NomCommune": "Limay",
+          "Localisation": {
+            "Latitude": "48.9889984131",
+            "Longitude": "1.73801004887",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 34 77 58 90",
+          "Télécopie": "01 34 78 55 72",
+          "Email": "peche.yvelines@wanadoo.fr",
+          "Url": "http://www.federationpeche78.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

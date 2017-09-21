@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258953,
+          45.83297
+        ]
+      },
+      "properties": {
+        "codeInsee": "87085",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-87085-01",
+        "idPresta": "4cac9e60293594648a00035f",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Limoges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "41 boulevard Carnot",
+            "BP 20"
+          ],
+          "CodePostal": "87001",
+          "NomCommune": "LIMOGES CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.83297",
+            "Longitude": "1.258953",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 79 72 42",
+          "Télécopie": "+33 5 55 79 65 82",
+          "Email": "mailto:chg.cph-limoges@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

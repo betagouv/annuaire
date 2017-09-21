@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5039043,
+          44.5216036
+        ]
+      },
+      "properties": {
+        "id": "ddt-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Lozère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4, avenue de la Gare",
+          "CodePostal": "48005",
+          "NomCommune": "Mende Cedex",
+          "Localisation": {
+            "Latitude": "44.5216036",
+            "Longitude": "3.5039043",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 49 41 00",
+          "Télécopie": "+33 4 66 49 41 66",
+          "Email": "ddt48@lozere.gouv.fr",
+          "Url": "http://www.lozere.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

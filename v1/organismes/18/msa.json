@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4864701,
+          48.4416331
+        ]
+      },
+      "properties": {
+        "id": "msa-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Beauce-Coeur-de-Loire - accueil de Chartres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue de Chanzy",
+          "CodePostal": "28037",
+          "NomCommune": "Chartres Cedex",
+          "Localisation": {
+            "Latitude": "48.4416331",
+            "Longitude": "1.4864701",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 99 99 99",
+          "Télécopie": "02 37 30 45 55",
+          "Email": "depotdoc.blf@bcl.msa.fr",
+          "Url": "http://www.msa-beauce-coeurdeloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

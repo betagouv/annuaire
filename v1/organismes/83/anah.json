@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93515014648,
+          43.1152992249
+        ]
+      },
+      "properties": {
+        "id": "anah-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2013-03-05",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Préfecture du Var - Direction départementale des territoires et de la mer",
+            "Service habitat et rénovation urbaine",
+            "Boulevard du 112e-Régiment-d'Infanterie",
+            "CS 31209"
+          ],
+          "CodePostal": "83070",
+          "NomCommune": "Toulon Cedex",
+          "Localisation": {
+            "Latitude": "43.1152992249",
+            "Longitude": "5.93515014648",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 46 82 51",
+          "Télécopie": "+33 4 94 46 80 07",
+          "Email": "ddtm-anah@var.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

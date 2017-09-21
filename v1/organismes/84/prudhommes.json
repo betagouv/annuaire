@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80698564551,
+          44.1355772525
+        ]
+      },
+      "properties": {
+        "codeInsee": "84087",
+        "dateMiseAJour": "2017-05-12",
+        "id": "prudhommes-84087-01",
+        "idPresta": "4cac9e6a293594648a00170d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Orange",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue de Tourre",
+          "CodePostal": "84100",
+          "NomCommune": "ORANGE",
+          "Localisation": {
+            "Latitude": "44.1355772525",
+            "Longitude": "4.80698564551",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 34 70 00",
+          "Télécopie": "+33 4 90 51 84 94",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.816066,
+          43.944784
+        ]
+      },
+      "properties": {
+        "codeInsee": "84007",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-84007-01",
+        "idPresta": "4cac9e6a293594648a00170c",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Avignon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 boulevard Limbert",
+            "BP 959"
+          ],
+          "CodePostal": "84092",
+          "NomCommune": "AVIGNON CEDEX 9",
+          "Localisation": {
+            "Latitude": "43.944784",
+            "Longitude": "4.816066",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 32 74 74 02",
+          "Télécopie": "+33 4 32 74 74 03",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

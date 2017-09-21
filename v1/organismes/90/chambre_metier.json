@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85976982117,
+          47.6375999451
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Bourgogne-Franche-Comté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "6 avenue de la République",
+            "CodePostal": "90400",
+            "NomCommune": "Danjoutin",
+            "Localisation": {
+              "Latitude": "47.6375999451",
+              "Longitude": "6.85976982117",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Chambre de métiers et de l'artisanat de Franche-Comté",
+              "CS 50217"
+            ],
+            "CodePostal": "90004",
+            "NomCommune": "Belfort Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 39 21 22 23",
+          "Télécopie": "03 84 22 08 95",
+          "Email": "contact90@artisanat-comtois.fr",
+          "Url": "http://www.artisanat-comtois.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.586363,
+          48.877792
+        ]
+      },
+      "properties": {
+        "id": "clic-77108-01",
+        "codeInsee": "77108",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Chelles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination partage Nord-Ouest 77",
+            "2 avenue Aimé-Auberville"
+          ],
+          "CodePostal": "77500",
+          "NomCommune": "Chelles",
+          "Localisation": {
+            "Latitude": "48.877792",
+            "Longitude": "2.586363",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 21 75 58",
+          "Télécopie": "01 60 08 58 54",
+          "Email": "infoclic@clic-partage.fr",
+          "Url": "http://www.clic-partage.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "10:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.754912,
+          48.423092
+        ]
+      },
+      "properties": {
+        "id": "clic-77442-01",
+        "codeInsee": "77442",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Samoreau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination FACIL",
+            "32 rue Grande"
+          ],
+          "CodePostal": "77210",
+          "NomCommune": "Samoreau",
+          "Localisation": {
+            "Latitude": "48.423092",
+            "Longitude": "2.754912",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits",
+            "$t": "08 00 85 37 00"
+          },
+          "Télécopie": "01 60 72 03 25",
+          "Email": "clic.facil@coordinationsud77.fr",
+          "Url": "http://www.clicfacilrgs.wordpress.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.611621,
+          48.803597
+        ]
+      },
+      "properties": {
+        "id": "clic-77373-01",
+        "codeInsee": "77373",
+        "dateMiseAJour": "2015-04-29",
+        "pivotLocal": "clic",
+        "idPresta": "clic-704",
+        "Nom": "Point d'information local dédié aux personnes âgées - Pontault-Combault",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination REPERAGE 77",
+            "58 avenue de la République"
+          ],
+          "CodePostal": "77340",
+          "NomCommune": "Pontault-Combault",
+          "Localisation": {
+            "Latitude": "48.803597",
+            "Longitude": "2.611621",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 70 33 00 16",
+          "Email": "infoclic@clicreperage77.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:15:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.696413,
+          48.872359
+        ]
+      },
+      "properties": {
+        "id": "clic-77243-01",
+        "codeInsee": "77243",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Lagny-sur-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination Reliage",
+            "33 rue Henri-Dunant"
+          ],
+          "CodePostal": "77400",
+          "NomCommune": "Lagny-sur-Marne",
+          "Localisation": {
+            "Latitude": "48.872359",
+            "Longitude": "2.696413",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 31 52 80",
+          "Télécopie": "01 64 02 96 69",
+          "Email": "info@clic-lagnymlv.fr",
+          "Url": "http://clic-lagnymlv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.655898,
+          48.549693
+        ]
+      },
+      "properties": {
+        "id": "clic-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Melun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination Rivage",
+            "Pôle de services Montaigu",
+            "24 rue du Colonel-Picot"
+          ],
+          "CodePostal": "77000",
+          "NomCommune": "Melun",
+          "Localisation": {
+            "Latitude": "48.549693",
+            "Longitude": "2.655898",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 52 24 48",
+          "Télécopie": "01 64 09 06 73",
+          "Email": "cgrmrivage@wanadoo.fr",
+          "Url": "http://www.clicrivage.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75416,
+          48.738535
+        ]
+      },
+      "properties": {
+        "id": "clic-77470-01",
+        "codeInsee": "77470",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Tournan-en-Brie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination PEPS",
+            "99 rue de Paris"
+          ],
+          "CodePostal": "77220",
+          "NomCommune": "Tournan-en-Brie",
+          "Localisation": {
+            "Latitude": "48.738535",
+            "Longitude": "2.75416",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 42 18 08",
+          "Email": "clic.peps@epgtournan.fr",
+          "Url": "http://www.clicpeps-tournan.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Contacter l'accueil pour convenir d'un rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.297926,
+          48.542807
+        ]
+      },
+      "properties": {
+        "id": "clic-77379-01",
+        "codeInsee": "77379",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Provins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination Sillage",
+            "Route des Grattons"
+          ],
+          "CodePostal": "77160",
+          "NomCommune": "Provins",
+          "Localisation": {
+            "Latitude": "48.542807",
+            "Longitude": "3.297926",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 58 00 95",
+          "Télécopie": "01 60 67 65 27",
+          "Email": "sillage.clic@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Téléphoner de préférence pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.705352,
+          48.262234
+        ]
+      },
+      "properties": {
+        "id": "clic-77333-01",
+        "codeInsee": "77333",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Nemours",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre local d'information et de coordination Soutien",
+            "15 rue des Chaudins"
+          ],
+          "CodePostal": "77140",
+          "NomCommune": "Nemours",
+          "Localisation": {
+            "Latitude": "48.262234",
+            "Longitude": "2.705352",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 28 75 25",
+          "Email": "clic.nemours@gmail.com",
+          "Url": "http://www.clicsoutien.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

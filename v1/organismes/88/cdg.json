@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44251012802,
+          48.1739997864
+        ]
+      },
+      "properties": {
+        "id": "cdg-88160-01",
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Vosges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 rue de la Clé-d'Or",
+            "CS 70055"
+          ],
+          "CodePostal": "88026",
+          "NomCommune": "Épinal",
+          "Localisation": {
+            "Latitude": "48.1739997864",
+            "Longitude": "6.44251012802",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 35 63 10",
+          "Télécopie": "03 29 35 50 72",
+          "Email": "cdg88@cdg88.fr",
+          "Url": "http://www.cdg88.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

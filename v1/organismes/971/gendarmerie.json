@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.70321616,
+          16.0235972
+        ]
+      },
+      "properties": {
+        "id": "gendarmerie-97124-01",
+        "codeInsee": "97124",
+        "dateMiseAJour": "2017-03-02",
+        "pivotLocal": "gendarmerie",
+        "Nom": "Gendarmerie - Brigade territoriale autonome de Saint-Claude",
+        "EditeurSource": "Ministère de l'Intérieur",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Caserne Bonne-Terre",
+            "Rue Louis Dubreuil"
+          ],
+          "CodePostal": "97120",
+          "NomCommune": "Saint-Claude",
+          "Localisation": {
+            "Latitude": "16.0235972",
+            "Longitude": "-61.70321616",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+590 80 99 12",
+          "Télécopie": "+590 80 99 19",
+          "Email": "bta.st-claude@gendarmerie.interieur.gouv.fr",
+          "Url": "http://www.gendarmerie.interieur.gouv.fr",
+          "Sve": "http://www.interieur.gouv.fr/Contacter-une-brigade-de-gendarmerie-ou-un-commissariat-de-police"
+        }
+      }
+    }
+  ]
+}

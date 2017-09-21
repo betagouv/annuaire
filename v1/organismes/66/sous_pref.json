@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.745173,
+          42.48466
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-66049-01",
+        "codeInsee": "66049",
+        "dateMiseAJour": "2014-04-29",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Céret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6, boulevard Simon-Batlle",
+          "CodePostal": "66400",
+          "NomCommune": "Céret",
+          "Localisation": {
+            "Latitude": "42.48466",
+            "Longitude": "2.745173",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 87 10 02",
+          "Télécopie": "+33 4 30 29 06 52",
+          "Email": "sous-prefecture-de-ceret@pyrenees-orientales.gouv.fr",
+          "Url": "http://www.pyrenees-orientales.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36888980865,
+          44.6431999207
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-66149-01",
+        "codeInsee": "66149",
+        "dateMiseAJour": "2014-04-29",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Prades",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "177, avenue du Général-de-Gaulle",
+            "BP 40095"
+          ],
+          "CodePostal": "66500",
+          "NomCommune": "Prades",
+          "Localisation": {
+            "Latitude": "44.6431999207",
+            "Longitude": "4.36888980865",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 05 39 39",
+          "Télécopie": "+33 4 68 96 29 35",
+          "Email": "http://www.pyrenees-orientales.gouv.fr/Contactez-nous",
+          "Url": "http://www.pyrenees-orientales.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0032579,
+          49.582413
+        ]
+      },
+      "properties": {
+        "codeInsee": "60471",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-60471-01",
+        "idPresta": "51b08ca1b473e4147800065d",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Noyon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Bertrand Labarre",
+          "CodePostal": "60400",
+          "NomCommune": "NOYON",
+          "Localisation": {
+            "Latitude": "49.582413",
+            "Longitude": "3.0032579",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 44 28 67",
+          "Email": "mailto:mjd-noyon@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4259147,
+          49.2582088
+        ]
+      },
+      "properties": {
+        "codeInsee": "60175",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-60175-01",
+        "idPresta": "51b08cc4b473e41478000df7",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Creil",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 rue Voltaire",
+          "CodePostal": "60100",
+          "NomCommune": "CREIL",
+          "Localisation": {
+            "Latitude": "49.2582088",
+            "Longitude": "2.4259147",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 64 46 70",
+          "Télécopie": "+33 3 44 64 46 78",
+          "Email": "mailto:mjd-creil@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.139121,
+          49.231289
+        ]
+      },
+      "properties": {
+        "codeInsee": "60395",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-60395-01",
+        "idPresta": "51b08cdeb473e414780013a2",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Méru et du Vexin-Thelle-Sablons",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Angle rues du Dr Graillon et",
+            "Louis Bloquet"
+          ],
+          "CodePostal": "60110",
+          "NomCommune": "MERU",
+          "Localisation": {
+            "Latitude": "49.231289",
+            "Longitude": "2.139121",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 52 33 90",
+          "Télécopie": "+33 3 44 52 33 99",
+          "Email": "mailto:mjd-meru@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17874559,
+          48.6881523
+        ]
+      },
+      "properties": {
+        "id": "agefiph-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Grand Est",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Joffre-Saint-Thiébaut",
+              "13-15 boulevard Joffre"
+            ],
+            "CodePostal": "54000",
+            "NomCommune": "Nancy",
+            "Localisation": {
+              "Latitude": "48.6881523",
+              "Longitude": "6.17874559",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Immeuble Reims 2000",
+              "95 boulevard du Général-Leclerc"
+            ],
+            "CodePostal": "51100",
+            "NomCommune": "Reims"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "03 83 90 81 41",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.982456,
+          49.149066
+        ]
+      },
+      "properties": {
+        "codeInsee": "95370",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-95370-01",
+        "idPresta": "4cac9e61293594648a000579",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Marines",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Val de Viosne",
+            "9 place du Maréchal Leclerc"
+          ],
+          "CodePostal": "95640",
+          "NomCommune": "MARINES",
+          "Localisation": {
+            "Latitude": "49.149066",
+            "Longitude": "1.982456",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 34 67 52 15",
+          "Télécopie": "+33 1 34 67 52 15",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0473919,
+          49.0642628
+        ]
+      },
+      "properties": {
+        "codeInsee": "95500",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-95500-01",
+        "idPresta": "4cac9e61293594648a00057b",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Pontoise",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place de la Fraternité",
+          "CodePostal": "95300",
+          "NomCommune": "PONTOISE",
+          "Localisation": {
+            "Latitude": "49.0642628",
+            "Longitude": "2.0473919",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 34 24 01 41",
+          "Télécopie": "+33 1 30 11 05 93",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

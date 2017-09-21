@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8429367,
+          45.7649428
+        ]
+      },
+      "properties": {
+        "id": "adil-69386-01",
+        "codeInsee": "69386",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Rhône - Lyon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "47 rue Molière",
+            "CodePostal": "69006",
+            "NomCommune": "Lyon",
+            "Localisation": {
+              "Latitude": "45.7649428",
+              "Longitude": "4.8429367",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "9 rue Vauban",
+            "CodePostal": "69006",
+            "NomCommune": "Lyon"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 52 84 84",
+          "Télécopie": "04 72 75 02 65",
+          "Email": "contact@adilrhone.org",
+          "Url": "http://www.adil69.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7177901268,
+          45.9939002991
+        ]
+      },
+      "properties": {
+        "id": "adil-69264-01",
+        "codeInsee": "69264",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Rhône - Villefranche-sur-Saône",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue Claude-Bernard",
+          "CodePostal": "69400",
+          "NomCommune": "Villefranche-sur-Saône",
+          "Localisation": {
+            "Latitude": "45.9939002991",
+            "Longitude": "4.7177901268",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 65 61 11",
+          "Email": "adil.villefranche@orange.fr",
+          "Url": "http://www.adil69.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

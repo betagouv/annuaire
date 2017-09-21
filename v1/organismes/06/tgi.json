@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.928526,
+          43.656694
+        ]
+      },
+      "properties": {
+        "codeInsee": "06069",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-06069-01",
+        "idPresta": "4cac9e61293594648a00053d",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Grasse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "37 avenue Pierre Semard",
+            "BP 71029"
+          ],
+          "CodePostal": "06133",
+          "NomCommune": "GRASSE CEDEX",
+          "Localisation": {
+            "Latitude": "43.656694",
+            "Longitude": "6.928526",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 60 72 00",
+          "Télécopie": "+33 4 92 60 72 35",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.274416959,
+          43.6963692603
+        ]
+      },
+      "properties": {
+        "codeInsee": "06088",
+        "dateMiseAJour": "2017-01-04",
+        "id": "tgi-06088-01",
+        "idPresta": "4cac9e61293594648a00053e",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Nice",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Palais",
+          "CodePostal": "06357",
+          "NomCommune": "NICE CEDEX 4",
+          "Localisation": {
+            "Latitude": "43.6963692603",
+            "Longitude": "7.274416959",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 92 17 70 00",
+          "Télécopie": "+33 4 92 17 70 96",
+          "Email": "mailto:tgi-nice@justice.fr // accueil-nice@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

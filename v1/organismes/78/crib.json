@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1511722,
+          48.7912954
+        ]
+      },
+      "properties": {
+        "id": "crib-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport et vie associative 78",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "145-147 rue Yves-Le-Coz",
+          "CodePostal": "78000",
+          "NomCommune": "Versailles",
+          "Localisation": {
+            "Latitude": "48.7912954",
+            "Longitude": "2.1511722",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 39 20 12 30",
+          "Télécopie": "01 39 51 40 58",
+          "Email": "contact@profession-sport-78.com",
+          "Url": "http://www.yvelines.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "17:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous pris au 01 39 20 12 30."
+          }
+        }
+      }
+    }
+  ]
+}

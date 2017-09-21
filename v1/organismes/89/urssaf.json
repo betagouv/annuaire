@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5692275,
+          47.7892685
+        ]
+      },
+      "properties": {
+        "id": "urssaf-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Bourgogne-Franche-Comté - site d'Auxerre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "1-3 rue du Moulin",
+            "CodePostal": "89000",
+            "NomCommune": "Auxerre",
+            "Localisation": {
+              "Latitude": "47.7892685",
+              "Longitude": "3.5692275",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Bourgogne-Franche-Comté",
+              "177 rue de Paris"
+            ],
+            "CodePostal": "71027",
+            "NomCommune": "Mâcon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.bourgogne.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil l'après-midi sur rendez-vous en écrivant sur www.contact.urssaf.fr, accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

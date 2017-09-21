@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8928578,
+          42.6983482
+        ]
+      },
+      "properties": {
+        "id": "cdg-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 rue de l'Ange",
+            "BP 901"
+          ],
+          "CodePostal": "66901",
+          "NomCommune": "Perpignan Cedex",
+          "Localisation": {
+            "Latitude": "42.6983482",
+            "Longitude": "2.8928578",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 34 88 66",
+          "Télécopie": "04 68 34 87 24",
+          "Email": "p.koch@cdg66.fr",
+          "Url": "http://www.cdg66.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

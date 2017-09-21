@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.55189990997,
+          47.7963981628
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-89024-01",
+        "codeInsee": "89024",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Yonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 bis boulevard Gallieni",
+            "BP 66"
+          ],
+          "CodePostal": "89011",
+          "NomCommune": "Auxerre Cedex",
+          "Localisation": {
+            "Latitude": "47.7963981628",
+            "Longitude": "3.55189990997",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 86 72 20 00",
+          "Télécopie": "03 86 51 21 30",
+          "Email": "ia89@ac-dijon.fr",
+          "Url": "http://www.ac-dijon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

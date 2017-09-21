@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.771412014961,
+          48.0730018616
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Centre-Val de Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "39 quai Gambetta",
+            "CS 30227"
+          ],
+          "CodePostal": "53002",
+          "NomCommune": "Laval Cedex",
+          "Localisation": {
+            "Latitude": "48.0730018616",
+            "Longitude": "-0.771412014961",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accès à l'arrière du bâtiment"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 49 88 88",
+          "Télécopie": "02 43 49 88 99",
+          "Email": "contact@cm-laval.fr",
+          "Url": "http://www.cm-laval.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

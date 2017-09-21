@@ -1,0 +1,414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0573895,
+          43.7097529
+        ]
+      },
+      "properties": {
+        "id": "caf-40088-01",
+        "codeInsee": "40088",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Landes - accueil de Dax",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "30 rue Chanzy",
+            "CodePostal": "40100",
+            "NomCommune": "Dax",
+            "Localisation": {
+              "Latitude": "43.7097529",
+              "Longitude": "-1.0573895",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "207 rue Fontainebleau",
+              "Caisse d'allocations familiales des Landes"
+            ],
+            "CodePostal": "40023",
+            "NomCommune": "Mont-de-Marsan Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 40 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Borne interactive uniquement. Accueil téléphonique de 9h à 16h du lundi au vendredi."
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Borne interactive uniquement. Accueil téléphonique de 9h à 16h du lundi au vendredi."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:30:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Borne interactive uniquement. Accueil téléphonique de 9h à 16h du lundi au vendredi."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4649446,
+          43.5438174
+        ]
+      },
+      "properties": {
+        "id": "caf-40312-01",
+        "codeInsee": "40312",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Pays Basque et du Seignanx - accueil de Tarnos",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Centre communal d'action sociale",
+              "13 rue de Tichené"
+            ],
+            "CodePostal": "40220",
+            "NomCommune": "Tarnos",
+            "Localisation": {
+              "Latitude": "43.5438174",
+              "Longitude": "-1.4649446",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Pays Basque et du Seignanx",
+              "10 avenue du Maréchal-Foch"
+            ],
+            "CodePostal": "64117",
+            "NomCommune": "Bayonne Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 64 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous tous les vendredis matin de 9h à 12h et l'après-midi de 13h30 à 16h30 un vendredi sur deux et accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.261233,
+          43.700299
+        ]
+      },
+      "properties": {
+        "id": "caf-40001-01",
+        "codeInsee": "40001",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Landes - accueil d'Aire-sur-l'Adour",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de services au public Saint-Louis",
+              "4 rue René-Méricam"
+            ],
+            "CodePostal": "40800",
+            "NomCommune": "Aire-sur-l'Adour",
+            "Localisation": {
+              "Latitude": "43.700299",
+              "Longitude": "-0.261233",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales des Landes",
+              "207 rue Fontainebleau"
+            ],
+            "CodePostal": "40023",
+            "NomCommune": "Mont-de-Marsan Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 40 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Uniquement sur rendez-vous.Accueil téléphonique du lundi au vendredi de 9h00 à 16h00."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07256996632,
+          44.3488998413
+        ]
+      },
+      "properties": {
+        "id": "caf-40217-01",
+        "codeInsee": "40217",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Landes - accueil de Parentis-en-Born",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Bâtiment administratif",
+              "Place du 14-Juillet"
+            ],
+            "CodePostal": "40160",
+            "NomCommune": "Parentis-en-Born",
+            "Localisation": {
+              "Latitude": "44.3488998413",
+              "Longitude": "-1.07256996632",
+              "Précision": "4"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales des Landes",
+              "207 rue Fontainebleau"
+            ],
+            "CodePostal": "40023",
+            "NomCommune": "Mont-de-Marsan Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 40 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Accueil téléphonique de 9h à 16h du lundi au vendredi."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5074997,
+          43.8912006
+        ]
+      },
+      "properties": {
+        "id": "caf-40192-01",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Landes - siège de Mont-de-Marsan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "207 rue de Fontainebleau",
+          "CodePostal": "40023",
+          "NomCommune": "Mont-de-Marsan Cedex",
+          "Localisation": {
+            "Latitude": "43.8912006",
+            "Longitude": "-0.5074997",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 40 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Uniquement sur rendez-vous.Accueil téléphonique du lundi au vendredi de 9h00 à 16h00."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386248,
+          43.544854
+        ]
+      },
+      "properties": {
+        "id": "caf-40273-01",
+        "codeInsee": "40273",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) du Pays Basque et du Seignanx - accueil de Saint-Martin-de-Seignanx",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Mairie",
+              "47 place Oyon-Oion"
+            ],
+            "CodePostal": "40390",
+            "NomCommune": "Saint-Martin-de-Seignanx",
+            "Localisation": {
+              "Latitude": "43.544854",
+              "Longitude": "-1.386248",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales du Pays Basque et du Seignanx",
+              "10 avenue du Maréchal-Foch"
+            ],
+            "CodePostal": "64117",
+            "NomCommune": "Bayonne Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 64 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous un vendredi sur deux et accueil téléphonique du lundi au vendredi de 9h à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

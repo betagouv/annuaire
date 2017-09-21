@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.98856,
+          14.620696
+        ]
+      },
+      "properties": {
+        "id": "carsat-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "carsat",
+        "Nom": "Caisse générale de sécurité sociale (CGSS) - Martinique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quartier Césaire",
+            "Place d'Armes"
+          ],
+          "CodePostal": "97210",
+          "NomCommune": "Le Lamentin Cedex 2",
+          "Localisation": {
+            "Latitude": "14.620696",
+            "Longitude": "-60.98856",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 22 25 55"
+          },
+          "Url": "http://www.cgss-martinique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil sur rendez-vous pour certaines démarches."
+          }
+        }
+      }
+    }
+  ]
+}

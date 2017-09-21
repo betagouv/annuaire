@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4534051,
+          48.9085614
+        ]
+      },
+      "properties": {
+        "id": "ddcs-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2013-01-23",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble L'Européen",
+            "5-7, promenade Jean-Rostand"
+          ],
+          "CodePostal": "93005",
+          "NomCommune": "Bobigny Cedex",
+          "Localisation": {
+            "Latitude": "48.9085614",
+            "Longitude": "2.4534051",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 74 73 36 00",
+          "Télécopie": "+33 1 74 73 36 01",
+          "Email": "ddcs@seine-saint-denis.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

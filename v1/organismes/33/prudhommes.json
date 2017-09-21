@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.620568,
+          44.840848
+        ]
+      },
+      "properties": {
+        "codeInsee": "33063",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-33063-01",
+        "idPresta": "4cac9e69293594648a0016e7",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bordeaux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la République",
+          "CodePostal": "33077",
+          "NomCommune": "BORDEAUX CEDEX",
+          "Localisation": {
+            "Latitude": "44.840848",
+            "Longitude": "-0.620568",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 47 33 95 95",
+          "Télécopie": "+33 5 47 33 95 96",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.246176,
+          44.915755
+        ]
+      },
+      "properties": {
+        "codeInsee": "33243",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-33243-01",
+        "idPresta": "4cac9e69293594648a0016e8",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Libourne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "36 rue Victor Hugo",
+            "BP 145"
+          ],
+          "CodePostal": "33501",
+          "NomCommune": "LIBOURNE CEDEX",
+          "Localisation": {
+            "Latitude": "44.915755",
+            "Longitude": "-0.246176",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 57 51 75 42",
+          "Télécopie": "+33 5 57 51 55 63",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

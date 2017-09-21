@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3172012,
+          48.8520174
+        ]
+      },
+      "properties": {
+        "id": "cr-75107-01",
+        "codeInsee": "75107",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "cr",
+        "Nom": "Conseil régional - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 rue Barbet-de-Jouy",
+          "CodePostal": "75007",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8520174",
+            "Longitude": "2.3172012",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 53 85 53 85",
+          "Télécopie": "+33 1 45 51 89 49",
+          "Email": "http://www.iledefrance.fr/eform/submit/basic-contact",
+          "Url": "http://www.iledefrance.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

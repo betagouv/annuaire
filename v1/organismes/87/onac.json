@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2580517,
+          45.8314119
+        ]
+      },
+      "properties": {
+        "id": "onac-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Vienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Haute-de-la-Comédie",
+          "CodePostal": "87000",
+          "NomCommune": "Limoges",
+          "Localisation": {
+            "Latitude": "45.8314119",
+            "Longitude": "1.2580517",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 33 98 82 05 55 33 51 30",
+          "Email": "sd87@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:87/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.58644,
+          44.357107
+        ]
+      },
+      "properties": {
+        "codeInsee": "12202",
+        "dateMiseAJour": "2015-06-19",
+        "id": "prudhommes-12202-01",
+        "idPresta": "4cac9e5f293594648a0001ff",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Rodez",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "Bd de Guizard BP 330"
+          ],
+          "CodePostal": "12003",
+          "NomCommune": "RODEZ CEDEX",
+          "Localisation": {
+            "Latitude": "44.357107",
+            "Longitude": "2.58644",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "056573432700",
+          "Télécopie": "+33 5 65 73 43 26",
+          "Email": "mailto:cph-rodez@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.077547,
+          44.099196
+        ]
+      },
+      "properties": {
+        "codeInsee": "12145",
+        "dateMiseAJour": "2015-09-18",
+        "id": "prudhommes-12145-01",
+        "idPresta": "4cac9e5f293594648a0001fe",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Millau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de justice",
+            "2 boulevard de l'Ayrolle"
+          ],
+          "CodePostal": "12100",
+          "NomCommune": "MILLAU",
+          "Localisation": {
+            "Latitude": "44.099196",
+            "Longitude": "3.077547",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 61 48 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

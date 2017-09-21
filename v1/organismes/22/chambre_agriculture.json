@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.75964999199,
+          48.5306015015
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-22187-01",
+        "codeInsee": "22187",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Côtes-d’Armor",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'agriculture",
+            "4 avenue du Chalutier-Sans-Pitié",
+            "BP 10540"
+          ],
+          "CodePostal": "22195",
+          "NomCommune": "Plérin Cedex",
+          "Localisation": {
+            "Latitude": "48.5306015015",
+            "Longitude": "-2.75964999199",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 96 79 22 22",
+          "Télécopie": "02 96 79 21 00",
+          "Email": "cda22@cotes-d-armor.chambagri.fr",
+          "Url": "http://www.agriculteurs22.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

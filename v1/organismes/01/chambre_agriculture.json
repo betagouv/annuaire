@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2297472,
+          46.2072174
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-01053-01",
+        "codeInsee": "01053",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 avenue du Champ-de-Foire",
+            "BP 84"
+          ],
+          "CodePostal": "01003",
+          "NomCommune": "Bourg-en-Bresse Cedex",
+          "Localisation": {
+            "Latitude": "46.2072174",
+            "Longitude": "5.2297472",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 45 47 43",
+          "Télécopie": "04 74 45 47 00",
+          "Email": "accueil@ain.chambagri.fr",
+          "Url": "http://www.synagri.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90398,
+          47.9014
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Unité territoriale - Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité adminitrative Coligny",
+            "131 rue du Faubourg-Bannier"
+          ],
+          "CodePostal": "45042",
+          "NomCommune": "Orléans Cedex",
+          "Localisation": {
+            "Latitude": "47.9014",
+            "Longitude": "1.90398",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 78 98 38",
+          "Télécopie": "02 38 62 33 03",
+          "Email": "centre-ut45.direction@direccte.gouv.fr",
+          "Url": "http://centre-val-de-loire.direccte.gouv.fr/Loiret"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

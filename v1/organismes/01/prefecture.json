@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2217169,
+          46.2025304
+        ]
+      },
+      "properties": {
+        "id": "prefecture-01053-01",
+        "codeInsee": "01053",
+        "dateMiseAJour": "2014-01-21",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Ain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "45, avenue d'Alsace-Lorraine",
+            "CS 80400",
+            "Quartier Bourg centre"
+          ],
+          "CodePostal": "01012",
+          "NomCommune": "Bourg-en-Bresse Cedex",
+          "Localisation": {
+            "Latitude": "46.2025304",
+            "Longitude": "5.2217169",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 32 30 00",
+          "Email": "prefecture@ain.gouv.fr",
+          "Url": "http://www.ain.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

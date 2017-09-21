@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8009644,
+          47.4935621
+        ]
+      },
+      "properties": {
+        "id": "crous-25388-01",
+        "codeInsee": "25388",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Montbéliard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "23 rue Maurice-Ravel",
+          "CodePostal": "25200",
+          "NomCommune": "Montbéliard",
+          "Localisation": {
+            "Latitude": "47.4935621",
+            "Longitude": "6.8009644",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 81 94 45 92",
+          "Email": "pole-hebergement-nfc@crous-besancon.fr",
+          "Url": "http://www.crous-besancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9928555,
+          47.247291
+        ]
+      },
+      "properties": {
+        "id": "crous-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "38 avenue de l'Observatoire",
+            "BP 91107"
+          ],
+          "CodePostal": "25002",
+          "NomCommune": "Besançon Cedex 3",
+          "Localisation": {
+            "Latitude": "47.247291",
+            "Longitude": "5.9928555",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC",
+            "$t": "service administratif non accessible"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 48 46 62",
+          "Email": "bourse@crous-besancon.fr",
+          "Url": "http://www.crous-besancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

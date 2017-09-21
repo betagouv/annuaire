@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367686,
+          49.523575
+        ]
+      },
+      "properties": {
+        "codeInsee": "55351",
+        "dateMiseAJour": "2015-02-09",
+        "id": "centre_detention-55351-01",
+        "idPresta": "4eb262cf2935944ef50000d3",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention de Montmédy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 rue du Commandant Ménard",
+          "CodePostal": "55600",
+          "NomCommune": "MONTMEDY",
+          "Localisation": {
+            "Latitude": "49.523575",
+            "Longitude": "5.367686",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 80 17 37",
+          "Télécopie": "+33 3 29 80 14 75",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535014,
+          48.884269
+        ]
+      },
+      "properties": {
+        "codeInsee": "55463",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_detention-55463-01",
+        "idPresta": "4eb262982935944ef50000b4",
+        "pivotLocal": "centre_detention",
+        "Nom": "Centre de détention de Saint-Mihiel",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 route de Commercy",
+            "BP 5"
+          ],
+          "CodePostal": "55300",
+          "NomCommune": "ST MIHIEL",
+          "Localisation": {
+            "Latitude": "48.884269",
+            "Longitude": "5.535014",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 90 32 00",
+          "Télécopie": "+33 3 29 90 26 40",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

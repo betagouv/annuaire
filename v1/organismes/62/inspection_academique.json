@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7634999752,
+          50.2969017029
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Pas-de-Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "20 boulevard de la Liberté",
+            "BP 90016"
+          ],
+          "CodePostal": "62021",
+          "NomCommune": "Arras Cedex",
+          "Localisation": {
+            "Latitude": "50.2969017029",
+            "Longitude": "2.7634999752",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 21 23 31 31",
+          "Télécopie": "03 21 31 82 78",
+          "Email": "ce.ia62@ac-lille.fr",
+          "Url": "http://www.ac-lille.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert pendant les congés scolaires de 9h à 11h30 et de 14h à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

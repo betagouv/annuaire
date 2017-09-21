@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8993669,
+          47.9147247
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Cité administrative Coligny",
+              "131, rue Faubourg-Bannier"
+            ],
+            "CodePostal": "45042",
+            "NomCommune": "Orléans Cedex 1",
+            "Localisation": {
+              "Latitude": "47.9147247",
+              "Longitude": "1.8993669",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC",
+              "$t": "rez-de-chaussée"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Préfecture du Loiret",
+              "Direction départementale de la cohésion sociale",
+              "181, rue de Bourgogne"
+            ],
+            "CodePostal": "45042",
+            "NomCommune": "Orléans Cedex 1",
+            "Localisation": {
+              "Latitude": "47.9002354",
+              "Longitude": "1.910643",
+              "Précision": "6"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 42 42 52",
+          "Télécopie": "+33 2 38 62 54 12",
+          "Url": "http://www.loiret.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

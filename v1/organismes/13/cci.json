@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.627502,
+          43.676675
+        ]
+      },
+      "properties": {
+        "id": "cci-13004-01",
+        "codeInsee": "13004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Pays d'Arles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Avenue de la 1ère-Division-France-Libre",
+            "BP 10039"
+          ],
+          "CodePostal": "13633",
+          "NomCommune": "Arles Cedex",
+          "Localisation": {
+            "Latitude": "43.676675",
+            "Longitude": "4.627502",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 90 99 08 08",
+          "Télécopie": "04 90 99 08 00",
+          "Email": "contact@arles.cci.fr",
+          "Url": "http://www.arles.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3753877,
+          43.2961474
+        ]
+      },
+      "properties": {
+        "id": "cci-13201-01",
+        "codeInsee": "13201",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Marseille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de la bourse",
+            "9 La Canebière",
+            "CS 21856"
+          ],
+          "CodePostal": "13001",
+          "NomCommune": "Marseille",
+          "Localisation": {
+            "Latitude": "43.2961474",
+            "Longitude": "5.3753877",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 11 31 13"
+          },
+          "Email": "service.client@ccimp.com",
+          "Url": "http://www.ccimp.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

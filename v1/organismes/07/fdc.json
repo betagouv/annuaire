@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45846796036,
+          44.701210022
+        ]
+      },
+      "properties": {
+        "id": "fdc-07230-01",
+        "codeInsee": "07230",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Ardèche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Col de l'Escrinet",
+          "CodePostal": "07200",
+          "NomCommune": "Saint-Étienne-de-Boulogne",
+          "Localisation": {
+            "Latitude": "44.701210022",
+            "Longitude": "4.45846796036",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 87 88 20",
+          "Télécopie": "04 75 87 88 30",
+          "Email": "fdc07@fdc07.fr",
+          "Url": "http://www.fdc07.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

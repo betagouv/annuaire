@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49822,
+          44.516188
+        ]
+      },
+      "properties": {
+        "codeInsee": "48095",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-48095-01",
+        "idPresta": "4cac9e5f293594648a000271",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Mende",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "boulevard Henri Bourillon",
+          "CodePostal": "48000",
+          "NomCommune": "MENDE",
+          "Localisation": {
+            "Latitude": "44.516188",
+            "Longitude": "3.49822",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 65 35 95",
+          "Télécopie": "+33 4 66 49 36 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

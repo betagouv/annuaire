@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46583,
+          -20.888016
+        ]
+      },
+      "properties": {
+        "codeInsee": "97411",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-97411-01",
+        "idPresta": "4cac9e6a293594648a001712",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Denis de La Réunion",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 avenue André Malraux",
+            "BP 338"
+          ],
+          "CodePostal": "97494",
+          "NomCommune": "STE CLOTILDE CEDEX",
+          "Localisation": {
+            "Latitude": "-20.888016",
+            "Longitude": "55.46583",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 62 40 23 45",
+          "Télécopie": "+33 2 62 41 20 09",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "07:45:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "15:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.479027,
+          -21.336686
+        ]
+      },
+      "properties": {
+        "codeInsee": "97416",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-97416-01",
+        "idPresta": "4cac9e60293594648a000397",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Saint-Pierre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "30 rue Augustin Archambaud",
+            "BP 338"
+          ],
+          "CodePostal": "97448",
+          "NomCommune": "ST PIERRE CEDEX",
+          "Localisation": {
+            "Latitude": "-21.336686",
+            "Longitude": "55.479027",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 62 96 10 50",
+          "Télécopie": "+33 2 62 96 10 59",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

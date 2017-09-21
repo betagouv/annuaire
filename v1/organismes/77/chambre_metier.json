@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88504004478,
+          48.9602012634
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-77284-01",
+        "codeInsee": "77284",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue des Cordeliers",
+          "CodePostal": "77100",
+          "NomCommune": "Meaux",
+          "Localisation": {
+            "Latitude": "48.9602012634",
+            "Longitude": "2.88504004478",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 79 26 80",
+          "Télécopie": "01 64 33 40 24",
+          "Email": "antenne.meaux@cma77.fr",
+          "Url": "http://www.cma77.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6532969,
+          48.5268977
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-77305-01",
+        "codeInsee": "77305",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 avenue du Général-Leclerc",
+          "CodePostal": "77008",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.5268977",
+            "Longitude": "2.6532969",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 79 26 00",
+          "Télécopie": "01 64 79 26 01",
+          "Email": "antenne.melun@cma77.fr",
+          "Url": "http://www.cma77.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.694506,
+          47.394189
+        ]
+      },
+      "properties": {
+        "codeInsee": "37261",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-37261-01",
+        "idPresta": "4cac9e5f293594648a000259",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Tours",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Adminis. Champs Girault",
+            "2 rue A. Dennery BP 2605"
+          ],
+          "CodePostal": "37026",
+          "NomCommune": "TOURS CEDEX 1",
+          "Localisation": {
+            "Latitude": "47.394189",
+            "Longitude": "0.694506",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 47 70 46 00",
+          "Télécopie": "+33 2 47 64 96 55",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

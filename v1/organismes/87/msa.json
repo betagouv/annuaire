@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2413127,
+          45.8202412
+        ]
+      },
+      "properties": {
+        "id": "msa-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Limoges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 impasse Sainte-Claire",
+          "CodePostal": "87041",
+          "NomCommune": "Limoges Cedex 1",
+          "Localisation": {
+            "Latitude": "45.8202412",
+            "Longitude": "1.2413127",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 44 00 04 04",
+          "Url": "http://www.msa-limousin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

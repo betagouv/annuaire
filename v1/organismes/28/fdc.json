@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4267066,
+          48.3416999
+        ]
+      },
+      "properties": {
+        "id": "fdc-28048-01",
+        "codeInsee": "28048",
+        "dateMiseAJour": "2014-10-14",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Eure-et-Loir",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "12, rue du Château",
+              "Chenonville"
+            ],
+            "CodePostal": "28360",
+            "NomCommune": "La Bourdinière-Saint-Loup",
+            "Localisation": {
+              "Latitude": "48.3416999",
+              "Longitude": "1.4267066",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Fédération des Chasseurs - Eure-et-Loir",
+              "CS 20003"
+            ],
+            "CodePostal": "28637",
+            "NomCommune": "Gellainville Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 24 04 00",
+          "Télécopie": "+33 2 37 31 37 96",
+          "Email": "fdc28@fdc-28.com",
+          "Url": "http://www.chasseursducentre.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:45:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

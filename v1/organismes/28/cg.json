@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4843155,
+          48.4473585
+        ]
+      },
+      "properties": {
+        "id": "cg-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Eure-et-Loir",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place Châtelet",
+            "CS 70403"
+          ],
+          "CodePostal": "28008",
+          "NomCommune": "Chartres Cedex",
+          "Localisation": {
+            "Latitude": "48.4473585",
+            "Longitude": "1.4843155",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe d'accès"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 37 20 10 10",
+          "Télécopie": "02 37 20 10 90",
+          "Email": "accueil@eurelien.fr",
+          "Url": "http://www.eurelien.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Contacter l'accueil pour obtenir les horaires des différents services."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Contacter l'accueil pour obtenir les horaires des différents services."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

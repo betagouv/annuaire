@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3422791,
+          47.7519521
+        ]
+      },
+      "properties": {
+        "id": "urssaf-68224-01",
+        "codeInsee": "68224",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Grand Est - site de Mulhouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "26 avenue Robert-Schuman",
+            "CodePostal": "68200",
+            "NomCommune": "Mulhouse",
+            "Localisation": {
+              "Latitude": "47.7519521",
+              "Longitude": "7.3422791",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Urssaf Alsace",
+            "CodePostal": "67945",
+            "NomCommune": "Strasbourg Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Télécopie": "08 10 02 01 69",
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.alsace.urssaf.fr"
+        },
+        "Commentaire": "Accueil exclusivement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    }
+  ]
+}

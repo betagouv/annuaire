@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5921077,
+          43.635165
+        ]
+      },
+      "properties": {
+        "id": "crib-32013-01",
+        "codeInsee": "32013",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Groupement d'employeurs des associations gersoises",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "36 rue des Canaris",
+          "CodePostal": "32000",
+          "NomCommune": "Auch",
+          "Localisation": {
+            "Latitude": "43.635165",
+            "Longitude": "0.5921077",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 06 59 82",
+          "Email": "ge.asso.gers@gmail.com",
+          "Url": "http://www.infoasso32.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

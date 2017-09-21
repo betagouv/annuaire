@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1492416,
+          48.9981579
+        ]
+      },
+      "properties": {
+        "id": "urssaf-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Normandie - site d'Évreux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Parc d'activités de la Forêt",
+              "209 rue Henri-Becquerel"
+            ],
+            "CodePostal": "27000",
+            "NomCommune": "Évreux",
+            "Localisation": {
+              "Latitude": "48.9981579",
+              "Longitude": "1.1492416",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Normandie",
+              "61 rue Pierre-Renaudel",
+              "CS 92035"
+            ],
+            "CodePostal": "76040",
+            "NomCommune": "Rouen Cedex 1"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.hautenormandie.urssaf.fr"
+        },
+        "Commentaire": "Accueil exclusivement sur rendez-vous en contactant l'Urssaf par mail via contact.urssaf.fr ou au 3957, accueil téléphonique de 9h à 17h du lundi au vendredi."
+      }
+    }
+  ]
+}

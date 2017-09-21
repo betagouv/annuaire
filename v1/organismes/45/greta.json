@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7159501,
+          48.0003639
+        ]
+      },
+      "properties": {
+        "id": "greta-45338-01",
+        "codeInsee": "45338",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Durzy",
+            "23 rue Léonard-de-Vinci",
+            "BP 22063"
+          ],
+          "CodePostal": "45702",
+          "NomCommune": "Villemandeur Cedex",
+          "Localisation": {
+            "Latitude": "48.0003639",
+            "Longitude": "2.7159501",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 93 56 72",
+          "Télécopie": "02 38 89 25 13",
+          "Email": "gretaloiret@ac-orleans-tours.fr",
+          "Url": "http://www.greta45.ac-orleans-tours.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9187677,
+          47.9383186
+        ]
+      },
+      "properties": {
+        "id": "greta-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Voltaire",
+            "3 avenue Voltaire"
+          ],
+          "CodePostal": "45072",
+          "NomCommune": "Orléans Cedex 2",
+          "Localisation": {
+            "Latitude": "47.9383186",
+            "Longitude": "1.9187677",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 38 49 12 12",
+          "Télécopie": "02 38 49 12 13",
+          "Email": "gretaloiret@ac-orleans-tours.fr",
+          "Url": "http://www.greta45.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil fermé pendant les congés scolaires."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

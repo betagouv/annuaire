@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6326842,
+          44.8944621
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-05023-01",
+        "codeInsee": "05023",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi de Briançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 avenue du Général-de-Gaulle",
+          "CodePostal": "05100",
+          "NomCommune": "Briançon",
+          "Localisation": {
+            "Latitude": "44.8944621",
+            "Longitude": "6.6326842",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service gratuit + prix appel (depuis l’étranger composez le +33 1 77 86 39 49) ; Employeur : 3995 (depuis l'étranger composez le +33 1 77 86 39 95).",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0834792,
+          44.559095
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-05061-01",
+        "codeInsee": "05061",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi de Gap",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "26 boulevard Georges-Pompidou",
+          "CodePostal": "5000",
+          "NomCommune": "Gap",
+          "Localisation": {
+            "Latitude": "44.559095",
+            "Longitude": "6.0834792",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service gratuit + prix appel (depuis l’étranger composez le +33 1 77 86 39 49) ; Employeur : 3995 (depuis l'étranger composez le +33 1 77 86 39 95).",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

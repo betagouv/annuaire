@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4401862,
+          42.7037149
+        ]
+      },
+      "properties": {
+        "id": "maia-2B033-01",
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2013-11-26",
+        "pivotLocal": "maia",
+        "Nom": "Mission d'accueil et d'information des associations (Maia) - Haute-Corse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale et de la protection des populations",
+            "Immeuble Bella-Vista",
+            "Rue Paratojo",
+            "CS 60011"
+          ],
+          "CodePostal": "20288",
+          "NomCommune": "Bastia Cedex",
+          "Localisation": {
+            "Latitude": "42.7037149",
+            "Longitude": "9.4401862",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 58 50 85",
+          "Télécopie": "+33 4 95 34 88 72",
+          "Email": "francois.corpron@haute-corse.gouv.fr",
+          "Url": "http://www.associations.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

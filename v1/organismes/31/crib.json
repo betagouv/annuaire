@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444209,
+          43.604652
+        ]
+      },
+      "properties": {
+        "id": "crib-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Clap - Midi-Pyrénées - Toulouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "108 route d'Espagne",
+          "CodePostal": "31100",
+          "NomCommune": "Toulouse",
+          "Localisation": {
+            "Latitude": "43.604652",
+            "Longitude": "1.444209",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 27 50 48",
+          "Télécopie": "+33 5 31 60 20 51",
+          "Email": "clap@clapmp.com",
+          "Url": "http://www.clapmp.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.521728,
+          43.535875
+        ]
+      },
+      "properties": {
+        "id": "crib-31254-01",
+        "codeInsee": "31254",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport animation 31",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des sports",
+            "190 rue Isatis",
+            "BP 81908"
+          ],
+          "CodePostal": "31319",
+          "NomCommune": "Labège Cedex",
+          "Localisation": {
+            "Latitude": "43.535875",
+            "Longitude": "1.521728",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 24 19 00",
+          "Télécopie": "05 62 24 19 05",
+          "Email": "psa31@cdos31.org",
+          "Url": "http://www.profession-sport-animation-31.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

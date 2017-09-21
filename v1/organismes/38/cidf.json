@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72886991501,
+          45.1901016235
+        ]
+      },
+      "properties": {
+        "id": "cidf-38185-01",
+        "codeInsee": "38185",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Isère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue Raoul-Blanchard",
+          "CodePostal": "38000",
+          "NomCommune": "Grenoble",
+          "Localisation": {
+            "Latitude": "45.1901016235",
+            "Longitude": "5.72886991501",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 76 54 14 35",
+          "Télécopie": "+33 4 76 42 73 57",
+          "Email": "contact@cidff38.com",
+          "Url": "http://www.cidff38.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

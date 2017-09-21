@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.712035,
+          46.7984889
+        ]
+      },
+      "properties": {
+        "id": "greta-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lycée Blaise-Pascal",
+            "Boulevard Blaise-Pascal",
+            "BP 407"
+          ],
+          "CodePostal": "36008",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.7984889",
+            "Longitude": "1.712035",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 08 20 80",
+          "Télécopie": "02 54 08 20 85",
+          "Email": "greta-indre@ac-orleans-tours.fr",
+          "Url": "http://www.greta36.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

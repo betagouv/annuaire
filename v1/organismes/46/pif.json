@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.442677,
+          44.4441128
+        ]
+      },
+      "properties": {
+        "id": "pif-46042-01",
+        "codeInsee": "46042",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de l'Udaf du Lot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "51 rue Étienne-Brives",
+          "CodePostal": "46003",
+          "NomCommune": "Cahors Cedex",
+          "Localisation": {
+            "Latitude": "44.4441128",
+            "Longitude": "1.442677",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 25 87 63 87"
+          },
+          "Télécopie": "05 65 22 27 16",
+          "Email": "gcazard@udaf46.unaf.fr",
+          "Url": "http://www.unaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

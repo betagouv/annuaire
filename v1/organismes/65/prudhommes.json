@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0770006,
+          43.2348495
+        ]
+      },
+      "properties": {
+        "codeInsee": "65440",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-65440-01",
+        "idPresta": "4cac9e5f293594648a0002da",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Tarbes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Eugène Tenot",
+          "CodePostal": "65000",
+          "NomCommune": "TARBES",
+          "Localisation": {
+            "Latitude": "43.2348495",
+            "Longitude": "0.0770006",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 34 02 98",
+          "Télécopie": "+33 5 62 34 74 34",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

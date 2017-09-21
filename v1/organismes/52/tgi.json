@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.136812,
+          48.112727
+        ]
+      },
+      "properties": {
+        "codeInsee": "52121",
+        "dateMiseAJour": "2014-06-09",
+        "id": "tgi-52121-01",
+        "idPresta": "4cac9e6a293594648a0017a6",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Chaumont",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue du Palais",
+            "BP 2061"
+          ],
+          "CodePostal": "52903",
+          "NomCommune": "CHAUMONT CEDEX 9",
+          "Localisation": {
+            "Latitude": "48.112727",
+            "Longitude": "5.136812",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 32 84 20",
+          "Télécopie": "+33 3 25 03 43 52",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

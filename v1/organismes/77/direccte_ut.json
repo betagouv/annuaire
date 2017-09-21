@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66029,
+          48.5415
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité départementale - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Bâtiment C",
+            "20 quai Hippolyte-Rossignol"
+          ],
+          "CodePostal": "77011",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.5415",
+            "Longitude": "2.66029",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 41 28 59",
+          "Télécopie": "01 64 37 83 89",
+          "Email": "idf-ut77.direction@direccte.gouv.fr",
+          "Url": "http://direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.661653,
+          47.351721
+        ]
+      },
+      "properties": {
+        "codeInsee": "37122",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-37122-01",
+        "idPresta": "51b08c96b473e4147800040a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Joué les Tours",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue du Comte de Mons",
+          "CodePostal": "37300",
+          "NomCommune": "JOUE LES TOURS",
+          "Localisation": {
+            "Latitude": "47.351721",
+            "Longitude": "0.661653",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 47 68 92 71",
+          "Télécopie": "+33 2 47 68 92 73",
+          "Email": "mailto:mjd-tours@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

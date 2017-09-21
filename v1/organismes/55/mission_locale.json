@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405968,
+          49.149172
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-55545-01",
+        "codeInsee": "55545",
+        "dateMiseAJour": "2017-08-01",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Nord-Meusien",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Fernand-Braudel",
+          "CodePostal": "55107",
+          "NomCommune": "Verdun",
+          "Localisation": {
+            "Latitude": "49.149172",
+            "Longitude": "5.405968",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 86 25 26",
+          "Télécopie": "03 29 86 32 78",
+          "Email": "ml.nord.meusien@wanadoo.fr",
+          "Url": "http://ml-nordmeusien.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1709416,
+          48.7695675
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-55029-01",
+        "codeInsee": "55029",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Bar-le-Duc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue Ernest-Bradfer",
+          "CodePostal": "55000",
+          "NomCommune": "Bar-le-Duc",
+          "Localisation": {
+            "Latitude": "48.7695675",
+            "Longitude": "5.1709416",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 79 01 13",
+          "Télécopie": "03 29 79 37 40",
+          "Email": "direction.directeur.mlsm@orange.fr",
+          "Url": "http://www.bougeettrouvetonjob.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

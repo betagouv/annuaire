@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07562017441,
+          48.0052986145
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-29232-01",
+        "codeInsee": "29232",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Bretagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24 route de Cuzon",
+            "CS 21037"
+          ],
+          "CodePostal": "29196",
+          "NomCommune": "Quimper Cedex",
+          "Localisation": {
+            "Latitude": "48.0052986145",
+            "Longitude": "-4.07562017441",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "passez par l'arrière du bâtiment"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 76 46 46",
+          "Télécopie": "02 98 95 88 41",
+          "Email": "secretariat.general@cma29.fr",
+          "Url": "http://www.cma29.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

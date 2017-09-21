@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.761394,
+          47.656336
+        ]
+      },
+      "properties": {
+        "codeInsee": "56260",
+        "dateMiseAJour": "2015-02-02",
+        "id": "ti-56260-01",
+        "idPresta": "4cac9e6a293594648a0017f5",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Vannes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 place de la République",
+            "CS 42503"
+          ],
+          "CodePostal": "56019",
+          "NomCommune": "VANNES CEDEX",
+          "Localisation": {
+            "Latitude": "47.656336",
+            "Longitude": "-2.761394",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 43 77 06",
+          "Télécopie": "+33 2 97 54 36 35",
+          "Email": "mailto:ti-vannes@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.378909,
+          47.75257
+        ]
+      },
+      "properties": {
+        "codeInsee": "56121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-56121-01",
+        "idPresta": "4cac9e6a293594648a0017f4",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Lorient",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre d'affaires la découverte",
+            "39 rue de la villeneuve"
+          ],
+          "CodePostal": "56100",
+          "NomCommune": "LORIENT",
+          "Localisation": {
+            "Latitude": "47.75257",
+            "Longitude": "-3.378909",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 97 88 28 00",
+          "Télécopie": "+33 2 97 88 28 14",
+          "Email": "mailto:ti-lorient@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674564,
+          48.102079
+        ]
+      },
+      "properties": {
+        "codeInsee": "35238",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-35238-01",
+        "idPresta": "4eb2632d2935944ef500015a",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire pour femmes de Rennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 Bis rue du Châtillon",
+            "CS 23131"
+          ],
+          "CodePostal": "35031",
+          "NomCommune": "RENNES CEDEX",
+          "Localisation": {
+            "Latitude": "48.102079",
+            "Longitude": "-1.674564",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 99 26 89 00",
+          "Télécopie": "+33 2 99 26 85 44",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.739695,
+          48.10675
+        ]
+      },
+      "properties": {
+        "codeInsee": "35353",
+        "dateMiseAJour": "2014-01-28",
+        "id": "centre_penitentiaire-35353-01",
+        "idPresta": "4eb263302935944ef500018a",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre pénitentiaire de Rennes-Vézin le Coquet",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue du petit pré",
+          "CodePostal": "35132",
+          "NomCommune": "VEZIN LE COQUET",
+          "Localisation": {
+            "Latitude": "48.10675",
+            "Longitude": "-1.739695",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 56 01 56 00",
+          "Télécopie": "+33 2 99 14 87 77",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

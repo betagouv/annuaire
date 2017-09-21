@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5513877,
+          46.6720989
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-39300-01",
+        "codeInsee": "39300",
+        "dateMiseAJour": "2013-10-14",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) du Jura",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8, rue de la Préfecture",
+            "BP 10634"
+          ],
+          "CodePostal": "39021",
+          "NomCommune": "Lons-le-Saunier Cedex",
+          "Localisation": {
+            "Latitude": "46.6720989",
+            "Longitude": "5.5513877",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 63 55 83 00",
+          "Télécopie": "+33 3 63 55 83 99",
+          "Email": "ddcspp@jura.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

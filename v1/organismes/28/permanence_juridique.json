@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3528092,
+          48.0768376
+        ]
+      },
+      "properties": {
+        "codeInsee": "28088",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-28088-01",
+        "idPresta": "4cac9e5f293594648a0001eb",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Point d'accès au droit",
+            "22 rue Anatole France",
+            "Appartement 1830"
+          ],
+          "CodePostal": "28200",
+          "NomCommune": "CHATEAUDUN",
+          "Localisation": {
+            "Latitude": "48.0768376",
+            "Longitude": "1.3528092",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 45 33 33",
+          "Email": "mailto:cdad.chateaudun@wanadoo.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4830157,
+          48.4429125
+        ]
+      },
+      "properties": {
+        "codeInsee": "28085",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-28085-01",
+        "idPresta": "4cac9e5f293594648a0001ea",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Chartres",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue du Docteur Gibert",
+          "CodePostal": "28000",
+          "NomCommune": "CHARTRES",
+          "Localisation": {
+            "Latitude": "48.4429125",
+            "Longitude": "1.4830157",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 21 20 80",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.116699,
+          45.894802
+        ]
+      },
+      "properties": {
+        "codeInsee": "63300",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-63300-01",
+        "idPresta": "4cac9e5f293594648a0002d7",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Riom",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue Jean de Berry",
+            "BP 4"
+          ],
+          "CodePostal": "63200",
+          "NomCommune": "RIOM",
+          "Localisation": {
+            "Latitude": "45.894802",
+            "Longitude": "3.116699",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 38 40 85",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.080691,
+          45.779422
+        ]
+      },
+      "properties": {
+        "codeInsee": "63113",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-63113-01",
+        "idPresta": "4cac9e6a293594648a0016ff",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Clermont-Ferrand",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice",
+            "16 place de l'Etoile"
+          ],
+          "CodePostal": "63005",
+          "NomCommune": "CLERMONT FERRAND CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.779422",
+            "Longitude": "3.080691",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 73 31 79 40",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

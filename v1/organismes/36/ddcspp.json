@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6890287,
+          46.8067822
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Bâtiment A",
+            "49, boulevard George-Sand",
+            "BP 613"
+          ],
+          "CodePostal": "36020",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8067822",
+            "Longitude": "1.6890287",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 53 45 00",
+          "Email": "ddcspp@indre.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

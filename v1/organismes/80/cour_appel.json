@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3012434,
+          49.8935279
+        ]
+      },
+      "properties": {
+        "codeInsee": "80021",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-80021-01",
+        "idPresta": "4cac9e5e293594648a000060",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel d'Amiens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "14 rue Robert de Luzarches",
+            "BP 2722"
+          ],
+          "CodePostal": "80027",
+          "NomCommune": "AMIENS CEDEX 1",
+          "Localisation": {
+            "Latitude": "49.8935279",
+            "Longitude": "2.3012434",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 22 82 35 00",
+          "Télécopie": "+33 3 22 91 21 61",
+          "Url": "http://www.ca-amiens.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Le Guichet Unique de Greffe est ouvert de 8h15 à 17h15\npendant les vacances scolaires de 9h à 12h15 et de 13h15 à 17h.\n\nLe Tribunal de Grande Instance :\nde 8h30 à 12h et de 13h30 à 17h\n\nLe Tribunal d'Instance :\nde 9h à 12h et de 14h à 16h30\n\nLe service des tutelles accueille le public de 9h à 12h les lundi, mercredi et vendredi. L'accueil téléphonique est assuré tous les matins de 9h à 12h."
+          }
+        }
+      }
+    }
+  ]
+}

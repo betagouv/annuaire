@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.764769,
+          48.5285845
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-22278-01",
+        "codeInsee": "22278",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Côtes-d'Armor",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Villiers-de-l'Isle-Adam",
+            "CS 50401"
+          ],
+          "CodePostal": "22194",
+          "NomCommune": "Plérin Cedex",
+          "Localisation": {
+            "Latitude": "48.5285845",
+            "Longitude": "-2.764769",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 96 01 01 80",
+          "Télécopie": "02 96 01 01 81",
+          "Email": "mdph@mdph.cotesdarmor.fr",
+          "Url": "http://www.mdph.cotesdarmor.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil téléphonique jusqu’à 17h."
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique jusqu’à 17h."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

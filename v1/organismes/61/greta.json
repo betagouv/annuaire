@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.555571,
+          48.743318
+        ]
+      },
+      "properties": {
+        "id": "greta-61169-01",
+        "codeInsee": "61169",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Sud Normandie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Allée Eugène-Cabrol",
+            "BP 34"
+          ],
+          "CodePostal": "61101",
+          "NomCommune": "Flers Cedex",
+          "Localisation": {
+            "Latitude": "48.743318",
+            "Longitude": "-0.555571",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 98 48 50",
+          "Télécopie": "02 33 98 48 51",
+          "Email": "greta.sud-normandie@ac-caen.fr",
+          "Url": "http://www.sud-normandie.greta.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

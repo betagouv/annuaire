@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45002859,
+          43.6099285
+        ]
+      },
+      "properties": {
+        "id": "pif-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille de l'Udaf de la Haute-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "44 rue Bayard",
+          "CodePostal": "31000",
+          "NomCommune": "Toulouse",
+          "Localisation": {
+            "Latitude": "43.6099285",
+            "Longitude": "1.45002859",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 13 13 82",
+          "Télécopie": "05 61 13 13 95",
+          "Email": "pif@udaf31.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

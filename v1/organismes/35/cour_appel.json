@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.677833,
+          48.111727
+        ]
+      },
+      "properties": {
+        "codeInsee": "35238",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-35238-01",
+        "idPresta": "4cac9e5f293594648a0001be",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Rennes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du Parlement de Bretagne",
+            "C.S. 66423"
+          ],
+          "CodePostal": "35064",
+          "NomCommune": "RENNES CEDEX",
+          "Localisation": {
+            "Latitude": "48.111727",
+            "Longitude": "-1.677833",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 23 20 43 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

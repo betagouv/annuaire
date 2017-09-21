@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5393228,
+          47.2087175
+        ]
+      },
+      "properties": {
+        "id": "draf-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "draf",
+        "Nom": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Pays de la Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue Françoise-Giroud",
+            "CS 67516"
+          ],
+          "CodePostal": "44275",
+          "NomCommune": "Nantes Cedex 2",
+          "Localisation": {
+            "Latitude": "47.2087175",
+            "Longitude": "-1.5393228",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 72 74 70 00",
+          "Télécopie": "02 72 74 70 01",
+          "Email": "draaf-pays-de-la-loire@agriculture.gouv.fr",
+          "Url": "http://www.draaf.pays-de-la-loire.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

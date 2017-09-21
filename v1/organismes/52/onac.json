@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1408013,
+          48.1145509
+        ]
+      },
+      "properties": {
+        "id": "onac-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2017-03-09",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "89 rue Victoire-de-la-Marne",
+            "BP 578"
+          ],
+          "CodePostal": "52012",
+          "NomCommune": "Chaumont Cedex",
+          "Localisation": {
+            "Latitude": "48.1145509",
+            "Longitude": "5.1408013",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 30 20 89",
+          "Email": "sec.sd52@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:52/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

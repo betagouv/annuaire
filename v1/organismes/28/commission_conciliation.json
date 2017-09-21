@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48175001144,
+          48.4460983276
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Eure-et-Loir",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15, place de la République",
+            "CS 70527"
+          ],
+          "CodePostal": "28019",
+          "NomCommune": "Chartres Cedex",
+          "Localisation": {
+            "Latitude": "48.4460983276",
+            "Longitude": "1.48175001144",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 20 52 16",
+          "Télécopie": "+33 2 37 20 55 00",
+          "Email": "jacques.baudouin@eure-et-loir.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

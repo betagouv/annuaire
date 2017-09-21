@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.605753,
+          42.9671656
+        ]
+      },
+      "properties": {
+        "id": "prefecture-09122-01",
+        "codeInsee": "09122",
+        "dateMiseAJour": "2014-05-13",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Ariège",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, rue de la Préfecture - Préfet Claude Erignac",
+            "BP 4087"
+          ],
+          "CodePostal": "09007",
+          "NomCommune": "Foix Cedex",
+          "Localisation": {
+            "Latitude": "42.9671656",
+            "Longitude": "1.605753",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 02 10 00",
+          "Télécopie": "+33 5 61 02 74 82",
+          "Email": "prefecture@ariege.gouv.fr",
+          "Url": "http://www.ariege.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Les horaires ci-dessus sont ceux de l'accueil général. ATTENTION : l'accueil des usagers se fait exclusivement le matin pour les services Permis de conduire et SIV de 8h15 à 12h45, le service CNI et Passeport de 9h à 12h, le service Étrangers de 8h30 à 11h30. Pour toute question, l'accueil téléphonique est assuré l'après-midi pour l'ensemble de ces services."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91557979584,
+          45.5611000061
+        ]
+      },
+      "properties": {
+        "id": "crous-73137-01",
+        "codeInsee": "73137",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Chambéry",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence universitaire Jacob-Chaney",
+            "17 rue du Chaney"
+          ],
+          "CodePostal": "73000",
+          "NomCommune": "Jacob-Bellecombette",
+          "Localisation": {
+            "Latitude": "45.5611000061",
+            "Longitude": "5.91557979584",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 69 57 45",
+          "Télécopie": "04 79 96 97 92",
+          "Email": "residence.jacob@crous-grenoble.fr",
+          "Url": "http://www.crous-grenoble.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.867198,
+          45.642192
+        ]
+      },
+      "properties": {
+        "id": "crous-73051-01",
+        "codeInsee": "73051",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des oeuvres universitaires et scolaires (CLOUS) - Le Bourget-du-Lac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue du Lac-de-la-Tuile",
+          "CodePostal": "73370",
+          "NomCommune": "Le Bourget-du-Lac",
+          "Localisation": {
+            "Latitude": "45.642192",
+            "Longitude": "5.867198",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 25 23 83",
+          "Email": "residence.lebourget@crous-grenoble.fr",
+          "Url": "http://www.crous-grenoble.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

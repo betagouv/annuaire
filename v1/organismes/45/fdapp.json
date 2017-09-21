@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90381002426,
+          47.8824005127
+        ]
+      },
+      "properties": {
+        "id": "fdapp-45234-01",
+        "codeInsee": "45234",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale de la pêche et de la protection du milieu aquatique - Loiret",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "49, route d'Olivet",
+          "CodePostal": "45100",
+          "NomCommune": "Orléans",
+          "Localisation": {
+            "Latitude": "47.8824005127",
+            "Longitude": "1.90381002426",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 56 62 69",
+          "Email": "fede.peche.45@wanadoo.fr",
+          "Url": "http://www.federationpeche.fr/45"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

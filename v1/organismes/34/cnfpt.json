@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83831000328,
+          43.6430015564
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Occitanie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Parc Euromédecine",
+            "337 rue des Apothicaires"
+          ],
+          "CodePostal": "34196",
+          "NomCommune": "Montpellier Cedex 5",
+          "Localisation": {
+            "Latitude": "43.6430015564",
+            "Longitude": "3.83831000328",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied et ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 67 61 77 77",
+          "Télécopie": "04 67 61 76 40",
+          "Email": "languedoc.roussillon@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

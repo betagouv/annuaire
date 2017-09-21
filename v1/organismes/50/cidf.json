@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6248698,
+          49.6406919
+        ]
+      },
+      "properties": {
+        "id": "cidf-50129-01",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Manche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 passage Digard",
+          "CodePostal": "50100",
+          "NomCommune": "Cherbourg-en-Cotentin",
+          "Localisation": {
+            "Latitude": "49.6406919",
+            "Longitude": "-1.6248698",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 94 77 05",
+          "Email": "cediffass@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

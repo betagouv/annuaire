@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5567445,
+          47.2168424
+        ]
+      },
+      "properties": {
+        "id": "onac-44109-01",
+        "codeInsee": "44109",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le Montana B - RDC",
+            "2 rue du Château-de-l'Éraudière",
+            "BP 42827"
+          ],
+          "CodePostal": "44328",
+          "NomCommune": "Nantes Cedex 3",
+          "Localisation": {
+            "Latitude": "47.2168424",
+            "Longitude": "-1.5567445",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 51 86 02 10",
+          "Email": "fec.sd44@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:44/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.113965,
+          45.9120832
+        ]
+      },
+      "properties": {
+        "id": "msa-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Alpes-du-Nord - accueil d'Annecy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "2 boulevard du Fier",
+            "CodePostal": "74993",
+            "NomCommune": "Annecy Cedex 9",
+            "Localisation": {
+              "Latitude": "45.9120832",
+              "Longitude": "6.113965",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Mutualité sociale agricole Alpes-du-Nord",
+            "CodePostal": "73016",
+            "NomCommune": "Chambéry Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "09 69 36 87 00",
+          "Url": "http://www.msaalpesdunord.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert l'après-midi uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

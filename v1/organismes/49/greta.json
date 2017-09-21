@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.563166,
+          47.478419
+        ]
+      },
+      "properties": {
+        "id": "greta-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Anjou",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue de Letanduère",
+            "BP 51873"
+          ],
+          "CodePostal": "49018",
+          "NomCommune": "Angers Cedex 1",
+          "Localisation": {
+            "Latitude": "47.478419",
+            "Longitude": "-0.563166",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 24 11 11",
+          "Télécopie": "02 41 87 30 75",
+          "Email": "greta.anjou@ac-nantes.fr",
+          "Url": "http://www.greta-paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8879683,
+          47.0497488
+        ]
+      },
+      "properties": {
+        "id": "greta-49099-01",
+        "codeInsee": "49099",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Choletais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 avenue Kennedy",
+            "BP 60436"
+          ],
+          "CodePostal": "49304",
+          "NomCommune": "Cholet Cedex",
+          "Localisation": {
+            "Latitude": "47.0497488",
+            "Longitude": "-0.8879683",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 49 06 50",
+          "Télécopie": "02 41 62 57 92",
+          "Email": "greta.cholet@ac-nantes.fr",
+          "Url": "http://www.greta.paysdelaloire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous le mercredi de 13h30 à 17h."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

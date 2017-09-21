@@ -1,0 +1,367 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68040001392,
+          48.1088981628
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Rennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue de la Parcheminerie",
+            "BP 30244"
+          ],
+          "CodePostal": "35102",
+          "NomCommune": "Rennes Cedex  3",
+          "Localisation": {
+            "Latitude": "48.1088981628",
+            "Longitude": "-1.68040001392",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 78 00 78",
+          "Télécopie": "02 99 78 17 67",
+          "Email": "contact@mlrennes.org",
+          "Url": "http://www.mlrennes.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99452996254,
+          48.6283988953
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-35288-01",
+        "codeInsee": "35288",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Saint-Malo",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "35 avenue des Comptoirs",
+          "CodePostal": "35400",
+          "NomCommune": "Saint-Malo",
+          "Localisation": {
+            "Latitude": "48.6283988953",
+            "Longitude": "-1.99452996254",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 82 86 00",
+          "Télécopie": "02 99 82 62 85",
+          "Email": "contact@mlstmalo.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1911771,
+          48.3483216
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-35115-01",
+        "codeInsee": "35115",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-de-Fougères",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "La Cristallerie",
+            "19 rue Hippolyte-Réhault",
+            "BP 70335"
+          ],
+          "CodePostal": "35303",
+          "NomCommune": "Fougères Cedex",
+          "Localisation": {
+            "Latitude": "48.3483216",
+            "Longitude": "-1.1911771",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 30 27 01 60",
+          "Email": "contact@mlf.bzh",
+          "Url": "http://www.cnml.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0953812999999855,
+          47.653437
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-35236-01",
+        "codeInsee": "35236",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale Pays-de-Redon-et-de-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Charles-Sillard",
+            "CS 60287"
+          ],
+          "CodePostal": "35602",
+          "NomCommune": "Redon Cedex",
+          "Localisation": {
+            "Latitude": "47.653437",
+            "Longitude": "-2.0953812999999855",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 72 19 50",
+          "Télécopie": "02 99 72 34 64",
+          "Email": "mlprv@ml-redon.com",
+          "Url": "http://www.ml-redon.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2066539,
+          48.1197691
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-35360-01",
+        "codeInsee": "35360",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale jeunes du Pays-de-Vitré",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 place du Champ-de-Foire",
+          "CodePostal": "35500",
+          "NomCommune": "Vitré",
+          "Localisation": {
+            "Latitude": "48.1197691",
+            "Longitude": "-1.2066539",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 75 18 07",
+          "Email": "info@missionlocale-paysdevitre.fr",
+          "Url": "http://www.missionlocale-paysdevitre.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

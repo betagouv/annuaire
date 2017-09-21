@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.458763,
+          48.779178
+        ]
+      },
+      "properties": {
+        "codeInsee": "94028",
+        "dateMiseAJour": "2015-03-13",
+        "id": "prudhommes-94028-01",
+        "idPresta": "4cac9e6a293594648a00170f",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Créteil",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble le Pascal / Bâtiment A",
+            "Centre commercial régional"
+          ],
+          "CodePostal": "94007",
+          "NomCommune": "CRETEIL CEDEX",
+          "Localisation": {
+            "Latitude": "48.779178",
+            "Longitude": "2.458763",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 42 07 00 04",
+          "Télécopie": "+33 1 42 07 22 92",
+          "Email": "mailto:cph-creteil@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45011,
+          48.73134
+        ]
+      },
+      "properties": {
+        "codeInsee": "94078",
+        "dateMiseAJour": "2014-12-08",
+        "id": "prudhommes-94078-01",
+        "idPresta": "4cac9e6a293594648a001710",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Villeneuve-Saint-Georges",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "29 rue de Balzac",
+            "BP 48"
+          ],
+          "CodePostal": "94192",
+          "NomCommune": "VILLENEUVE ST GEORGES CEDEX",
+          "Localisation": {
+            "Latitude": "48.73134",
+            "Longitude": "2.45011",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 43 89 88 82",
+          "Télécopie": "+33 1 43 89 69 52",
+          "Email": "mailto:cph-villeneuve-st-georges@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "de 08 Heures 30 à 12 Heures et de 13 Heures à 16 Heures 30"
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "de 08 Heures 30 à 12 Heures et de 13 Heures à 16 Heures 30"
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "de 08 Heures 30 à 12 Heures et de 13 Heures à 16 Heures 30"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "de 08 Heures 30 à 16 Heures 30 sans interruption"
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "de 08 Heures 30 à 16 Heures 30 sans interruption\nLes séances de conciliation se déroulent au 29, Rue de Balzac à Villeneuve Saint Georges\nLes audiences de jugement, de référé et de départage se déroulent au Foyer Jean Cocteau, 8 Avenue Carnot à Villeneuve Saint Georges"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1508343,
+          46.13827
+        ]
+      },
+      "properties": {
+        "id": "cg-17300-01",
+        "codeInsee": "17300",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Charente-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de la Charente-Maritime",
+            "85 boulevard de la République",
+            "CS 60003"
+          ],
+          "CodePostal": "17076",
+          "NomCommune": "La Rochelle Cedex 9",
+          "Localisation": {
+            "Latitude": "46.13827",
+            "Longitude": "-1.1508343",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 46 31 70 00",
+          "Télécopie": "05 46 31 17 17",
+          "Email": "info@charente-maritime.fr",
+          "Url": "http://www.charente-maritime.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil sur rendez-vous de préférence."
+          }
+        }
+      }
+    }
+  ]
+}

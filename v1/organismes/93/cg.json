@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4404611,
+          48.9064281
+        ]
+      },
+      "properties": {
+        "id": "cg-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "Esplanade Jean-Moulin"
+          ],
+          "CodePostal": "93006",
+          "NomCommune": "Bobigny Cedex",
+          "Localisation": {
+            "Latitude": "48.9064281",
+            "Longitude": "2.4404611",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 93 93 93",
+          "Télécopie": "01 43 93 90 50",
+          "Url": "http://www.seine-saint-denis.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Accueil téléphonique uniquement."
+          }
+        }
+      }
+    }
+  ]
+}

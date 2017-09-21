@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.52349,
+          50.3576
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-59606-01",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2017-04-24",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Les Tertiales",
+            "Rue Marc-Lefrancq",
+            "BP 487"
+          ],
+          "CodePostal": "59321",
+          "NomCommune": "Valenciennes Cedex",
+          "Localisation": {
+            "Latitude": "50.3576",
+            "Longitude": "3.52349",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 27 09 96 96",
+          "Télécopie": "03 27 09 96 09",
+          "Email": "ddtefp.nord-valenciennes@direccte.gouv.fr",
+          "Url": "http://hauts-de-france.direccte.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.06302,
+          50.6372
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-04-24",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Le République",
+            "77 rue Léon-Gambetta",
+            "BP 665"
+          ],
+          "CodePostal": "59033",
+          "NomCommune": "Lille Cedex",
+          "Localisation": {
+            "Latitude": "50.6372",
+            "Longitude": "3.06302",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 12 55 55",
+          "Télécopie": "03 20 42 08 85",
+          "Email": "dd-59l.direction@direccte.gouv.fr",
+          "Url": "http://hauts-de-france.direccte.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

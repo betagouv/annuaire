@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.052618,
+          43.702524
+        ]
+      },
+      "properties": {
+        "codeInsee": "40088",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-40088-01",
+        "idPresta": "4eb2622c2935944ef5000031",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Dax",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Villa Gishia",
+            "55 avenue Victor Hugo BP 301"
+          ],
+          "CodePostal": "40107",
+          "NomCommune": "DAX CEDEX",
+          "Localisation": {
+            "Latitude": "43.702524",
+            "Longitude": "-1.052618",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 58 90 06 84",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.502345,
+          43.887211
+        ]
+      },
+      "properties": {
+        "codeInsee": "40192",
+        "dateMiseAJour": "2016-02-03",
+        "id": "tribunal_commerce-40192-01",
+        "idPresta": "4eb2632a2935944ef500013b",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Mont-de-Marsan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 place Planté",
+          "CodePostal": "40000",
+          "NomCommune": "MONT DE MARSAN",
+          "Localisation": {
+            "Latitude": "43.887211",
+            "Longitude": "-0.502345",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 58 46 60 70",
+          "Télécopie": "+33 5 58 75 42 67",
+          "Email": "mailto:gtc-mdm@greffe-tc.net",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

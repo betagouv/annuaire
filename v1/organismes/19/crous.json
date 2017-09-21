@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.51146996021,
+          45.1566009521
+        ]
+      },
+      "properties": {
+        "id": "crous-19031-01",
+        "codeInsee": "19031",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "crous",
+        "Nom": "Centre local des œuvres universitaires et scolaires (CLOUS) - Brive-la-Gaillarde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 rue André-Devaud",
+          "CodePostal": "19100",
+          "NomCommune": "Brive-la-Gaillarde",
+          "Localisation": {
+            "Latitude": "45.1566009521",
+            "Longitude": "1.51146996021",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 55 87 07 17",
+          "Email": "stephanie.costa@crous-limoges.fr",
+          "Url": "http://www.crous-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "11:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.05509996414,
+          45.4105987549
+        ]
+      },
+      "properties": {
+        "id": "crous-19073-01",
+        "codeInsee": "19073",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Limoges - Antenne d'Égletons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence universitaire",
+            "Boulevard de Touvent"
+          ],
+          "CodePostal": "19300",
+          "NomCommune": "Égletons",
+          "Localisation": {
+            "Latitude": "45.4105987549",
+            "Longitude": "2.05509996414",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 93 96 00",
+          "Télécopie": "05 55 93 91 37",
+          "Email": "cite-u.egletons@crous-limoges.fr",
+          "Url": "http://www.crous-limoges.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

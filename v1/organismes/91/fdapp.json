@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4791302,
+          48.6077335
+        ]
+      },
+      "properties": {
+        "id": "fdapp-91174-01",
+        "codeInsee": "91174",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 rue Édouard-Petit",
+          "CodePostal": "91100",
+          "NomCommune": "Corbeil-Essonnes",
+          "Localisation": {
+            "Latitude": "48.6077335",
+            "Longitude": "2.4791302",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 96 14 00",
+          "Télécopie": "01 60 88 98 19",
+          "Email": "secretaire@peche91.com",
+          "Url": "http://www.peche91.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

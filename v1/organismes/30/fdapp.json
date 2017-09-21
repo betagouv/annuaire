@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41780996323,
+          43.8357009888
+        ]
+      },
+      "properties": {
+        "id": "fdapp-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZAC de Grézan",
+            "34 rue Gustave-Eiffel"
+          ],
+          "CodePostal": "30034",
+          "NomCommune": "Nîmes Cedex 1",
+          "Localisation": {
+            "Latitude": "43.8357009888",
+            "Longitude": "4.41780996323",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "par la porte à l'arrière du bâtiment"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 02 91 61",
+          "Télécopie": "04 66 02 91 62",
+          "Email": "cd-gard-peche@wanadoo.fr",
+          "Url": "http://www.federationpeche.fr30"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

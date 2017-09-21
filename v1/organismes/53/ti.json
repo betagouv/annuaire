@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7735482,
+          48.0693098
+        ]
+      },
+      "properties": {
+        "codeInsee": "53130",
+        "dateMiseAJour": "2014-01-28",
+        "id": "ti-53130-01",
+        "idPresta": "4cac9e6a293594648a0017f2",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Laval",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13 place Saint Tugal",
+            "BP 81515"
+          ],
+          "CodePostal": "53015",
+          "NomCommune": "LAVAL CEDEX",
+          "Localisation": {
+            "Latitude": "48.0693098",
+            "Longitude": "-0.7735482",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 59 79 10",
+          "Télécopie": "+33 2 43 49 17 85",
+          "Email": "mailto:ti-laval@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

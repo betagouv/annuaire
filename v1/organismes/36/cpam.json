@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7080086,
+          46.7939301
+        ]
+      },
+      "properties": {
+        "id": "cpam-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de l'Indre - siège de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "14 rue Claude-Nicolas-Ledoux",
+          "CodePostal": "36026",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.7939301",
+            "Longitude": "1.7080086",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0813432,
+          47.2602905
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-49328-01",
+        "codeInsee": "49328",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Saumur",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "33, rue Beaurepaire",
+            "BP 149"
+          ],
+          "CodePostal": "49414",
+          "NomCommune": "Saumur Cedex",
+          "Localisation": {
+            "Latitude": "47.2602905",
+            "Longitude": "-0.0813432",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 83 49 49",
+          "Télécopie": "+33 2 41 67 19 88",
+          "Email": "spsaumur@maine-et-loire.pref.gouv.fr",
+          "Url": "http://www.maine-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.868634,
+          47.6806873
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-49331-01",
+        "codeInsee": "49331",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Segré",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2, rue Lamartine",
+            "BP 40316"
+          ],
+          "CodePostal": "49504",
+          "NomCommune": "Segré Cedex",
+          "Localisation": {
+            "Latitude": "47.6806873",
+            "Longitude": "-0.868634",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 94 70 60",
+          "Télécopie": "+33 2 41 92 80 05",
+          "Email": "sous-prefecture-de-segre@maine-et-loire.gouv.fr",
+          "Url": "http://www.maine-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:15:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8853342,
+          47.0606207
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-49099-01",
+        "codeInsee": "49099",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Cholet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "30, rue Trémolière",
+          "CodePostal": "49300",
+          "NomCommune": "Cholet Cedex",
+          "Localisation": {
+            "Latitude": "47.0606207",
+            "Longitude": "-0.8853342",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 63 41 50",
+          "Télécopie": "+33 2 41 71 28 82",
+          "Email": "spcholet.reglementation-generale@maine-et-loire.pref.gouv.fr",
+          "Url": "http://www.maine-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:15:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Attention : les services Cartes grises, Permis de conduire et Visites médicales sont ouverts le matin uniquement de 8h45 à 12h30."
+          }
+        }
+      }
+    }
+  ]
+}

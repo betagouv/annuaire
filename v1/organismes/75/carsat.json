@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5526099,
+          48.848579
+        ]
+      },
+      "properties": {
+        "id": "carsat-75119-01",
+        "codeInsee": "75119",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "carsat",
+        "Nom": "Caisse nationale d’assurance vieillesse (Cnav) - Île-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "CS 70009",
+          "CodePostal": "93166",
+          "NomCommune": "Noisy-le-Grand Cedex",
+          "Localisation": {
+            "Latitude": "48.848579",
+            "Longitude": "2.5526099",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "6 centimes d’euro par minute, + prix de l’appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3960"
+          },
+          "Url": "https://www.lassuranceretraite-idf.fr"
+        },
+        "Commentaire": "Il n'y a pas d'indication d'accueil physique (hormis les maisons de services au public, MSAP) sur le site. Accueil téléphonique du lundi au vendredi de 8h à 17h."
+      }
+    }
+  ]
+}

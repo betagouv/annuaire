@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.464151099999981,
+          46.3243806
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-79191-01",
+        "codeInsee": "79191",
+        "dateMiseAJour": "2014-03-18",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Deux-Sèvres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "30, rue de l'Hôtel de Ville",
+            "BP 30560"
+          ],
+          "CodePostal": "79022",
+          "NomCommune": "Niort Cedex",
+          "Localisation": {
+            "Latitude": "46.3243806",
+            "Longitude": "-0.464151099999981",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 49 17 27 00",
+          "Télécopie": "+33 5 49 17 27 96",
+          "Email": "ddcspp@deux-sevres.gouv.fr",
+          "Url": "http://www.deux-sevres.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

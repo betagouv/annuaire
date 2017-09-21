@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351507,
+          48.070809
+        ]
+      },
+      "properties": {
+        "codeInsee": "68066",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-68066-01",
+        "idPresta": "4cac9e60293594648a0003e7",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Colmar",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 avenue Raymond Poincaré",
+            "CS 60073"
+          ],
+          "CodePostal": "68027",
+          "NomCommune": "COLMAR CEDEX",
+          "Localisation": {
+            "Latitude": "48.070809",
+            "Longitude": "7.351507",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 89 20 89 00",
+          "Télécopie": "+33 3 89 23 72 21",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03067016602,
+          47.2338981628
+        ]
+      },
+      "properties": {
+        "id": "rectorat-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue de la Convention",
+          "CodePostal": "25030",
+          "NomCommune": "Besançon",
+          "Localisation": {
+            "Latitude": "47.2338981628",
+            "Longitude": "6.03067016602",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 65 47 00",
+          "Télécopie": "03 81 65 47 60",
+          "Email": "ce.rectorat@ac-besancon.fr",
+          "Url": "http://www.ac-besancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

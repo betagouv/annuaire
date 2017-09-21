@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4209112,
+          48.630827
+        ]
+      },
+      "properties": {
+        "id": "ddpp-91182-01",
+        "codeInsee": "91182",
+        "dateMiseAJour": "2014-10-27",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Europe 1",
+            "5-7, rue François-Truffaut"
+          ],
+          "CodePostal": "91080",
+          "NomCommune": "Courcouronnes",
+          "Localisation": {
+            "Latitude": "48.630827",
+            "Longitude": "2.4209112",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 69 87 31 00",
+          "Télécopie": "+33 1 60 87 04 65",
+          "Email": "ddpp@essonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

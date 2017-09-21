@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.23043000698,
+          45.8417015076
+        ]
+      },
+      "properties": {
+        "id": "carsat-87085-01",
+        "codeInsee": "87085",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "carsat",
+        "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Centre-Ouest",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "37 avenue du Président-René-Coty",
+          "CodePostal": "87048",
+          "NomCommune": "Limoges Cedex",
+          "Localisation": {
+            "Latitude": "45.8417015076",
+            "Longitude": "1.23043000698",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "6 centimes d’euro par minute, + prix de l’appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3960"
+          },
+          "Url": "http://www.carsat-centreouest.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous."
+      }
+    }
+  ]
+}

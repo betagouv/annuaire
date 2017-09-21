@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.568322,
+          47.798064
+        ]
+      },
+      "properties": {
+        "codeInsee": "89024",
+        "dateMiseAJour": "2012-06-21",
+        "id": "bav-89024-01",
+        "idPresta": "51b08c88b473e414780000f2",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance d'Auxerre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place du palais de justice",
+            "BP 39"
+          ],
+          "CodePostal": "89010",
+          "NomCommune": "AUXERRE CEDEX",
+          "Localisation": {
+            "Latitude": "47.798064",
+            "Longitude": "3.568322",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 72 30 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.276929,
+          48.196362
+        ]
+      },
+      "properties": {
+        "codeInsee": "89387",
+        "dateMiseAJour": "2016-11-25",
+        "id": "bav-89387-01",
+        "idPresta": "51b08ccab473e41478000f44",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Sens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 rue du palais de justice",
+            "BP 810"
+          ],
+          "CodePostal": "89108",
+          "NomCommune": "SENS CEDEX",
+          "Localisation": {
+            "Latitude": "48.196362",
+            "Longitude": "3.276929",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 65 86 00",
+          "Télécopie": "+33 3 86 65 80 21",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

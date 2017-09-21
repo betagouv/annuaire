@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62424492836,
+          49.5647468567
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Hauts-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Château de Mailly",
+            "Route nationale 2",
+            "Urcel",
+            "CS 60618"
+          ],
+          "CodePostal": "02007",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.5647468567",
+            "Longitude": "3.62424492836",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 21 86 86",
+          "Télécopie": "03 23 21 66 20",
+          "Email": "info@cma-aisne.fr",
+          "Url": "http://www.cma-aisne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

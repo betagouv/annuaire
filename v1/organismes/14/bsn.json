@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.378823012114,
+          49.1815986633
+        ]
+      },
+      "properties": {
+        "id": "bsn-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Caen (14, 50, 61)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue Neuve-Bourg-l'Abbé",
+            "BP 90552"
+          ],
+          "CodePostal": "14037",
+          "NomCommune": "Caen Cedex 4",
+          "Localisation": {
+            "Latitude": "49.1815986633",
+            "Longitude": "-0.378823012114",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 38 47 50",
+          "Télécopie": "02 31 38 47 32",
+          "Email": "dsn-csn-cae@sga.defense.gouv.fr",
+          "Url": "http://www.defense.gouv.frjdc"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

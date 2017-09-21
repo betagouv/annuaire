@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9060491,
+          43.8037717
+        ]
+      },
+      "properties": {
+        "id": "fdc-40230-01",
+        "codeInsee": "40230",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "111 chemin de l'Herté",
+          "CodePostal": "40465",
+          "NomCommune": "Pontonx-sur-l'Adour",
+          "Localisation": {
+            "Latitude": "43.8037717",
+            "Longitude": "-0.9060491",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 90 18 69",
+          "Télécopie": "05 58 74 12 99",
+          "Email": "contact@fdc40.fr",
+          "Url": "http://www.fedechasseurslandes.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

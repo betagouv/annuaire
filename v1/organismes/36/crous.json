@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68165004253,
+          46.811000824
+        ]
+      },
+      "properties": {
+        "id": "crous-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Orléans - Antenne de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "78 espace Mendès-France",
+          "CodePostal": "36000",
+          "NomCommune": "Châteauroux",
+          "Localisation": {
+            "Latitude": "46.811000824",
+            "Longitude": "1.68165004253",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 22 95 06",
+          "Télécopie": "02 54 60 19 38",
+          "Email": "chateauroux@crous-orleans-tours.fr",
+          "Url": "http://www.crous-orleans-tours.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "11:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

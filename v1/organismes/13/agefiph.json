@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5159714,
+          43.4724932
+        ]
+      },
+      "properties": {
+        "id": "agefiph-13087-01",
+        "codeInsee": "13087",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "agefiph",
+        "Nom": "Agefiph - Provence-Alpes-Côte d'Azur - Corse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Arteparc de Bachasson",
+            "Bâtiment B1",
+            "Rue de la Carrière-de-Bachasson"
+          ],
+          "CodePostal": "13590",
+          "NomCommune": "Meyreuil",
+          "Localisation": {
+            "Latitude": "43.4724932",
+            "Longitude": "5.5159714",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 11 10 09"
+          },
+          "Télécopie": "04 42 93 15 40",
+          "Email": "paca@agefiph.asso.fr",
+          "Url": "http://www.agefiph.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        },
+        "Commentaire": "Accueil téléphonique uniquement."
+      }
+    }
+  ]
+}

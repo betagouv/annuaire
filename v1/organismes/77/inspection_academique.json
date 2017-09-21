@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66029310226,
+          48.5414581299
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "20 quai Hippolyte-Rossignol"
+          ],
+          "CodePostal": "77010",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.5414581299",
+            "Longitude": "2.66029310226",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 64 41 27 00",
+          "Télécopie": "01 64 41 27 11",
+          "Email": "ce.77ia@ac-creteil.fr",
+          "Url": "http://www.ia77.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

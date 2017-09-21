@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7746909,
+          48.0660095
+        ]
+      },
+      "properties": {
+        "id": "adil-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "21 rue de l'Ancien-Évêché",
+            "BP 70837"
+          ],
+          "CodePostal": "53008",
+          "NomCommune": "Laval Cedex",
+          "Localisation": {
+            "Latitude": "48.0660095",
+            "Longitude": "-0.7746909",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 69 57 00",
+          "Télécopie": "02 43 68 36 19",
+          "Email": "adil53@wanadoo.fr",
+          "Url": "http://www.adil53.org"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

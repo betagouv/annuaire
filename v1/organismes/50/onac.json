@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0772556,
+          49.1027296
+        ]
+      },
+      "properties": {
+        "id": "onac-50502-01",
+        "codeInsee": "50502",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Manche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative - Bâtiment B",
+            "Rue des près"
+          ],
+          "CodePostal": "50000",
+          "NomCommune": "Saint-Lô",
+          "Localisation": {
+            "Latitude": "49.1027296",
+            "Longitude": "-1.0772556",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 57 99 50",
+          "Email": "http://www.onac-vg.fr/fr/contact/sid:61",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:50/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

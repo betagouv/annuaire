@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0735983,
+          50.6183399
+        ]
+      },
+      "properties": {
+        "id": "anah-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "62 boulevard de Belfort",
+            "BP CS90007"
+          ],
+          "CodePostal": "59042",
+          "NomCommune": "Lille Cedex",
+          "Localisation": {
+            "Latitude": "50.6183399",
+            "Longitude": "3.0735983",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 28 03 83 09",
+          "Télécopie": "03 28 03 84 69",
+          "Email": "ddtm-anah@nord.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique uniquement pour le vendredi."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333807,
+          43.22401
+        ]
+      },
+      "properties": {
+        "id": "urssaf-11069-01",
+        "codeInsee": "11069",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Occitanie - site de Carcassone",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "20 rue Saint-Michel",
+            "CodePostal": "11000",
+            "NomCommune": "Carcassonne",
+            "Localisation": {
+              "Latitude": "43.22401",
+              "Longitude": "2.333807",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Occitanie",
+              "Site de l'Aude et du Gard",
+              "Parc Georges Besse 2",
+              "77 chemin bas du-Mas-de-Boudan"
+            ],
+            "CodePostal": "30923",
+            "NomCommune": "Nîmes Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.languedocroussillon.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

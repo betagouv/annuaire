@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4476127,
+          43.5218265
+        ]
+      },
+      "properties": {
+        "id": "rectorat-13001-01",
+        "codeInsee": "13001",
+        "dateMiseAJour": "2015-12-15",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie d'Aix-Marseille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Lucien-Paye",
+          "CodePostal": "13621",
+          "NomCommune": "Aix-en-Provence Cedex 1",
+          "Localisation": {
+            "Latitude": "43.5218265",
+            "Longitude": "5.4476127",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 42 91 70 00",
+          "Télécopie": "+33 4 42 26 68 03",
+          "Email": "ce.sg@ac-aix-marseille.fr",
+          "Url": "http://www.ac-aix-marseille.fr",
+          "Sve": "http://www.ac-aix-marseille.fr/pid33454/nous-contacter.html#Contacter_le_rectorat"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

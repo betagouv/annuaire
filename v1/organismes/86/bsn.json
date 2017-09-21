@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.355718,
+          46.580693
+        ]
+      },
+      "properties": {
+        "id": "bsn-86194-01",
+        "codeInsee": "86194",
+        "dateMiseAJour": "2017-01-09",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Poitiers (16, 17, 79, 86)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quartier Aboville",
+            "7 boulevard du Colonel-Barthal",
+            "BP 90647"
+          ],
+          "CodePostal": "86023",
+          "NomCommune": "Poitiers Cedex",
+          "Localisation": {
+            "Latitude": "46.580693",
+            "Longitude": "0.355718",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 00 24 69",
+          "Email": "csn-poitiers.jdc.fct@intradef.gouv.fr",
+          "Url": "http://www.defense.gouv.fr/jdc/centres-du-service-national/coordonnees-du-csn-poitiers"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique uniquement."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique uniquement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

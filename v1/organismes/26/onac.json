@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8930097,
+          44.9353577
+        ]
+      },
+      "properties": {
+        "id": "onac-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental  - Drôme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Brunet",
+            "Place Louis-Le-Cardonnel"
+          ],
+          "CodePostal": "26000",
+          "NomCommune": "Valence",
+          "Localisation": {
+            "Latitude": "44.9353577",
+            "Longitude": "4.8930097",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 78 41 00",
+          "Email": "sd26@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:26/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

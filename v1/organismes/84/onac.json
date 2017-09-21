@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8355175,
+          43.9461486
+        ]
+      },
+      "properties": {
+        "id": "onac-84007-01",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2017-03-14",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Vaucluse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Caserne Chabran - Bât. B - 2ème étage",
+            "2 avenue de la Folie"
+          ],
+          "CodePostal": "84905",
+          "NomCommune": "Avignon Cedex 9",
+          "Localisation": {
+            "Latitude": "43.9461486",
+            "Longitude": "4.8355175",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 88 17 87 23",
+          "Email": "sec.sd84@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:84/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

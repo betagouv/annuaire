@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9193652,
+          45.5680849
+        ]
+      },
+      "properties": {
+        "codeInsee": "73065",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-73065-01",
+        "idPresta": "4cac9e60293594648a000445",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Chambéry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Palais de Justice",
+          "CodePostal": "73018",
+          "NomCommune": "CHAMBERY CEDEX",
+          "Localisation": {
+            "Latitude": "45.5680849",
+            "Longitude": "5.9193652",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 33 60 09",
+          "Télécopie": "+33 4 79 33 80 40",
+          "Email": "mailto:ca-chambery@justice.fr",
+          "Url": "http://www.ca-chambery.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

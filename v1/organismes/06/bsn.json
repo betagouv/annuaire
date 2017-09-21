@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2803199,
+          43.6996732
+        ]
+      },
+      "properties": {
+        "id": "bsn-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "bsn",
+        "Nom": "Centre du service national de Nice (06, 83, 20)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Caserne Filley",
+            "2 rue Sincaire"
+          ],
+          "CodePostal": "06300",
+          "NomCommune": "Nice",
+          "Localisation": {
+            "Latitude": "43.6996732",
+            "Longitude": "7.2803199",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 93 62 78 68",
+          "Télécopie": "04 93 62 78 27",
+          "Email": "csn-nice.jdc.fct@intradef.gouv.fr",
+          "Url": "http://www.defense.gouv.frjdc"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement du lundi au jeudi de 8h45 à 12h et de 14h à 16h30."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique uniquement le vendredi de 8h45 à 12h et de 13h30 à 15h30."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

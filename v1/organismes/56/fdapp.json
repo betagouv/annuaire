@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7349207,
+          47.6794629
+        ]
+      },
+      "properties": {
+        "id": "fdapp-56206-01",
+        "codeInsee": "56206",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Morbihan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "3 rue Marcel-Dassault",
+            "BP 10079"
+          ],
+          "CodePostal": "56892",
+          "NomCommune": "Saint-Avé Cedex",
+          "Localisation": {
+            "Latitude": "47.6794629",
+            "Longitude": "-2.7349207",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 44 54 55",
+          "Email": "fedepeche56@wanadoo.fr",
+          "Url": "http://www.federationpeche.fr56"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

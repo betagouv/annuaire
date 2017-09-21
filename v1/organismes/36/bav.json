@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6935539,
+          46.8090392
+        ]
+      },
+      "properties": {
+        "codeInsee": "36044",
+        "dateMiseAJour": "2012-06-18",
+        "id": "bav-36044-01",
+        "idPresta": "4d5e49f92935941fe900000e",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Chateauroux",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Lucien Germereau",
+            "BP 577"
+          ],
+          "CodePostal": "36019",
+          "NomCommune": "CHATEAUROUX CEDEX",
+          "Localisation": {
+            "Latitude": "46.8090392",
+            "Longitude": "1.6935539",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

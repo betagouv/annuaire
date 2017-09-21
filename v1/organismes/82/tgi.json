@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.353339,
+          44.016847
+        ]
+      },
+      "properties": {
+        "codeInsee": "82121",
+        "dateMiseAJour": "2014-10-27",
+        "id": "tgi-82121-01",
+        "idPresta": "4cac9e61293594648a0005fa",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Montauban",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place du Coq",
+          "CodePostal": "82013",
+          "NomCommune": "MONTAUBAN CEDEX",
+          "Localisation": {
+            "Latitude": "44.016847",
+            "Longitude": "1.353339",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 21 40 00",
+          "Télécopie": "+33 5 63 66 34 52",
+          "Email": "mailto:tgi-montauban@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

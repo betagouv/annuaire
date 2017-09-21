@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7379854,
+          41.9252616
+        ]
+      },
+      "properties": {
+        "id": "cg-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "Palais Lantivy",
+            "BP 414"
+          ],
+          "CodePostal": "20183",
+          "NomCommune": "Ajaccio Cedex",
+          "Localisation": {
+            "Latitude": "41.9252616",
+            "Longitude": "8.7379854",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 29 13 00",
+          "Télécopie": "04 95 29 14 98",
+          "Url": "http://www.cg-corsedusud.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

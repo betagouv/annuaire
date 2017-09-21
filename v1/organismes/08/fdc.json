@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7790117,
+          49.764216
+        ]
+      },
+      "properties": {
+        "id": "fdc-08385-01",
+        "codeInsee": "08385",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "49 rue du Muguet",
+          "CodePostal": "08090",
+          "NomCommune": "Saint-Laurent",
+          "Localisation": {
+            "Latitude": "49.764216",
+            "Longitude": "4.7790117",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 24 59 85 20",
+          "Télécopie": "03 24 59 05 75",
+          "Email": "fdc08@chasseurdefrance.com",
+          "Url": "http://www.chasseurdefrance.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.910933,
+          45.579422
+        ]
+      },
+      "properties": {
+        "codeInsee": "73065",
+        "dateMiseAJour": "2014-01-28",
+        "id": "maison_arret-73065-01",
+        "idPresta": "4eb262cf2935944ef50000de",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Chambéry",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "151 rue Belledonne",
+            "BP 1144"
+          ],
+          "CodePostal": "73011",
+          "NomCommune": "CHAMBERY CEDEX",
+          "Localisation": {
+            "Latitude": "45.579422",
+            "Longitude": "5.910933",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 79 96 12 02",
+          "Télécopie": "+33 4 79 69 08 86",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

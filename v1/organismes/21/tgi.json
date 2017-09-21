@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.045469,
+          47.323411
+        ]
+      },
+      "properties": {
+        "codeInsee": "21231",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-21231-01",
+        "idPresta": "4cac9ed7293594648a00ee00",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Dijon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "13 Bld Clémenceau BP 13313"
+          ],
+          "CodePostal": "21033",
+          "NomCommune": "DIJON CEDEX",
+          "Localisation": {
+            "Latitude": "47.323411",
+            "Longitude": "5.045469",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 70 45 00",
+          "Télécopie": "+33 3 80 70 45 89",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

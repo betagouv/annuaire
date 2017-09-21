@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8390416,
+          46.3131955
+        ]
+      },
+      "properties": {
+        "id": "ddt-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "37, boulevard Henri-Dunant",
+            "CS 80140"
+          ],
+          "CodePostal": "71040",
+          "NomCommune": "Mâcon Cedex",
+          "Localisation": {
+            "Latitude": "46.3131955",
+            "Longitude": "4.8390416",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 85 21 28 00",
+          "Télécopie": "+33 3 85 38 01 55",
+          "Email": "ddt@saone-et-loire.gouv.fr",
+          "Url": "http://www.ddt-saone-et-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil fermé à 16h les veilles de jours fériés"
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

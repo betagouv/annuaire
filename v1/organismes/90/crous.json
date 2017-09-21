@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8165247,
+          47.6314658
+        ]
+      },
+      "properties": {
+        "id": "crous-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Besançon - Antenne de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Ernest-Duvillard",
+          "CodePostal": "90016",
+          "NomCommune": "Belfort",
+          "Localisation": {
+            "Latitude": "47.6314658",
+            "Longitude": "6.8165247",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 21 06 01",
+          "Télécopie": "03 84 22 78 67",
+          "Email": "pole-hebergement-nfc@crous-besancon.fr",
+          "Url": "http://www.crous-besancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "20:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

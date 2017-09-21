@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.555646,
+          47.452713
+        ]
+      },
+      "properties": {
+        "codeInsee": "49007",
+        "dateMiseAJour": "2014-01-15",
+        "id": "mjd-49007-01",
+        "idPresta": "51b08cd5b473e414780011ba",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  d'Angers - Loire Métropole",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre commercial",
+            "avenue Winston Churchill"
+          ],
+          "CodePostal": "49000",
+          "NomCommune": "ANGERS",
+          "Localisation": {
+            "Latitude": "47.452713",
+            "Longitude": "-0.555646",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 45 34 00",
+          "Télécopie": "+33 2 41 45 33 99",
+          "Email": "mailto:mjd-angers@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "20:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

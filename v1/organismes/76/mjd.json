@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0341981,
+          49.4479916
+        ]
+      },
+      "properties": {
+        "codeInsee": "76157",
+        "dateMiseAJour": "2014-01-28",
+        "id": "mjd-76157-01",
+        "idPresta": "51b08cb2b473e41478000a26",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Canteleu",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 ancienne route de Duclair",
+          "CodePostal": "76380",
+          "NomCommune": "CANTELEU",
+          "Localisation": {
+            "Latitude": "49.4479916",
+            "Longitude": "1.0341981",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 83 20 31",
+          "Télécopie": "+33 2 35 08 19 13",
+          "Email": "mailto:mjd-canteleu@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:45:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.175296,
+          49.512537
+        ]
+      },
+      "properties": {
+        "codeInsee": "76351",
+        "dateMiseAJour": "2012-06-05",
+        "id": "mjd-76351-01",
+        "idPresta": "51b08c90b473e414780002c0",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  du Havre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue Emile Sicre",
+          "CodePostal": "76610",
+          "NomCommune": "LE HAVRE",
+          "Localisation": {
+            "Latitude": "49.512537",
+            "Longitude": "0.175296",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 45 32 62",
+          "Télécopie": "+33 2 35 45 03 72",
+          "Email": "mailto:mjd-le-havre@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:45:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.133938,
+          49.461627
+        ]
+      },
+      "properties": {
+        "codeInsee": "76540",
+        "dateMiseAJour": "2016-01-29",
+        "id": "mjd-76540-01",
+        "idPresta": "51b08cdab473e414780012db",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Rouen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place Alfred de Musset",
+            "Les Hauts de Rouen"
+          ],
+          "CodePostal": "76000",
+          "NomCommune": "ROUEN",
+          "Localisation": {
+            "Latitude": "49.461627",
+            "Longitude": "1.133938",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 12 29 20",
+          "Télécopie": "+33 2 35 12 29 29",
+          "Email": "mailto:mjd-rouen@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:45:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:45:00"
+                }
+              ],
+              "Note": "Un samedi sur deux : de 9h00 à 12h00"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10822,
+          49.380311
+        ]
+      },
+      "properties": {
+        "codeInsee": "76575",
+        "dateMiseAJour": "2016-04-01",
+        "id": "mjd-76575-01",
+        "idPresta": "51b08cabb473e4147800088f",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Saint-Etienne du Rouvray",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Jean Prevost",
+            "Châteaublanc"
+          ],
+          "CodePostal": "76800",
+          "NomCommune": "ST ETIENNE DU ROUVRAY",
+          "Localisation": {
+            "Latitude": "49.380311",
+            "Longitude": "1.10822",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 32 95 40 43",
+          "Télécopie": "+33 2 32 95 40 42",
+          "Email": "mailto:mjd-st-etienne-du-rouvray@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.379996,
+          49.757105
+        ]
+      },
+      "properties": {
+        "codeInsee": "76259",
+        "dateMiseAJour": "2012-06-05",
+        "id": "mjd-76259-01",
+        "idPresta": "51b08ca2b473e4147800068a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Fécamp",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "36 rue des galeries",
+          "CodePostal": "76400",
+          "NomCommune": "FECAMP",
+          "Localisation": {
+            "Latitude": "49.757105",
+            "Longitude": "0.379996",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 28 89 57",
+          "Email": "mailto:mjd-fecamp@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.000177,
+          49.289667
+        ]
+      },
+      "properties": {
+        "codeInsee": "76231",
+        "dateMiseAJour": "2014-01-28",
+        "id": "mjd-76231-01",
+        "idPresta": "51b08c91b473e41478000304",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  d'Elbeuf",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 rue Boucher de Perthes",
+          "CodePostal": "76500",
+          "NomCommune": "ELBEUF",
+          "Localisation": {
+            "Latitude": "49.289667",
+            "Longitude": "1.000177",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 35 77 23 24",
+          "Télécopie": "+33 2 35 77 07 18",
+          "Email": "mailto:mjd-elbeuf@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "fermée le jeudi"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

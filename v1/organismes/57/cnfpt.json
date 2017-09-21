@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17989015579,
+          49.1199989319
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-57463-01",
+        "codeInsee": "57463",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Alsace-Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue des Récollets",
+            "BP 54093"
+          ],
+          "CodePostal": "57040",
+          "NomCommune": "Metz Cedex 1",
+          "Localisation": {
+            "Latitude": "49.1199989319",
+            "Longitude": "6.17989015579",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accessibilité uniquement au rez-de-chaussée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 87 39 97 40",
+          "Télécopie": "+33 3 87 39 97 69",
+          "Email": "cnfpt.delegationalsacemoselle@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

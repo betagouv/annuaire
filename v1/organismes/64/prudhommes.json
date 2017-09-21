@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4859467,
+          43.4915298
+        ]
+      },
+      "properties": {
+        "codeInsee": "64102",
+        "dateMiseAJour": "2014-06-23",
+        "id": "prudhommes-64102-01",
+        "idPresta": "4cac9e5f293594648a0002d8",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bayonne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue Ville en Bois",
+          "CodePostal": "64100",
+          "NomCommune": "BAYONNE",
+          "Localisation": {
+            "Latitude": "43.4915298",
+            "Longitude": "-1.4859467",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 59 59 32 21",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.378983,
+          43.299952
+        ]
+      },
+      "properties": {
+        "codeInsee": "64445",
+        "dateMiseAJour": "2017-09-13",
+        "id": "prudhommes-64445-01",
+        "idPresta": "4cac9e5f293594648a0002d9",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Pau",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "44 cours Camou",
+            "BP 47560"
+          ],
+          "CodePostal": "64000",
+          "NomCommune": "PAU",
+          "Localisation": {
+            "Latitude": "43.299952",
+            "Longitude": "-0.378983",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 47 05 34 00",
+          "Télécopie": "+33 5 59 32 04 15",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

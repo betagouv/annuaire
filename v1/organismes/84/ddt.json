@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8074857,
+          43.9427352
+        ]
+      },
+      "properties": {
+        "id": "ddt-84007-01",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2014-04-14",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Vaucluse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Avenue du Septième-Génie",
+              "Cité administrative"
+            ],
+            "CodePostal": "84000",
+            "NomCommune": "Avignon",
+            "Localisation": {
+              "Latitude": "43.9427352",
+              "Longitude": "4.8074857",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "Services de l’État de Vaucluse - DDPP",
+            "CodePostal": "84905",
+            "NomCommune": "Avignon Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 90 80 85 00",
+          "Télécopie": "+33 4 90 80 86 01",
+          "Email": "ddt@vaucluse.gouv.fr",
+          "Url": "http://www.vaucluse.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermeture à 16h le vendredi."
+          }
+        }
+      }
+    }
+  ]
+}

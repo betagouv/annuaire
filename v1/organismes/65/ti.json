@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.069242,
+          43.234037
+        ]
+      },
+      "properties": {
+        "codeInsee": "65440",
+        "dateMiseAJour": "2014-06-23",
+        "id": "ti-65440-01",
+        "idPresta": "4cac9e6a293594648a001800",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Tarbes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 bis rue du Maréchal Foch",
+            "BP 1326"
+          ],
+          "CodePostal": "65013",
+          "NomCommune": "TARBES CEDEX 9",
+          "Localisation": {
+            "Latitude": "43.234037",
+            "Longitude": "0.069242",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 51 77 55",
+          "Télécopie": "+33 5 62 51 77 69",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

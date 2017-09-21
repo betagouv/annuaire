@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04147999,
+          47.322047
+        ]
+      },
+      "properties": {
+        "id": "carsat-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "carsat",
+        "Nom": "Caisse d'assurance retraite et de la santé au travail (Carsat) - Bourgogne - Franche-Comté",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "CodePostal": "21044",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.322047",
+            "Longitude": "5.04147999",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "6 centimes d’euro par minute, + prix de l’appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3960"
+          },
+          "Url": "http://www.carsat-bfc.fr"
+        },
+        "Commentaire": "Pas d'indication d'accueil physique sur le site. Accueil téléphonique du lundi au vendredi de 8h à 17h."
+      }
+    }
+  ]
+}

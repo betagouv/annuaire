@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6976136,
+          46.8133216
+        ]
+      },
+      "properties": {
+        "id": "banque_de_france-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-03-24",
+        "pivotLocal": "banque_de_france",
+        "Nom": "Banque de France, succursale de Châteauroux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13, place La Fayette",
+            "CS 10089"
+          ],
+          "CodePostal": "36002",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8133216",
+            "Longitude": "1.6976136",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Accueil téléphonique au 0811 901 801 du lundi au vendredi de 8h à 18h. Tarif 5 cts d'euro par mn plus le prix d'un appel. Informations générales sur la réglementation bancaire, le crédit, le surendettement -commission de surendettement : dépôt de dossier, suivi et information-, les fichiers d'incidents de paiement et le droit au compte.",
+            "$t": "+33 2 54 60 55 00"
+          },
+          "Télécopie": "+33 2 54 60 55 16",
+          "Email": "infos@banque-france.fr",
+          "Url": "http://www.banque-france.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Sur rendez-vous du Lundi au vendredi 9h à 12h et 13h30 à 17h au 02 54 60 55 12"
+          }
+        }
+      }
+    }
+  ]
+}

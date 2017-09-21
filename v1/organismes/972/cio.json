@@ -1,0 +1,298 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0796061,
+          14.6060277
+        ]
+      },
+      "properties": {
+        "id": "cio-97209-01",
+        "codeInsee": "97209",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de Fort-de-France",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quartier Morne-Tartenson",
+            "9 avenue Saint-John-Perse",
+            "BP 670"
+          ],
+          "CodePostal": "97264",
+          "NomCommune": "Fort-de-France Cedex",
+          "Localisation": {
+            "Latitude": "14.6060277",
+            "Longitude": "-61.0796061",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 63 12 88",
+          "Télécopie": "+596 5 96 60 60 61",
+          "Email": "ciofrancefortdefrance@ac-martinique.fr",
+          "Url": "http://www.ac-martinique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "14:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0238481,
+          14.7480857
+        ]
+      },
+      "properties": {
+        "id": "cio-97230-01",
+        "codeInsee": "97230",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) de La Trinité",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre d'affaires Le Gallion",
+            "BP 13"
+          ],
+          "CodePostal": "97235",
+          "NomCommune": "La Trinité Cedex",
+          "Localisation": {
+            "Latitude": "14.7480857",
+            "Longitude": "-61.0238481",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 58 12 20",
+          "Télécopie": "+596 5 96 58 26 22",
+          "Email": "ciotrinite@ac-martinique.fr",
+          "Url": "http://www.ac-martinique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "13:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9976908,
+          14.5708003
+        ]
+      },
+      "properties": {
+        "id": "cio-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) du Lamentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 rue Martin-Luther-King",
+          "CodePostal": "97232",
+          "NomCommune": "Le Lamentin",
+          "Localisation": {
+            "Latitude": "14.5708003",
+            "Longitude": "-60.9976908",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 57 00 11",
+          "Télécopie": "+596 5 96 51 51 19",
+          "Email": "ciolamentin@ac-martinique.fr",
+          "Url": "http://www.ac-martinique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7936164,
+          14.4301694
+        ]
+      },
+      "properties": {
+        "id": "cio-97217-01",
+        "codeInsee": "97217",
+        "dateMiseAJour": "2015-01-15",
+        "pivotLocal": "cio",
+        "Nom": "Centre d'information et d'orientation (CIO) du Marin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble Demar",
+            "Quartier La Agnès"
+          ],
+          "CodePostal": "97290",
+          "NomCommune": "Le Marin",
+          "Localisation": {
+            "Latitude": "14.4301694",
+            "Longitude": "-60.7936164",
+            "Précision": "5"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 74 90 93",
+          "Télécopie": "+596 5 96 74 63 32",
+          "Email": "9720489z@ac-martinique.fr",
+          "Url": "http://www.ac-martinique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

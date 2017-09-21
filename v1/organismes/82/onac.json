@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3789449,
+          44.0092497
+        ]
+      },
+      "properties": {
+        "id": "onac-82121-01",
+        "codeInsee": "82121",
+        "dateMiseAJour": "2017-03-14",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Tarn-et-Garonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence Marcel Pagnol",
+            "16 rue Louis-Jouvet",
+            "BP 923"
+          ],
+          "CodePostal": "82009",
+          "NomCommune": "Montauban",
+          "Localisation": {
+            "Latitude": "44.0092497",
+            "Longitude": "1.3789449",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 63 14 18",
+          "Email": "sb82@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:82/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

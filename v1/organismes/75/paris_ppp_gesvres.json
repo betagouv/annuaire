@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348763,
+          48.8567861
+        ]
+      },
+      "properties": {
+        "id": "paris_ppp_gesvres-75104-01",
+        "codeInsee": "75104",
+        "dateMiseAJour": "2015-07-09",
+        "pivotLocal": "paris_ppp_gesvres",
+        "Nom": "Préfecture de police de Paris - Site central de Gesvres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 quai de Gesvres",
+          "CodePostal": "75004",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.8567861",
+            "Longitude": "2.348763",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 58 80 80 80",
+          "Url": "http://www.prefecturedepolice.interieur.gouv.fr",
+          "Sve": "http://www.prefecturedepolice.interieur.gouv.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "19:00:00"
+              },
+              "Note": "La délivrance des cartes grises n'est pas assurée après 16h15. Pas de réception en nocturne en août, fermeture à 16h30."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Sur rendez-vous exclusivement tous les jours pour les demandes de passeport et cartes nationale d’identité. Le site du quai de Gesvres ne délivre pas de certificat d'immatriculation, ex-carte grise."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

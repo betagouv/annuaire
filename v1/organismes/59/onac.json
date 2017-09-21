@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.051192,
+          50.645563
+        ]
+      },
+      "properties": {
+        "id": "onac-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2017-05-19",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "42, rue du magasin",
+              "Parc à Boulets"
+            ],
+            "CodePostal": "59000",
+            "NomCommune": "Lille",
+            "Localisation": {
+              "Latitude": "50.645563",
+              "Longitude": "3.051192",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "BP 20104",
+              "Quartier Saint-Ruth"
+            ],
+            "CodePostal": "59001",
+            "NomCommune": "Lille Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 59 00 41 20",
+          "Email": "sd59@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:59/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:15:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

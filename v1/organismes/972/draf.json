@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07256,
+          14.609371
+        ]
+      },
+      "properties": {
+        "id": "draf-97209-01",
+        "codeInsee": "97209",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "draf",
+        "Nom": "Direction de l'alimentation, de l'agriculture et de la forêt (DAAF) - Martinique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Jardin Desclieux",
+            "BP 642"
+          ],
+          "CodePostal": "97262",
+          "NomCommune": "Fort-de-France Cedex",
+          "Localisation": {
+            "Latitude": "14.609371",
+            "Longitude": "-61.07256",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 96 71 20 40",
+          "Télécopie": "+33 5 96 71 20 39",
+          "Email": "daaf972@agriculture.gouv.fr",
+          "Url": "http://daaf972.agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Accueil ouvert l'après-midi uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

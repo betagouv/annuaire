@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873225,
+          45.526052
+        ]
+      },
+      "properties": {
+        "codeInsee": "38544",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-38544-01",
+        "idPresta": "4eb2632a2935944ef5000139",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Vienne",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "27-31 rue de Bourgogne",
+            "BP 247"
+          ],
+          "CodePostal": "38217",
+          "NomCommune": "VIENNE CEDEX",
+          "Localisation": {
+            "Latitude": "45.526052",
+            "Longitude": "4.873225",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 74 59 68 80",
+          "Télécopie": "+33 4 74 59 68 81",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.711582,
+          45.190629
+        ]
+      },
+      "properties": {
+        "codeInsee": "38185",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-38185-01",
+        "idPresta": "4eb2632a2935944ef5000138",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Grenoble",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Firmin Gautier",
+            "BP 150"
+          ],
+          "CodePostal": "38019",
+          "NomCommune": "GRENOBLE CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.190629",
+            "Longitude": "5.711582",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 56 58 50 50",
+          "Télécopie": "+33 4 56 58 50 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

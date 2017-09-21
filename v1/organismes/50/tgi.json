@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623353,
+          49.638113
+        ]
+      },
+      "properties": {
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-06-16",
+        "id": "tgi-50129-01",
+        "idPresta": "4cac9e6a293594648a0017a4",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Cherbourg Cherbourg-en-Cotentin",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue des Tribunaux",
+          "CodePostal": "50108",
+          "NomCommune": "CHERBOURG OCTEVILLE CEDEX",
+          "Localisation": {
+            "Latitude": "49.638113",
+            "Longitude": "-1.623353",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 01 61 61",
+          "Télécopie": "+33 2 33 01 97 45",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442634,
+          49.049673
+        ]
+      },
+      "properties": {
+        "codeInsee": "50147",
+        "dateMiseAJour": "2014-10-20",
+        "id": "tgi-50147-01",
+        "idPresta": "4cac9ed7293594648a00ee0e",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Coutances",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10a rue du palais de justice",
+            "CS 40719"
+          ],
+          "CodePostal": "50207",
+          "NomCommune": "COUTANCES CEDEX",
+          "Localisation": {
+            "Latitude": "49.049673",
+            "Longitude": "-1.442634",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 76 68 20",
+          "Télécopie": "+33 2 33 76 68 35",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.749739,
+          47.658348
+        ]
+      },
+      "properties": {
+        "id": "cg-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Morbihan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "2 rue de Saint-Tropez",
+            "CS 82400"
+          ],
+          "CodePostal": "56009",
+          "NomCommune": "Vannes Cedex",
+          "Localisation": {
+            "Latitude": "47.658348",
+            "Longitude": "-2.749739",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 54 80 00",
+          "Télécopie": "02 97 54 80 56",
+          "Email": "contact@morbihan.fr",
+          "Url": "http://www.morbihan.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

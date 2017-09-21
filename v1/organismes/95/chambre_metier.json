@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0744099617,
+          49.0320014954
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-95127-01",
+        "codeInsee": "95127",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Val-d'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, avenue du Parc",
+          "CodePostal": "95015",
+          "NomCommune": "Cergy-Pontoise Cedex",
+          "Localisation": {
+            "Latitude": "49.0320014954",
+            "Longitude": "2.0744099617",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 34 35 80 00",
+          "Télécopie": "+33 1 34 35 80 49",
+          "Email": "info@cma95.fr",
+          "Url": "http://www.cma95.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

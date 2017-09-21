@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4030726,
+          48.6219412
+        ]
+      },
+      "properties": {
+        "id": "onac-91182-01",
+        "codeInsee": "91182",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Essonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5-7 rue François Truffaut",
+            "Espace Europe"
+          ],
+          "CodePostal": "91080",
+          "NomCommune": "COURCOURONNES",
+          "Localisation": {
+            "Latitude": "48.6219412",
+            "Longitude": "2.4030726",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 60 79 25 11",
+          "Email": "sd91@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:91/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

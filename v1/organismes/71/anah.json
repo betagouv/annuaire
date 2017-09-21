@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8392871,
+          46.3131192
+        ]
+      },
+      "properties": {
+        "id": "anah-71270-01",
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Saône-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "37 boulevard Henri-Dunant",
+            "CS 80140"
+          ],
+          "CodePostal": "71040",
+          "NomCommune": "Mâcon",
+          "Localisation": {
+            "Latitude": "46.3131192",
+            "Longitude": "4.8392871",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 21 86 00",
+          "Télécopie": "03 85 38 01 55",
+          "Email": "ddt-anah@saone-et-loire.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

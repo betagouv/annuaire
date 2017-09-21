@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4439901,
+          48.8606143
+        ]
+      },
+      "properties": {
+        "id": "adil-93048-01",
+        "codeInsee": "93048",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "adil",
+        "Nom": "Agence départementale d'information sur le logement (Adil) - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6-8 rue Gaston-Lauriau",
+          "CodePostal": "93100",
+          "NomCommune": "Montreuil",
+          "Localisation": {
+            "Latitude": "48.8606143",
+            "Longitude": "2.4439901",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 16 93 93"
+          },
+          "Email": "adil93@wanadoo.fr",
+          "Url": "http://www.adil93.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil ouvert tous les jours sur rendez-vous."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert le 3e vendredi de chaque mois uniquement de 13h30 à 16h30."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

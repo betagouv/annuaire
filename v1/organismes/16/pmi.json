@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.673232018948,
+          46.0145072937
+        ]
+      },
+      "properties": {
+        "id": "pmi-16106-01",
+        "codeInsee": "16106",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et Infantile (PMI) de Confolens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue du Docteur-André-Bernard",
+          "CodePostal": "16500",
+          "NomCommune": "Confolens",
+          "Localisation": {
+            "Latitude": "46.0145072937",
+            "Longitude": "0.673232018948",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 45 84 13 75",
+          "Télécopie": "05 45 85 36 35",
+          "Url": "http://www.cg16.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.871273,
+          43.087941
+        ]
+      },
+      "properties": {
+        "id": "msap-09194-01",
+        "codeInsee": "09194",
+        "dateMiseAJour": "2016-09-06",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Mirepoix",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "1 Bis Chemin de la Mestrise",
+          "CodePostal": "09500",
+          "NomCommune": "Mirepoix",
+          "Localisation": {
+            "Latitude": "43.087941",
+            "Longitude": "1.871273",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 69 02 80",
+          "Email": "espace-initiativesmirepoix@orange.fr",
+          "Url": "http://www.espace-initiativesmirepoix.com/nos-services"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.302921,
+          43.146681
+        ]
+      },
+      "properties": {
+        "id": "msap-09105-01",
+        "codeInsee": "09105",
+        "dateMiseAJour": "2017-01-04",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Daumazan-sur-Arize",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "route de Toulouse",
+          "CodePostal": "09350",
+          "NomCommune": "Daumazan-sur-Arize",
+          "Localisation": {
+            "Latitude": "43.146681",
+            "Longitude": "1.302921",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.daumazan-sur-arise@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/daumazan-sur-arize-bureau-de-poste"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3382738,
+          44.1371098
+        ]
+      },
+      "properties": {
+        "codeInsee": "47195",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-47195-01",
+        "idPresta": "4cac9e70293594648a00219d",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Nérac",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre Haussmann",
+            "place Aristide Briand"
+          ],
+          "CodePostal": "47600",
+          "NomCommune": "NERAC",
+          "Localisation": {
+            "Latitude": "44.1371098",
+            "Longitude": "0.3382738",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

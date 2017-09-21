@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7556494,
+          48.0632077
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "60, rue Mac-Donald",
+            "BP 93007"
+          ],
+          "CodePostal": "53063",
+          "NomCommune": "Laval Cedex 9",
+          "Localisation": {
+            "Latitude": "48.0632077",
+            "Longitude": "-0.7556494",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 67 27 30",
+          "Télécopie": "+33 2 43 56 94 53",
+          "Email": "ddcspp@mayenne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

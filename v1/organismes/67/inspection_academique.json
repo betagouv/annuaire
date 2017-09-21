@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77525997162,
+          48.5815010071
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Bas-Rhin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "65 avenue de la Forêt-Noire",
+          "CodePostal": "67083",
+          "NomCommune": "Strasbourg Cedex",
+          "Localisation": {
+            "Latitude": "48.5815010071",
+            "Longitude": "7.77525997162",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 45 92 92",
+          "Télécopie": "03 88 61 43 15",
+          "Email": "ce.ia67@ac-strasbourg.fr",
+          "Url": "http://www.ac-strasbourg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

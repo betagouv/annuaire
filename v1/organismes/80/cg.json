@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2963595,
+          49.8909274
+        ]
+      },
+      "properties": {
+        "id": "cg-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-02-28",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "43 rue de la République",
+            "CS 32615"
+          ],
+          "CodePostal": "80026",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.8909274",
+            "Longitude": "2.2963595",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 71 80 80",
+          "Télécopie": "03 22 71 81 82",
+          "Email": "http://www.somme.fr/somme-contact-submit",
+          "Url": "http://www.somme.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

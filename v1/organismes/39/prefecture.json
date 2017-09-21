@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5509844,
+          46.6721349
+        ]
+      },
+      "properties": {
+        "id": "prefecture-39300-01",
+        "codeInsee": "39300",
+        "dateMiseAJour": "2014-03-10",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Jura",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8, rue de la Préfecture",
+          "CodePostal": "39030",
+          "NomCommune": "Lons-le-Saunier Cedex",
+          "Localisation": {
+            "Latitude": "46.6721349",
+            "Longitude": "5.5509844",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 84 86 84 00",
+          "Télécopie": "+33 3 84 43 42 86",
+          "Email": "prefecture@jura.gouv.fr",
+          "Url": "http://www.jura.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil physique du public pour Certificats d'immatriculation (ex-carte grise) et Permis de conduire les lundi, mardi, jeudi, vendredi de 9h à 11h45 et de 13h45 à 16h30 -fermeture le mercredi toute la journée- Séjour des étrangers du lundi au vendredi de 9h à 11h45, l'après-midi le service ne reçoit que sur rendez-vous. Accueil téléphonique pour Certificats d'immatriculation, Permis de conduire et Séjour des étrangers les mardi et jeudi de 9h à 11h45 au 03 84 86 84 00 -standard-. Tous les autres services sont joignables par téléphone du lundi au vendredi de 9h à 11h45 et de 13h45 à 16h30 au 03 84 86 84 00."
+          }
+        }
+      }
+    }
+  ]
+}

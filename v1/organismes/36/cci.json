@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6945899725,
+          46.8120994568
+        ]
+      },
+      "properties": {
+        "id": "cci-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "24 place Gambetta",
+          "CodePostal": "36028",
+          "NomCommune": "Châteauroux Cedex",
+          "Localisation": {
+            "Latitude": "46.8120994568",
+            "Longitude": "1.6945899725",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accueil sur demande dans un bâtiment annexe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 53 52 51",
+          "Télécopie": "02 54 34 17 77",
+          "Email": "contact@indre.cci.fr",
+          "Url": "http://www.indre.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

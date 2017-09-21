@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4177866,
+          46.1245976
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-03310-01",
+        "codeInsee": "03310",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Vichy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Vichy",
+            "Bureau des associations",
+            "17 rue Alquié",
+            "BP 2916"
+          ],
+          "CodePostal": "03200",
+          "NomCommune": "Vichy",
+          "Localisation": {
+            "Latitude": "46.1245976",
+            "Longitude": "3.4177866",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 30 13 67",
+          "Télécopie": "04 70 59 16 23",
+          "Email": "sp-assiociations-vichy@allier.gouv.fr",
+          "Url": "http://www.allier.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.60591599999998,
+          46.340396
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-03185-01",
+        "codeInsee": "03185",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Montluçon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Sous-préfecture de Montluçon",
+            "Service des associations",
+            "Rue de la Comédie",
+            "CS 61249"
+          ],
+          "CodePostal": "03104",
+          "NomCommune": "Montluçon Cedex",
+          "Localisation": {
+            "Latitude": "46.340396",
+            "Longitude": "2.60591599999998",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 70 02 24 97",
+          "Télécopie": "04 70 02 25 01",
+          "Email": "sp-associations-montlucon@allier.gouv.fr",
+          "Url": "http://www.allier.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "13:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

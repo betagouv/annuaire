@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.68746,
+          46.810638
+        ]
+      },
+      "properties": {
+        "id": "prefecture-36044-01",
+        "codeInsee": "36044",
+        "dateMiseAJour": "2012-11-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Indre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue des Jeux marins",
+            "CodePostal": "36000",
+            "NomCommune": "Châteauroux",
+            "Localisation": {
+              "Latitude": "46.810638",
+              "Longitude": "1.68746",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Place de la Victoire et des Alliés",
+              "CS 80583"
+            ],
+            "CodePostal": "36019",
+            "NomCommune": "Châteauroux Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 54 29 50 00",
+          "Télécopie": "+33 2 54 34 10 08",
+          "Url": "http://www.indre.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "'09:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Attention : les services Étrangers, Cartes grises, Permis de conduire, Passeport ferment à 12h30."
+          }
+        }
+      }
+    }
+  ]
+}

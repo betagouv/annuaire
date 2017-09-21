@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.352893,
+          44.016448
+        ]
+      },
+      "properties": {
+        "codeInsee": "82121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-82121-01",
+        "idPresta": "4cac9e60293594648a00034d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Montauban",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "16 place de l'Hôtel de Ville",
+          "CodePostal": "82013",
+          "NomCommune": "MONTAUBAN CEDEX",
+          "Localisation": {
+            "Latitude": "44.016448",
+            "Longitude": "1.352893",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 63 63 51 13",
+          "Télécopie": "+33 5 63 66 41 10",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

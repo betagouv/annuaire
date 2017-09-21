@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1498899,
+          48.0160531
+        ]
+      },
+      "properties": {
+        "id": "suio-72181-01",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information d'orientation et d'insertion professionnelle (SUIOIP) - Université du Maine - Le Mans",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue Olivier-Messiaen",
+          "CodePostal": "72085",
+          "NomCommune": "Le Mans Cedex 9",
+          "Localisation": {
+            "Latitude": "48.0160531",
+            "Longitude": "0.1498899",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 44 02 20 64",
+          "Télécopie": "02 43 83 37 57",
+          "Email": "suio@univ-lemans.fr",
+          "Url": "http://www.univ-lemans.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

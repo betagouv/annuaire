@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.27995991707,
+          48.2032012939
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-89387-01",
+        "codeInsee": "89387",
+        "dateMiseAJour": "2014-07-01",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Sens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "BP 811",
+            "2, rue du Général-Leclerc"
+          ],
+          "CodePostal": "89108",
+          "NomCommune": "Sens Cedex",
+          "Localisation": {
+            "Latitude": "48.2032012939",
+            "Longitude": "3.27995991707",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 83 95 20",
+          "Télécopie": "+33 3 86 65 03 17",
+          "Email": "sp-sens@yonne.gouv.fr",
+          "Url": "http://www.yonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "15:45:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "15:45:00"
+                }
+              ],
+              "Note": "Le pôle circulation - cartes grises et permis de conduire - est ouvert de 8h45 à 11h45 et le pôle immigration de 13h45 à 16h sauf le mercredi pour les 2 pôles. Le pôle criculation (carte grise) est fermé chaque premier jour ouvré du mois, prochaines fermetures en 2014: vendredi 1er Août, lundi 1er septembre, mercredi 1er octobre, lundi 3 novembre, lundi 1er décembre."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9119235,
+          47.4909841
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-89025-01",
+        "codeInsee": "89025",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture d'Avallon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "24, rue de Lyon",
+            "BP 147"
+          ],
+          "CodePostal": "89206",
+          "NomCommune": "Avallon Cedex",
+          "Localisation": {
+            "Latitude": "47.4909841",
+            "Longitude": "3.9119235",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 86 34 92 00",
+          "Télécopie": "+33 3 86 34 92 12",
+          "Email": "courrier@yonne.gouv.fr",
+          "Url": "http://www.yonne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

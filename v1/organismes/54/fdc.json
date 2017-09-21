@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0895963,
+          48.8909396
+        ]
+      },
+      "properties": {
+        "id": "fdc-54027-01",
+        "codeInsee": "54027",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Meurthe-et-Moselle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZA Atton - Sud",
+            "Rue Pierre-Adt",
+            "BP 25"
+          ],
+          "CodePostal": "54700",
+          "NomCommune": "Atton",
+          "Localisation": {
+            "Latitude": "48.8909396",
+            "Longitude": "6.0895963",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 83 81 67 98",
+          "Télécopie": "03 83 82 08 99",
+          "Email": "contact@fdc54.com",
+          "Url": "http://www.fdc54.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

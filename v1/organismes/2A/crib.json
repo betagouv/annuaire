@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7266259,
+          41.9199556
+        ]
+      },
+      "properties": {
+        "id": "crib-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité régional olympique et sportif de Corse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Résidence Highland",
+            "Avenue de Verdun"
+          ],
+          "CodePostal": "20000",
+          "NomCommune": "Ajaccio",
+          "Localisation": {
+            "Latitude": "41.9199556",
+            "Longitude": "8.7266259",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 21 45 65",
+          "Télécopie": "04 95 21 45 04",
+          "Email": "croscorse@wanadoo.fr",
+          "Url": "http://www.croscorse.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

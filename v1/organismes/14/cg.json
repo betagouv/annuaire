@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3655746,
+          49.1807227
+        ]
+      },
+      "properties": {
+        "id": "cg-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Calvados",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 rue Saint-Laurent",
+            "BP 20520"
+          ],
+          "CodePostal": "14035",
+          "NomCommune": "Caen Cedex 1",
+          "Localisation": {
+            "Latitude": "49.1807227",
+            "Longitude": "-0.3655746",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 57 14 14",
+          "Email": "contact@calvados.fr",
+          "Url": "http://www.calvados.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.289945,
+          49.845162
+        ]
+      },
+      "properties": {
+        "codeInsee": "02691",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tribunal_commerce-02691-01",
+        "idPresta": "4eb262702935944ef500007e",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Saint-Quentin",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice Fervaque",
+            "BP 645.3"
+          ],
+          "CodePostal": "02322",
+          "NomCommune": "ST QUENTIN CEDEX",
+          "Localisation": {
+            "Latitude": "49.845162",
+            "Longitude": "3.289945",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 62 34 10",
+          "Télécopie": "+33 3 23 64 26 47",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3280404,
+          49.3804223
+        ]
+      },
+      "properties": {
+        "codeInsee": "02722",
+        "dateMiseAJour": "2017-03-24",
+        "id": "tribunal_commerce-02722-01",
+        "idPresta": "4eb262702935944ef5000083",
+        "pivotLocal": "tribunal_commerce",
+        "Nom": "Tribunal de commerce de Soissons",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "76 rue Saint Martin",
+          "CodePostal": "02200",
+          "NomCommune": "SOISSONS",
+          "Localisation": {
+            "Latitude": "49.3804223",
+            "Longitude": "3.3280404",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 53 04 82",
+          "Télécopie": "+33 3 23 59 11 96",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.89422,
+          42.69637
+        ]
+      },
+      "properties": {
+        "id": "urssaf-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Occitanie - site de Perpignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "26 rue Petite-la-Monnaie",
+            "CodePostal": "66000",
+            "NomCommune": "Perpignan",
+            "Localisation": {
+              "Latitude": "42.69637",
+              "Longitude": "2.89422",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Occitanie",
+              "35 rue de la Haye"
+            ],
+            "CodePostal": "34937",
+            "NomCommune": "Montpellier Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.languedocroussillon.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

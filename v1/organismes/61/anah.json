@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093414,
+          48.431855
+        ]
+      },
+      "properties": {
+        "id": "anah-61001-01",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2016-03-10",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l'habitat (Anah) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "Place Bonnet",
+            "BP 537"
+          ],
+          "CodePostal": "61007",
+          "NomCommune": "Alençon Cedex",
+          "Localisation": {
+            "Latitude": "48.431855",
+            "Longitude": "0.093414",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 32 50 00",
+          "Email": "ddt-picanah@orne.gouv.fr",
+          "Url": "http://www.anah.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Renseignements au Point Rénovation Info Service : 02 33 32 50 00. Accueil du lundi au vendredi de 9h à 12h et de 13h30 à 17h."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

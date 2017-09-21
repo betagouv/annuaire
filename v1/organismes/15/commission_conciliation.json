@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4312605,
+          44.9153041
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2013-12-04",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Cantal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "74, rue de Firminy",
+            "Direction départementale des Territoires"
+          ],
+          "CodePostal": "15000",
+          "NomCommune": "Aurillac",
+          "Localisation": {
+            "Latitude": "44.9153041",
+            "Longitude": "2.4312605",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 63 27 66 00",
+          "Url": "http://www.cantal.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

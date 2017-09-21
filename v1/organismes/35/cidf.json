@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68676996231,
+          48.1147003174
+        ]
+      },
+      "properties": {
+        "id": "cidf-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Ille-et-Vilaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 rue de la Quintaine",
+          "CodePostal": "35000",
+          "NomCommune": "Rennes",
+          "Localisation": {
+            "Latitude": "48.1147003174",
+            "Longitude": "-1.68676996231",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 30 80 89",
+          "Télécopie": "02 99 31 72 24",
+          "Email": "cidff.35@orange.fr",
+          "Url": "http://www.illeetvilaine.cidff.info"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

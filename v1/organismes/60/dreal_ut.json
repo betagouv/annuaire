@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12505,
+          49.4277
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "ZA La Vatine",
+            "283 rue de Clermont"
+          ],
+          "CodePostal": "60000",
+          "NomCommune": "Beauvais",
+          "Localisation": {
+            "Latitude": "49.4277",
+            "Longitude": "2.12505",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 10 54 00",
+          "Télécopie": "03 44 10 54 01",
+          "Email": "ut.dreal-picardie@developpement-durable.gouv.fr",
+          "Url": "http://www.haut-de-france.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

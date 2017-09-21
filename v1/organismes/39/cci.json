@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5556905,
+          46.6754371
+        ]
+      },
+      "properties": {
+        "id": "cci-39300-01",
+        "codeInsee": "39300",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Jura",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "33 place de la Comédie",
+            "BP 377"
+          ],
+          "CodePostal": "39016",
+          "NomCommune": "Lons-le-Saunier Cedex",
+          "Localisation": {
+            "Latitude": "46.6754371",
+            "Longitude": "5.5556905",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 24 15 76",
+          "Télécopie": "03 84 24 54 62",
+          "Email": "contact@jura.cci.fr",
+          "Url": "http://www.jura.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil fermé l'après-midi en août et entre noël et jour de l'an."
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil fermé l'après-midi en août et entre noël et jour de l'an."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil fermé l'après-midi en août et entre noël et jour de l'an."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

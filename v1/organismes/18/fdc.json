@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35005998611,
+          47.0569000244
+        ]
+      },
+      "properties": {
+        "id": "fdc-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 rue Charles-Durand",
+            "CS 70326"
+          ],
+          "CodePostal": "18023",
+          "NomCommune": "Bourges Cedex",
+          "Localisation": {
+            "Latitude": "47.0569000244",
+            "Longitude": "2.35005998611",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 48 50 05 29",
+          "Télécopie": "02 48 50 05 38",
+          "Email": "fdc18@chasseurdefrance.com",
+          "Url": "http://www.chasseursducentre.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

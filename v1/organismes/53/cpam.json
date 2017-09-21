@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.718068,
+          47.833685
+        ]
+      },
+      "properties": {
+        "id": "cpam-53062-01",
+        "codeInsee": "53062",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Mayenne - accueil de Château-Gontier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "3 place de la Mairie",
+            "CodePostal": "53200",
+            "NomCommune": "Château-Gontier",
+            "Localisation": {
+              "Latitude": "47.833685",
+              "Longitude": "-0.718068",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie de Mayenne",
+              "37 boulevard Montmorency"
+            ],
+            "CodePostal": "53084",
+            "NomCommune": "Laval Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75841,
+          48.064782
+        ]
+      },
+      "properties": {
+        "id": "cpam-53130-01",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Mayenne - siège de Laval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "37 boulevard Montmorency",
+          "CodePostal": "53084",
+          "NomCommune": "Laval Cedex 9",
+          "Localisation": {
+            "Latitude": "48.064782",
+            "Longitude": "-0.75841",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28121090000001914,
+          48.3394237
+        ]
+      },
+      "properties": {
+        "id": "cpam-53271-01",
+        "codeInsee": "53271",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Mayenne - accueil de Villaines-la-Juhel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "17 boulevard du Général-de-Gaulle",
+            "CodePostal": "53700",
+            "NomCommune": "Villaines-la-Juhel",
+            "Localisation": {
+              "Latitude": "48.3394237",
+              "Longitude": "-0.28121090000001914",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie de Mayenne",
+              "37 boulevard Montmorency"
+            ],
+            "CodePostal": "53084",
+            "NomCommune": "Laval Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6115178,
+          48.3018973
+        ]
+      },
+      "properties": {
+        "id": "cpam-53147-01",
+        "codeInsee": "53147",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "cpam",
+        "Nom": "Caisse primaire d'assurance maladie (CPAM) de Mayenne - accueil de Mayenne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "12 boulevard Lucien-de-Montigny",
+            "CodePostal": "53100",
+            "NomCommune": "Mayenne",
+            "Localisation": {
+              "Latitude": "48.3018973",
+              "Longitude": "-0.6115178",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse primaire d'assurance maladie de Mayenne",
+              "37 boulevard Montmorency"
+            ],
+            "CodePostal": "53084",
+            "NomCommune": "Laval Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel) ; Depuis l’étranger, composez le +33 811 70 36 46.",
+            "$t": "3646"
+          },
+          "Url": "https://www.ameli.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

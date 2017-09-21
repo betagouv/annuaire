@@ -1,0 +1,594 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.567537,
+          48.8327591
+        ]
+      },
+      "properties": {
+        "id": "caf-50218-01",
+        "codeInsee": "50218",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Granville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "L'Agora",
+              "361 rue Saint-Nicolas"
+            ],
+            "CodePostal": "50407",
+            "NomCommune": "Granville",
+            "Localisation": {
+              "Latitude": "48.8327591",
+              "Longitude": "-1.567537",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.09104001522,
+          48.5786018372
+        ]
+      },
+      "properties": {
+        "id": "caf-50484-01",
+        "codeInsee": "50484",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Saint-Hilaire-du-Harcouët",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "65 place Delaporte",
+            "CodePostal": "50600",
+            "NomCommune": "Saint-Hilaire-du-Harcouët",
+            "Localisation": {
+              "Latitude": "48.5786018372",
+              "Longitude": "-1.09104001522",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6258446,
+          49.6358696
+        ]
+      },
+      "properties": {
+        "id": "caf-50129-01",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Cherbourg",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Office social et familial",
+              "54 boulevard Schuman"
+            ],
+            "CodePostal": "50102",
+            "NomCommune": "Cherbourg",
+            "Localisation": {
+              "Latitude": "49.6358696",
+              "Longitude": "-1.6258446",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4681949,
+          49.5101751
+        ]
+      },
+      "properties": {
+        "id": "caf-50615-01",
+        "codeInsee": "50615",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Valognes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison des services publics",
+              "22 rue de Poterie"
+            ],
+            "CodePostal": "50700",
+            "NomCommune": "Valognes",
+            "Localisation": {
+              "Latitude": "49.5101751",
+              "Longitude": "-1.4681949",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2504391,
+          49.3045786
+        ]
+      },
+      "properties": {
+        "id": "caf-50099-01",
+        "codeInsee": "50099",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Carentan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison de l'action sociale et de l'emploi",
+              "28 rue du 101e-Airbone"
+            ],
+            "CodePostal": "50500",
+            "NomCommune": "Carentan",
+            "Localisation": {
+              "Latitude": "49.3045786",
+              "Longitude": "-1.2504391",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert du lundi au vendredi uniquement sur rendez-vous par téléphone et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576165,
+          49.643609
+        ]
+      },
+      "properties": {
+        "id": "caf-50129-04",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Tourlaville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Le Nid",
+              "Rue du Caplain"
+            ],
+            "CodePostal": "50110",
+            "NomCommune": "Tourlaville",
+            "Localisation": {
+              "Latitude": "49.643609",
+              "Longitude": "-1.576165",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35485994816,
+          48.6823997498
+        ]
+      },
+      "properties": {
+        "id": "caf-50025-01",
+        "codeInsee": "50025",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - siège d'Avranches",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "63 boulevard Amiral-Gauchet",
+          "CodePostal": "50306",
+          "NomCommune": "Avranches Cedex",
+          "Localisation": {
+            "Latitude": "48.6823997498",
+            "Longitude": "-1.35485994816",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert lundi, mardi, jeudi et vendredi uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30. Accès espace caf.fr en libre-service les lundi et vendredi de 8h30 à 12h et les mardi et jeudi de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6142407,
+          49.6386687
+        ]
+      },
+      "properties": {
+        "id": "caf-50129-02",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil d'Octeville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Maison Olympe-de-Gouges",
+              "Rue de l'Ile-de-France"
+            ],
+            "CodePostal": "50130",
+            "NomCommune": "Octeville",
+            "Localisation": {
+              "Latitude": "49.6386687",
+              "Longitude": "-1.6142407",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.44435596466,
+          49.0491676331
+        ]
+      },
+      "properties": {
+        "id": "caf-50147-01",
+        "codeInsee": "50147",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Coutances",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "6 place Victor-Hugo",
+            "CodePostal": "50211",
+            "NomCommune": "Coutances",
+            "Localisation": {
+              "Latitude": "49.0491676331",
+              "Longitude": "-1.44435596466",
+              "Précision": "4"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6747699,
+          49.6548277
+        ]
+      },
+      "properties": {
+        "id": "caf-50129-03",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil d'Équeurdreville-Hainneville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace social Le Puzzle",
+              "25 rue Jean-Moulin"
+            ],
+            "CodePostal": "50120",
+            "NomCommune": "Équeurdreville-Hainneville",
+            "Localisation": {
+              "Latitude": "49.6548277",
+              "Longitude": "-1.6747699",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous du lundi au vendredi et accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08736002445,
+          49.1118011475
+        ]
+      },
+      "properties": {
+        "id": "caf-50502-01",
+        "codeInsee": "50502",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de Manche - accueil de Saint-Lô",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "12 rue Fontaine-Venise",
+            "CodePostal": "50008",
+            "NomCommune": "Saint-Lô",
+            "Localisation": {
+              "Latitude": "49.1118011475",
+              "Longitude": "-1.08736002445",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de Manche",
+              "63 boulevard Amiral-Gauchet"
+            ],
+            "CodePostal": "50306",
+            "NomCommune": "Avranches Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 10 25 50 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Commentaire": "Accueil ouvert les lundi, mardi, jeudi et vendredi uniquement sur rendez-vous. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h à 16h30."
+      }
+    }
+  ]
+}

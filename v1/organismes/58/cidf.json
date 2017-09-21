@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.161842,
+          46.9871872
+        ]
+      },
+      "properties": {
+        "id": "cidf-58194-01",
+        "codeInsee": "58194",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Nièvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "40 rue Bernard-Palissy",
+            "1er étage",
+            "Appartement 355"
+          ],
+          "CodePostal": "58000",
+          "NomCommune": "Nevers",
+          "Localisation": {
+            "Latitude": "46.9871872",
+            "Longitude": "3.161842",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 45 52 31 14",
+          "Télécopie": "03 86 57 56 64",
+          "Email": "cidf.58@laposte.net",
+          "Url": "http://www.infofemmes.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:45:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
+        }
+      }
+    }
+  ]
+}

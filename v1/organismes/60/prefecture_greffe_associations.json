@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0808121,
+          49.4308089
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Direction départementale de la cohésion sociale de l'Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Greffe des associations de Beauvais",
+              "28 rue Saint-Pantaléon"
+            ],
+            "CodePostal": "60000",
+            "NomCommune": "Beauvais Cedex",
+            "Localisation": {
+              "Latitude": "49.4308089",
+              "Longitude": "2.0808121",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "13 rue Biot",
+              "BP 30971"
+            ],
+            "CodePostal": "60009",
+            "NomCommune": "Beauvaix Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 06 48 00",
+          "Télécopie": "+33 3 44 06 06 26",
+          "Email": "ddcs-greffe-asso@oise.gouv.fr",
+          "Url": "http://www.oise.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique le matin et accueil physique ouvert uniquement sur rendez-vous de 9h à 12h."
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Permanence téléphonique tous les matins de 9h à 12h et accueil physique uniquement sur rendez-vous lundi et mercredi."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

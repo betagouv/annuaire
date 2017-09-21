@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08697009087,
+          45.7720985413
+        ]
+      },
+      "properties": {
+        "id": "rectorat-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "rectorat",
+        "Nom": "Rectorat - Académie de Clermont-Ferrand",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bâtiment Vercingétorix",
+            "3 avenue Vercingétorix"
+          ],
+          "CodePostal": "63033",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7720985413",
+            "Longitude": "3.08697009087",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 99 30 00",
+          "Télécopie": "04 73 99 30 01",
+          "Email": "ce.rectorat@ac-clermont.fr",
+          "Url": "http://www.ac-clermont.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

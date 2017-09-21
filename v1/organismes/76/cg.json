@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.08841899999993,
+          49.4343382
+        ]
+      },
+      "properties": {
+        "id": "cg-76540-01",
+        "codeInsee": "76540",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Seine-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel du département",
+            "Quai Jean-Moulin"
+          ],
+          "CodePostal": "76101",
+          "NomCommune": "Rouen Cedex 1",
+          "Localisation": {
+            "Latitude": "49.4343382",
+            "Longitude": "1.08841899999993",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 03 55 55",
+          "Télécopie": "02 35 03 54 54",
+          "Email": "president@seinemaritime.fr",
+          "Url": "http://www.seinemaritime.net"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil téléphonique de 8h à 18h."
+          }
+        }
+      }
+    }
+  ]
+}

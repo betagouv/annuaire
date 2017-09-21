@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6952403,
+          43.3983972
+        ]
+      },
+      "properties": {
+        "codeInsee": "34301",
+        "dateMiseAJour": "2016-05-27",
+        "id": "ti-34301-01",
+        "idPresta": "4cac9e6a293594648a0017e4",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Sète",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "RDC Villa d'Este",
+            "220 avenue Maréchal Juin - BP 50138"
+          ],
+          "CodePostal": "34200",
+          "NomCommune": "SETE",
+          "Localisation": {
+            "Latitude": "43.3983972",
+            "Longitude": "3.6952403",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 08 31 86",
+          "Télécopie": "+33 4 67 74 50 49",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.886256,
+          43.604817
+        ]
+      },
+      "properties": {
+        "codeInsee": "34172",
+        "dateMiseAJour": "2015-04-10",
+        "id": "ti-34172-01",
+        "idPresta": "4cac9ed7293594648a00ee3f",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Montpellier",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 rue de Tarragone",
+            "CS 29029"
+          ],
+          "CodePostal": "34965",
+          "NomCommune": "MONTPELLIER CEDEX 2",
+          "Localisation": {
+            "Latitude": "43.604817",
+            "Longitude": "3.886256",
+            "Précision": "7"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 08 31 42",
+          "Télécopie": "+33 4 34 08 31 80",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226781,
+          43.335765
+        ]
+      },
+      "properties": {
+        "codeInsee": "34032",
+        "dateMiseAJour": "2016-08-26",
+        "id": "ti-34032-01",
+        "idPresta": "4cac9e62293594648a00063d",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Béziers",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "93 avenue du président Wilson",
+          "CodePostal": "34500",
+          "NomCommune": "BEZIERS",
+          "Localisation": {
+            "Latitude": "43.335765",
+            "Longitude": "3.226781",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 17 34 03",
+          "Télécopie": "+33 4 30 17 36 04",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457584,
+          46.3239
+        ]
+      },
+      "properties": {
+        "id": "direccte_ut-79191-01",
+        "codeInsee": "79191",
+        "dateMiseAJour": "2017-04-20",
+        "pivotLocal": "direccte_ut",
+        "Nom": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) - Unité territoriale - Deux-Sèvres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue Joseph-Cugnot",
+            "BP 8621"
+          ],
+          "CodePostal": "79026",
+          "NomCommune": "Niort Cedex 9",
+          "Localisation": {
+            "Latitude": "46.3239",
+            "Longitude": "-0.457584",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 79 93 55",
+          "Télécopie": "05 49 79 62 94",
+          "Email": "alpc-ud79.direction@direccte.gouv.fr",
+          "Url": "http://www.nouvelle-aquitaine.direccte.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

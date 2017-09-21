@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7597248,
+          50.289401
+        ]
+      },
+      "properties": {
+        "id": "urssaf-62041-01",
+        "codeInsee": "62041",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Hauts-de-France - site d'Arras",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "13 boulevard du Président-Allende",
+            "CodePostal": "62000",
+            "NomCommune": "Arras",
+            "Localisation": {
+              "Latitude": "50.289401",
+              "Longitude": "2.7597248",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Hauts-de-France",
+              "293 avenue du Président-Hoover",
+              "BP 20001"
+            ],
+            "CodePostal": "59032",
+            "NomCommune": "Lille Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.nordpasdecalais.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8600072,
+          50.949796
+        ]
+      },
+      "properties": {
+        "id": "urssaf-62193-01",
+        "codeInsee": "62193",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Hauts-de-France - site de Calais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "95 rue de Vic",
+            "CodePostal": "62100",
+            "NomCommune": "Calais",
+            "Localisation": {
+              "Latitude": "50.949796",
+              "Longitude": "1.8600072",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Hauts-de-France",
+              "293 avenue du Président-Hoover",
+              "BP 20001"
+            ],
+            "CodePostal": "59032",
+            "NomCommune": "Lille Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.nordpasdecalais.urssaf.fr"
+        },
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous, à prendre sur www.contact.urssaf.fr"
+      }
+    }
+  ]
+}

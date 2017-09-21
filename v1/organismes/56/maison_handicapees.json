@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.760847,
+          47.658236
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-56260-01",
+        "codeInsee": "56260",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Morbihan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "16 rue Ella-Maillart",
+            "CS 62379"
+          ],
+          "CodePostal": "56009",
+          "NomCommune": "Vannes Cedex",
+          "Localisation": {
+            "Latitude": "47.658236",
+            "Longitude": "-2.760847",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 97 62 74 74",
+          "Télécopie": "02 97 62 74 94",
+          "Email": "contact@mda56.fr",
+          "Url": "http://www.morbihan.frmda"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

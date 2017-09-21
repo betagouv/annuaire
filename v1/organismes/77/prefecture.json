@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65478491783,
+          48.5417747498
+        ]
+      },
+      "properties": {
+        "id": "prefecture-77288-01",
+        "codeInsee": "77288",
+        "dateMiseAJour": "2014-06-30",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture de Seine-et-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12, rue des Saints-Pères",
+          "CodePostal": "77010",
+          "NomCommune": "Melun Cedex",
+          "Localisation": {
+            "Latitude": "48.5417747498",
+            "Longitude": "2.65478491783",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 64 71 77 77",
+          "Télécopie": "+33 1 64 37 10 35",
+          "Url": "http://www.seine-et-marne.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            },
+            "Note": "Le mercredi accueil uniquement sur rendez-vous"
+          }
+        }
+      }
+    }
+  ]
+}

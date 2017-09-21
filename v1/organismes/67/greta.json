@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7270249,
+          48.5295707
+        ]
+      },
+      "properties": {
+        "id": "greta-67482-01",
+        "codeInsee": "67482",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta de Strasbourg - Europe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 rue Lixenbuhl",
+            "CS 60050"
+          ],
+          "CodePostal": "67402",
+          "NomCommune": "Illkirch-Graffenstaden Cedex",
+          "Localisation": {
+            "Latitude": "48.5295707",
+            "Longitude": "7.7270249",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 40 77 00",
+          "Télécopie": "03 88 40 77 19",
+          "Email": "gse@strasbourg.greta.fr",
+          "Url": "http://www.strasbourg.greta.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76758,
+          48.7999086
+        ]
+      },
+      "properties": {
+        "id": "greta-67180-01",
+        "codeInsee": "67180",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Nord-Alsace",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "123 route de Strasbourg",
+            "BP 50235"
+          ],
+          "CodePostal": "67504",
+          "NomCommune": "Haguenau Cedex",
+          "Localisation": {
+            "Latitude": "48.7999086",
+            "Longitude": "7.76758",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 88 06 16 66",
+          "Télécopie": "03 88 06 16 60",
+          "Email": "gna@greta-nord-alsace.com",
+          "Url": "http://www.greta-nord-alsace.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

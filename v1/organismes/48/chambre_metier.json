@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.49944996834,
+          44.5163993835
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-48095-01",
+        "codeInsee": "48095",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Occitanie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Délégation de Lozère",
+            "2 boulevard Soubeyran",
+            "BP 90"
+          ],
+          "CodePostal": "48003",
+          "NomCommune": "Mende Cedex",
+          "Localisation": {
+            "Latitude": "44.5163993835",
+            "Longitude": "3.49944996834",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 49 12 66",
+          "Télécopie": "04 66 49 19 15",
+          "Email": "info@cma-lozere.fr",
+          "Url": "http://www.cma-lozere.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

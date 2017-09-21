@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1992694,
+          43.6750103
+        ]
+      },
+      "properties": {
+        "id": "cg-06088-01",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cg",
+        "Nom": "Conseil départemental - Alpes-Maritimes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre administratif départemental",
+            "147 boulevard du Mercantour",
+            "BP 3007"
+          ],
+          "CodePostal": "06201",
+          "NomCommune": "Nice Cedex 3",
+          "Localisation": {
+            "Latitude": "43.6750103",
+            "Longitude": "7.1992694",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 97 18 60 00",
+          "Télécopie": "04 97 18 66 66",
+          "Email": "contact@departement06.fr",
+          "Url": "https://www.departement06.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

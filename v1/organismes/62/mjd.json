@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.834788,
+          50.44357
+        ]
+      },
+      "properties": {
+        "codeInsee": "62498",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-62498-01",
+        "idPresta": "51b08ccbb473e41478000f7b",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Lens",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pavillon Desmoulins",
+            "rue Alain"
+          ],
+          "CodePostal": "62300",
+          "NomCommune": "LENS",
+          "Localisation": {
+            "Latitude": "50.44357",
+            "Longitude": "2.834788",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 91 83 01 10",
+          "Email": "mailto:mjd-lens@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.859808,
+          50.944607
+        ]
+      },
+      "properties": {
+        "codeInsee": "62193",
+        "dateMiseAJour": "2014-11-24",
+        "id": "mjd-62193-01",
+        "idPresta": "51b08c8eb473e41478000230",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Calais",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 place Crève Coeur",
+          "CodePostal": "62100",
+          "NomCommune": "CALAIS",
+          "Localisation": {
+            "Latitude": "50.944607",
+            "Longitude": "1.859808",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 21 97 09 27",
+          "Télécopie": "+33 3 21 97 22 95",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

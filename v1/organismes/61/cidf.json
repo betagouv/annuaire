@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.569661600000018,
+          48.7506633
+        ]
+      },
+      "properties": {
+        "id": "cidf-61169-01",
+        "codeInsee": "61169",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Orne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "15 rue du Théâtre",
+            "BP 60024"
+          ],
+          "CodePostal": "61101",
+          "NomCommune": "Flers Cedex",
+          "Localisation": {
+            "Latitude": "48.7506633",
+            "Longitude": "-0.569661600000018",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 64 38 92",
+          "Télécopie": "02 33 64 04 11",
+          "Email": "cidff.orne@orange.fr",
+          "Url": "http://www.infofemmes-orne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

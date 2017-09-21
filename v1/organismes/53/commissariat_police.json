@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1659433,
+          45.8003413
+        ]
+      },
+      "properties": {
+        "id": "commissariat_police-53130-02",
+        "codeInsee": "53130",
+        "dateMiseAJour": "2017-06-13",
+        "pivotLocal": "commissariat_police",
+        "Nom": "Commissariat de police de Laval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 place Mendès-France",
+          "CodePostal": "53013",
+          "NomCommune": "Laval",
+          "Localisation": {
+            "Latitude": "45.8003413",
+            "Longitude": "3.1659433",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 67 81 81",
+          "Télécopie": "02 22 06 14 13",
+          "Url": "http://www.police-nationale.interieur.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6523972,
+          46.253976
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01283-01",
+        "codeInsee": "01283",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale d'Oyonnax",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "188 rue Anatole-France",
+          "CodePostal": "01100",
+          "NomCommune": "Oyonnax",
+          "Localisation": {
+            "Latitude": "46.253976",
+            "Longitude": "5.6523972",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 73 51 66",
+          "Email": "accueil.oyonnax@mlobg.fr",
+          "Url": "http://www.mlobg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05789709091,
+          46.3321876526
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01173-01",
+        "codeInsee": "01173",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Gex",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Clos des Abeilles",
+            "41 rue de Domparon"
+          ],
+          "CodePostal": "01170",
+          "NomCommune": "Gex",
+          "Localisation": {
+            "Latitude": "46.3321876526",
+            "Longitude": "6.05789709091",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 41 60 46",
+          "Email": "accueil.gex@mlobg.fr",
+          "Url": "http://www.mlobg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "'09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.68655014038,
+          45.7607002258
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01034-01",
+        "codeInsee": "01034",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Belley",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place Père-Popielusko",
+          "CodePostal": "01300",
+          "NomCommune": "Belley",
+          "Localisation": {
+            "Latitude": "45.7607002258",
+            "Longitude": "5.68655014038",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 79 81 53 75",
+          "Télécopie": "04 79 81 09 65",
+          "Email": "mlj.belley@mljbpa.fr",
+          "Url": "http://www.mljbpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:15:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:15:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.23537015915,
+          46.2067985535
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01053-01",
+        "codeInsee": "01053",
+        "dateMiseAJour": "2016-07-06",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale jeunes Bresse-Dombes-Côtière",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 ter avenue des Sports",
+          "CodePostal": "01000",
+          "NomCommune": "Bourg-en-Bresse",
+          "Localisation": {
+            "Latitude": "46.2067985535",
+            "Longitude": "5.23537015915",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 45 35 37",
+          "Télécopie": "04 74 22 16 56",
+          "Email": "contact@mljbourg.com",
+          "Url": "http://www.mljbourg.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "'09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "'09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9688893,
+          45.8255634
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01249-01",
+        "codeInsee": "01249",
+        "dateMiseAJour": "2009-08-28",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Miribel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre socio culturel",
+            "Four à Chaux"
+          ],
+          "CodePostal": "01700",
+          "NomCommune": "MIRIBEL",
+          "Localisation": {
+            "Latitude": "45.8255634",
+            "Longitude": "4.9688893",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 78 55 57 18"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "ATTENTION : les horaires changent en Juillet en en Août."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.81180000305,
+          46.1208000183
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01033-01",
+        "codeInsee": "01033",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Bellegarde-sur-Valserine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue des Papetiers",
+          "CodePostal": "01200",
+          "NomCommune": "Bellegarde-sur-Valserine",
+          "Localisation": {
+            "Latitude": "46.1208000183",
+            "Longitude": "5.81180000305",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 50 48 09 86",
+          "Email": "accueil.bellegarde@mlobg.fr",
+          "Url": "http://www.mlobg.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75873994827,
+          45.9472999573
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01427-01",
+        "codeInsee": "01427",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Trévoux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "627 route de Jassans",
+          "CodePostal": "01600",
+          "NomCommune": "Trévoux",
+          "Localisation": {
+            "Latitude": "45.9472999573",
+            "Longitude": "4.75873994827",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 08 97 54",
+          "Télécopie": "04 74 08 97 51",
+          "Email": "contact@mljbourg.com",
+          "Url": "http://www.mljbourg.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil téléphonique uniquement à partir de 14h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357729,
+          45.958303
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01004-01",
+        "codeInsee": "01004",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale d'Ambérieu-en-Bugey",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 place Sanville",
+          "CodePostal": "01500",
+          "NomCommune": "Ambérieu-en-Bugey",
+          "Localisation": {
+            "Latitude": "45.958303",
+            "Longitude": "5.357729",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 74 34 61 22",
+          "Télécopie": "04 74 46 86 62",
+          "Email": "mlj.amberieux@mljbp1.fr",
+          "Url": "http://www.mljbpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0556067,
+          45.8499313
+        ]
+      },
+      "properties": {
+        "id": "mission_locale-01262-01",
+        "codeInsee": "01262",
+        "dateMiseAJour": "2015-08-19",
+        "pivotLocal": "mission_locale",
+        "Nom": "Mission locale de Montluel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "321 rue Neuve",
+          "CodePostal": "01120",
+          "NomCommune": "Montluel",
+          "Localisation": {
+            "Latitude": "45.8499313",
+            "Longitude": "5.0556067",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 72 25 06 41"
+        }
+      }
+    }
+  ]
+}

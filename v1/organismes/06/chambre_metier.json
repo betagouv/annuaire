@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19402980804,
+          43.6585998535
+        ]
+      },
+      "properties": {
+        "id": "chambre_metier-06123-01",
+        "codeInsee": "06123",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_metier",
+        "Nom": "Chambre de métiers et de l'artisanat - Provence-Alpes-Côte-d'Azur",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "81 avenue Léon-Bérenger",
+            "Territoire 06",
+            "CS 30219"
+          ],
+          "CodePostal": "06704",
+          "NomCommune": "Saint-Laurent-du-Var Cedex",
+          "Localisation": {
+            "Latitude": "43.6585998535",
+            "Longitude": "7.19402980804",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "plain-pied"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 93 14 16 14",
+          "Télécopie": "04 93 31 07 56",
+          "Email": "accueil@cma06.fr",
+          "Url": "http://www.cma06.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

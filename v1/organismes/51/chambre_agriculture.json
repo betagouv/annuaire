@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38217163086,
+          48.9795409925
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-51108-01",
+        "codeInsee": "51108",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Complexe agricole du Mont-Bernard",
+            "Route de Suippes",
+            "CS 90525"
+          ],
+          "CodePostal": "51009",
+          "NomCommune": "Châlons-en-Champagne Cedex",
+          "Localisation": {
+            "Latitude": "48.9795409925",
+            "Longitude": "4.38217163086",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 64 08 13",
+          "Télécopie": "03 26 64 95 00",
+          "Email": "accueil-chalons@marne.chambagri.fr",
+          "Url": "http://www.marne.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

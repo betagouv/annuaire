@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3706673,
+          43.8124217
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2014-02-11",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mas de l'agriculture",
+            "1120, route de Saint-Gilles",
+            "BP 39081"
+          ],
+          "CodePostal": "30972",
+          "NomCommune": "Nîmes Cedex 9",
+          "Localisation": {
+            "Latitude": "43.8124217",
+            "Longitude": "4.3706673",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 30 08 61 20",
+          "Télécopie": "+33 4 30 08 61 21",
+          "Url": "http://www.gard.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

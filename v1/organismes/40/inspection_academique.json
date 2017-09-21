@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.494967013597,
+          43.8932991028
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-40192-01",
+        "codeInsee": "40192",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Landes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 avenue Antoine-Dufau",
+            "BP 389"
+          ],
+          "CodePostal": "40012",
+          "NomCommune": "Mont-de-Marsan Cedex",
+          "Localisation": {
+            "Latitude": "43.8932991028",
+            "Longitude": "-0.494967013597",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 05 66 66",
+          "Télécopie": "05 58 75 30 27",
+          "Email": "ce.ia40@ac-bordeaux.fr",
+          "Url": "http://www.ia40.ac-bordeaux.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

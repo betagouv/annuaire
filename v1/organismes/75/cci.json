@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342564,
+          48.863461
+        ]
+      },
+      "properties": {
+        "id": "cci-75101-01",
+        "codeInsee": "75101",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Paris",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue Coquillière",
+          "CodePostal": "75001",
+          "NomCommune": "Paris",
+          "Localisation": {
+            "Latitude": "48.863461",
+            "Longitude": "2.342564",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 20 01 21 12"
+          },
+          "Url": "http://www.entreprises.cci-paris-idf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            },
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 18h30 et contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
+          }
+        }
+      }
+    }
+  ]
+}

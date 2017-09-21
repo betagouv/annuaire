@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4037888,
+          43.6023587
+        ]
+      },
+      "properties": {
+        "id": "msa-31555-01",
+        "codeInsee": "31555",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Sud - accueil de Toulouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "78 voie du Toec",
+          "CodePostal": "31064",
+          "NomCommune": "Toulouse Cedex 9",
+          "Localisation": {
+            "Latitude": "43.6023587",
+            "Longitude": "1.4037888",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 10 40 40",
+          "Url": "http://www.msa-mps.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous le jeudi et accueil fermé le dernier vendredi du mois."
+          }
+        }
+      }
+    }
+  ]
+}

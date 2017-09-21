@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.364028990269,
+          49.1962013245
+        ]
+      },
+      "properties": {
+        "id": "crous-14118-01",
+        "codeInsee": "14118",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Caen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "23 avenue de Bruxelles",
+            "BP 85153"
+          ],
+          "CodePostal": "14070",
+          "NomCommune": "Caen Cedex 5",
+          "Localisation": {
+            "Latitude": "49.1962013245",
+            "Longitude": "-0.364028990269",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 56 63 00",
+          "Télécopie": "02 31 56 64 00",
+          "Email": "contact@crous-caen.fr",
+          "Url": "http://www.crous-caen.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

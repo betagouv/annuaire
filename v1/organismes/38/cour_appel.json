@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.71143,
+          45.1908688
+        ]
+      },
+      "properties": {
+        "codeInsee": "38185",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-38185-01",
+        "idPresta": "4cac9e5e293594648a000076",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Grenoble",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Firmin Gautier",
+            "BP 110"
+          ],
+          "CodePostal": "38019",
+          "NomCommune": "GRENOBLE CEDEX 1",
+          "Localisation": {
+            "Latitude": "45.1908688",
+            "Longitude": "5.71143",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 38 21 21 21",
+          "Télécopie": "+33 4 38 21 20 17",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

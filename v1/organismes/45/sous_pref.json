@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73456001282,
+          48.0004997253
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-45208-01",
+        "codeInsee": "45208",
+        "dateMiseAJour": "2014-03-03",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture - Montargis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22-24, boulevard Paul-Baudin",
+          "CodePostal": "45207",
+          "NomCommune": "Montargis Cedex",
+          "Localisation": {
+            "Latitude": "48.0004997253",
+            "Longitude": "2.73456001282",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "0,12 euro la minute depuis un réseau fixe",
+            "$t": "0821 80 30 45"
+          },
+          "Télécopie": "+33 2 38 98 54 66",
+          "Email": "sp-montargis@loiret.gouv.fr",
+          "Url": "http://www.loiret.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2549621,
+          48.1717856
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-45252-01",
+        "codeInsee": "45252",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Pithiviers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "11, mail Sud",
+            "BP 725"
+          ],
+          "CodePostal": "45307",
+          "NomCommune": "Pithiviers Cedex",
+          "Localisation": {
+            "Latitude": "48.1717856",
+            "Longitude": "2.2549621",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 38 30 01 71",
+          "Télécopie": "+33 2 38 30 47 61",
+          "Email": "sp-pithiviers@loiret.gouv.fr",
+          "Url": "http://www.loiret.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:45:00"
+            },
+            "Note": "La sous-préfecture ne traite plus les demandes d'immatriculation des véhicules"
+          }
+        }
+      }
+    }
+  ]
+}

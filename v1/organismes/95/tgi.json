@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.100664,
+          49.05097
+        ]
+      },
+      "properties": {
+        "codeInsee": "95500",
+        "dateMiseAJour": "2015-07-10",
+        "id": "tgi-95500-01",
+        "idPresta": "4cac9e6a293594648a0017c1",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Pontoise",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité judiciaire",
+            "3 rue Victor Hugo - BP 50220"
+          ],
+          "CodePostal": "95302",
+          "NomCommune": "CERGY PONTOISE CEDEX",
+          "Localisation": {
+            "Latitude": "49.05097",
+            "Longitude": "2.100664",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 72 58 70 00",
+          "Télécopie": "+33 1 72 58 73 79",
+          "Url": "http://www.tgi-pontoise.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

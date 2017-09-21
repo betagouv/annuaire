@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0221315,
+          47.2335615
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-25056-01",
+        "codeInsee": "25056",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Besançon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Prefecture de Besançon",
+              "3 avenue de la Gare-d'Eau"
+            ],
+            "CodePostal": "25000",
+            "NomCommune": "Besançon",
+            "Localisation": {
+              "Latitude": "47.2335615",
+              "Longitude": "6.0221315",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": "8 bis rue Charles-Nodier",
+            "CodePostal": "25035",
+            "NomCommune": "Besançon Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 25 11 14",
+          "Télécopie": "03 81 25 13 19",
+          "Email": "prefecture@doubs.gouv.fr",
+          "Url": "http://www.doubs.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 9h à 11h30 et de 14h à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

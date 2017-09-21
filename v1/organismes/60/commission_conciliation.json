@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08061003685,
+          49.4346008301
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-60057-01",
+        "codeInsee": "60057",
+        "dateMiseAJour": "2013-05-15",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "DDCS",
+            "13, rue Bio",
+            "BP 10584"
+          ],
+          "CodePostal": "60005",
+          "NomCommune": "Beauvais Cedex",
+          "Localisation": {
+            "Latitude": "49.4346008301",
+            "Longitude": "2.08061003685",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 06 06 06",
+          "Télécopie": "+33 3 44 06 48 92",
+          "Url": "http://www.oise.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Permanence téléphonique"
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Permanence téléphonique"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

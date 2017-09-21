@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45415839426,
+          48.9067780455
+        ]
+      },
+      "properties": {
+        "codeInsee": "93008",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-93008-01",
+        "idPresta": "4cac9e60293594648a00037a",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Bobigny",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1-13 rue Michel de l'Hospital",
+          "CodePostal": "93008",
+          "NomCommune": "BOBIGNY CEDEX",
+          "Localisation": {
+            "Latitude": "48.9067780455",
+            "Longitude": "2.45415839426",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 48 96 22 22",
+          "Télécopie": "+33 1 48 30 85 74",
+          "Email": "mailto:cph-bobigny@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

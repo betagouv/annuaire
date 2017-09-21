@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3314814,
+          47.5827947
+        ]
+      },
+      "properties": {
+        "id": "ddt-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires (DDT) - Loir-et-Cher",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17, quai de l'Abbé-Grégoire",
+          "CodePostal": "41012",
+          "NomCommune": "Blois Cedex",
+          "Localisation": {
+            "Latitude": "47.5827947",
+            "Longitude": "1.3314814",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  ou composez le 30 08 (appel gratuit)",
+            "$t": "0810 02 41 41"
+          },
+          "Télécopie": "+33 2 54 55 75 77",
+          "Email": "ddt@loir-et-cher.gouv.fr",
+          "Url": "http://www.loir-et-cher.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

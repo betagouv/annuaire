@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.897375,
+          47.585926
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-90010-01",
+        "codeInsee": "90010",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Doubs - Territoire de Belfort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Jonxion 1",
+            "1 avenue de la Gare-TGV"
+          ],
+          "CodePostal": "90400",
+          "NomCommune": "Meroux",
+          "Localisation": {
+            "Latitude": "47.585926",
+            "Longitude": "6.897375",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 84 46 61 50",
+          "Télécopie": "03 84 22 28 08",
+          "Email": "accueil@territoire-de-belfort.chambagri.fr",
+          "Url": "http://www.franche-comte.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3380255,
+          47.6251724
+        ]
+      },
+      "properties": {
+        "codeInsee": "21425",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-21425-01",
+        "idPresta": "4cac9e5f293594648a0001bd",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Permanence d’information et d’orientation juridiques",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tribunal d'instance",
+            "2 rue d'Abrantès",
+            "BP 77"
+          ],
+          "CodePostal": "21506",
+          "NomCommune": "MONTBARD CEDEX",
+          "Localisation": {
+            "Latitude": "47.6251724",
+            "Longitude": "4.3380255",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

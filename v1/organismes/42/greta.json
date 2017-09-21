@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4012231,
+          45.4468135
+        ]
+      },
+      "properties": {
+        "id": "greta-42218-01",
+        "codeInsee": "42218",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "22 rue Louis-Soulié",
+            "BP 650"
+          ],
+          "CodePostal": "42042",
+          "NomCommune": "Saint-Étienne Cedex 1",
+          "Localisation": {
+            "Latitude": "45.4468135",
+            "Longitude": "4.4012231",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 32 48 02",
+          "Télécopie": "04 77 32 37 16",
+          "Email": "greta.for-se@ac-lyon.fr",
+          "Url": "https://www1.ac-lyon.frgreta/loire"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0752092,
+          46.0440859
+        ]
+      },
+      "properties": {
+        "id": "greta-42187-01",
+        "codeInsee": "42187",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Loire - Antenne de Roanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 bis rue Albert-Thomas",
+          "CodePostal": "42300",
+          "NomCommune": "Roanne",
+          "Localisation": {
+            "Latitude": "46.0440859",
+            "Longitude": "4.0752092",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 77 23 05 05",
+          "Télécopie": "04 77 23 26 98",
+          "Email": "greta-roannais@ac-lyon.fr",
+          "Url": "http://www.ac-lyon.frgreta/roannais"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

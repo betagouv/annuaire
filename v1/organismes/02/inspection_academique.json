@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62424492836,
+          49.5647468567
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Cité administrative",
+          "CodePostal": "02018",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.5647468567",
+            "Longitude": "3.62424492836",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 26 22 00",
+          "Télécopie": "03 23 26 26 14",
+          "Email": "dsden02@ac-amiens.fr",
+          "Url": "http://www.ac-amiens.frdsden02"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

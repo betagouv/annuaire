@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4844208,
+          -20.9030728
+        ]
+      },
+      "properties": {
+        "id": "cr-97411-01",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "cr",
+        "Nom": "Conseil régional - Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel de Région Pierre-Lagourgue",
+            "Avenue René-Cassin",
+            "Moufia",
+            "BP 7190"
+          ],
+          "CodePostal": "97719",
+          "NomCommune": "Saint-Denis Cedex 9",
+          "Localisation": {
+            "Latitude": "-20.9030728",
+            "Longitude": "55.4844208",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+262 2 62 48 70 00",
+          "Télécopie": "+262 2 62 48 70 71",
+          "Email": "region.reunion@cr-reunion.fr",
+          "Url": "http://www.regionreunion.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

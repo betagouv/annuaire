@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199507,
+          48.007208
+        ]
+      },
+      "properties": {
+        "codeInsee": "72181",
+        "dateMiseAJour": "2014-07-21",
+        "id": "prudhommes-72181-01",
+        "idPresta": "4cac9e6a293594648a001703",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes du Mans",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Judiciaire",
+            "1 avenue P. Mendès-France"
+          ],
+          "CodePostal": "72014",
+          "NomCommune": "LE MANS CEDEX 2",
+          "Localisation": {
+            "Latitude": "48.007208",
+            "Longitude": "0.199507",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 43 83 77 55",
+          "Télécopie": "+33 2 43 83 78 32",
+          "Email": "mailto:cph-le-mans@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

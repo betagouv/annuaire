@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0663678,
+          47.3140929
+        ]
+      },
+      "properties": {
+        "id": "suio-21231-01",
+        "codeInsee": "21231",
+        "dateMiseAJour": "2015-07-08",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Dijon - Bourgogne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de l'Université",
+            "9 esplanade Érasme",
+            "BP 27877"
+          ],
+          "CodePostal": "21078",
+          "NomCommune": "Dijon Cedex",
+          "Localisation": {
+            "Latitude": "47.3140929",
+            "Longitude": "5.0663678",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 80 39 52 40",
+          "Email": "sio@u-bourgogne.fr",
+          "Url": "http://www.orientation.u-bourgogne.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

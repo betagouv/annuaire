@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.462781,
+          48.7699691
+        ]
+      },
+      "properties": {
+        "id": "cidf-94028-01",
+        "codeInsee": "94028",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cidf",
+        "Nom": "Centre d'information sur les droits des femmes et des familles (CIDFF) - Val-de-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12 avenue François-Mitterrand",
+          "CodePostal": "94000",
+          "NomCommune": "Créteil",
+          "Localisation": {
+            "Latitude": "48.7699691",
+            "Longitude": "2.462781",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 72 16 56 50",
+          "Email": "cidff94@gmail.com",
+          "Url": "http://www.cidff94.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Permanence téléphonique uniquement."
+          }
+        }
+      }
+    }
+  ]
+}

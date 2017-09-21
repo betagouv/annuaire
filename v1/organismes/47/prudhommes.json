@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1616627,
+          44.4997929
+        ]
+      },
+      "properties": {
+        "codeInsee": "47157",
+        "dateMiseAJour": "2016-11-25",
+        "id": "prudhommes-47157-01",
+        "idPresta": "4cac9e61293594648a0005cb",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Marmande",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place des Droits de l'Homme",
+          "CodePostal": "47200",
+          "NomCommune": "MARMANDE",
+          "Localisation": {
+            "Latitude": "44.4997929",
+            "Longitude": "0.1616627",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 20 39 28",
+          "Télécopie": "+33 5 53 20 39 29",
+          "Email": "mailto:cph-marmande@justice.fr",
+          "Url": "http://www.ca-agen.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.626463,
+          44.194036
+        ]
+      },
+      "properties": {
+        "codeInsee": "47001",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-47001-01",
+        "idPresta": "4cac9e6a293594648a0016f2",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Agen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1050 bis avenue du Dr Jean Bru",
+          "CodePostal": "47000",
+          "NomCommune": "AGEN",
+          "Localisation": {
+            "Latitude": "44.194036",
+            "Longitude": "0.626463",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 53 68 49 00",
+          "Télécopie": "+33 5 53 68 49 09",
+          "Email": "mailto:cph-agen@justice.fr",
+          "Url": "http://www.ca-agen.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

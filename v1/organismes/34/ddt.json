@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9011747,
+          43.6047275
+        ]
+      },
+      "properties": {
+        "id": "ddt-34172-01",
+        "codeInsee": "34172",
+        "dateMiseAJour": "2013-10-22",
+        "pivotLocal": "ddt",
+        "Nom": "Direction départementale des territoires et de la mer (DDTM) - Hérault",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "181, place Ernest-Granier",
+            "Bâtiment Ozone 181",
+            "CS 60556"
+          ],
+          "CodePostal": "34064",
+          "NomCommune": "Montpellier Cedex 2",
+          "Localisation": {
+            "Latitude": "43.6047275",
+            "Longitude": "3.9011747",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 34 46 60 00",
+          "Télécopie": "+33 4 34 46 61 00",
+          "Email": "ddtm-contact@herault.gouv.fr",
+          "Url": "http://www.herault.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.132704,
+          48.107128
+        ]
+      },
+      "properties": {
+        "codeInsee": "52121",
+        "dateMiseAJour": "2016-12-30",
+        "id": "maison_arret-52121-01",
+        "idPresta": "4eb2632d2935944ef5000156",
+        "pivotLocal": "maison_arret",
+        "Nom": "Maison d'arrêt de Chaumont",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "27 rue du Val Barizien",
+            "BP 551"
+          ],
+          "CodePostal": "52012",
+          "NomCommune": "CHAUMONT CEDEX",
+          "Localisation": {
+            "Latitude": "48.107128",
+            "Longitude": "5.132704",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 35 30 08",
+          "Télécopie": "+33 3 25 35 30 15",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

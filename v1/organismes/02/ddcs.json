@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6202616,
+          49.5653321
+        ]
+      },
+      "properties": {
+        "id": "ddcs-02408-01",
+        "codeInsee": "02408",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) - Aisne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "23, rue Franklin-Roosevelt",
+            "PB 545"
+          ],
+          "CodePostal": "02001",
+          "NomCommune": "Laon Cedex",
+          "Localisation": {
+            "Latitude": "49.5653321",
+            "Longitude": "3.6202616",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 60 81 50 00",
+          "Télécopie": "+33 3 23 23 46 47",
+          "Email": "dd002@n.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

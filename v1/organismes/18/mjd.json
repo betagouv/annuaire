@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.080776,
+          47.231726
+        ]
+      },
+      "properties": {
+        "codeInsee": "18279",
+        "dateMiseAJour": "2016-01-15",
+        "id": "mjd-18279-01",
+        "idPresta": "51b08c9ab473e414780004e4",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Vierzon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue de Stalingrad",
+          "CodePostal": "18100",
+          "NomCommune": "VIERZON",
+          "Localisation": {
+            "Latitude": "47.231726",
+            "Longitude": "2.080776",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 48 52 18 01",
+          "Télécopie": "+33 2 48 52 18 05",
+          "Email": "mailto:mjd-vierzon@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "mjd-vierzon@justice.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:15:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:45:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

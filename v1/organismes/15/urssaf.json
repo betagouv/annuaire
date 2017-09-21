@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4461566,
+          44.9239154
+        ]
+      },
+      "properties": {
+        "id": "urssaf-15014-01",
+        "codeInsee": "15014",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Auvergne-Rhône-Alpes - site d'Aurillac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "15 rue Pierre-Marty",
+            "CodePostal": "15000",
+            "NomCommune": "Aurillac",
+            "Localisation": {
+              "Latitude": "44.9239154",
+              "Longitude": "2.4461566",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Auvergne-Rhône-Alpes",
+              "TSA 30012"
+            ],
+            "CodePostal": "63054",
+            "NomCommune": "Clermont-Ferrand Cedex 9"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.auvergne.urssaf.fr"
+        },
+        "Commentaire": "Accueil exclusivement sur rendez-vous, accueil téléphonique du lundi au vendredi de 9h à 17h."
+      }
+    }
+  ]
+}

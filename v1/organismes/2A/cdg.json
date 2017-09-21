@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73701000214,
+          41.9202003479
+        ]
+      },
+      "properties": {
+        "id": "cdg-2A004-01",
+        "codeInsee": "2A004",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cdg",
+        "Nom": "Centre de gestion de la fonction publique territoriale - Corse-du-Sud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "18 cours Napoléon",
+            "BP 60321"
+          ],
+          "CodePostal": "20178",
+          "NomCommune": "Ajaccio Cedex 1",
+          "Localisation": {
+            "Latitude": "41.9202003479",
+            "Longitude": "8.73701000214",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 51 07 26",
+          "Télécopie": "04 95 21 60 75",
+          "Email": "cdg2a@wanadoo.fr",
+          "Url": "http://www.cdg2a.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

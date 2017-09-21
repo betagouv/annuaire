@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1433812,
+          48.7970087
+        ]
+      },
+      "properties": {
+        "id": "ddcs-78646-01",
+        "codeInsee": "78646",
+        "dateMiseAJour": "2014-07-23",
+        "pivotLocal": "ddcs",
+        "Nom": "Direction départementale de la cohésion sociale (DDCS) - Yvelines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bâtiment B",
+            "7, rue Jean-Mermoz",
+            "CS 20501"
+          ],
+          "CodePostal": "78008",
+          "NomCommune": "Versailles Cedex",
+          "Localisation": {
+            "Latitude": "48.7970087",
+            "Longitude": "2.1433812",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 1 39 24 24 70",
+          "Télécopie": "+33 1 39 24 24 77",
+          "Email": "ddcs@yvelines.gouv.fr",
+          "Url": "http://www.yvelines.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

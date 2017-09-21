@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.577193975449,
+          44.8463134766
+        ]
+      },
+      "properties": {
+        "id": "caa-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Bordeaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "17 cours de Verdun",
+            "CS 81224"
+          ],
+          "CodePostal": "33074",
+          "NomCommune": "Bordeaux Cedex",
+          "Localisation": {
+            "Latitude": "44.8463134766",
+            "Longitude": "-0.577193975449",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 57 85 42 42",
+          "Télécopie": "05 57 85 42 40",
+          "Email": "greffe.caa-bordeaux@juradm.fr",
+          "Url": "http://bordeaux.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

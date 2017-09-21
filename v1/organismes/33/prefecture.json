@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5849107,
+          44.8380261
+        ]
+      },
+      "properties": {
+        "id": "prefecture-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2014-01-20",
+        "pivotLocal": "prefecture",
+        "Nom": "Préfecture - Gironde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Rue Claude-Bonnier",
+            "CodePostal": "33000",
+            "NomCommune": "Bordeaux",
+            "Localisation": {
+              "Latitude": "44.8380261",
+              "Longitude": "-0.5849107",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "2, esplanade Charles-de-Gaulle",
+              "CS 41397"
+            ],
+            "CodePostal": "33077",
+            "NomCommune": "Bordeaux Cedex",
+            "Localisation": {
+              "Latitude": "44.8371658325",
+              "Longitude": "-0.584344983101",
+              "Précision": "6"
+            }
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 56 90 60 60",
+          "Télécopie": "+33 5 56 90 60 67",
+          "Url": "http://www.gironde.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Les horaires ci-dessus sont ceux de l'accueil principal. ATTENTION : pour connaître les horaires ou les mèls de chaque service, veuillez consulter es infos pratiques à cette adresse http://www.gironde.gouv.fr/Services-de-l-Etat/Prefecture-sous-prefectures-et-DDI/Infos-pratiques-de-la-Prefecture-de-la-Gironde"
+          }
+        }
+      }
+    }
+  ]
+}

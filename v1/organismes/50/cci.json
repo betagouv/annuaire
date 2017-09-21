@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6100494,
+          49.6425485
+        ]
+      },
+      "properties": {
+        "id": "cci-50129-01",
+        "codeInsee": "50129",
+        "dateMiseAJour": "2017-05-17",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Ouest Normandie - Délégation Cherbourg-Cotentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel Atlantique",
+            "Boulevard Félix-Amiot",
+            "BP 839"
+          ],
+          "CodePostal": "50108",
+          "NomCommune": "Cherbourg-Octeville Cedex",
+          "Localisation": {
+            "Latitude": "49.6425485",
+            "Longitude": "-1.6100494",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 33 23 32 00",
+          "Télécopie": "+33 2 33 23 32 28",
+          "Email": "com@cherbourg-cotentin.cci.fr",
+          "Url": "http://www.ouestnormandie.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.567718,
+          48.814184
+        ]
+      },
+      "properties": {
+        "id": "cci-50218-01",
+        "codeInsee": "50218",
+        "dateMiseAJour": "2017-05-17",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Ouest-Normandie - Délégation Centre et Sud Manche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Saint-Pair-sur-Mer",
+            "ZA de la Lande",
+            "270 rue Ampère"
+          ],
+          "CodePostal": "50402",
+          "NomCommune": "Granville Cedex",
+          "Localisation": {
+            "Latitude": "48.814184",
+            "Longitude": "-1.567718",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 91 33 91",
+          "Télécopie": "02 33 50 63 11",
+          "Email": "cci@normandie.cci.fr",
+          "Url": "http://www.ouestnormandie.cci.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

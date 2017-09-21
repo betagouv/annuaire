@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4350626,
+          44.4451068
+        ]
+      },
+      "properties": {
+        "id": "greta-46042-01",
+        "codeInsee": "46042",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "greta",
+        "Nom": "Greta - Midi-Pyrénées - Nord",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "46 rue Pierre-Bourthoumieux",
+          "CodePostal": "46000",
+          "NomCommune": "Cahors",
+          "Localisation": {
+            "Latitude": "44.4451068",
+            "Longitude": "1.4350626",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chausée uniquement"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 35 43 91",
+          "Télécopie": "05 65 53 93 69",
+          "Email": "gmpn-cahors@ac-toulouse.fr",
+          "Url": "http://www.greta-mpyn.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

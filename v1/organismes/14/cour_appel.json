@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.364571,
+          49.179532
+        ]
+      },
+      "properties": {
+        "codeInsee": "14118",
+        "dateMiseAJour": "2015-06-19",
+        "id": "cour_appel-14118-01",
+        "idPresta": "4cac9e5e293594648a000171",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Caen",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Gambetta",
+            "CS 35015"
+          ],
+          "CodePostal": "14050",
+          "NomCommune": "CAEN CEDEX 4",
+          "Localisation": {
+            "Latitude": "49.179532",
+            "Longitude": "-0.364571",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 31 30 70 00",
+          "Télécopie": "+33 2 31 85 19 26",
+          "Email": "mailto:ca-caen@justice.fr",
+          "Url": "http://www.ca-caen.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.866432,
+          43.112411
+        ]
+      },
+      "properties": {
+        "codeInsee": "83126",
+        "dateMiseAJour": "2012-02-28",
+        "id": "mjd-83126-01",
+        "idPresta": "51b08c89b473e41478000158",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de la Seyne-sur-Mer",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "quartier Berthe",
+            "\"Le Germinal\" Bat. A4"
+          ],
+          "CodePostal": "83500",
+          "NomCommune": "LA SEYNE SUR MER",
+          "Localisation": {
+            "Latitude": "43.112411",
+            "Longitude": "5.866432",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 63 50 98",
+          "Email": "mailto:mjd-la-seyne-sur-mer@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.936291,
+          43.120531
+        ]
+      },
+      "properties": {
+        "codeInsee": "83137",
+        "dateMiseAJour": "2012-02-28",
+        "id": "mjd-83137-01",
+        "idPresta": "51b08c8bb473e414780001a2",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Toulon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Traverse des Minimes",
+            "place Besagne- Esplanade Mayol"
+          ],
+          "CodePostal": "83000",
+          "NomCommune": "TOULON",
+          "Localisation": {
+            "Latitude": "43.120531",
+            "Longitude": "5.936291",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 94 87 14 60",
+          "Télécopie": "+33 4 94 58 96 71",
+          "Email": "mailto:mjd-toulon@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

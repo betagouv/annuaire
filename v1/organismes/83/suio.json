@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.018688,
+          43.136473
+        ]
+      },
+      "properties": {
+        "id": "suio-83062-01",
+        "codeInsee": "83062",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Toulon - Var - Service accompagnement en orientation et insertion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Université de Toulon",
+            "CS 60584"
+          ],
+          "CodePostal": "83041",
+          "NomCommune": "Toulon Cedex 9",
+          "Localisation": {
+            "Latitude": "43.136473",
+            "Longitude": "6.018688",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 94 14 67 61",
+          "Télécopie": "04 94 14 21 07",
+          "Email": "saoi@univ-tln.fr",
+          "Url": "http://www.univ-tln.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

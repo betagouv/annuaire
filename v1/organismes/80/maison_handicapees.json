@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29025350000006,
+          49.8981893
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-80021-01",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre administratif départemental",
+            "1 boulevard du Port",
+            "BP 70502"
+          ],
+          "CodePostal": "80037",
+          "NomCommune": "Amiens Cedex 1",
+          "Localisation": {
+            "Latitude": "49.8981893",
+            "Longitude": "2.29025350000006",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 97 24 10",
+          "Télécopie": "03 22 97 24 19",
+          "Email": "mdph@somme.fr",
+          "Url": "http://www.somme.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

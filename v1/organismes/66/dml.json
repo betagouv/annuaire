@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.10539007187,
+          42.515499115
+        ]
+      },
+      "properties": {
+        "id": "dml-66148-01",
+        "codeInsee": "66148",
+        "dateMiseAJour": "2015-04-19",
+        "pivotLocal": "dml",
+        "Nom": "Délégation à la mer et au littoral - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue des Paquebots",
+          "CodePostal": "66660",
+          "NomCommune": "Port-Vendres",
+          "Localisation": {
+            "Latitude": "42.515499115",
+            "Longitude": "3.10539007187",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 98 34 80",
+          "Télécopie": "+33 4 68 82 47 90",
+          "Email": "ddtm-dml@pyrenees-orientales.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

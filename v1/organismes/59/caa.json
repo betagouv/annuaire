@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07873988152,
+          50.3662757874
+        ]
+      },
+      "properties": {
+        "id": "caa-59178-01",
+        "codeInsee": "59178",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Douai",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "50 rue de la Comédie",
+            "BP 30760",
+            "Hôtel d'Aoust"
+          ],
+          "CodePostal": "59507",
+          "NomCommune": "Douai Cedex",
+          "Localisation": {
+            "Latitude": "50.3662757874",
+            "Longitude": "3.07873988152",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 27 08 10 00",
+          "Télécopie": "03 27 08 10 01",
+          "Email": "greffe.caa-douai@juradm.fr",
+          "Url": "http://www.douai.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

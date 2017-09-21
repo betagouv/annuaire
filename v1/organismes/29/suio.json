@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486076,
+          48.390394
+        ]
+      },
+      "properties": {
+        "id": "suio-29019-01",
+        "codeInsee": "29019",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Brest",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cap'Avenir",
+            "20 avenue Victor-le-Gorgeu",
+            "CS 93837"
+          ],
+          "CodePostal": "29238",
+          "NomCommune": "Brest Cedex 3",
+          "Localisation": {
+            "Latitude": "48.390394",
+            "Longitude": "-4.486076",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 01 63 17",
+          "Télécopie": "02 98 01 65 91",
+          "Email": "cap-avenir@univ-brest.fr",
+          "Url": "http://www.univ-brest.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

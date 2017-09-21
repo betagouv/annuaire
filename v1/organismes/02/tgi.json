@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.285475,
+          49.84719
+        ]
+      },
+      "properties": {
+        "codeInsee": "02691",
+        "dateMiseAJour": "2014-07-28",
+        "id": "tgi-02691-01",
+        "idPresta": "4cac9ed7293594648a00edf5",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Saint-Quentin",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "place Gracchus Babeuf",
+            "BP 645/1"
+          ],
+          "CodePostal": "02322",
+          "NomCommune": "ST QUENTIN CEDEX",
+          "Localisation": {
+            "Latitude": "49.84719",
+            "Longitude": "3.285475",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 05 89 00",
+          "Télécopie": "+33 3 23 05 89 26",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.625177,
+          49.564965
+        ]
+      },
+      "properties": {
+        "codeInsee": "02408",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-02408-01",
+        "idPresta": "4cac9ed7293594648a00edf4",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Laon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Aubry",
+          "CodePostal": "02001",
+          "NomCommune": "LAON CEDEX",
+          "Localisation": {
+            "Latitude": "49.564965",
+            "Longitude": "3.625177",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 26 29 00",
+          "Télécopie": "+33 3 23 26 29 31",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3280404,
+          49.3804223
+        ]
+      },
+      "properties": {
+        "codeInsee": "02722",
+        "dateMiseAJour": "2017-03-24",
+        "id": "tgi-02722-01",
+        "idPresta": "4cac9e6a293594648a00178a",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Soissons",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "76 rue Saint-Martin",
+          "CodePostal": "02200",
+          "NomCommune": "SOISSONS",
+          "Localisation": {
+            "Latitude": "49.3804223",
+            "Longitude": "3.3280404",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 23 76 39 39",
+          "Télécopie": "+33 3 23 76 39 30",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:15:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

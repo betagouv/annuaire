@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4804119,
+          48.445744
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-28085-01",
+        "codeInsee": "28085",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Eure-et-Loir",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative",
+            "15 place de la République"
+          ],
+          "CodePostal": "28019",
+          "NomCommune": "Chartres Cedex",
+          "Localisation": {
+            "Latitude": "48.445744",
+            "Longitude": "1.4804119",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 37 20 51 70",
+          "Télécopie": "+33 2 37 20 55 00",
+          "Email": "dd028@jeunesse-sports.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

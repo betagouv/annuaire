@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.065148,
+          43.238071
+        ]
+      },
+      "properties": {
+        "id": "ddcspp-65440-01",
+        "codeInsee": "65440",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "ddcspp",
+        "Nom": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Hautes-Pyrénées",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité administrative Reffye",
+            "Rue de l'Amiral-Courbet",
+            "BP 41740"
+          ],
+          "CodePostal": "65017",
+          "NomCommune": "Tarbes Cedex 9",
+          "Localisation": {
+            "Latitude": "43.238071",
+            "Longitude": "0.065148",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 62 46 42 00",
+          "Télécopie": "+33 5 62 46 42 18",
+          "Email": "ddcspp@hautes-pyrenees.gouv.fr",
+          "Url": "http://www.hautes-pyrenees.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

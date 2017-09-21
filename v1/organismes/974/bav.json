@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478787,
+          -21.337537
+        ]
+      },
+      "properties": {
+        "codeInsee": "97416",
+        "dateMiseAJour": "2015-11-27",
+        "id": "bav-97416-01",
+        "idPresta": "51b08cdcb473e41478001350",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de St Pierre",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "28 rue Augustin Archambaud",
+            "CS 70040"
+          ],
+          "CodePostal": "97851",
+          "NomCommune": "ST PIERRE CEDEX",
+          "Localisation": {
+            "Latitude": "-21.337537",
+            "Longitude": "55.478787",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 62 96 10 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465653,
+          -20.8883441
+        ]
+      },
+      "properties": {
+        "codeInsee": "97411",
+        "dateMiseAJour": "2014-03-31",
+        "id": "bav-97411-01",
+        "idPresta": "4d5e65de2935941fe9000042",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de St Denis",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 avenue André Malraux",
+            "CS 81027"
+          ],
+          "CodePostal": "97495",
+          "NomCommune": "STE CLOTILDE CEDEX",
+          "Localisation": {
+            "Latitude": "-20.8883441",
+            "Longitude": "55.465653",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 62 40 23 45",
+          "Télécopie": "+33 2 62 21 10 19",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "Permanences lors des audiences de comparution immédiate"
+          }
+        }
+      }
+    }
+  ]
+}

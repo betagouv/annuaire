@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1076174,
+          45.7827692
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-63113-01",
+        "codeInsee": "63113",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Délégation régionale - Auvergne-Rhône-Alpes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "42-44 rue Auger",
+            "CS 30397"
+          ],
+          "CodePostal": "63011",
+          "NomCommune": "Clermont-Ferrand Cedex 1",
+          "Localisation": {
+            "Latitude": "45.7827692",
+            "Longitude": "3.1076174",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "ascenseur"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 74 52 20",
+          "Télécopie": "04 73 92 54 34",
+          "Email": "accueil.auvergne@cnfpt.fr",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:15:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

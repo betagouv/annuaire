@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0391508,
+          44.3492798
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-12300-01",
+        "codeInsee": "12300",
+        "dateMiseAJour": "2012-11-13",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Villefranche-de-Rouergue",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Quai du Temple",
+            "BP 393"
+          ],
+          "CodePostal": "12200",
+          "NomCommune": "Villefranche-de-Rouergue",
+          "Localisation": {
+            "Latitude": "44.3492798",
+            "Longitude": "2.0391508",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 65 11 00",
+          "Télécopie": "+33 5 65 45 16 25",
+          "Email": "sp-villefranche@aveyron.gouv.fr",
+          "Url": "http://www.aveyron.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique de 9h à 11h uniquement"
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              },
+              "Note": "Accueil téléphonique de 9h à 11h uniquement"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31979209999997,
+          48.9519534
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-12145-01",
+        "codeInsee": "12145",
+        "dateMiseAJour": "2013-04-24",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Millau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "39, avenue de la République",
+            "BP 354"
+          ],
+          "CodePostal": "12310",
+          "NomCommune": "Millau Cedex",
+          "Localisation": {
+            "Latitude": "48.9519534",
+            "Longitude": "2.31979209999997",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 61 17 00",
+          "Télécopie": "+33 5 65 60 19 26",
+          "Email": "sousprefecturemillau@aveyron.gouv.fr",
+          "Url": "http://www.aveyron.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

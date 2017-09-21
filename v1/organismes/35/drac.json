@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68193548918,
+          48.1115019874
+        ]
+      },
+      "properties": {
+        "id": "drac-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "drac",
+        "Nom": "Direction régionale des affaires culturelles (DRAC) - Bretagne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel de Blossac",
+            "6 rue du Chapître",
+            "CS 24405"
+          ],
+          "CodePostal": "35044",
+          "NomCommune": "Rennes Cedex",
+          "Localisation": {
+            "Latitude": "48.1115019874",
+            "Longitude": "-1.68193548918",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 99 29 67 67",
+          "Télécopie": "02 99 29 67 99",
+          "Email": "cid.bretagne@culture.gouv.fr",
+          "Url": "http://www.culturecommunication.gouv.frfr/regionsfr/drac-bretagne"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

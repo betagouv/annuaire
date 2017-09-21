@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.12917995453,
+          45.1399002075
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-43268-01",
+        "codeInsee": "43268",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture d'Yssingeaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22, rue d'Alsace-Lorraine",
+          "CodePostal": "43200",
+          "NomCommune": "Yssingeaux",
+          "Localisation": {
+            "Latitude": "45.1399002075",
+            "Longitude": "4.12917995453",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 65 71 00",
+          "Télécopie": "+33 4 71 65 71 09",
+          "Url": "http://www.haute-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3847574,
+          45.2951562
+        ]
+      },
+      "properties": {
+        "id": "sous_pref-43040-01",
+        "codeInsee": "43040",
+        "dateMiseAJour": "2012-11-14",
+        "pivotLocal": "sous_pref",
+        "Nom": "Sous-préfecture de Brioude",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4, rue du 14 Juillet",
+            "BP 50"
+          ],
+          "CodePostal": "43101",
+          "NomCommune": "Brioude Cedex",
+          "Localisation": {
+            "Latitude": "45.2951562",
+            "Longitude": "3.3847574",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 71 50 81 81",
+          "Télécopie": "+33 4 71 74 97 64",
+          "Url": "http://www.haute-loire.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.697646021843,
+          47.4208106995
+        ]
+      },
+      "properties": {
+        "id": "fdapp-37261-01",
+        "codeInsee": "37261",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdapp",
+        "Nom": "Fédération départementale pour la pêche et la protection du milieu aquatique - Indre-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "178 ter rue du Pas-Notre-Dame",
+          "CodePostal": "37100",
+          "NomCommune": "Tours",
+          "Localisation": {
+            "Latitude": "47.4208106995",
+            "Longitude": "0.697646021843",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 05 33 77",
+          "Télécopie": "02 47 61 69 42",
+          "Email": "fedepeche37@fedepeche37.fr",
+          "Url": "http://fedepeche37.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:15:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:15:00",
+                "fin": "16:45:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

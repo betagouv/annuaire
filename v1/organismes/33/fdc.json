@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5930309,
+          44.9971681
+        ]
+      },
+      "properties": {
+        "id": "fdc-33256-01",
+        "codeInsee": "33256",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "fdc",
+        "Nom": "Fédération départementale des chasseurs - Gironde",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Domaine de Pachan",
+            "10 chemin de Labarde"
+          ],
+          "CodePostal": "33290",
+          "NomCommune": "Ludon-Médoc",
+          "Localisation": {
+            "Latitude": "44.9971681",
+            "Longitude": "-0.5930309",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 57 88 57 00",
+          "Télécopie": "05 57 88 57 01",
+          "Email": "fdc33@chasseurdefrance.com",
+          "Url": "http://www.chasseurs33.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

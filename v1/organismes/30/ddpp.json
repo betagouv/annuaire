@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3705342,
+          43.8126382
+        ]
+      },
+      "properties": {
+        "id": "ddpp-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2012-12-03",
+        "pivotLocal": "ddpp",
+        "Nom": "Direction départementale de la protection des populations (DDPP) - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mas de l'agriculture",
+            "1120, route de Saint-Gilles",
+            "BP 10029"
+          ],
+          "CodePostal": "30023",
+          "NomCommune": "Nîmes Cedex 1",
+          "Localisation": {
+            "Latitude": "43.8126382",
+            "Longitude": "4.3705342",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un numéro fixe + service payant. Pour connaître le tarif, écoutez le message en début d’appel  .",
+            "$t": "0820 09 11 72"
+          },
+          "Télécopie": "+33 4 30 08 60 51",
+          "Email": "ddpp@gard.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:45:00"
+              }
+            ],
+            "Note": "Sur rendez-vous de préférence"
+          }
+        }
+      }
+    }
+  ]
+}

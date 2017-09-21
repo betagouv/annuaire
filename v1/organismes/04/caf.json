@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2344591,
+          44.097411
+        ]
+      },
+      "properties": {
+        "id": "caf-04070-01",
+        "codeInsee": "04070",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Alpes-de-Haute-Provence - siège de Digne-les-Bains",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 bis avenue du Maréchal-Leclerc",
+          "CodePostal": "04000",
+          "NomCommune": "Digne-les-Bains Cedex 11",
+          "Localisation": {
+            "Latitude": "44.097411",
+            "Longitude": "6.2344591",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 04 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7863964,
+          43.8304646
+        ]
+      },
+      "properties": {
+        "id": "caf-04112-01",
+        "codeInsee": "04112",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) des Alpes-de-Haute-Provence - accueil de Manosque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Résidence Le Mail",
+              "Rue René-Char"
+            ],
+            "CodePostal": "04100",
+            "NomCommune": "Manosque",
+            "Localisation": {
+              "Latitude": "43.8304646",
+              "Longitude": "5.7863964",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales des Alpes-de-Haute-Provence",
+              "4 bis avenue du Maréchal-Leclerc"
+            ],
+            "CodePostal": "04000",
+            "NomCommune": "Digne-les-Bains Cedex 11"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 04 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

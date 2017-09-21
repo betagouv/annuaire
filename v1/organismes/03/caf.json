@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6074793,
+          46.356309
+        ]
+      },
+      "properties": {
+        "id": "caf-03185-01",
+        "codeInsee": "03185",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Allier - accueil de Montluçon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "59 rue Benoist-d'Azy",
+            "CodePostal": "03100",
+            "NomCommune": "Montluçon",
+            "Localisation": {
+              "Latitude": "46.356309",
+              "Longitude": "2.6074793",
+              "Précision": "6"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de l'Allier",
+              "9-11 rue Achille-Roche"
+            ],
+            "CodePostal": "03000",
+            "NomCommune": "Moulins Cedex 13"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 03 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3353369236,
+          46.5661048889
+        ]
+      },
+      "properties": {
+        "id": "caf-03190-01",
+        "codeInsee": "03190",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Allier - siège de Moulins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9-11 rue Achille-Roche",
+          "CodePostal": "03000",
+          "NomCommune": "Moulins Cedex 13",
+          "Localisation": {
+            "Latitude": "46.5661048889",
+            "Longitude": "3.3353369236",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 03 10"
+          },
+          "Url": "http://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4268875,
+          46.1248491
+        ]
+      },
+      "properties": {
+        "id": "caf-03310-01",
+        "codeInsee": "03310",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "caf",
+        "Nom": "Caisse d'allocations familiales (Caf) de l'Allier - accueil de Vichy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Immeuble Arlequin",
+              "6 place Charles-de-Gaulle"
+            ],
+            "CodePostal": "03200",
+            "NomCommune": "Vichy",
+            "Localisation": {
+              "Latitude": "46.1248491",
+              "Longitude": "3.4268875",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Caisse d'allocations familiales de l'Allier",
+              "9-11 rue Achille-Roche"
+            ],
+            "CodePostal": "03000",
+            "NomCommune": "Moulins Cedex 13"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
+            "$t": "08 10 25 03 10"
+          },
+          "Url": "https://www.caf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

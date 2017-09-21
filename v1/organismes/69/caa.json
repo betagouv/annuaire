@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84929800034,
+          45.7601661682
+        ]
+      },
+      "properties": {
+        "id": "caa-69383-01",
+        "codeInsee": "69383",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "caa",
+        "Nom": "Cour administrative d'appel - Lyon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais des juridictions administratives",
+            "184 rue Duguesclin"
+          ],
+          "CodePostal": "69433",
+          "NomCommune": "Lyon Cedex 3",
+          "Localisation": {
+            "Latitude": "45.7601661682",
+            "Longitude": "4.84929800034",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 14 11 11",
+          "Télécopie": "04 78 71 79 13",
+          "Email": "greffe.caa-lyon@juradm.fr",
+          "Url": "http://www.lyon.cour-administrative-appel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

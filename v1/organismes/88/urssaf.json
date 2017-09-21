@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4601171,
+          48.1996959
+        ]
+      },
+      "properties": {
+        "id": "urssaf-88160-01",
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "urssaf",
+        "Nom": "Urssaf Grand Est - site d'Épinal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "La Chênaie",
+              "6 avenue Pierre-Blanck"
+            ],
+            "CodePostal": "88000",
+            "NomCommune": "Épinal",
+            "Localisation": {
+              "Latitude": "48.1996959",
+              "Longitude": "6.4601171",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Urssaf Grand Est",
+              "6 rue Pasteur",
+              "CS 80585"
+            ],
+            "CodePostal": "57032",
+            "NomCommune": "Metz Cedex 1"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet : 12 centimes d'euro par minute + prix d'un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
+            "$t": "3957"
+          },
+          "Email": "http://www.contact.urssaf.fr",
+          "Url": "http://www.lorraine.urssaf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous les autres jours de la semaine, à prendre exclusivement par messagerie."
+          }
+        }
+      }
+    }
+  ]
+}

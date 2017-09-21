@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3812541,
+          48.920308
+        ]
+      },
+      "properties": {
+        "id": "inspection_academique-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "inspection_academique",
+        "Nom": "Direction des services départementaux de l'Éducation nationale (ex-Inspection académique) - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue Claude-Bernard",
+          "CodePostal": "93008",
+          "NomCommune": "Bobigny Cedex",
+          "Localisation": {
+            "Latitude": "48.920308",
+            "Longitude": "2.3812541",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 93 70 50",
+          "Email": "ce.dsden93@ac-creteil.fr",
+          "Url": "http://www.dsden93.ac-creteil.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Le service scolaire est ouvert les lundis, mardis, jeudis et vendredis de 9h à 12h30 et les mercredis de 13h30 à 17h."
+          }
+        }
+      }
+    }
+  ]
+}

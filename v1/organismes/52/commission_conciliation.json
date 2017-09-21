@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.14511013031,
+          48.1166000366
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-52121-01",
+        "codeInsee": "52121",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation -  Haute-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "82, rue du Commandant-Hugueny",
+            "CS 92087"
+          ],
+          "CodePostal": "52903",
+          "NomCommune": "Chaumont Cedex 9",
+          "Localisation": {
+            "Latitude": "48.1166000366",
+            "Longitude": "5.14511013031",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 30 79 79",
+          "Télécopie": "+33 3 25 30 79 80",
+          "Url": "http://www.haute-marne.equipement-agriculture.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

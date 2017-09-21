@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.446538,
+          42.695661
+        ]
+      },
+      "properties": {
+        "codeInsee": "2B033",
+        "dateMiseAJour": "2014-01-28",
+        "id": "cour_appel-2B033-01",
+        "idPresta": "4cac9e5f293594648a0001ee",
+        "pivotLocal": "cour_appel",
+        "Nom": "Cour d'appel de Bastia",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rond Point de Moro Giafferi",
+          "CodePostal": "20407",
+          "NomCommune": "BASTIA CEDEX",
+          "Localisation": {
+            "Latitude": "42.695661",
+            "Longitude": "9.446538",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 95 55 23 00",
+          "Télécopie": "+33 4 95 31 48 46",
+          "Url": "http://www.ca-bastia.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

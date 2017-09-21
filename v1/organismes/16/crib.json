@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.127808,
+          45.691714
+        ]
+      },
+      "properties": {
+        "id": "crib-16015-01",
+        "codeInsee": "16015",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Association profession sport et loisirs de la Charente (APSL 16)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison départementale des sports de la Charente",
+            "Domaine de la Combe",
+            "Rue des Mesniers"
+          ],
+          "CodePostal": "16710",
+          "NomCommune": "Saint-Yrieix-sur-Charente",
+          "Localisation": {
+            "Latitude": "45.691714",
+            "Longitude": "0.127808",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 45 25 32 49",
+          "Email": "contact@professionsports16.fr",
+          "Url": "http://www.professionsports16.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1278081,
+          45.691714
+        ]
+      },
+      "properties": {
+        "id": "crib-16015-02",
+        "codeInsee": "16015",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif de Charente",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Domaine de la Combe",
+            "Rue des Mesniers"
+          ],
+          "CodePostal": "16710",
+          "NomCommune": "Saint-Yrieix-sur-Charente",
+          "Localisation": {
+            "Latitude": "45.691714",
+            "Longitude": "0.1278081",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 45 25 30 48",
+          "Télécopie": "05 45 92 31 12",
+          "Email": "charente@franceolympique.com",
+          "Url": "http://www.charente.franceolympique.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

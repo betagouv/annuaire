@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14103996754,
+          46.158000946
+        ]
+      },
+      "properties": {
+        "id": "cnfpt-17300-01",
+        "codeInsee": "17300",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "cnfpt",
+        "Nom": "Centre national de la fonction publique territoriale (CNFPT) - Antenne départementale - Charente-Maritime",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Franc-Lapeyre",
+          "CodePostal": "17044",
+          "NomCommune": "La Rochelle Cedex 1",
+          "Localisation": {
+            "Latitude": "46.158000946",
+            "Longitude": "-1.14103996754",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée uniquement"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 46 42 55 30",
+          "Télécopie": "05 46 67 97 70",
+          "Url": "http://www.cnfpt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

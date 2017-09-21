@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454698,
+          43.526224
+        ]
+      },
+      "properties": {
+        "codeInsee": "13001",
+        "dateMiseAJour": "2012-06-06",
+        "id": "bav-13001-01",
+        "idPresta": "51b08cc6b473e41478000e7d",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance d'Aix en Provence",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "40 boulevard Carnot",
+          "CodePostal": "13616",
+          "NomCommune": "AIX EN PROVENCE CEDEX 1",
+          "Localisation": {
+            "Latitude": "43.526224",
+            "Longitude": "5.454698",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 42 33 83 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.66488560719,
+          43.8019592981
+        ]
+      },
+      "properties": {
+        "codeInsee": "13108",
+        "dateMiseAJour": "2014-01-15",
+        "id": "bav-13108-01",
+        "idPresta": "51b08ccbb473e41478000fa6",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Tarascon",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de justice",
+            "28 allée du Gl Jennings Kilmaine"
+          ],
+          "CodePostal": "13150",
+          "NomCommune": "TARASCON",
+          "Localisation": {
+            "Latitude": "43.8019592981",
+            "Longitude": "4.66488560719",
+            "Précision": "9"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 88 65 82 00",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3740786,
+          43.2907289
+        ]
+      },
+      "properties": {
+        "codeInsee": "13206",
+        "dateMiseAJour": "2012-06-06",
+        "id": "bav-13206-01",
+        "idPresta": "4d5e5dce2935941fe900002a",
+        "pivotLocal": "bav",
+        "Nom": "Bureau d'aide aux victimes du tribunal de grande instance de Marseille",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Joseph Autran",
+          "CodePostal": "13281",
+          "NomCommune": "MARSEILLE CEDEX 06",
+          "Localisation": {
+            "Latitude": "43.2907289",
+            "Longitude": "5.3740786",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 91 15 50 50",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "07:45:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

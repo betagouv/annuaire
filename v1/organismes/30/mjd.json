@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.326665,
+          43.831012
+        ]
+      },
+      "properties": {
+        "codeInsee": "30189",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-30189-01",
+        "idPresta": "51b08cd5b473e414780011b8",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Nîmes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "19 place Pythagore",
+          "CodePostal": "30900",
+          "NomCommune": "NIMES",
+          "Localisation": {
+            "Latitude": "43.831012",
+            "Longitude": "4.326665",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 23 73 90",
+          "Email": "mailto:mjd-nimes@justice.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.273395,
+          43.693728
+        ]
+      },
+      "properties": {
+        "codeInsee": "30341",
+        "dateMiseAJour": "2010-06-25",
+        "id": "mjd-30341-01",
+        "idPresta": "51b08cdbb473e4147800130a",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit à Vauvert",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "La Salicorne",
+            "rue Emile Zola"
+          ],
+          "CodePostal": "30600",
+          "NomCommune": "VAUVERT",
+          "Localisation": {
+            "Latitude": "43.693728",
+            "Longitude": "4.273395",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 88 88 40",
+          "Télécopie": "+33 4 66 88 88 41",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6187127,
+          44.1592326
+        ]
+      },
+      "properties": {
+        "codeInsee": "30028",
+        "dateMiseAJour": "2010-02-03",
+        "id": "mjd-30028-01",
+        "idPresta": "51b08ca6b473e4147800075c",
+        "pivotLocal": "mjd",
+        "Nom": "Maison de justice et du droit  de Bagnols-sur-Cèze",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "41 rue Marc Sangnier",
+          "CodePostal": "30200",
+          "NomCommune": "BAGNOLS SUR CEZE",
+          "Localisation": {
+            "Latitude": "44.1592326",
+            "Longitude": "4.6187127",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 39 65 15",
+          "Télécopie": "+33 4 66 39 65 16",
+          "Email": "mailto:mjd-bagnols-sur-ceze@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

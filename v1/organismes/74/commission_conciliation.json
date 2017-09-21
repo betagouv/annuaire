@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1334068,
+          45.9036804
+        ]
+      },
+      "properties": {
+        "id": "commission_conciliation-74010-01",
+        "codeInsee": "74010",
+        "dateMiseAJour": "2013-04-25",
+        "pivotLocal": "commission_conciliation",
+        "Nom": "Commission départementale de conciliation - Haute-Savoie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale",
+            "Cité administrative",
+            "7, rue Dupanloup"
+          ],
+          "CodePostal": "74040",
+          "NomCommune": "Annecy Cedex",
+          "Localisation": {
+            "Latitude": "45.9036804",
+            "Longitude": "6.1334068",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 88 41 40",
+          "Télécopie": "+33 4 50 88 40 03",
+          "Email": "ddcs74-lh@haute-savoie.gouv.fr",
+          "Url": "http://www.haute-savoie.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1735675,
+          48.6855748
+        ]
+      },
+      "properties": {
+        "id": "drddi-54395-01",
+        "codeInsee": "54395",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "drddi",
+        "Nom": "Direction régionale des douanes - Lorraine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "9 rue Pierre-Chalnot",
+            "CS 70061"
+          ],
+          "CodePostal": "54035",
+          "NomCommune": "Nancy Cedex",
+          "Localisation": {
+            "Latitude": "48.6855748",
+            "Longitude": "6.1735675",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 70 27 75 00",
+          "Télécopie": "03 83 26 43 85",
+          "Email": "dr-lorraine@douane.finances.gouv.fr",
+          "Url": "http://www.douane.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.478767,
+          46.369265
+        ]
+      },
+      "properties": {
+        "codeInsee": "74281",
+        "dateMiseAJour": "2016-01-15",
+        "id": "tgi-74281-01",
+        "idPresta": "4cac9e61293594648a0005f2",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Thonon-les-Bains",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "10, rue de l'Hôtel Dieu",
+            "BP 50 529"
+          ],
+          "CodePostal": "74200",
+          "NomCommune": "THONON LES BAINS",
+          "Localisation": {
+            "Latitude": "46.369265",
+            "Longitude": "6.478767",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 81 20 00",
+          "Télécopie": "+33 4 50 81 20 45",
+          "Email": "mailto:tgi-thonon-les-bains@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique : 9h à 12h - 14h à 16h\nAccueil téléphonique : 9h à 12h - 14h à 16h"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.405639,
+          46.077725
+        ]
+      },
+      "properties": {
+        "codeInsee": "74042",
+        "dateMiseAJour": "2014-01-28",
+        "id": "tgi-74042-01",
+        "idPresta": "4cac9e61293594648a0005f1",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Bonneville",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "quai du Parquet",
+            "BP 136"
+          ],
+          "CodePostal": "74136",
+          "NomCommune": "BONNEVILLE CEDEX",
+          "Localisation": {
+            "Latitude": "46.077725",
+            "Longitude": "6.405639",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 25 48 00",
+          "Télécopie": "+33 4 50 97 39 86",
+          "Email": "mailto:tgi-bonneville@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "et le Vendredi de 9h à 11h."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.121093,
+          45.892502
+        ]
+      },
+      "properties": {
+        "codeInsee": "74010",
+        "dateMiseAJour": "2014-06-16",
+        "id": "tgi-74010-01",
+        "idPresta": "4cac9e61293594648a0005f0",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance d'Annecy",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice \"Novarina\"",
+            "51 rue Sommeiller BP 2321"
+          ],
+          "CodePostal": "74011",
+          "NomCommune": "ANNECY CEDEX",
+          "Localisation": {
+            "Latitude": "45.892502",
+            "Longitude": "6.121093",
+            "Précision": "4"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 50 10 17 00",
+          "Télécopie": "+33 4 50 10 16 84",
+          "Email": "mailto:tgi-annecy@justice.fr",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:45:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

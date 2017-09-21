@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14783,
+          50.9813
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-59273-01",
+        "codeInsee": "59273",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Nord (Littoral)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue du Pont-de-Pierre",
+            "CS 60036"
+          ],
+          "CodePostal": "59820",
+          "NomCommune": "Gravelines",
+          "Localisation": {
+            "Latitude": "50.9813",
+            "Longitude": "2.14783",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 28 23 81 50",
+          "Télécopie": "03 28 65 59 45",
+          "Email": "ut-gravelines.dreal-npdc@developpement-durable.gouv.fr",
+          "Url": "http://www.hauts-de-france.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08249,
+          50.3675
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-59350-01",
+        "codeInsee": "59350",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Nord (Lille)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "44 rue de Tournai",
+            "BP 259"
+          ],
+          "CodePostal": "59019",
+          "NomCommune": "Lille Cedex",
+          "Localisation": {
+            "Latitude": "50.3675",
+            "Longitude": "3.08249",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 13 48 48",
+          "Télécopie": "03 20 13 48 78",
+          "Url": "http://www.nord-pas-de-calais.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.45733,
+          50.3414
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-59606-01",
+        "codeInsee": "59606",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Nord (Hainaut-Cambrésis-Douaisis)",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Zone d'activité de l'Aérodrome",
+            "BP 40137"
+          ],
+          "CodePostal": "59303",
+          "NomCommune": "Valenciennes Cedex",
+          "Localisation": {
+            "Latitude": "50.3414",
+            "Longitude": "3.45733",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 27 21 05 15",
+          "Télécopie": "03 27 21 00 54",
+          "Email": "UT-valenciennes.dreal-npdc@developpement-durable.gouv.fr",
+          "Url": "http://www.nord-pas-de-calais.developpement-durable.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

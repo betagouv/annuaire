@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.928,
+          43.124228
+        ]
+      },
+      "properties": {
+        "id": "onac-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2017-03-14",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "247 avenue Jacques-Cartier",
+          "CodePostal": "83090",
+          "NomCommune": "Toulon Cedex 9",
+          "Localisation": {
+            "Latitude": "43.124228",
+            "Longitude": "5.928",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 94 16 97 70",
+          "Email": "sd83@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:83/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:30:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous l'après-midi."
+          }
+        }
+      }
+    }
+  ]
+}

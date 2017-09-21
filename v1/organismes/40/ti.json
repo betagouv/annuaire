@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.051532,
+          43.709466
+        ]
+      },
+      "properties": {
+        "codeInsee": "40088",
+        "dateMiseAJour": "2016-09-30",
+        "id": "ti-40088-01",
+        "idPresta": "4cac9e62293594648a000642",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Dax",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "rue des Fusillés",
+            "BP 355"
+          ],
+          "CodePostal": "40107",
+          "NomCommune": "DAX CEDEX",
+          "Localisation": {
+            "Latitude": "43.709466",
+            "Longitude": "-1.051532",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 24 26 34 00",
+          "Télécopie": "+33 5 24 26 33 75",
+          "Url": "http://www.ca-pau.justice.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.494947,
+          43.89366
+        ]
+      },
+      "properties": {
+        "codeInsee": "40192",
+        "dateMiseAJour": "2014-06-23",
+        "id": "ti-40192-01",
+        "idPresta": "4cac9e62293594648a000643",
+        "pivotLocal": "ti",
+        "Nom": "Tribunal d'instance de Mont-de-Marsan",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Cité Galliane",
+            "3 avenue Dufau BP 301"
+          ],
+          "CodePostal": "40011",
+          "NomCommune": "MONT DE MARSAN CEDEX",
+          "Localisation": {
+            "Latitude": "43.89366",
+            "Longitude": "-0.494947",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 58 85 75 75",
+          "Télécopie": "+33 5 58 85 75 79",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

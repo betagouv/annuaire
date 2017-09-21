@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.890835,
+          42.696098
+        ]
+      },
+      "properties": {
+        "id": "clic-66136-01",
+        "codeInsee": "66136",
+        "dateMiseAJour": "2017-04-21",
+        "pivotLocal": "clic",
+        "Nom": "Point d'information local dédié aux personnes âgées - Perpignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison sociale de proximité",
+            "32 rue Maréchal-Foch"
+          ],
+          "CodePostal": "66000",
+          "NomCommune": "Perpignan",
+          "Localisation": {
+            "Latitude": "42.696098",
+            "Longitude": "2.890835",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 86 69 07",
+          "Email": "clicperpignan@cd66.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique uniquement. Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
+      }
+    }
+  ]
+}

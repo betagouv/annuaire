@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6194319725,
+          47.2511912196
+        ]
+      },
+      "properties": {
+        "id": "maison_handicapees-44114-01",
+        "codeInsee": "44114",
+        "dateMiseAJour": "2017-02-21",
+        "pivotLocal": "maison_handicapees",
+        "Nom": "Maison départementale des personnes handicapées (MDPH) - Loire-Atlantique",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "300 route de Vannes",
+            "BP 10147"
+          ],
+          "CodePostal": "44701",
+          "NomCommune": "Orvault  Cedex 1",
+          "Localisation": {
+            "Latitude": "47.2511912196",
+            "Longitude": "-1.6194319725",
+            "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 28 09 40 50",
+          "Email": "accueil.mdph@loire-atlantique.fr",
+          "Url": "http://www.loire-atlantique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil fermé les 1er et 3e jeudis après-midi du mois."
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3573456,
+          43.8335183
+        ]
+      },
+      "properties": {
+        "codeInsee": "30189",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-30189-01",
+        "idPresta": "4cac9e5f293594648a000246",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Nîmes",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "46 rue Porte de France",
+          "CodePostal": "30000",
+          "NomCommune": "NIMES",
+          "Localisation": {
+            "Latitude": "43.8335183",
+            "Longitude": "4.3573456",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 67 27 45",
+          "Télécopie": "+33 4 66 67 63 38",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.080505,
+          44.124422
+        ]
+      },
+      "properties": {
+        "codeInsee": "30007",
+        "dateMiseAJour": "2016-06-10",
+        "id": "prudhommes-30007-01",
+        "idPresta": "4cac9e5f293594648a000245",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes d'Alès",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 place Henri Barbusse",
+          "CodePostal": "30100",
+          "NomCommune": "ALES",
+          "Localisation": {
+            "Latitude": "44.124422",
+            "Longitude": "4.080505",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 66 54 31 20",
+          "Télécopie": "+33 4 66 54 31 29",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

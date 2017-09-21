@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3705342,
+          43.8126382
+        ]
+      },
+      "properties": {
+        "id": "chambre_agriculture-30189-01",
+        "codeInsee": "30189",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "chambre_agriculture",
+        "Nom": "Chambre d'agriculture - Gard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Mas de l'agriculture",
+            "1120 route de Saint-Gilles",
+            "BP 80054"
+          ],
+          "CodePostal": "30023",
+          "NomCommune": "Nîmes Cedex 1",
+          "Localisation": {
+            "Latitude": "43.8126382",
+            "Longitude": "4.3705342",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rampe"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 04 50 60",
+          "Télécopie": "04 66 04 50 61",
+          "Email": "accueil@gard.chambagri.fr",
+          "Url": "http://www.gard.chambagri.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

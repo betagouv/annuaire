@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.928526,
+          44.91286
+        ]
+      },
+      "properties": {
+        "codeInsee": "26362",
+        "dateMiseAJour": "2016-01-08",
+        "id": "centre_penitentiaire-26362-01",
+        "idPresta": "54201a6db473e41de13b0bc5",
+        "pivotLocal": "centre_penitentiaire",
+        "Nom": "Centre Penitentiaire de Valence",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "chemin Joseph Astier",
+          "CodePostal": "26000",
+          "NomCommune": "VALENCE",
+          "Localisation": {
+            "Latitude": "44.91286",
+            "Longitude": "4.928526",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    }
+  ]
+}

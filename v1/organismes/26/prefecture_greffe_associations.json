@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9004697,
+          44.9330878
+        ]
+      },
+      "properties": {
+        "id": "prefecture_greffe_associations-26362-01",
+        "codeInsee": "26362",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "prefecture_greffe_associations",
+        "Nom": "Greffe des associations de Valence",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Direction départementale de la cohésion sociale de la Drôme",
+            "Service des associations",
+            "33 avenue de Romans",
+            "BP 2108"
+          ],
+          "CodePostal": "26021",
+          "NomCommune": "Valence Cedex",
+          "Localisation": {
+            "Latitude": "44.9330878",
+            "Longitude": "4.9004697",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 26 52 22 61",
+          "Email": "ddcs-associations@drome.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au jeudi de 14h à 16h."
+          }
+        }
+      }
+    }
+  ]
+}

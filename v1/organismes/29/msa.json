@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258943,
+          48.4502216
+        ]
+      },
+      "properties": {
+        "id": "msa-29103-01",
+        "codeInsee": "29103",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Armorique - accueil de Landerneau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "3 rue Hervé-de-Guébriant",
+            "CodePostal": "29412",
+            "NomCommune": "Landerneau Cedex",
+            "Localisation": {
+              "Latitude": "48.4502216",
+              "Longitude": "-4.258943",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole d'Armorique",
+              "12 rue de Paimpont"
+            ],
+            "CodePostal": "22025",
+            "NomCommune": "Saint-Brieuc Cedex 1"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 85 79 79",
+          "Url": "http://www.msa-armorique.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil exclusivement sur rendez-vous pour les constitutions de dossiers. Accueil téléphonique du lundi au vendredi de 8h30 à 12h et de 13h30 à 16h30."
+          }
+        }
+      }
+    }
+  ]
+}

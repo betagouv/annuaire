@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71302986145,
+          49.7727012634
+        ]
+      },
+      "properties": {
+        "id": "crous-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Reims - Antenne de Charleville-Mézières",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des étudiants",
+            "38 rue de Montjoly"
+          ],
+          "CodePostal": "08000",
+          "NomCommune": "Charleville-Mézières",
+          "Localisation": {
+            "Latitude": "49.7727012634",
+            "Longitude": "4.71302986145",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 24 59 11 95",
+          "Email": "antenne-charleville@crous-reims.fr",
+          "Url": "http://www.crous-reims.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

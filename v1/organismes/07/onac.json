@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5958314,
+          44.7313948
+        ]
+      },
+      "properties": {
+        "id": "onac-07186-01",
+        "codeInsee": "07186",
+        "dateMiseAJour": "2017-03-13",
+        "pivotLocal": "onac",
+        "Nom": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ardèche",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Immeuble de la DDCSPP",
+            "7 boulevard du Lycée"
+          ],
+          "CodePostal": "07000",
+          "NomCommune": "Privas",
+          "Localisation": {
+            "Latitude": "44.7313948",
+            "Longitude": "4.5958314",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 75 64 21 13",
+          "Email": "reg.sd07@onacvg.fr",
+          "Url": "http://www.onac-vg.fr/fr/carte/departement/id:7/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

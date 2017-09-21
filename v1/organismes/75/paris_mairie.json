@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35105609894,
+          48.856803894
+        ]
+      },
+      "properties": {
+        "id": "paris_mairie-75056-01",
+        "codeInsee": "75056",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "paris_mairie",
+        "Nom": "Mairie de Paris - Hôtel-de-Ville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de l'Hôtel-de-Ville",
+          "CodePostal": "75196",
+          "NomCommune": "Paris Cedex 4",
+          "Localisation": {
+            "Latitude": "48.856803894",
+            "Longitude": "2.35105609894",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 42 76 40 40",
+          "Url": "http://www.paris.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

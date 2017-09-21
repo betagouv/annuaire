@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1483523,
+          49.0251397
+        ]
+      },
+      "properties": {
+        "id": "crib-27229-01",
+        "codeInsee": "27229",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Profession sport et loisirs de l'Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22 rue Chartraine",
+          "CodePostal": "27000",
+          "NomCommune": "Évreux",
+          "Localisation": {
+            "Latitude": "49.0251397",
+            "Longitude": "1.1483523",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 28 06 19",
+          "Télécopie": "02 32 58 36 44",
+          "Email": "apsl27@profession-sport-loisirs.fr",
+          "Url": "http://eure.profession-sport-loisirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

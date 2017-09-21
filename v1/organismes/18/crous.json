@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42183995247,
+          47.1006011963
+        ]
+      },
+      "properties": {
+        "id": "crous-18033-01",
+        "codeInsee": "18033",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crous",
+        "Nom": "Centre régional des œuvres universitaires et scolaires (CROUS) - Orléans - Antenne de Bourges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "74 rue de Turly",
+          "CodePostal": "18000",
+          "NomCommune": "Bourges",
+          "Localisation": {
+            "Latitude": "47.1006011963",
+            "Longitude": "2.42183995247",
+            "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 48 27 55 30",
+          "Télécopie": "02 48 24 65 61",
+          "Email": "bourges@crous-orleans-tours.fr",
+          "Url": "http://www.crous-orleans-tours.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

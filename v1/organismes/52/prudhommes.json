@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.119718,
+          48.075132
+        ]
+      },
+      "properties": {
+        "codeInsee": "52121",
+        "dateMiseAJour": "2014-01-28",
+        "id": "prudhommes-52121-01",
+        "idPresta": "4cac9e5f293594648a00028d",
+        "pivotLocal": "prudhommes",
+        "Nom": "Conseil de prud'hommes de Chaumont",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Palais de Justice Bât.B",
+            "BP 2061"
+          ],
+          "CodePostal": "52903",
+          "NomCommune": "CHAUMONT CEDEX 9",
+          "Localisation": {
+            "Latitude": "48.075132",
+            "Longitude": "5.119718",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 25 03 12 00",
+          "Télécopie": "+33 3 25 02 05 44",
+          "Url": "http://www.prudhomme.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

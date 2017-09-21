@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.859927,
+          45.748165
+        ]
+      },
+      "properties": {
+        "id": "suio-69388-02",
+        "codeInsee": "69388",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université de Lyon 3",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Université Jean-Moulin",
+            "6 cour Albert-Thomas"
+          ],
+          "CodePostal": "69008",
+          "NomCommune": "Lyon Cedex 8",
+          "Localisation": {
+            "Latitude": "45.748165",
+            "Longitude": "4.859927",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 78 78 40",
+          "Télécopie": "04 78 78 78 44",
+          "Email": "scuio-ip@univ-lyon3.fr",
+          "Url": "http://www.univ-lyon3.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.916956,
+          45.720735
+        ]
+      },
+      "properties": {
+        "id": "suio-69029-01",
+        "codeInsee": "69029",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université de Lyon 2",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Campus Porte-des-Alpes",
+            "5 avenue Pierre-Mendès-France"
+          ],
+          "CodePostal": "69676",
+          "NomCommune": "Bron Cedex",
+          "Localisation": {
+            "Latitude": "45.720735",
+            "Longitude": "4.916956",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 78 77 23 42",
+          "Email": "scuio@univ-lyon2.fr",
+          "Url": "http://www.univ-lyon2.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Accueil téléphonique du lundi au vendredi de 9h30 à 12h30 et de 13h30 à 16h30."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8728736,
+          45.7791704
+        ]
+      },
+      "properties": {
+        "id": "suio-69266-01",
+        "codeInsee": "69266",
+        "dateMiseAJour": "2015-07-08",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Lyon 1",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "43 boulevard du 11-Novembre-1918",
+          "CodePostal": "69622",
+          "NomCommune": "Villeurbanne Cedex",
+          "Localisation": {
+            "Latitude": "45.7791704",
+            "Longitude": "4.8728736",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 72 44 80 59",
+          "Email": "soie@univ-lyon1.fr",
+          "Url": "http://soie.univ-lyon1.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:00:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil téléphonique du lundi au vendredi de 14h à 17h."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8822641,
+          45.7406335
+        ]
+      },
+      "properties": {
+        "id": "suio-69388-01",
+        "codeInsee": "69388",
+        "dateMiseAJour": "2015-07-08",
+        "pivotLocal": "suio",
+        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université Lyon 1 - Secteur santé",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 avenue Rockefeller",
+          "CodePostal": "69373",
+          "NomCommune": "Lyon Cedex 8",
+          "Localisation": {
+            "Latitude": "45.7406335",
+            "Longitude": "4.8822641",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 78 77 70 92",
+          "Email": "soie@univ-lyon1.fr",
+          "Url": "http://www.univ-lyon1.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous le matin."
+          }
+        }
+      }
+    }
+  ]
+}

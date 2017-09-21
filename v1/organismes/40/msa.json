@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2765426,
+          43.6806205
+        ]
+      },
+      "properties": {
+        "id": "msa-40001-01",
+        "codeInsee": "40001",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil d'Aire-sur-l'Adour",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Site du Crédit Agricole",
+              "1017 route de Pau"
+            ],
+            "CodePostal": "40800",
+            "NomCommune": "Aire-sur-l'Adour",
+            "Localisation": {
+              "Latitude": "43.6806205",
+              "Longitude": "-0.2765426",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Sud-Aquitaine",
+              "70 rue Alphonse-Daudet"
+            ],
+            "CodePostal": "40286",
+            "NomCommune": "Saint-Pierre-du-Mont Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 06 55 00",
+          "Url": "http://www.msasudaquitaine.fr"
+        },
+        "Commentaire": "Accueil téléphonique ouvert du lundi au vendredi de 8h30 à 12h30 et de 13h30 à 16h30.\nAccueil physique ouvert uniquement sur rendez-vous, à prendre en vous connectant à Mon espace privé ou en appelant le 05 58 03 16 16 du lundi au vendredi de 9h à 12h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0406295,
+          43.7036524
+        ]
+      },
+      "properties": {
+        "id": "msa-40088-01",
+        "codeInsee": "40088",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Dax",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "5 rue Léon-Gischia",
+            "CodePostal": "40100",
+            "NomCommune": "Dax",
+            "Localisation": {
+              "Latitude": "43.7036524",
+              "Longitude": "-1.0406295",
+              "Précision": "8"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mutualité sociale agricole Sud-Aquitaine",
+              "70 rue Alphonse-Daudet"
+            ],
+            "CodePostal": "40286",
+            "NomCommune": "Saint-Pierre-du-Mont Cedex"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 06 55 00",
+          "Url": "http://www.msasudaquitaine.fr"
+        },
+        "Commentaire": "Accueil téléphonique ouvert du lundi au vendredi de 8h30 à 12h30 et de 13h30 à 16h30.\nAccueil physique ouvert uniquement sur rendez-vous, à prendre en vous connectant à Mon espace privé ou en appelant le 05 58 03 16 16 du lundi au vendredi de 9h à 12h."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5181981,
+          43.8857515
+        ]
+      },
+      "properties": {
+        "id": "msa-40281-01",
+        "codeInsee": "40281",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "msa",
+        "Nom": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Saint-Pierre-du-Mont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "70 rue Alphonse-Daudet",
+          "CodePostal": "40280",
+          "NomCommune": "Saint-Pierre-du-Mont",
+          "Localisation": {
+            "Latitude": "43.8857515",
+            "Longitude": "-0.5181981",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 58 06 55 00",
+          "Url": "http://www.msasudaquitaine.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

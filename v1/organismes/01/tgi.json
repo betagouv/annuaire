@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.221638,
+          46.202488
+        ]
+      },
+      "properties": {
+        "codeInsee": "01053",
+        "dateMiseAJour": "2016-10-07",
+        "id": "tgi-01053-01",
+        "idPresta": "4cac9ed7293594648a00edf3",
+        "pivotLocal": "tgi",
+        "Nom": "Tribunal de grande instance de Bourg-en-Bresse",
+        "EditeurSource": "Ministère de la justice",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "32 avenue Alsace Lorraine",
+            "CS 30306"
+          ],
+          "CodePostal": "01011",
+          "NomCommune": "BOURG EN BRESSE CEDEX",
+          "Localisation": {
+            "Latitude": "46.202488",
+            "Longitude": "5.221638",
+            "Précision": "6"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 26 37 73 00",
+          "Url": "http://www.justice.gouv.fr/",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:15:00",
+                "fin": "11:45:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

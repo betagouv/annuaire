@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.928,
+          43.124228
+        ]
+      },
+      "properties": {
+        "id": "crib-83137-01",
+        "codeInsee": "83137",
+        "dateMiseAJour": "2017-03-31",
+        "pivotLocal": "crib",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Comité départemental olympique et sportif du Var",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison des sports l'Hélianthe",
+            "Rue Émile-Ollivier"
+          ],
+          "CodePostal": "83000",
+          "NomCommune": "Toulon",
+          "Localisation": {
+            "Latitude": "43.124228",
+            "Longitude": "5.928",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 94 46 01 92",
+          "Télécopie": "04 94 41 63 41",
+          "Email": "acdos@cdos83.fr",
+          "Url": "http://www.cdos83.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

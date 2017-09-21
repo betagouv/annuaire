@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45362997055,
+          48.778301239
+        ]
+      },
+      "properties": {
+        "id": "cci-94028-01",
+        "codeInsee": "94028",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "cci",
+        "Nom": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Val-de-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 place Salvador-Allende",
+          "CodePostal": "94011",
+          "NomCommune": "Créteil Cedex",
+          "Localisation": {
+            "Latitude": "48.778301239",
+            "Longitude": "2.45362997055",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : coût d'un appel vers un fixe + service payant depuis un fixe ou un mobile. Pour connaître le tarif écoutez le message en début d’appel.",
+            "$t": "08 20 01 21 12"
+          },
+          "Url": "http://www.entreprises.cci-paris-idf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
