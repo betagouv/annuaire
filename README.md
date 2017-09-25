@@ -1,7 +1,7 @@
 FORMAT: 1A
 HOST: http://etablissements-publics.api.gouv.fr/v1
 
-# Annuaire de l'administration
+# Annuaire des établissements publics de l'administration
 
 Cette API recense plus de 60 000 guichets publics locaux (mairies, organismes sociaux, services de l'état, etc.). Elle fournit leurs coordonnées (adresses, téléphones, site internet, horaires d'ouverture, coordonnées de géolocalisation).
 > Le contenu de cet annuaire est généré automatiquement à partir des données de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/),
