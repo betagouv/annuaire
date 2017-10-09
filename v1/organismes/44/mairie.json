@@ -14236,6 +14236,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-44054-01",
+        "codeInsee": "44054",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Erbray",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 place de la Mairie",
+          "CodePostal": "44110",
+          "NomCommune": "Erbray",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 40 55 01 11",
+          "Télécopie": "02 90 92 72 94",
+          "Email": "mairie.erbray@wanadoo.fr",
+          "Url": "http://www.erbray.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement de 8h30 à 12h30 en juillet-août."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement de 8h30 à 12h30 en juillet-août."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil fermé en juillet-août."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "en juillet et en août, l'accueil est ouvert uniquement du lundi au vendredi de 8:30:00 à 12:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.04432010651,
           47.2074012756
         ]

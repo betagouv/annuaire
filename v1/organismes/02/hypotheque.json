@@ -183,14 +183,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6288589,
-          49.5638701
+          null,
+          null
         ]
       },
       "properties": {
         "id": "hypotheque-02408-01",
         "codeInsee": "02408",
-        "dateMiseAJour": "2013-03-07",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "hypotheque",
         "Nom": "Service de publicité foncière (ex-Conservation des hypothèques) de Laon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -201,16 +201,10 @@
             "Cité administrative"
           ],
           "CodePostal": "02016",
-          "NomCommune": "LAON CEDEX 9",
-          "Localisation": {
-            "Latitude": "49.5638701",
-            "Longitude": "3.6288589",
-            "Précision": "6"
-          }
+          "NomCommune": "Laon cedex"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 26 28 48",
-          "Télécopie": "+33 3 23 26 28 51",
+          "Téléphone": "03 23 26 28 01",
           "Email": "spf.laon@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
@@ -225,11 +219,12 @@
               },
               {
                 "début": "13:30:00",
-                "fin": "16:30:00"
+                "fin": "16:00:00"
               }
             ]
           }
-        }
+        },
+        "Commentaire": "fermé mercredi après-midi et vendredi après-midi\négalement sur rendez-vous"
       }
     },
     {

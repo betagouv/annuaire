@@ -1196,62 +1196,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.588154,
-          44.838381
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-33063-02",
-        "codeInsee": "33063",
-        "dateMiseAJour": "2016-11-08",
-        "pivotLocal": "tresorerie",
-        "Nom": "Paierie départementale - Gironde",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "1 terrasse Front de Médoc",
-            "Tour 2000 - 1er Etage"
-          ],
-          "CodePostal": "33076",
-          "NomCommune": "Bordeaux Cedex",
-          "Localisation": {
-            "Latitude": "44.838381",
-            "Longitude": "-0.588154",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "05 56 99 33 33",
-          "Télécopie": "05 56 90 50 01",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:00:00",
-                "fin": "16:00:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.630659,
           44.9113189
         ]
@@ -2176,7 +2120,7 @@
       "properties": {
         "id": "tresorerie-33039-07",
         "codeInsee": "33039",
-        "dateMiseAJour": "2017-09-12",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "tresorerie",
         "Nom": "Service Départementale de l'Enregistrement",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2198,6 +2142,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 56 93 36 46",
+          "Email": "sde.bordeaux@dhfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {

@@ -3468,6 +3468,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14620-01",
+        "codeInsee": "14620",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Martin-aux-Chartrains",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "51 route de Trouville",
+          "CodePostal": "14130",
+          "NomCommune": "Saint-Martin-aux-Chartrains",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 65 21 37",
+          "Télécopie": "02 71 70 24 51",
+          "Email": "st-martin-aux-chartrains@wanadoo.fr",
+          "Url": "http://www.smac14.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.472393006086,
           49.0790710449
         ]
@@ -6053,7 +6106,7 @@
       "properties": {
         "id": "mairie-14126-01",
         "codeInsee": "14126",
-        "dateMiseAJour": "2017-04-21",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cambremer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6088,27 +6141,12 @@
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement sur rendez-vous avec le maire."
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "17:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
             },
             {
               "début": "lundi",
@@ -6361,6 +6399,58 @@
             }
           ]
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14061-01",
+        "codeInsee": "14061",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Souleuvre en Bocage",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "2 place de la Mairie",
+            "Le Bény-Bocage"
+          ],
+          "CodePostal": "14350",
+          "NomCommune": "Souleuvre en Bocage",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 09 04 54",
+          "Télécopie": "02 31 67 89 17",
+          "Email": "accueil@souleuvreenbocage.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle de Souleuvre en Bocage remplace les communes de Beaulieu, du Bény-Bocage, de Bures-les-Monts, de Campeaux, de Carville, d'Etouvy, de La Ferrière-Harang, de La Graverie, de Malloué, de Mont-Bertrand, de Montamy, de Montchauvet, du Reculey, de Saint-Denis-Maisoncelles, de Saint-Martin-des-Besaces, de Saint-Martin-Don, de Saint-Ouen-des-Besaces, de Saint-Pierre-Tarentaine, de Sainte-Marie-Laumont et du Tourneur"
       }
     },
     {
@@ -9356,6 +9446,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14496-01",
+        "codeInsee": "14496",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Périgny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "14770",
+          "NomCommune": "Périgny"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 69 83 80"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0800612,
           48.9732222
         ]
@@ -10912,6 +11029,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14412-01",
+        "codeInsee": "14412",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mesnil-au-Grain",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "14260",
+          "NomCommune": "Le Mesnil-au-Grain"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 26 03 22"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.2986615,
           49.1216167
         ]
@@ -11136,14 +11290,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9625577,
-          49.3490772
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14224-01",
         "codeInsee": "14224",
-        "dateMiseAJour": "2004-09-02",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Deux-Jumeaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11151,11 +11305,19 @@
           "type": "géopostale",
           "Ligne": "Mairie",
           "CodePostal": "14230",
-          "NomCommune": "Deux-Jumeaux",
-          "Localisation": {
-            "Latitude": "49.3490772",
-            "Longitude": "-0.9625577",
-            "Précision": "6"
+          "NomCommune": "Deux-Jumeaux"
+        },
+        "CoordonnéesNum": {
+          "Email": "mairiedeux-jumeaux@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "15:30:00"
+            }
           }
         }
       }
@@ -11631,14 +11793,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.199865996838,
-          49.1212997437
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14761-01",
         "codeInsee": "14761",
-        "dateMiseAJour": "2007-11-29",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vimont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11646,26 +11808,30 @@
           "type": "géopostale",
           "Ligne": "chemin de Béneauville",
           "CodePostal": "14370",
-          "NomCommune": "VIMONT",
-          "Localisation": {
-            "Latitude": "49.1212997437",
-            "Longitude": "-0.199865996838",
-            "Précision": "6"
-          }
+          "NomCommune": "Vimont"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 13 23 01 08",
-          "Télécopie": "+33 2 13 23 08 70",
-          "Email": "mairievimont@wanadoo.fr"
+          "Téléphone": "02 31 23 01 08",
+          "Télécopie": "02 31 23 08 70",
+          "Email": "mairievimont@wanadoo.fr",
+          "Url": "http://www.vimont.fr/"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "16:00:00",
-                "fin": "18:30:00"
+                "fin": "19:00:00"
               }
             },
             {
@@ -14412,6 +14578,44 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14448-01",
+        "codeInsee": "14448",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montreuil-En-Auge",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "La Mairie",
+          "CodePostal": "14340",
+          "NomCommune": "Montreuil-en-Auge"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "06 29 18 87 27",
+          "Email": "xcharles@hotmail.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "10:00:00"
+            }
+          }
         }
       }
     },
@@ -18584,30 +18788,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.01639300026,
-          49.1665992737
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14743-01",
         "codeInsee": "14743",
-        "dateMiseAJour": "2004-09-13",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Victot Pontfol",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le bourg",
+          "Ligne": "Le Bourg",
           "CodePostal": "14430",
-          "NomCommune": "VICTOT PONTFOL",
-          "Localisation": {
-            "Latitude": "49.1665992737",
-            "Longitude": "-0.01639300026",
-            "Précision": "4"
-          }
+          "NomCommune": "Victot-Pontfol"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 31 39 01 29"
+          "Téléphone": "02 31 39 01 29",
+          "Télécopie": "02 31 50 25 22"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -25214,27 +25434,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0755089968443,
-          48.9911994934
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14742-01",
         "codeInsee": "14742",
-        "dateMiseAJour": "2011-08-31",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vicque",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le bourg",
+          "Ligne": "Le Bourg",
           "CodePostal": "14170",
-          "NomCommune": "VICQUES",
-          "Localisation": {
-            "Latitude": "48.9911994934",
-            "Longitude": "-0.0755089968443",
-            "Précision": "6"
-          }
+          "NomCommune": "Vicques"
+        },
+        "CoordonnéesNum": {
+          "Email": "mairie.vicques@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -29479,14 +29697,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.350997000933,
-          49.0102996826
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14703-01",
         "codeInsee": "14703",
-        "dateMiseAJour": "2004-08-18",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Tournebu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -29494,16 +29712,34 @@
           "type": "géopostale",
           "Ligne": "Le bourg",
           "CodePostal": "14220",
-          "NomCommune": "TOURNEBU",
-          "Localisation": {
-            "Latitude": "49.0102996826",
-            "Longitude": "-0.350997000933",
-            "Précision": "6"
-          }
+          "NomCommune": "Tournebu"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 13 78 32 11"
-        }
+          "Téléphone": "02 31 78 32 11",
+          "Télécopie": "09 70 29 20 27",
+          "Url": "https://www.suisse-normande.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "Permanence du Maire: le mardi à 18h"
       }
     },
     {
@@ -36101,6 +36337,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14644-01",
+        "codeInsee": "14644",
+        "dateMiseAJour": "2017-09-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Philbert-des-Champs",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "14130",
+          "NomCommune": "Saint-Philbert-des-Champs",
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "l'usager est invité à sonner en arrivant afin qu'un agent descende traiter sa demande"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 64 71 98",
+          "Télécopie": "02 31 64 66 31",
+          "Email": "mairie.stphilbertdeschamps@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "18:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.263158,
           48.9908982
         ]
@@ -37195,6 +37484,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14369-01",
+        "codeInsee": "14369",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Litteau",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue de l'Eglise",
+          "CodePostal": "14490",
+          "NomCommune": "Litteau"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 31 21 62 52",
+          "Télécopie": "02 31 21 62 52",
+          "Email": "mairie.litteau@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "16:00:00",
+                "fin": "18:15:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.478576,
           48.985823
         ]
@@ -37582,6 +37916,45 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-14473-01",
+        "codeInsee": "14473",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Notre-Dame-de-Livaye",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Route nationale 13",
+          "CodePostal": "14340",
+          "NomCommune": "Notre-Dame-de-Livaye"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "06 40 06 79 69",
+          "Email": "mairiedelivaye@orange.fr",
+          "Url": "http://www.cdccambremer.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },

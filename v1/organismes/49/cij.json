@@ -278,6 +278,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-49007-01",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "cij",
+        "Nom": "Centre information jeunesse - Angers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "12 place Imbach",
+            "J, Angers connectée jeunesse"
+          ],
+          "CodePostal": "49100",
+          "NomCommune": "Angers",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 41 05 48 00",
+          "Email": "cij.angers@ville.angers.fr",
+          "Url": "http://www.angers.fr/jeunes"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Fermé les mardi et vendredi matin"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.495371818542,
           47.4685942999
         ]

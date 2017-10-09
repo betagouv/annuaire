@@ -183,6 +183,48 @@
           "Sve": "http://www.justice.gouv.fr/sve"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "codeInsee": "11266",
+        "dateMiseAJour": "2015-11-03",
+        "id": "permanence_juridique-11266-01",
+        "idPresta": "52a71751b473e4724dea68a3",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Port-la-Nouvelle",
+        "EditeurSource": "Comarquage.fr",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Lieu ressource insertion littoral",
+            "222 rue de la Mairie"
+          ],
+          "CodePostal": "11210",
+          "NomCommune": "PORT LA NOUVELLE"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 40 37 45",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
     }
   ]
 }

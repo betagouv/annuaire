@@ -6114,6 +6114,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-90073-01",
+        "codeInsee": "90073",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue de la Liberté",
+          "CodePostal": "90400",
+          "NomCommune": "Moval"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09.60.51.23.77",
+          "Télécopie": "+33 3 84 56 04 12",
+          "Email": "mairie-moval@wanadoo.fr",
+          "Url": "www.mairie-moval.f"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "12:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.81815,
           47.759332
         ]

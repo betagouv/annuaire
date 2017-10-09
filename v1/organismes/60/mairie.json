@@ -710,6 +710,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60376-01",
+        "codeInsee": "60376",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Maisoncelle Saint Pierre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue de la Mairie",
+          "CodePostal": "60112",
+          "NomCommune": "Maisoncelle-Saint-Pierre"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 81 74 15",
+          "Télécopie": "03 44 81 74 15",
+          "Url": "http://www.beauvaisis.fr/maisoncelle-saint-pierre/mairie/adresse-et-horaires.html"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:45:00",
+                "fin": "18:45:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.774669,
           49.3150819
         ]
@@ -4538,14 +4587,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.13372993469,
-          49.5349006653
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60442-01",
         "codeInsee": "60442",
-        "dateMiseAJour": "2009-11-09",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Muidorge",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4553,24 +4602,19 @@
           "type": "géopostale",
           "Ligne": "18 bis rue Marcel Dassault",
           "CodePostal": "60480",
-          "NomCommune": "MUIDORGE",
-          "Localisation": {
-            "Latitude": "49.5349006653",
-            "Longitude": "2.13372993469",
-            "Précision": "6"
-          }
+          "NomCommune": "Muidorge"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 81 71 44",
+          "Téléphone": "03 44 81 71 44",
           "Email": "mairiedemuidorge@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": {
-              "début": "17:00:00",
-              "fin": "19:00:00"
+              "début": "17:30:00",
+              "fin": "18:30:00"
             }
           }
         }
@@ -5621,6 +5665,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60589-01",
+        "codeInsee": "60589",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Maximin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Jean-Jaurès",
+          "CodePostal": "60740",
+          "NomCommune": "Saint-Maximin",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 61 18 40",
+          "Télécopie": "03 44 61 18 59",
+          "Email": "secretariatmaire@saintmaximin.eu",
+          "Url": "http://www.saintmaximin.eu"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "10:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4967467,
           49.3292682
         ]
@@ -5895,14 +6032,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.23884510994,
-          49.6434860229
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60692-01",
         "codeInsee": "60692",
-        "dateMiseAJour": "2006-09-13",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villers Vicomte",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5910,15 +6047,22 @@
           "type": "géopostale",
           "Ligne": "12 rue du Poncelet",
           "CodePostal": "60120",
-          "NomCommune": "VILLERS VICOMTE",
-          "Localisation": {
-            "Latitude": "49.6434860229",
-            "Longitude": "2.23884510994",
-            "Précision": "4"
-          }
+          "NomCommune": "Villers-Vicomte"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 80 07 85"
+          "Téléphone": "03 44 80 07 85",
+          "Télécopie": "03 44 80 07 85",
+          "Url": "http://www.cc-oisepicarde.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "10:30:00",
+              "fin": "12:30:00"
+            }
+          }
         }
       }
     },
@@ -6836,6 +6980,59 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60512-01",
+        "codeInsee": "60512",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Pouilly",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 rue de l'École",
+          "CodePostal": "60790",
+          "NomCommune": "Pouilly",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 08 71 71",
+          "Télécopie": "03 44 08 71 71",
+          "Email": "mairie.pouilly@wanadoo.fr",
+          "Url": "http://www.pouilly.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -8135,14 +8332,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.31508994102,
-          49.5416984558
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60634-01",
         "codeInsee": "60634",
-        "dateMiseAJour": "2007-11-16",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Thieux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8150,17 +8347,13 @@
           "type": "géopostale",
           "Ligne": "3 rue des Hayes",
           "CodePostal": "60480",
-          "NomCommune": "THIEUX",
-          "Localisation": {
-            "Latitude": "49.5416984558",
-            "Longitude": "2.31508994102",
-            "Précision": "6"
-          }
+          "NomCommune": "Thieux"
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 3 44 80 73 59",
-          "Télécopie": "+33 3 44 80 73 59",
-          "Email": "mairie.thieux325@orange.fr"
+          "Télécopie": "03 44 80 73 59",
+          "Email": "mairie.thieux325@orange.fr",
+          "Url": "http://www.thieux.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -9198,6 +9391,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60659-01",
+        "codeInsee": "60659",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vaudancourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "60240",
+          "NomCommune": "Vaudancourt",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 55 81 01",
+          "Email": "mairiedevaudancourt@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.955697,
           49.216936
         ]
@@ -10032,47 +10276,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.12852406502,
-          49.6139526367
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60673-01",
         "codeInsee": "60673",
-        "dateMiseAJour": "2006-09-13",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Viefvillers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "47 rue Principale",
+          "Ligne": "40 rue Principale",
           "CodePostal": "60360",
-          "NomCommune": "VIEFVILLERS",
-          "Localisation": {
-            "Latitude": "49.6139526367",
-            "Longitude": "2.12852406502",
-            "Précision": "4"
-          }
+          "NomCommune": "Viefvillers"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 46 80 37"
+          "Téléphone": "03 44 46 80 37"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "18:00:00",
-                "fin": "19:00:00"
-              }
-            },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "18:00:00",
-                "fin": "19:00:00"
+                "fin": "19:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:30:00"
               }
             }
           ]
@@ -10807,6 +11046,64 @@
               "fin": "lundi",
               "PlageH": {
                 "début": "11:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60346-01",
+        "codeInsee": "60346",
+        "dateMiseAJour": "2017-09-18",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lamorlaye",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "24 rue du Général-Leclerc",
+          "CodePostal": "60260",
+          "NomCommune": "Lamorlaye",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 21 64 00",
+          "Télécopie": "03 44 21 64 19",
+          "Url": "http://www.ville-lamorlaye.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
                 "fin": "12:00:00"
               }
             }
@@ -12233,6 +12530,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60540-01",
+        "codeInsee": "60540",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rivecourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de la Mairie",
+          "CodePostal": "60126",
+          "NomCommune": "Rivecourt",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 41 18 64",
+          "Télécopie": "03 44 43 91 68",
+          "Email": "m.rivecourt@wanadoo.fr",
+          "Url": "https://www.sites.google.com/site/mairiederivecourt/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.75369000435,
           49.5525016785
         ]
@@ -13364,6 +13714,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60476-01",
+        "codeInsee": "60476",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Omecourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de Saint-Deniscourt",
+          "CodePostal": "60220",
+          "NomCommune": "OMECOURT"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 82 73 26",
+          "Email": "mairie.omecourt@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "15:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.12115001678,
           49.5877990723
         ]
@@ -13974,14 +14362,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28100991249,
-          49.3535995483
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60574-01",
         "codeInsee": "60574",
-        "dateMiseAJour": "2011-11-30",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Felix",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13989,17 +14377,13 @@
           "type": "géopostale",
           "Ligne": "10 rue de Fay sous Bois",
           "CodePostal": "60370",
-          "NomCommune": "SAINT FELIX",
-          "Localisation": {
-            "Latitude": "49.3535995483",
-            "Longitude": "2.28100991249",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Félix"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 07 51 84",
-          "Télécopie": "+33 3 44 07 51 84",
-          "Email": "mairie.st.felixoise@wanadoo.fr"
+          "Téléphone": "09 66 81 51 84",
+          "Télécopie": "03.44.07.51.84",
+          "Email": "mairie.st.felixoise@wanadoo.fr",
+          "Url": "www.saint-felix-notre-village.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -14008,7 +14392,7 @@
               "fin": "lundi",
               "PlageH": {
                 "début": "16:00:00",
-                "fin": "18:00:00"
+                "fin": "18:30:00"
               }
             },
             {
@@ -14016,7 +14400,7 @@
               "fin": "jeudi",
               "PlageH": {
                 "début": "16:00:00",
-                "fin": "18:00:00"
+                "fin": "18:30:00"
               }
             }
           ]
@@ -14756,14 +15140,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0159797,
-          49.2010383
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60320-01",
         "codeInsee": "60320",
-        "dateMiseAJour": "2015-07-29",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Ivors",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -14771,41 +15155,28 @@
           "type": "géopostale",
           "Ligne": "43 Grande rue",
           "CodePostal": "60141",
-          "NomCommune": "Ivors",
-          "Localisation": {
-            "Latitude": "49.2010383",
-            "Longitude": "3.0159797",
-            "Précision": "8"
-          }
+          "NomCommune": "Ivors"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 88 47 26",
+          "Téléphone": "03 44 88 47 26",
           "Email": "mairie.ivors@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "17:30:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "11:30:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "16:30:00",
-                "fin": "18:00:00"
+                "début": "08:45:00",
+                "fin": "11:45:00"
               }
             }
           ]
@@ -17271,6 +17642,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60418-01",
+        "codeInsee": "60418",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montiers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 rue de l'Abbaye",
+          "CodePostal": "60190",
+          "NomCommune": "Montiers",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 51 76 61",
+          "Télécopie": "03 44 19 57 31",
+          "Email": "mairiemontiers@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3581700325,
           49.2751998901
         ]
@@ -17734,6 +18157,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60553-01",
+        "codeInsee": "60553",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rouvillers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5, Grand'rue",
+          "CodePostal": "60190",
+          "NomCommune": "Rouvillers",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 41 02 58",
+          "Télécopie": "03 44 42 22 50",
+          "Email": "mairie.rouvillers@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "17:30:00",
+              "fin": "19:30:00"
+            }
+          }
         }
       }
     },
@@ -20014,6 +20479,54 @@
                   "fin": "18:00:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60258-01",
+        "codeInsee": "60258",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Fresnieres",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Principale",
+          "CodePostal": "60310",
+          "NomCommune": "Fresnières"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 43 66 09",
+          "Email": "communedefresnieres@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }
@@ -22638,6 +23151,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60573-01",
+        "codeInsee": "60573",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sainte-Eusoye",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue des Peupliers",
+          "CodePostal": "60480",
+          "NomCommune": "Sainte-Eusoye",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 80 71 73",
+          "Télécopie": "03 44 80 71 73",
+          "Email": "mairie.steusoye@wanadoo.fr",
+          "Url": "http://www.sainte-eusoye.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.157286,
           49.418447
         ]
@@ -22915,6 +23471,77 @@
               "fin": "19:00:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60362-01",
+        "codeInsee": "60362",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Libermont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "60 rue de la Forêt",
+          "CodePostal": "60640",
+          "NomCommune": "Libermont",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 44 43 24 06",
+          "Email": "mairie.libermont@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -23809,6 +24436,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60399-01",
+        "codeInsee": "60399",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie du Mesnil-Saint-Firmin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue du Château",
+          "CodePostal": "60120",
+          "NomCommune": "Le Mesnil-Saint-Firmin",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 51 15 60",
+          "Télécopie": "03 44 78 01 27",
+          "Email": "commune-st-firmin@wanadoo.fr",
+          "Url": "http://www.lemesnilsaintfirmin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "16:00:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.02689003944,
           49.5461006165
         ]
@@ -24212,6 +24882,67 @@
               "fin": "lundi",
               "PlageH": {
                 "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60547-01",
+        "codeInsee": "60547",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rosoy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 rue de l'Église",
+          "CodePostal": "60140",
+          "NomCommune": "Rosoy",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 73 08 39",
+          "Télécopie": "03 44 73 08 39",
+          "Email": "rosoy.mairie@wanadoo.fr",
+          "Url": "http://commune.rosoy.free.fr/contact.htm"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:00:00",
                 "fin": "19:00:00"
               }
             }
@@ -30059,6 +30790,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60389-01",
+        "codeInsee": "60389",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Maucourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "34 rue Saint-Leu",
+          "CodePostal": "60640",
+          "NomCommune": "Maucourt"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 60 06 79 50",
+          "Télécopie": "03 44 43 36 41",
+          "Email": "maucourt@paysnoyonnais.fr",
+          "Url": "http://www.maucourt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "15:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.0589221,
           49.6336152
         ]
@@ -30769,6 +31540,55 @@
             }
           ]
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60624-01",
+        "codeInsee": "60624",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sully",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12, rue de l'Église",
+          "CodePostal": "60380",
+          "NomCommune": "Sully",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 82 47 84",
+          "Télécopie": "03 44 82 47 84",
+          "Email": "mairie.sully@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "le deuxième mardi ouvert que l'après-midi de 13h30 à 18h30 et ouvert \nle deuxième samedi de chaque mois de 09h00 à 12h00."
       }
     },
     {
@@ -33290,6 +34110,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60117-01",
+        "codeInsee": "60117",
+        "dateMiseAJour": "2017-08-30",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Bussy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "157 rue du Buisson-du-Guet",
+          "CodePostal": "60400",
+          "NomCommune": "Bussy",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 60 40 14 62"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "18:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.96626996994,
           49.4649009705
         ]
@@ -33495,6 +34365,46 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60465-01",
+        "codeInsee": "60465",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Noiremont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue des Glycines",
+          "CodePostal": "60480",
+          "NomCommune": "Noirémont"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 80 55 28",
+          "Télécopie": "03 44 04 14 30",
+          "Email": "noiremont.mairie@wanadoo.fr",
+          "Url": "www.cc-oisepicarde.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },
@@ -35284,14 +36194,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0429019928,
-          49.1014900208
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60656-01",
         "codeInsee": "60656",
-        "dateMiseAJour": "2007-12-05",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Varinfroy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -35299,16 +36209,33 @@
           "type": "géopostale",
           "Ligne": "1 place du Marais",
           "CodePostal": "60890",
-          "NomCommune": "VARINFROY",
-          "Localisation": {
-            "Latitude": "49.1014900208",
-            "Longitude": "3.0429019928",
-            "Précision": "4"
-          }
+          "NomCommune": "Varinfroy"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 87 25 35",
-          "Télécopie": "+33 3 44 87 42 92"
+          "Téléphone": "03 44 87 25 35",
+          "Télécopie": "03 44 87 42 92",
+          "Email": "commune.varinfroy@orange.fr",
+          "Url": "http://www.cc-paysdevalois.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "18:45:00",
+                "fin": "20:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "18:45:00",
+                "fin": "20:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -37058,14 +37985,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.75858998299,
-          49.6204986572
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60122-01",
         "codeInsee": "60122",
-        "dateMiseAJour": "2006-08-28",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Campeaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -37073,30 +38000,25 @@
           "type": "géopostale",
           "Ligne": "5 rue de Formerie",
           "CodePostal": "60220",
-          "NomCommune": "CAMPEAUX",
-          "Localisation": {
-            "Latitude": "49.6204986572",
-            "Longitude": "1.75858998299",
-            "Précision": "6"
-          }
+          "NomCommune": "Campeaux"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 46 15 09",
+          "Téléphone": "09 64 48 65 08",
           "Email": "mairie.campeaux@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
-                "début": "18:00:00",
-                "fin": "19:00:00"
+                "début": "16:00:00",
+                "fin": "17:00:00"
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "18:00:00",
                 "fin": "19:00:00"
@@ -38903,6 +39825,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60441-01",
+        "codeInsee": "60441",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moyvillers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "52, rue de l'Église",
+          "CodePostal": "60190",
+          "NomCommune": "Moyvillers",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 41 31 08",
+          "Télécopie": "03 44 41 03 45",
+          "Email": "mairie.moyvillers@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "10:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.25138998032,
           49.4504013062
         ]
@@ -40130,14 +41110,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.83469200134,
-          49.5769920349
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60499-01",
         "codeInsee": "60499",
-        "dateMiseAJour": "2011-10-13",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Plessis-de-Roye",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -40145,35 +41125,32 @@
           "type": "géopostale",
           "Ligne": "500 rue de Sanvic",
           "CodePostal": "60310",
-          "NomCommune": "PLESSIS DE ROYE",
-          "Localisation": {
-            "Latitude": "49.5769920349",
-            "Longitude": "2.83469200134",
-            "Précision": "4"
-          }
+          "NomCommune": "Plessis-de-Roye"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 43 72 29",
-          "Télécopie": "+33 3 44 43 72 29",
+          "Téléphone": "03 44 43 72 29",
+          "Télécopie": "03 44 43 72 29",
           "Email": "mairie.plessier@free.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "18:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
-                "début": "17:00:00",
-                "fin": "18:00:00"
-              }
+                "début": "13:00:00",
+                "fin": "14:30:00"
+              },
+              "Note": "Le jeudi de 17h à 18h: permanence élus"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Le mardi de 18h à 19h: permanence élus"
             }
           ]
         }
@@ -40224,6 +41201,58 @@
               "fin": "jeudi",
               "PlageH": {
                 "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-60507-01",
+        "codeInsee": "60507",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Pontoise-lès-Noyon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "60400",
+          "NomCommune": "Pontoise-lès-Noyon",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 09 72 61",
+          "Télécopie": "03 44 09 29 91",
+          "Email": "pontoise-les-noyon@paysnoyonnais.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
                 "fin": "19:00:00"
               }
             }
@@ -42372,30 +43401,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.74329400063,
-          49.5762023926
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-60691-01",
         "codeInsee": "60691",
-        "dateMiseAJour": "2006-09-13",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villers Vermont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Mairie",
+          "Ligne": "2 Rue de l'Eglise",
           "CodePostal": "60380",
-          "NomCommune": "VILLERS VERMONT",
-          "Localisation": {
-            "Latitude": "49.5762023926",
-            "Longitude": "1.74329400063",
-            "Précision": "4"
-          }
+          "NomCommune": "Villers-Vermont"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 44 82 42 03"
+          "Téléphone": "03 44 82 42 03",
+          "Url": "http://picardieverte.com"
         },
         "Ouverture": {
           "PlageJ": {

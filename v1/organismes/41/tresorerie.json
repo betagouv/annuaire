@@ -13,7 +13,7 @@
       "properties": {
         "id": "tresorerie-41136-01",
         "codeInsee": "41136",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Mer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -40,17 +40,10 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:15:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "Accueil téléphonique uniquement l'après-midi."
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:15:00"
+            }
           }
         }
       }
@@ -212,7 +205,7 @@
       "properties": {
         "id": "tresorerie-41151-01",
         "codeInsee": "41151",
-        "dateMiseAJour": "2015-03-11",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Montrichard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -242,16 +235,10 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:15:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "12:00:00"
+            }
           }
         }
       }

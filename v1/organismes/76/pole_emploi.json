@@ -15,7 +15,7 @@
         "codeInsee": "76498",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Rouen - Quevilly",
+        "Nom": "Pôle emploi - Rouen - Quevilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -81,7 +81,7 @@
         "codeInsee": "76540",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Rouen - Saint-Sever",
+        "Nom": "Pôle emploi - Rouen - Saint-Sever",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -147,7 +147,7 @@
         "codeInsee": "76231",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi d'Elbeuf",
+        "Nom": "Pôle emploi - Elbeuf",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -213,7 +213,7 @@
         "codeInsee": "76276",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Forges-les-Eaux",
+        "Nom": "Pôle emploi - Forges-les-Eaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -279,7 +279,7 @@
         "codeInsee": "76575",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Saint-Étienne-du-Rouvray",
+        "Nom": "Pôle emploi - Saint-Étienne-du-Rouvray",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -348,7 +348,7 @@
         "codeInsee": "76351",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi du Havre - Ville-Haute",
+        "Nom": "Pôle emploi - Le Havre - Ville-Haute",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -405,56 +405,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0843487,
-          49.9198377
-        ]
-      },
-      "properties": {
-        "id": "pole_emploi-76217-02",
-        "codeInsee": "76217",
-        "dateMiseAJour": "2016-05-27",
-        "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Dieppe Sussex",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "10 avenue Normandie-Sussex",
-            "BP 166"
-          ],
-          "CodePostal": "76204",
-          "NomCommune": "Dieppe Cedex",
-          "Localisation": {
-            "Latitude": "49.9198377",
-            "Longitude": "1.0843487",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.",
-            "$t": "3949"
-          },
-          "Url": "http://www.pole-emploi.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "12:30:00"
-            },
-            "Note": "Uniquement sur rendez-vous de 12h30 à 16h15, fermé le jeudi après-midi"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.0879189,
           49.4437736
         ]
@@ -464,7 +414,7 @@
         "codeInsee": "76540",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Rouen - Cauchoise",
+        "Nom": "Pôle emploi - Rouen - Cauchoise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -521,30 +471,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0800559,
-          49.903858
+          null,
+          null
         ]
       },
       "properties": {
         "id": "pole_emploi-76217-01",
         "codeInsee": "76217",
-        "dateMiseAJour": "2016-05-27",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Dieppe Belvédère",
+        "Nom": "Pôle emploi - Dieppe",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Route du Vallon",
-            "BP 300"
-          ],
-          "CodePostal": "76203",
-          "NomCommune": "Dieppe Cedex",
-          "Localisation": {
-            "Latitude": "49.903858",
-            "Longitude": "1.0800559",
-            "Précision": "8"
-          }
+          "Ligne": "7 rue de l'Entrepot",
+          "CodePostal": "76200",
+          "NomCommune": "Dieppe"
         },
         "CoordonnéesNum": {
           "Téléphone": {
@@ -557,11 +499,17 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "12:30:00"
-            },
-            "Note": "Uniquement sur rendez-vous de 12h30 à 16h15, fermé le jeudi après-midi"
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "12:30:00",
+                "fin": "16:15:00"
+              }
+            ],
+            "Note": "Uniquement sur rendez-vous l'après-midi, fermé le jeudi après-midi"
           }
         }
       }
@@ -580,7 +528,7 @@
         "codeInsee": "76057",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Barentin",
+        "Nom": "Pôle emploi - Barentin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -649,7 +597,7 @@
         "codeInsee": "76341",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Harfleur",
+        "Nom": "Pôle emploi - Harfleur",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -715,7 +663,7 @@
         "codeInsee": "76351",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi du Havre - Souday",
+        "Nom": "Pôle emploi - Le Havre - Souday",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -781,7 +729,7 @@
         "codeInsee": "76711",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi du Tréport",
+        "Nom": "Pôle emploi - Tréport",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -847,7 +795,7 @@
         "codeInsee": "76384",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Lillebonne",
+        "Nom": "Pôle emploi - Lillebonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -913,7 +861,7 @@
         "codeInsee": "76540",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Rouen - Darnétal",
+        "Nom": "Pôle emploi - Rouen - Darnétal",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -982,7 +930,7 @@
         "codeInsee": "76351",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi du Havre - Ferrer",
+        "Nom": "Pôle emploi - Le Havre - Ferrer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -1048,7 +996,7 @@
         "codeInsee": "76758",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi d'Yvetot",
+        "Nom": "Pôle emploi - Yvetot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -1114,7 +1062,7 @@
         "codeInsee": "76410",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Rouen - Maromme",
+        "Nom": "Pôle emploi - Rouen - Maromme",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -1180,7 +1128,7 @@
         "codeInsee": "76259",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Fécamp",
+        "Nom": "Pôle emploi - Fécamp",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",

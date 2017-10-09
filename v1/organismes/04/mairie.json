@@ -3173,14 +3173,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.09367704391,
-          43.9172782898
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-04182-01",
         "codeInsee": "04182",
-        "dateMiseAJour": "2016-07-06",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Julien-d'Asse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3189,11 +3189,6 @@
           "Ligne": "Le Village",
           "CodePostal": "04270",
           "NomCommune": "Saint-Julien-d'Asse",
-          "Localisation": {
-            "Latitude": "43.9172782898",
-            "Longitude": "6.09367704391",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -3204,24 +3199,14 @@
           "Email": "stjuliendasse@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -4877,6 +4862,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-04138-01",
+        "codeInsee": "04138",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Niozelles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "04300",
+          "NomCommune": "Niozelles",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 75 03 33",
+          "Télécopie": "04 92 75 45 89",
+          "Email": "mairie-niozelles@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.7498497963,
           43.7613983154
         ]
@@ -5393,6 +5430,58 @@
               "PlageH": {
                 "début": "09:30:00",
                 "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-04156-01",
+        "codeInsee": "04156",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Puimichel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Delphine-de-Signe",
+          "CodePostal": "04700",
+          "NomCommune": "Puimichel",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 78 61 40",
+          "Télécopie": "04 92 78 61 61",
+          "Email": "mairie@puimichel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:30:00"
               }
             }
           ]
@@ -10424,6 +10513,106 @@
                   "fin": "18:00:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-04175-01",
+        "codeInsee": "04175",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sainte-Croix-à-Lauze",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "04110",
+          "NomCommune": "Sainte-Croix-à-Lauze",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 75 64 13",
+          "Télécopie": "04 92 75 62 05",
+          "Email": "ste-croix-alauze.cne@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-04087-01",
+        "codeInsee": "04087",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Fontienne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "04230",
+          "NomCommune": "Fontienne"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 73 00 10",
+          "Télécopie": "04 92 73 00 10",
+          "Email": "mairie-fontienne@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "(sauf le dernier vendredi du mois)"
             }
           ]
         }

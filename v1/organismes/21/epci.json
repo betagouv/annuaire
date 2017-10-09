@@ -228,7 +228,7 @@
       "properties": {
         "id": "epci-21599-01",
         "codeInsee": "21599",
-        "dateMiseAJour": "2017-06-01",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "epci",
         "Nom": "Communauté de communes Tille et Venelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -251,24 +251,20 @@
           "Email": "cctiv@orange.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
                 "fin": "17:30:00"
               }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "17:30:00"
-              }
-            }
-          ]
+            ]
+          }
         }
       }
     },

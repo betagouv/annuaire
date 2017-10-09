@@ -147,53 +147,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6818217,
-          45.4183739
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-42168-01",
-        "codeInsee": "42168",
-        "dateMiseAJour": "2016-12-19",
-        "pivotLocal": "tresorerie",
-        "Nom": "Trésorerie de Pélussin",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "10 rue du Cloître",
-          "CodePostal": "42410",
-          "NomCommune": "Pélussin",
-          "Localisation": {
-            "Latitude": "45.4183739",
-            "Longitude": "4.6818217",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "04 74 87 61 28",
-          "Email": "t042007@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "08:45:00",
-              "fin": "12:00:00"
-            }
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.0105802,
           45.8294798
         ]
@@ -278,72 +231,6 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7649182,
-          45.819353
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-42159-01",
-        "codeInsee": "42159",
-        "dateMiseAJour": "2016-02-24",
-        "pivotLocal": "tresorerie",
-        "Nom": "Trésorerie de Noirétable",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "43 rue de la République",
-            "BP 4"
-          ],
-          "CodePostal": "42440",
-          "NomCommune": "Noirétable",
-          "Localisation": {
-            "Latitude": "45.819353",
-            "Longitude": "3.7649182",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "DEM"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 77 24 70 16",
-          "Email": "t042220@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
                 "fin": "12:00:00"
               }
             }
@@ -784,57 +671,6 @@
               "début": "08:30:00",
               "fin": "11:45:00"
             }
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.005053,
-          45.7441528
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-42019-01",
-        "codeInsee": "42019",
-        "dateMiseAJour": "2016-02-24",
-        "pivotLocal": "tresorerie",
-        "Nom": "Trésorerie de Boën-sur-Lignon",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "14 rue de Lyon",
-            "BP 55"
-          ],
-          "CodePostal": "42130",
-          "NomCommune": "Boën-sur-Lignon",
-          "Localisation": {
-            "Latitude": "45.7441528",
-            "Longitude": "4.005053",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 77 24 29 44",
-          "Email": "t042218@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "12:30:00"
-            },
-            "Note": "Fermé le mercredi"
           }
         }
       }

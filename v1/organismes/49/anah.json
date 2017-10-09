@@ -59,6 +59,60 @@
           }
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "anah-49007-02",
+        "codeInsee": "49007",
+        "dateMiseAJour": "2016-01-11",
+        "pivotLocal": "anah",
+        "Nom": "Agence nationale de l’habitat (Anah) - Maine-et-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Service logement et développement social",
+            "Hôtel du département",
+            "Place Michel Debré - CS 94104"
+          ],
+          "CodePostal": "49941",
+          "NomCommune": "Angers Cedex 09",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 2 41 18 80 79",
+          "Télécopie": "+33 2 41 86 82 76",
+          "Email": "cellulehabitat@maine-et-loire.fr",
+          "Url": "http://solidarites.maine-et-loire.fr/logement/ameliorer-ou-renover-son-logement/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Compétente pour toutes les communes du département, sauf pour la communauté d'agglomération d'Angers Loire Métropole."
+      }
     }
   ]
 }

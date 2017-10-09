@@ -4792,6 +4792,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-30327-01",
+        "codeInsee": "30327",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Tharaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "30430",
+          "NomCommune": "Tharaux",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 24 43 89",
+          "Télécopie": "04 66 24 43 89",
+          "Email": "mairie.tharaux@nordnet.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.21764993668,
           43.8268013
         ]

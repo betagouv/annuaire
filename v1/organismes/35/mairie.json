@@ -26705,6 +26705,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-35238-01",
+        "codeInsee": "35238",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Hôtel de Ville",
+            "Place de la Mairie",
+            "CS 63126"
+          ],
+          "CodePostal": "35031",
+          "NomCommune": "Rennes Cedex",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 23 62 10 10",
+          "Url": "http://www.metropole.rennes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.75464999676,
           48.5497016907
         ]

@@ -1251,6 +1251,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12137-01",
+        "codeInsee": "12137",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Manhac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "12160",
+          "NomCommune": "Manhac",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 69 03 53",
+          "Télécopie": "05 65 69 16 28",
+          "Email": "mairiedemanhac@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.1892,
           44.411471
         ]
@@ -3503,6 +3567,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12252-01",
+        "codeInsee": "12252",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Salles-Courbatiès",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "12260",
+          "NomCommune": "Salles-Courbatiès",
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 81 63 93",
+          "Télécopie": "05 65 81 53 79",
+          "Email": "mairie.sallescourbaties@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.45595002174,
           44.4411010742
         ]
@@ -4739,6 +4875,67 @@
               "PlageH": {
                 "début": "09:30:00",
                 "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12235-01",
+        "codeInsee": "12235",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Just-sur-Viaur",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "12800",
+          "NomCommune": "Saint-Just-sur-Viaur",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 69 22 63",
+          "Télécopie": "05 65 69 22 63",
+          "Email": "mairiedesaintjustsurviaur@laposte.net"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              },
+              "Note": "Permanence du maire le mercredi"
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
             }
           ]
@@ -8646,6 +8843,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12174-01",
+        "codeInsee": "12174",
+        "dateMiseAJour": "2017-09-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Olemps",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "12510",
+          "NomCommune": "Olemps",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 75 51 00",
+          "Télécopie": "05 65 75 51 09",
+          "Email": "mairie@mairie-olemps.fr",
+          "Url": "http://www.mairie-olemps.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement le 1er samedi du mois Le Samedi : de 09h30 à 12h00 mairie ouverte uniquement le 1er samedi du mois de septembre à juin"
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement le 1er samedi du mois."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.525,
           43.9456
         ]
@@ -12464,6 +12744,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12162-01",
+        "codeInsee": "12162",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moyrazès",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue du Ségala",
+          "CodePostal": "12160",
+          "NomCommune": "Moyrazès",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 69 35 50",
+          "Télécopie": "05 65 69 39 16",
+          "Email": "mairie-moyrazes@wanadoo.fr",
+          "Url": "http://www.moyrazes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.6693118,
           43.9784466
         ]
@@ -13331,14 +13672,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.504866,
-          44.653054
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-12093-01",
         "codeInsee": "12093",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie du Fel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13347,18 +13688,13 @@
           "Ligne": "Le Bourg",
           "CodePostal": "12140",
           "NomCommune": "Le Fel",
-          "Localisation": {
-            "Latitude": "44.653054",
-            "Longitude": "2.504866",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 65 44 51 86",
-          "Télécopie": "+33 5 65 48 63 30"
+          "Téléphone": "05 65 44 51 86",
+          "Télécopie": "05 65 48 63 30"
         },
         "Ouverture": {
           "PlageJ": [
@@ -14699,6 +15035,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-12278-01",
+        "codeInsee": "12278",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Tayrac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "12440",
+          "NomCommune": "Tayrac",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 65 81 84 62",
+          "Email": "tayrac.mairie@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.93859004974,
           44.5332565308
         ]
@@ -15574,34 +15951,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.77492189407,
-          43.8878135681
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-12195-01",
         "codeInsee": "12195",
-        "dateMiseAJour": "2013-04-23",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rebourguil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "Place de l'Eglise",
           "CodePostal": "12400",
           "NomCommune": "Rebourguil",
-          "Localisation": {
-            "Latitude": "43.8878135681",
-            "Longitude": "2.77492189407",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 65 99 83 11",
-          "Télécopie": "+33 5 65 99 83 11",
+          "Téléphone": "05 65 99 83 11",
+          "Télécopie": "05 65 99 83 11",
           "Email": "mairierebourguil@wanadoo.fr"
         },
         "Ouverture": {

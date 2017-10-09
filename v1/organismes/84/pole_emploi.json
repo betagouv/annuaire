@@ -15,7 +15,7 @@
         "codeInsee": "84035",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Cavaillon",
+        "Nom": "Pôle emploi - Cavaillon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -72,7 +72,7 @@
         "codeInsee": "84019",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Bollène",
+        "Nom": "Pôle emploi - Bollène",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -120,6 +120,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-84007-02",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2017-10-02",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi - Avignon Joly Jean",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "15 rue Madame de Sévigné",
+          "CodePostal": "84000",
+          "NomCommune": "Avignon"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger composez le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger composez le +33 1 77 86 39 95.",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.3873606,
           43.8791491
         ]
@@ -129,7 +181,7 @@
         "codeInsee": "84003",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi d'Apt",
+        "Nom": "Pôle emploi - Apt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -177,66 +229,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8621482,
-          43.9592793
-        ]
-      },
-      "properties": {
-        "id": "pole_emploi-84092-01",
-        "codeInsee": "84092",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi du Pontet",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "2 allée de Fargues",
-            "BP 90"
-          ],
-          "CodePostal": "84132",
-          "NomCommune": "Le Pontet Cedex",
-          "Localisation": {
-            "Latitude": "43.9592793",
-            "Longitude": "4.8621482",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger composez le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger composez le +33 1 77 86 39 95.",
-            "$t": "3949"
-          },
-          "Url": "http://www.pole-emploi.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "16:15:00"
-              },
-              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.7938691,
           44.1368743
         ]
@@ -246,7 +238,7 @@
         "codeInsee": "84087",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi d'Orange",
+        "Nom": "Pôle emploi - Orange",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -303,7 +295,7 @@
         "codeInsee": "84031",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Carpentras",
+        "Nom": "Pôle emploi - Carpentras",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -351,6 +343,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-84007-01",
+        "codeInsee": "84007",
+        "dateMiseAJour": "2017-10-02",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi - Avignon Realpanier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 rue Claude Chabrol",
+          "CodePostal": "84000",
+          "NomCommune": "Avignon"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger composez le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger composez le +33 1 77 86 39 95.",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "16:15:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous de 12h30 à 16h15."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.508851,
           43.699592
         ]
@@ -360,7 +404,7 @@
         "codeInsee": "84089",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Pertuis",
+        "Nom": "Pôle emploi - Pertuis",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",

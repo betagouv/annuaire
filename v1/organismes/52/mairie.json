@@ -3460,6 +3460,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52342-01",
+        "codeInsee": "52342",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Morionvilliers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Nicolas Thuon",
+          "CodePostal": "52700",
+          "NomCommune": "Morionvilliers"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 02 24 94"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.96117019653,
           48.3956985474
         ]
@@ -4624,6 +4651,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52266-01",
+        "codeInsee": "52266",
+        "dateMiseAJour": "2017-08-16",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Laneuville-à-Rémy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Château",
+          "CodePostal": "52220",
+          "NomCommune": "Laneuville-à-Rémy"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 04 41 20 06 72 30 84 45",
+          "Email": "mairie.laneuvillearemy@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.8701291,
           47.9263736
         ]
@@ -5208,6 +5273,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52357-01",
+        "codeInsee": "52357",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Noncourt-sur-le-Rongeant",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "52230",
+          "NomCommune": "Noncourt-sur-le-Rongeant",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 94 52 11",
+          "Télécopie": "03 25 55 79 50",
+          "Email": "noncourt.mairie@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.171891,
           48.107283
         ]
@@ -5520,6 +5637,58 @@
               "PlageH": {
                 "début": "15:00:00",
                 "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52424-01",
+        "codeInsee": "52424",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rivières-le-Bois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue du Lavoir",
+          "CodePostal": "52600",
+          "NomCommune": "Rivières-le-Bois",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 90 77 12",
+          "Télécopie": "03 25 90 77 12",
+          "Email": "mairiederiviereslebois@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "11:00:00"
               }
             }
           ]
@@ -5932,14 +6101,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.35478019714,
-          48.3727989197
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-52219-01",
         "codeInsee": "52219",
-        "dateMiseAJour": "2013-02-27",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Germisay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5948,26 +6117,22 @@
           "Ligne": "Grande rue",
           "CodePostal": "52230",
           "NomCommune": "Germisay",
-          "Localisation": {
-            "Latitude": "48.3727989197",
-            "Longitude": "5.35478019714",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 25 55 97 21",
-          "Télécopie": "+33 3 25 55 97 21"
+          "Téléphone": "03 25 55 97 21",
+          "Télécopie": "03 25 55 97 21",
+          "Email": "commune.de.germisay@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
+            "début": "lundi",
+            "fin": "lundi",
             "PlageH": {
-              "début": "10:00:00",
-              "fin": "13:00:00"
+              "début": "13:30:00",
+              "fin": "15:00:00"
             }
           }
         }
@@ -7279,6 +7444,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52546-01",
+        "codeInsee": "52546",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Voncourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8, rue de la Mairie",
+          "CodePostal": "52500",
+          "NomCommune": "Voncourt",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 88 26 30",
+          "Email": "mairie.voncourt@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "13:15:00",
+              "fin": "15:45:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.94363021851,
           48.0989990234
         ]
@@ -8181,6 +8387,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52482-01",
+        "codeInsee": "52482",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Soulaucourt-sur-Mouzon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue Principale",
+          "CodePostal": "52150",
+          "NomCommune": "Soulaucourt-sur-Mouzon",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 01 70 30",
+          "Télécopie": "03 25 01 70 30",
+          "Email": "commune.soulaucourt@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            }
+          }
         }
       }
     },
@@ -9436,6 +9684,54 @@
                   "fin": "17:30:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52420-01",
+        "codeInsee": "52420",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Reynel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "27Grande Rue",
+          "CodePostal": "52700",
+          "NomCommune": "REYNEL"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 75 93 29 10",
+          "Email": "mairie-reynel52@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "19:30:00"
+              }
             }
           ]
         }
@@ -11178,44 +11474,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.213497,
-          47.728656
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-52285-01",
         "codeInsee": "52285",
-        "dateMiseAJour": "2013-02-27",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Leuchey",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "8, rue de l'Huilerie",
+          "Ligne": "8 rue de l'Huilerie",
           "CodePostal": "52190",
           "NomCommune": "Leuchey",
-          "Localisation": {
-            "Latitude": "47.728656",
-            "Longitude": "5.213497",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 25 87 02 38",
-          "Télécopie": "+33 3 25 87 02 38",
+          "Téléphone": "03 25 87 02 38",
+          "Télécopie": "03 25 87 02 38",
           "Email": "mairie.leuchey@orange.fr",
           "Url": "http://www.leuchey.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
+            "début": "vendredi",
+            "fin": "vendredi",
             "PlageH": {
-              "début": "13:30:00",
-              "fin": "18:00:00"
+              "début": "08:30:00",
+              "fin": "13:30:00"
             }
           }
         }
@@ -14960,38 +15251,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.01528406143,
-          48.3115081787
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-52007-01",
         "codeInsee": "52007",
-        "dateMiseAJour": "2004-09-13",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ambonville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Mairie Ambonville",
+          "Ligne": "7 Grande rue",
           "CodePostal": "52110",
-          "NomCommune": "Ambonville",
-          "Localisation": {
-            "Latitude": "48.3115081787",
-            "Longitude": "5.01528406143",
-            "Précision": "4"
-          }
+          "NomCommune": "Ambonville"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 25 02 43 49"
+          "Téléphone": "03 25 02 43 84",
+          "Email": "mairieambonville@wanadoo.fr",
+          "Url": "http://www.ccbjc.fr/ccbjc/ambonville.htm"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "lundi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": {
-              "début": "14:00:00",
-              "fin": "16:00:00"
+              "début": "08:30:00",
+              "fin": "10:00:00"
             }
           }
         }
@@ -15054,7 +15342,7 @@
       "properties": {
         "id": "mairie-52307-01",
         "codeInsee": "52307",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Marac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15074,7 +15362,8 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 25 84 71 13",
-          "Email": "mairiedemarac@orange.fr"
+          "Email": "mairiedemarac@orange.fr",
+          "Url": "www.communedemarac.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -16856,6 +17145,62 @@
               "PlageH": {
                 "début": "'09:30:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52190-01",
+        "codeInsee": "52190",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Esnouveaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place du 8 mai 1945",
+          "CodePostal": "52340",
+          "NomCommune": "Esnouveaux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 75 40 96 52",
+          "Email": "mairie-esnouveaux52@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "15:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -20077,6 +20422,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52398-01",
+        "codeInsee": "52398",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Poissons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 rue Saint-Amand",
+          "CodePostal": "52230",
+          "NomCommune": "Poissons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 94 51 78",
+          "Email": "mairie.poissons@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.3975993,
           48.3009337
         ]
@@ -22465,40 +22851,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.00628709793,
-          48.5127754211
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-52300-01",
         "codeInsee": "52300",
-        "dateMiseAJour": "2006-09-15",
+        "dateMiseAJour": "2017-09-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Magneux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "23 mairie Magneux",
+          "Ligne": "23 Grande Rue",
           "CodePostal": "52130",
-          "NomCommune": "MAGNEUX",
-          "Localisation": {
-            "Latitude": "48.5127754211",
-            "Longitude": "5.00628709793",
-            "Précision": "4"
-          }
+          "NomCommune": "Magneux"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 25 57 77 33"
+          "Téléphone": "03 25 57 77 33",
+          "Télécopie": "09 70 06 75 97",
+          "Email": "mairie-magneux@orange.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
-            "PlageH": {
-              "début": "17:00:00",
-              "fin": "19:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     },
@@ -22644,6 +23049,45 @@
             "PlageH": {
               "début": "16:00:00",
               "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52413-01",
+        "codeInsee": "52413",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rachecourt Suzémont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Grande",
+          "CodePostal": "52130",
+          "NomCommune": "Rachecourt-Suzémont"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 04 49 69",
+          "Télécopie": "03 25 04 49 69",
+          "Email": "rachecourtsuzemont@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "10:30:00"
             }
           }
         }
@@ -22904,6 +23348,43 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-52354-01",
+        "codeInsee": "52354",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Noidant Chatenoy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Grande",
+          "CodePostal": "52600",
+          "NomCommune": "Noidant -Chatenoy"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 25 88 01 22"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },

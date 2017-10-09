@@ -649,6 +649,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-88160-02",
+        "codeInsee": "88160",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Épinal",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre social du Plateau de la Vierge",
+            "Place Luc-Escande"
+          ],
+          "CodePostal": "88000",
+          "NomCommune": "Épinal",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 64 03 03",
+          "Email": "pointcyb.vierge@wanadoo.fr",
+          "Url": "http://www.cidj.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.3366369,
           49.1616904
         ]
@@ -756,109 +833,6 @@
               "fin": "16:30:00"
             }
           }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8448508,
-          48.4082826
-        ]
-      },
-      "properties": {
-        "id": "cij-88372-01",
-        "codeInsee": "88372",
-        "dateMiseAJour": "2013-01-10",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Raon-l'Étape",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "2, rue Clemenceau",
-            "CodePostal": "88110",
-            "NomCommune": "Raon-l'Étape",
-            "Localisation": {
-              "Latitude": "48.4082826",
-              "Longitude": "6.8448508",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC",
-              "$t": "plain-pied"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Raon-l'Étape",
-              "27, rue Jules-Ferry"
-            ],
-            "CodePostal": "88110",
-            "NomCommune": "Raon-l'Étape",
-            "Localisation": {
-              "Latitude": "48.4067155",
-              "Longitude": "6.8446838",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 29 51 12 45",
-          "Télécopie": "+33 3 29 41 94 63",
-          "Email": "pointcybraon@wanadoo.fr",
-          "Url": "http://www.raonletape.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "15:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            }
-          ]
         }
       }
     }

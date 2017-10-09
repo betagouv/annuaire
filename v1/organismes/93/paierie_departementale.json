@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.452462,
+          48.907365
+        ]
+      },
+      "properties": {
+        "id": "paierie_departementale-93008-01",
+        "codeInsee": "93008",
+        "dateMiseAJour": "2016-10-05",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Seine-Saint-Denis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 avenue Youri Gagarine",
+          "CodePostal": "93016",
+          "NomCommune": "Bobigny",
+          "Localisation": {
+            "Latitude": "48.907365",
+            "Longitude": "2.452462",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 48 96 11 00",
+          "Email": "t093090@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé le jeudi"
+          }
+        }
+      }
+    }
+  ]
+}

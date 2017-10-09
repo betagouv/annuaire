@@ -6,53 +6,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3650497,
-          43.840404
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-30189-02",
         "codeInsee": "30189",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Nîmes Ouest",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "15, boulevard Étienne-Saintenac",
+            "15 boulevard Étienne-Saintenac",
             "CS 10001"
           ],
           "CodePostal": "30024",
-          "NomCommune": "Nîmes Cedex 9",
-          "Localisation": {
-            "Latitude": "43.840404",
-            "Longitude": "4.3650497",
-            "Précision": "6"
-          }
+          "NomCommune": "Nîmes Cedex 9"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 36 56 32",
-          "Email": "sip.nimes-ouest@dgfip.finances.gouv.fr",
+          "Téléphone": "04 66 36 56 32",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "également sur rendez-vous"
-          }
-        }
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "également sur rendez-vous, fermé le mercredi"
+            }
+          ]
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -60,14 +71,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3650497,
-          43.840404
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-30189-01",
         "codeInsee": "30189",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Nîmes Est",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -78,16 +89,10 @@
             "CS 40001"
           ],
           "CodePostal": "30036",
-          "NomCommune": "Nîmes Cedex 9",
-          "Localisation": {
-            "Latitude": "43.840404",
-            "Longitude": "4.3650497",
-            "Précision": "6"
-          }
+          "NomCommune": "Nîmes Cedex 9"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 36 56 33",
-          "Email": "sip.nimes-est@dgfip.finances.gouv.fr",
+          "Téléphone": "04 66 36 56 33",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -106,7 +111,8 @@
             ],
             "Note": "également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -114,34 +120,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6112138,
-          44.160191
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-30028-01",
         "codeInsee": "30028",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Bagnols-sur-Cèze",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "24, avenue de l'Ancise",
+            "24 avenue de l'Ancise",
             "BP 162"
           ],
           "CodePostal": "30205",
-          "NomCommune": "Bagnols Cedex",
-          "Localisation": {
-            "Latitude": "44.160191",
-            "Longitude": "4.6112138",
-            "Précision": "6"
-          }
+          "NomCommune": "Bagnols sur Ceze Cedex"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 90 53 53",
-          "Email": "sip.bagnols-sur-ceze@dgfip.finances.gouv.fr",
+          "Téléphone": "04 66 90 53 53",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -160,7 +160,8 @@
             ],
             "Note": "également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -168,37 +169,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4122662,
-          44.01362
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-30334-01",
         "codeInsee": "30334",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques d'Uzès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, rue du 19-Mars-1962",
+          "Ligne": "1 rue du 19-Mars-1962",
           "CodePostal": "30701",
-          "NomCommune": "Uzès Cedex",
-          "Localisation": {
-            "Latitude": "44.01362",
-            "Longitude": "4.4122662",
-            "Précision": "6"
-          }
+          "NomCommune": "Uzès Cedex"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 03 47 50",
-          "Email": "sip-sie.uzes@dgfip.finances.gouv.fr",
+          "Téléphone": "04 66 03 47 50",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
-            "fin": "vendredi",
+            "fin": "lundi",
             "PlageH": [
               {
                 "début": "08:30:00",
@@ -211,7 +206,8 @@
             ],
             "Note": "également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -219,14 +215,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3650497,
-          43.840404
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-30189-03",
         "codeInsee": "30189",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Nîmes Sud",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -237,16 +233,10 @@
             "CS 70001"
           ],
           "CodePostal": "30048",
-          "NomCommune": "Nîmes Cedex 9",
-          "Localisation": {
-            "Latitude": "43.840404",
-            "Longitude": "4.3650497",
-            "Précision": "6"
-          }
+          "NomCommune": "Nîmes Cedex 9"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 36 56 34",
-          "Email": "sip.nimes-sud@dgfip.finances.gouv.fr",
+          "Téléphone": "04 66 36 56 34",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -265,7 +255,8 @@
             ],
             "Note": "également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -280,7 +271,7 @@
       "properties": {
         "id": "sip-30294-01",
         "codeInsee": "30294",
-        "dateMiseAJour": "2017-01-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques d'Alès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -300,7 +291,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 66 78 45 45",
-          "Email": "sip.ales@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -319,7 +309,8 @@
             ],
             "Note": "Fermé le jeudi, également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -334,7 +325,7 @@
       "properties": {
         "id": "sip-30350-01",
         "codeInsee": "30350",
-        "dateMiseAJour": "2014-12-04",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques du Vigan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -358,7 +349,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 99 92 02 00",
           "Télécopie": "+33 4 99 92 02 14",
-          "Email": "sip-sie.le-vigan@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -377,7 +367,8 @@
             ],
             "Note": "Accueil ouvert également sur rendez-vous."
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     }
   ]

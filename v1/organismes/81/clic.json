@@ -233,6 +233,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "clic-81163-01",
+        "codeInsee": "81163",
+        "dateMiseAJour": "2015-05-27",
+        "pivotLocal": "clic",
+        "idPresta": "clic-1006",
+        "Nom": "Point d'information local dédié aux personnes âgées - Mazamet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "38 rue de l'Armette",
+            "Centre local d'information et de coordination de Mazamet"
+          ],
+          "CodePostal": "81200",
+          "NomCommune": "Mazamet"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+ 33 5 63 97 58 58",
+          "Email": "maison-mazamet-ds@tarn.fr"
+        },
+        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.895931,
           43.900474
         ]

@@ -635,14 +635,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.034846,
-          42.7870846
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66017-01",
         "codeInsee": "66017",
-        "dateMiseAJour": "2013-01-10",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Barcarès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -654,24 +654,18 @@
           ],
           "CodePostal": "66420",
           "NomCommune": "Le Barcarès",
-          "Localisation": {
-            "Latitude": "42.7870846",
-            "Longitude": "3.034846",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "DEM"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 86 11 64",
-          "Télécopie": "+33 4 68 86 02 72",
+          "Téléphone": "04 68 86 11 64",
           "Email": "pij@lebarcares.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -687,10 +681,16 @@
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             },
             {
               "début": "jeudi",
@@ -990,6 +990,57 @@
                 "fin": "18:30:00"
               },
               "Note": "Ouverture pendant les vacances scolaires de 13h à 18h30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-66071-01",
+        "codeInsee": "66071",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Estagel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue Henri-Barbusse",
+          "CodePostal": "66310",
+          "NomCommune": "Estagel",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 29 06 34",
+          "Email": "mairie-estagel-pij@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
             }
           ]
         }
@@ -1393,62 +1444,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9856252,
-          42.7727992
+          null,
+          null
         ]
       },
       "properties": {
-        "id": "cij-66180-01",
-        "codeInsee": "66180",
-        "dateMiseAJour": "2013-03-05",
+        "id": "cij-66008-01",
+        "codeInsee": "66008",
+        "dateMiseAJour": "2017-09-11",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Saint-Laurent-de-la-Salanque",
+        "Nom": "Point information jeunesse - Argelès-sur-Mer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "20, avenue Joffre",
-            "CodePostal": "66250",
-            "NomCommune": "Saint-Laurent-de-la-Salanque",
-            "Localisation": {
-              "Latitude": "42.7727992",
-              "Longitude": "2.9856252",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Saint-Laurent-de-la-Salanque",
-              "Avenue Urbain-Paret"
-            ],
-            "CodePostal": "66250",
-            "NomCommune": "Saint-Laurent-de-la-Salanque",
-            "Localisation": {
-              "Latitude": "42.773662",
-              "Longitude": "2.988209",
-              "Précision": "6"
-            }
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Avenue du 11-Novembre",
+          "CodePostal": "66700",
+          "NomCommune": "Argelès-sur-Mer",
+          "Accessibilité": {
+            "type": "ACC"
           }
-        ],
+        },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 28 03 11",
-          "Télécopie": "+33 4 68 62 22 96",
-          "Email": "stlaurent.pij@wanadoo.fr",
-          "Url": "http://www.saint-laurent-salanque.com"
+          "Téléphone": "04 68 81 59 81",
+          "Email": "pij.cdc.alberes@wanadoo.fr",
+          "Url": "http://www.cidj.com"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "13:00:00",
-              "fin": "19:00:00"
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     },

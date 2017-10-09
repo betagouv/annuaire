@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.923508,
+          42.6907731
+        ]
+      },
+      "properties": {
+        "id": "paierie_departementale-66028-02",
+        "codeInsee": "66028",
+        "dateMiseAJour": "2015-03-05",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Pyrénées-Orientales",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "BP 449",
+            "5 rue Henri-Becquerel"
+          ],
+          "CodePostal": "66334",
+          "NomCommune": "Cabestany Cedex",
+          "Localisation": {
+            "Latitude": "42.6907731",
+            "Longitude": "2.923508",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 68 62 30 31",
+          "Email": "t066025@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

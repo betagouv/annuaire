@@ -13595,6 +13595,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-29061-01",
+        "codeInsee": "29061",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Gouesnou",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place des Fusillés",
+          "CodePostal": "29850",
+          "NomCommune": "Gouesnou",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 07 86 90",
+          "Télécopie": "02 98 07 78 47",
+          "Email": "accueil@mairie-gouesnou.fr",
+          "Url": "http://www.gouesnou.bzh"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Accueil ouvert de 8h30 à 12h et de 13h30 à 17h en juillet-août."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.87631011009,
           48.5577011108
         ]

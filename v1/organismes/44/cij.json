@@ -912,33 +912,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2028448,
-          47.3008426
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-44210-01",
         "codeInsee": "44210",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Trignac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Chemin Butte-de-Certé",
+          "Ligne": "Chemin de la Butte-de-Certé",
           "CodePostal": "44570",
           "NomCommune": "Trignac",
-          "Localisation": {
-            "Latitude": "47.3008426",
-            "Longitude": "-2.2028448",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 88 61 29",
+          "Téléphone": "02 40 88 61 29",
           "Email": "pij@startair.fr",
           "Url": "http://www.startair.fr/trignac"
         },
@@ -1304,6 +1299,49 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-44186-01",
+        "codeInsee": "44186",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Sainte-Pazanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "60-64 impasse de Vigneau",
+          "CodePostal": "44680",
+          "NomCommune": "Sainte-Pazanne",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "06 08 34 30 67 02 40 02 68 63",
+          "Email": "pij@pornicagglo.fr",
+          "Url": "http://www.infos-jeunes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous 06 08 34 30 67, déménagement en janvier 2015."
+          }
         }
       }
     },
@@ -2028,102 +2066,6 @@
               }
             ]
           }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6215085,
-          47.1726564
-        ]
-      },
-      "properties": {
-        "id": "cij-44020-01",
-        "codeInsee": "44020",
-        "dateMiseAJour": "2013-01-10",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Bouguenais",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "Place de la Croix-Jeannette",
-            "CodePostal": "44340",
-            "NomCommune": "Bouguenais",
-            "Localisation": {
-              "Latitude": "47.1726564",
-              "Longitude": "-1.6215085",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Service jeunesse",
-              "1, rue de la Commune-de-Paris"
-            ],
-            "CodePostal": "44340",
-            "NomCommune": "Bouguenais",
-            "Localisation": {
-              "Latitude": "47.1792251",
-              "Longitude": "-1.6188798",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 65 11 56",
-          "Email": "pij@ville-bouguenais.fr",
-          "Url": "http://www.ville-bouguenais.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "12:00:00",
-                "fin": "14:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert un samedi par mois selon le programme"
-            }
-          ]
         }
       }
     },

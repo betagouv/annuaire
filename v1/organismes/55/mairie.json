@@ -2669,6 +2669,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55138-01",
+        "codeInsee": "55138",
+        "dateMiseAJour": "2015-05-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Culey",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de la Mairie",
+          "CodePostal": "55000",
+          "NomCommune": "Culey"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 29 45 52 50"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.5385745,
           49.0184204
         ]
@@ -6258,6 +6285,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55567-01",
+        "codeInsee": "55567",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Ville-sur-Cousances",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue de la Guillotte",
+          "CodePostal": "55120",
+          "NomCommune": "Ville-sur-Cousances"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 67 46 58 13",
+          "Email": "mairie.villesurcousances@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.67752981186,
           49.0162010193
         ]
@@ -7036,6 +7101,57 @@
               "PlageH": {
                 "début": "10:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55575-01",
+        "codeInsee": "55575",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vouthon-Haut",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "13 Grande rue",
+          "CodePostal": "55130",
+          "NomCommune": "Vouthon-Haut",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 89 75 45",
+          "Email": "mairie.Vouthon-Haut@mcom.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "11:30:00"
               }
             }
           ]
@@ -9030,6 +9146,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55001-01",
+        "codeInsee": "55001",
+        "dateMiseAJour": "2017-09-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Abainville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Saint-Martin",
+          "CodePostal": "55130",
+          "NomCommune": "Abainville",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 89 65 52",
+          "Télécopie": "03 29 89 77 42",
+          "Email": "mairie.abainville@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.7175649,
           49.058287
         ]
@@ -9411,6 +9579,47 @@
             "PlageH": {
               "début": "16:00:00",
               "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55457-01",
+        "codeInsee": "55457",
+        "dateMiseAJour": "2017-08-31",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Hilaire-en-Woëvre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 bis rue du Moulin-de-Moncelle",
+          "CodePostal": "55160",
+          "NomCommune": "Saint-Hilaire-en-Woëvre",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 80 78 92",
+          "Email": "mairie55sainthilaireenwoevre@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "18:30:00"
             }
           }
         }
@@ -10586,6 +10795,57 @@
               "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55511-01",
+        "codeInsee": "55511",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Thonnelle",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "28 rue Henri-de-Prémorel",
+          "CodePostal": "55600",
+          "NomCommune": "Thonnelle",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 80 14 21",
+          "Email": "mairie.thonnelle@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
                 "fin": "12:00:00"
               }
             }
@@ -13484,6 +13744,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55315-01",
+        "codeInsee": "55315",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mandres en Barrois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la Mairie",
+          "CodePostal": "55290",
+          "NomCommune": "Mandres-en-Barrois"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 75 97 81"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "11:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.11288022995,
           48.6693992615
         ]
@@ -15825,6 +16122,48 @@
             "PlageH": {
               "début": "13:30:00",
               "fin": "16:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55484-01",
+        "codeInsee": "55484",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Septsarges",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Haute",
+          "CodePostal": "55270",
+          "NomCommune": "Septsarges",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 85 14 92",
+          "Télécopie": "03 29 85 14 92",
+          "Email": "mairie.septsarges@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
             }
           }
         }
@@ -20470,6 +20809,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55506-01",
+        "codeInsee": "55506",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Thillombois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 grande rue",
+          "CodePostal": "55260",
+          "NomCommune": "Thillombois"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 75 05 65",
+          "Télécopie": "03 29 75 05 65",
+          "Email": "mairie.thillombois@cc-entre-air-et-meuse.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.4037709,
           49.3064802
         ]
@@ -20769,6 +21147,57 @@
               "fin": "10:30:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55384-01",
+        "codeInsee": "55384",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Nicey-sur-Aire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Dite-Voie-de-Latte",
+          "CodePostal": "55260",
+          "NomCommune": "Nicey-sur-Aire",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 75 01 20",
+          "Email": "nicey-sur-aire.mairie@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -21254,6 +21683,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55356-01",
+        "codeInsee": "55356",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moranville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Haute",
+          "CodePostal": "55400",
+          "NomCommune": "Moranville",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 62 21 80 72",
+          "Télécopie": "03 29 88 33 76",
+          "Email": "commune.moranville@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "13:00:00"
+            }
+          }
         }
       }
     },
@@ -22418,6 +22889,59 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55347-01",
+        "codeInsee": "55347",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie des Monthairons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place de la Mairie",
+          "CodePostal": "55320",
+          "NomCommune": "Les Monthairons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 85 72 77",
+          "Télécopie": "03 29 85 72 77",
+          "Email": "mairie.lesmonthairons@wanadoo.fr",
+          "Url": "http://www.communedesmonthairons.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:30:00"
               }
             }
           ]
@@ -24919,6 +25443,57 @@
               "PlageH": {
                 "début": "13:15:00",
                 "fin": "15:15:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-55362-01",
+        "codeInsee": "55362",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moulins-Saint-Hubert",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 Grande rue",
+          "CodePostal": "55700",
+          "NomCommune": "Moulins-Saint-Hubert",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 80 45 89",
+          "Email": "mairiedemoulinssainthubert@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
               }
             }
           ]

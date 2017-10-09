@@ -13,7 +13,7 @@
       "properties": {
         "id": "sie-13005-01",
         "codeInsee": "13005",
-        "dateMiseAJour": "2017-09-05",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "sie",
         "Nom": "Service des impôts des entreprises du centre des finances publiques d'Aubagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -404,60 +404,6 @@
         ]
       },
       "properties": {
-        "id": "sie-13216-01",
-        "codeInsee": "13216",
-        "dateMiseAJour": "2016-02-12",
-        "pivotLocal": "sie",
-        "Nom": "Service des impôts des entreprises du centre des finances publiques de Marseille 16e arrondissement",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "3, place Sadi-Carnot",
-            "CS 90112"
-          ],
-          "CodePostal": "13235",
-          "NomCommune": "Marseille Cedex 2",
-          "Localisation": {
-            "Latitude": "43.2992593",
-            "Longitude": "5.3713221",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 91 99 12 48",
-          "Email": "sie.marseille-2e-15e-16e@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "fermé le jeudi"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3713221,
-          43.2992593
-        ]
-      },
-      "properties": {
         "id": "sie-13214-01",
         "codeInsee": "13214",
         "dateMiseAJour": "2017-09-12",
@@ -518,7 +464,7 @@
       "properties": {
         "id": "sie-13208-01",
         "codeInsee": "13208",
-        "dateMiseAJour": "2017-06-21",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "sie",
         "Nom": "Service des impôts des entreprises du centre des finances publiques de Marseille 1er et 8e arrondissement",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -526,7 +472,7 @@
           "type": "géopostale",
           "Ligne": [
             "CS 90001",
-            "22, rue Borde"
+            "22 rue Borde"
           ],
           "CodePostal": "13417",
           "NomCommune": "Marseille Cedex 8",
@@ -547,38 +493,21 @@
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ],
-              "Note": "Accueil également sur rendez-vous."
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ],
-              "Note": "Accueil également sur rendez-vous."
-            }
-          ]
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil également sur rendez-vous. Fermé le jeudi"
+          }
         }
       }
     },
@@ -632,60 +561,6 @@
               }
             ],
             "Note": "Fermé le jeudi."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.4208522,
-          43.3065472
-        ]
-      },
-      "properties": {
-        "id": "sie-13204-01",
-        "codeInsee": "13204",
-        "dateMiseAJour": "2015-10-21",
-        "pivotLocal": "sie",
-        "Nom": "Service des impôts des entreprises du centre des finances publiques de Marseille 4e arrondissement",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "79, avenue de Saint-Julien",
-            "CS 70094"
-          ],
-          "CodePostal": "13377",
-          "NomCommune": "Marseille Cedex 12",
-          "Localisation": {
-            "Latitude": "43.3065472",
-            "Longitude": "5.4208522",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 91 24 54 10",
-          "Email": "sie.marseille-4e-13e@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "également sur rendez-vous. Fermé le jeudi"
           }
         }
       }

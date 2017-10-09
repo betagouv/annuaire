@@ -392,6 +392,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25102-01",
+        "codeInsee": "25102",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Burnevillers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 route de la Suisse",
+          "CodePostal": "25470",
+          "NomCommune": "Burnevillers",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 44 45 82",
+          "Télécopie": "03 81 44 45 82",
+          "Email": "mairie.burnevillers25@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "16:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.91421985626,
           47.1086997986
         ]
@@ -574,6 +616,45 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25435-01",
+        "codeInsee": "25435",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Orsans",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 Ter Route Départementale",
+          "CodePostal": "25530",
+          "NomCommune": "Orsans"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "06 75 43 80 55",
+          "Télécopie": "03 81 60 46 64",
+          "Email": "guy.parola@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "19:00:00",
+              "fin": "20:00:00"
+            }
+          }
         }
       }
     },
@@ -2266,14 +2347,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.36012983322,
-          47.2364997864
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25520-01",
         "codeInsee": "25520",
-        "dateMiseAJour": "2007-11-22",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Juan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2281,16 +2362,11 @@
           "type": "géopostale",
           "Ligne": "10 rue chalet",
           "CodePostal": "25360",
-          "NomCommune": "ST JUAN",
-          "Localisation": {
-            "Latitude": "47.2364997864",
-            "Longitude": "6.36012983322",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Juan"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 60 42 79",
-          "Télécopie": "+33 3 81 50 46 37"
+          "Téléphone": "03.81.60.43.58",
+          "Url": "http://www.cc-paysbaumois.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -2600,6 +2676,54 @@
               "PlageH": {
                 "début": "09:30:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25070-01",
+        "codeInsee": "25070",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Bolandoz",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de l'Eglise",
+          "CodePostal": "25330",
+          "NomCommune": "Bolandoz"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 86 53 32",
+          "Email": "mairie.bolandoz@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
               }
             }
           ]
@@ -5983,6 +6107,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25371-01",
+        "codeInsee": "25371",
+        "dateMiseAJour": "2017-08-17",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mazerolles-le-Salin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place de l'Église",
+          "CodePostal": "25170",
+          "NomCommune": "Mazerolles-le-Salin",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 58 50 05",
+          "Télécopie": "03 81 58 50 05",
+          "Email": "mairie.mazerolleslesalin@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:45:00",
+                "fin": "11:45:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.4329782,
           47.3391719
         ]
@@ -6021,6 +6197,34 @@
               "fin": "12:00:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25283-01",
+        "codeInsee": "25283",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Goux Sous Landet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 bis rue de la Fromagerie",
+          "CodePostal": "25440",
+          "NomCommune": "Goux sous Landet"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 63 82 49",
+          "Email": "mairie.gouxsouslandet@orange.fr"
         }
       }
     },
@@ -6734,41 +6938,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.26810693741,
-          47.3615913391
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25579-01",
         "codeInsee": "25579",
-        "dateMiseAJour": "2007-12-04",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Val De Roulans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "6 rue cerisiers",
+          "Ligne": "6 rue des Cerisiers",
           "CodePostal": "25640",
-          "NomCommune": "VAL DE ROULANS",
-          "Localisation": {
-            "Latitude": "47.3615913391",
-            "Longitude": "6.26810693741",
-            "Précision": "8"
-          }
+          "NomCommune": "Val-de-Roullans"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 63 27 40",
-          "Email": "mairievalderoulans@wanadoo.fr"
+          "Téléphone": "03 81 63 20 78",
+          "Télécopie": "03 81 63 23 82",
+          "Email": "mairie.valderoulans@gmail.com",
+          "Url": "http://www.ccva.fr/val-de-roulans.html"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "samedi",
-            "fin": "samedi",
-            "PlageH": {
-              "début": "10:00:00",
-              "fin": "12:00:00"
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     },
@@ -7002,6 +7219,47 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25587-01",
+        "codeInsee": "25587",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vauchamps",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Cornet",
+          "CodePostal": "25360",
+          "NomCommune": "Vauchamps",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 60 12 35",
+          "Email": "mairie.vauchamps@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "13:00:00",
+              "fin": "17:00:00"
+            }
+          }
         }
       }
     },
@@ -7339,6 +7597,43 @@
             "PlageH": {
               "début": "10:00:00",
               "fin": "11:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25355-01",
+        "codeInsee": "25355",
+        "dateMiseAJour": "2017-08-30",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Magny Châtelard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 Grande Rue",
+          "CodePostal": "25360",
+          "NomCommune": "Magny- Chatelârd"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 63 01 87"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
             }
           }
         }
@@ -7886,6 +8181,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25401-01",
+        "codeInsee": "25401",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montivernage",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 Grande rue",
+          "CodePostal": "25110",
+          "NomCommune": "Montivernage",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 60 42 70",
+          "Email": "mairie.montivernage@packsurfwisi.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "16:00:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Permanence du maire"
+          }
         }
       }
     },
@@ -8510,31 +8847,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.68624401093,
-          47.2183494568
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25504-01",
         "codeInsee": "25504",
-        "dateMiseAJour": "2007-11-27",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rosureux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Lieu dit au village",
+          "Ligne": "2 Place de l'Eglise",
           "CodePostal": "25380",
-          "NomCommune": "ROSUREUX",
-          "Localisation": {
-            "Latitude": "47.2183494568",
-            "Longitude": "6.68624401093",
-            "Précision": "4"
-          }
+          "NomCommune": "Rosureux"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 64 25 17",
-          "Télécopie": "+33 3 81 64 25 17",
+          "Téléphone": "09 67 21 25 17",
+          "Télécopie": "03 81 64 25 17",
           "Email": "mairie.rosureux@wanadoo.fr"
         },
         "Ouverture": {
@@ -9020,6 +9352,46 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25436-01",
+        "codeInsee": "25436",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Orve",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "M. Joseph Courgey (Maire)",
+            "2 route Rahon"
+          ],
+          "CodePostal": "25430",
+          "NomCommune": "Orve"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 86 82 96"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "18:00:00"
+            }
+          }
         }
       }
     },
@@ -9632,6 +10004,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25483-01",
+        "codeInsee": "25483",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Reculfoz",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 route des Combes-Derniers",
+          "CodePostal": "25240",
+          "NomCommune": "Reculfoz",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 69 13 81",
+          "Télécopie": "03 81 69 13 81",
+          "Email": "mairie.reculfoz@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "15:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.3987779,
           47.1832266
         ]
@@ -9781,6 +10195,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25516-01",
+        "codeInsee": "25516",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Georges-Armont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue de l'Église",
+          "CodePostal": "25340",
+          "NomCommune": "Saint-Georges-Armont",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 93 87 03",
+          "Télécopie": "03 81 93 87 03",
+          "Email": "mairie.saint-georges-armont@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "12:00:00"
+            }
+          }
         }
       }
     },
@@ -9966,6 +10422,55 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "16:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25489-01",
+        "codeInsee": "25489",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Reugney",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 grande rue",
+          "CodePostal": "25330",
+          "NomCommune": "Reugney"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 86 52 26",
+          "Email": "commune.de.reugney@orange.fr",
+          "Url": "http://www.reugney.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "10:00:00"
               }
             }
           ]
@@ -10294,14 +10799,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.90103816986,
-          47.1742591858
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25561-01",
         "codeInsee": "25561",
-        "dateMiseAJour": "2011-01-06",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Thoraise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10309,15 +10814,33 @@
           "type": "géopostale",
           "Ligne": "1 rue de Surotte",
           "CodePostal": "25320",
-          "NomCommune": "THORAISE",
-          "Localisation": {
-            "Latitude": "47.1742591858",
-            "Longitude": "5.90103816986",
-            "Précision": "6"
-          }
+          "NomCommune": "Thoraise"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 56 61 64"
+          "Téléphone": "03 81 56 61 64",
+          "Télécopie": "09 80 32 46 73",
+          "Email": "mairie.thoraise@free.fr",
+          "Url": "http://www.grandbesancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:30:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -10515,6 +11038,65 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25402-01",
+        "codeInsee": "25402",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montjoie-le-Château",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "25190",
+          "NomCommune": "Montjoie-le-Château",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 93 90 58",
+          "Télécopie": "03 81 93 90 58"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -11438,14 +12020,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.60120487213,
-          47.3507041931
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25595-01",
         "codeInsee": "25595",
-        "dateMiseAJour": "2004-09-09",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vellerot Lès Belvoir",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11453,23 +12035,18 @@
           "type": "géopostale",
           "Ligne": "lieu dit Revireils",
           "CodePostal": "25430",
-          "NomCommune": "VELLEROT LES BELVOIR",
-          "Localisation": {
-            "Latitude": "47.3507041931",
-            "Longitude": "6.60120487213",
-            "Précision": "4"
-          }
+          "NomCommune": "Vellerot-lès-Bellevoir"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 86 32 42"
+          "Téléphone": "03 81 86 32 42"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
+            "début": "jeudi",
+            "fin": "jeudi",
             "PlageH": {
-              "début": "17:00:00",
-              "fin": "18:00:00"
+              "début": "17:30:00",
+              "fin": "18:30:00"
             }
           }
         }
@@ -11633,6 +12210,67 @@
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25518-01",
+        "codeInsee": "25518",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Hilaire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de la Mairie",
+          "CodePostal": "25640",
+          "NomCommune": "Saint-Hilaire"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 63 22 80",
+          "Télécopie": "03 81 63 20 78",
+          "Email": "mairiedesainthilaire@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -12879,6 +13517,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25443-01",
+        "codeInsee": "25443",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Palentine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 grande rue",
+          "CodePostal": "25440",
+          "NomCommune": "Palantine"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 63 63 70",
+          "Email": "communedepalantine@orange.fr",
+          "Url": "http://www.canton-quingey.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.4766708,
           47.0028963
         ]
@@ -12943,34 +13620,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8075299263,
-          47.271900177
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25091-01",
         "codeInsee": "25091",
-        "dateMiseAJour": "2017-02-21",
+        "dateMiseAJour": "2017-09-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie des Bréseux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "35 rue Principale",
+          "Ligne": "4 rue Manessier",
           "CodePostal": "25120",
           "NomCommune": "Les Bréseux",
-          "Localisation": {
-            "Latitude": "47.271900177",
-            "Longitude": "6.8075299263",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 64 13 23",
-          "Télécopie": "+33 3 81 64 13 23",
+          "Téléphone": "03 81 64 13 23",
+          "Télécopie": "03 81 64 13 23",
           "Email": "mairiedesbreseux@orange.fr"
         },
         "Ouverture": {
@@ -12984,8 +13656,8 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "12:30:00",
-                  "fin": "17:30:00"
+                  "début": "14:00:00",
+                  "fin": "17:15:00"
                 }
               ]
             },
@@ -12998,7 +13670,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "15:30:00",
+                  "début": "14:00:00",
                   "fin": "17:45:00"
                 }
               ]
@@ -13201,6 +13873,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25376-01",
+        "codeInsee": "25376",
+        "dateMiseAJour": "2017-08-17",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mérey-Vieilley",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue des Fontaines-Lavoirs",
+          "CodePostal": "25870",
+          "NomCommune": "Mérey-Vieilley",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 57 87 51",
+          "Télécopie": "03 81 57 87 51",
+          "Email": "mairiedemerey@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "14:30:00",
+              "fin": "19:30:00"
+            }
+          }
         }
       }
     },
@@ -15165,6 +15879,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25507-01",
+        "codeInsee": "25507",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rouhe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 chemin de l'École",
+          "CodePostal": "25440",
+          "NomCommune": "Rouhe",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 63 89 47",
+          "Télécopie": "03 81 63 89 47",
+          "Email": "communerouhe@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "17:30:00",
+              "fin": "19:00:00"
+            },
+            "Note": "Uniquement le 1er et le 3e mardi du mois"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.79638004303,
           47.5340003967
         ]
@@ -16655,6 +17412,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25179-01",
+        "codeInsee": "25179",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie du Crouzet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 route des Champs-Cloisiers",
+          "CodePostal": "25240",
+          "NomCommune": "Le Crouzet",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 69 15 02",
+          "Télécopie": "03 81 69 15 02",
+          "Email": "mairielecrouzet@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "15:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.212548,
           47.064357
         ]
@@ -16947,6 +17746,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25296-01",
+        "codeInsee": "25296",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie des Gras",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place de la Libération",
+          "CodePostal": "25790",
+          "NomCommune": "Les Gras",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 68 80 23",
+          "Email": "mairie.lesgras@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.35049009323,
           46.792098999
         ]
@@ -17126,6 +17966,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25007-01",
+        "codeInsee": "25007",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Adam-lès-Vercel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "28 rue Principale",
+          "CodePostal": "25530",
+          "NomCommune": "Adam-lès-Vercel",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 58 98 85",
+          "Télécopie": "03 81 58 98 85",
+          "Email": "adamlesvercel@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "11:00:00",
+              "fin": "12:00:00"
+            }
+          }
         }
       }
     },
@@ -18229,14 +19111,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.26350498199,
-          47.3980865479
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25506-01",
         "codeInsee": "25506",
-        "dateMiseAJour": "2007-11-22",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rougemontot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18244,25 +19126,20 @@
           "type": "géopostale",
           "Ligne": "rue Principale",
           "CodePostal": "25640",
-          "NomCommune": "ROUGEMONTOT",
-          "Localisation": {
-            "Latitude": "47.3980865479",
-            "Longitude": "6.26350498199",
-            "Précision": "6"
-          }
+          "NomCommune": "Rougemontot"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 86 17 11",
-          "Télécopie": "+33 3 81 86 17 11",
+          "Téléphone": "03 81 86 17 11",
+          "Télécopie": "03 81 86 17 11",
           "Email": "mairie.rougemontot@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "jeudi",
-            "fin": "jeudi",
+            "début": "mercredi",
+            "fin": "mercredi",
             "PlageH": {
-              "début": "16:00:00",
-              "fin": "18:00:00"
+              "début": "08:30:00",
+              "fin": "10:30:00"
             }
           }
         }
@@ -24112,31 +24989,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.13681697845,
-          47.334022522
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25117-01",
         "codeInsee": "25117",
-        "dateMiseAJour": "2011-01-06",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Champoux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Hôtel de ville",
+          "Ligne": "10 Grande rue",
           "CodePostal": "25640",
-          "NomCommune": "CHAMPOUX",
-          "Localisation": {
-            "Latitude": "47.334022522",
-            "Longitude": "6.13681697845",
-            "Précision": "4"
-          }
+          "NomCommune": "Champoux"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 62 54 85"
-        }
+          "Téléphone": "03 81 62 54 85",
+          "Télécopie": "03 81 62 54 85",
+          "Url": "www.grandbesancon.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "10:00:00"
+            }
+          }
+        },
+        "Commentaire": "Le 1er et troisième samedi et  sur rendez-vous au 06 76 12 94 03"
       }
     },
     {
@@ -25041,6 +25926,44 @@
             "PlageH": {
               "début": "15:00:00",
               "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25465-01",
+        "codeInsee": "25465",
+        "dateMiseAJour": "2017-09-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Pont Les Moulins",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 Grande rue",
+          "CodePostal": "25110",
+          "NomCommune": "Pont-les-Moulins"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03.81.88.71.17",
+          "Email": "mairie.pontlesmoulins@gmail.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:00:00"
             }
           }
         }
@@ -26179,6 +27102,74 @@
                 "début": "15:30:00",
                 "fin": "18:45:00"
               }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25539-01",
+        "codeInsee": "25539",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Seloncourt",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place du 8-Mai",
+            "BP 9"
+          ],
+          "CodePostal": "25230",
+          "NomCommune": "Seloncourt",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 34 11 31",
+          "Télécopie": "03 81 37 19 94",
+          "Email": "contact@mairie-seloncourt.fr",
+          "Url": "http://www.seloncourt.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
             }
           ]
         }
@@ -30069,6 +31060,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25095-01",
+        "codeInsee": "25095",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Bretonvillers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Fondereau",
+          "CodePostal": "25380",
+          "NomCommune": "Bretonvillers",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 44 32 36",
+          "Télécopie": "03 81 44 32 36",
+          "Email": "mairie.bretonvillers25@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.0249119,
           47.19924
         ]
@@ -30595,14 +31652,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.31452608109,
-          47.2552528381
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25166-01",
         "codeInsee": "25166",
-        "dateMiseAJour": "2007-12-04",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Côtebrune",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -30610,26 +31667,14 @@
           "type": "géopostale",
           "Ligne": "2 rue des Tilleuls",
           "CodePostal": "25360",
-          "NomCommune": "COTEBRUNE",
-          "Localisation": {
-            "Latitude": "47.2552528381",
-            "Longitude": "6.31452608109",
-            "Précision": "4"
-          }
+          "NomCommune": "Côtebrune"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 55 24 69"
+          "Téléphone": "03.81.41.02.48",
+          "Email": "mairie.cotebrune@orange.fr",
+          "Url": "http://www.cc-paysbaumois.fr"
         },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "lundi",
-            "PlageH": {
-              "début": "08:00:00",
-              "fin": "12:00:00"
-            }
-          }
-        }
+        "Commentaire": "Permanence(s) de la Mairie : Pas de permanence"
       }
     },
     {
@@ -30676,6 +31721,44 @@
               "fin": "12:30:00"
             },
             "Note": "Accueil ouvert sur rendez-vous du lundi au vendredi."
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25491-01",
+        "codeInsee": "25491",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rignosot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue de la Mairie",
+          "CodePostal": "25640",
+          "NomCommune": "Rignosot"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 86 04 12",
+          "Télécopie": "03 81 86 04 12"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "18:30:00"
+            }
           }
         }
       }
@@ -32264,6 +33347,58 @@
           "Télécopie": "+33 3 81 63 28 57",
           "Email": "mairie@roulans.fr",
           "Url": "http://www.roulans.fr"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-25225-01",
+        "codeInsee": "25225",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Étrabonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "17 Grande rue",
+          "CodePostal": "25170",
+          "NomCommune": "Étrabonne",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 81 58 20 87",
+          "Télécopie": "03 81 58 20 87",
+          "Email": "mairieetrabonne@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
         }
       }
     },

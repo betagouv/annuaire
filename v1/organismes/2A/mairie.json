@@ -5677,6 +5677,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-2A240-01",
+        "codeInsee": "2A240",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Poggiolo",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "20125",
+          "NomCommune": "Poggiolo",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 95 28 39 90",
+          "Télécopie": "04 95 28 31 72",
+          "Email": "commune-de-poggiolo@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "16:00:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.978851,
           41.868434
         ]

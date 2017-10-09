@@ -121,6 +121,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "accompagnement_personnes_agees-62193-01",
+        "codeInsee": "62193",
+        "dateMiseAJour": "2016-08-26",
+        "pivotLocal": "accompagnement_personnes_agees",
+        "Nom": "Plateforme d'accompagnement et de répit - Calais",
+        "EditeurSource": "Caisse nationale de solidarité pour l'autonomie",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1601 boulevard des Justes",
+            "EHPAD La Roselière",
+            "Plateforme de Répit de Calais"
+          ],
+          "CodePostal": "62100",
+          "NomCommune": "Calais"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 3 62 61 51 00"
+        },
+        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.866865,
           50.401526
         ]

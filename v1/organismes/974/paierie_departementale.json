@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.292247,
+          -20.947137
+        ]
+      },
+      "properties": {
+        "id": "paierie_departementale-97411-02",
+        "codeInsee": "97411",
+        "dateMiseAJour": "2017-07-06",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Réunion",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "4 rue Amiral Lacaze",
+            "CS 41008"
+          ],
+          "CodePostal": "97744",
+          "NomCommune": "Saint-Denis Cedex 9",
+          "Localisation": {
+            "Latitude": "-20.947137",
+            "Longitude": "55.292247",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 62 41 50 82",
+          "Email": "t104090@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "12:30:00"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -247,6 +247,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-04216-01",
+        "codeInsee": "04216",
+        "dateMiseAJour": "2016-11-14",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Thèze - Bastides-du-Bearn",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "Rue des Pyrénées",
+          "CodePostal": "64450",
+          "NomCommune": "Thèze"
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.theze-bastides-du-bearn@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/theze-bastides-du-bearn-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.510301,
           43.846173
         ]
@@ -289,6 +317,37 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-04135-01",
+        "codeInsee": "04135",
+        "dateMiseAJour": "2016-10-10",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Moustiers-Sainte-Marie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": [
+            "Centre administratif",
+            "rue du Seigneur de la Clue"
+          ],
+          "CodePostal": "04360",
+          "NomCommune": "Moustiers-Sainte-Marie"
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.moustiers-sainte-marie@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/moustiers-sainte-marie-bureau-de-poste"
         }
       }
     },
@@ -510,6 +569,64 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-04008-01",
+        "codeInsee": "04008",
+        "dateMiseAJour": "2016-11-16",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Annot",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": [
+            "Place du Germe",
+            "Résidence Le Campus"
+          ],
+          "CodePostal": "04240",
+          "NomCommune": "Annot"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 92 30 07 90",
+          "Email": "eref-st-andre@wanadoo.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/annot-entrevaux-0"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]

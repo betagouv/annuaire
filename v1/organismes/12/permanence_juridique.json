@@ -49,15 +49,18 @@
       },
       "properties": {
         "codeInsee": "12300",
-        "dateMiseAJour": "2017-03-09",
+        "dateMiseAJour": "2017-09-26",
         "id": "permanence_juridique-12300-01",
         "idPresta": "4f7d5fc72935943a46000022",
         "pivotLocal": "permanence_juridique",
         "Nom": "Point d'accès au droit de Villefranche de Rouergue",
-        "EditeurSource": "Script automatique Easter-eggs",
+        "EditeurSource": "Comarquage.fr",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Bâtiment \"INTERACTIS\" - chemin de Treize Pierres",
+          "Ligne": [
+            "Centre Social",
+            "19, rue du Sergent Bories"
+          ],
           "CodePostal": "12200",
           "NomCommune": "VILLEFRANCHE DE ROUERGUE",
           "Localisation": {
@@ -67,6 +70,7 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "+33 5 65 45 38 70",
           "Email": "mailto:cdad-aveyron@justice.fr",
           "Sve": "http://www.justice.gouv.fr/sve"
         }

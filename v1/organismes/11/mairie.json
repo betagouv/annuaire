@@ -403,6 +403,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11292-01",
+        "codeInsee": "11292",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de La Pomarède",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Château",
+          "CodePostal": "11400",
+          "NomCommune": "La Pomarède",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 60 40 52",
+          "Télécopie": "04 68 60 40 52",
+          "Email": "mairie-la-pomarede@orange.fr",
+          "Url": "http://www.lapomarede-lauragais.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.72465991974,
           43.2541007996
         ]
@@ -2452,6 +2505,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11257-01",
+        "codeInsee": "11257",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Monze",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3, rue du Cinsault",
+          "CodePostal": "11800",
+          "NomCommune": "Monze",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 78 85 39",
+          "Télécopie": "04 68 76 45 77",
+          "Email": "mairiedemonze@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "12:30:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.200463,
           42.739281
         ]
@@ -2659,6 +2778,49 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11331-01",
+        "codeInsee": "11331",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Amans",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue de la Mairie",
+          "CodePostal": "11270",
+          "NomCommune": "Saint-Amans",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 60 52 21",
+          "Télécopie": "04 68 60 52 21",
+          "Email": "commune-st-amans@orange.fr",
+          "Url": "http://www.maires-aude.fr/association-des-maires-de-laude/mairies/saint-amans"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:30:00"
+            }
+          }
         }
       }
     },
@@ -6847,6 +7009,48 @@
               "Note": "Horaires d'été du 8 juillet au 2 septembre : du lundi au samedi de 8h à 13h."
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11093-01",
+        "codeInsee": "11093",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie du Clat",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "11140",
+          "NomCommune": "Le Clat",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 20 62 89",
+          "Télécopie": "04 68 20 62 89",
+          "Email": "mairie.leclat@nordnet.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:00:00"
+            }
+          }
         }
       }
     },
@@ -15706,6 +15910,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11402-01",
+        "codeInsee": "11402",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Valmigère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue du Bac",
+          "CodePostal": "11580",
+          "NomCommune": "Valmigère",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 69 61 19",
+          "Email": "communevalmigere@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.63102006912,
           43.106098175
         ]
@@ -15853,6 +16098,58 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-11440-01",
+        "codeInsee": "11440",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Villetritouls",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2, rue de la Mairie",
+          "CodePostal": "11220",
+          "NomCommune": "Villetritouls",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 24 08 93",
+          "Télécopie": "04 68 24 00 82",
+          "Email": "commune-villetritouls@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },

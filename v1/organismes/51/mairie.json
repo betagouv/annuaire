@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.33844518661,
-          49.1595458984
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51031-01",
         "codeInsee": "51031",
-        "dateMiseAJour": "2017-06-27",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Baconnes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -21,15 +21,12 @@
           "type": "géopostale",
           "Ligne": "place de la Gloye",
           "CodePostal": "51400",
-          "NomCommune": "BACONNES",
-          "Localisation": {
-            "Latitude": "49.1595458984",
-            "Longitude": "4.33844518661",
-            "Précision": "4"
-          }
+          "NomCommune": "Baconnes"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 26 66 13 77"
+          "Téléphone": "03 26 66 13 77",
+          "Email": "mairie.baconnes@wanadoo.fr",
+          "Url": "http://www.baconnes-village-fleuri.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -38,7 +35,7 @@
               "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "11:00:00"
+                "fin": "12:00:00"
               }
             },
             {
@@ -176,6 +173,47 @@
               ]
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51235-01",
+        "codeInsee": "51235",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie des Essarts-lès-Sézanne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22, Grande rue",
+          "CodePostal": "51120",
+          "NomCommune": "Les Essarts-lès-Sézanne",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 80 50 74",
+          "Email": "mairie-lesessarts@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },
@@ -733,14 +771,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.74961614609,
-          49.1865158081
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51355-01",
         "codeInsee": "51355",
-        "dateMiseAJour": "2004-09-13",
+        "dateMiseAJour": "2017-09-29",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Massiges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -748,23 +786,20 @@
           "type": "géopostale",
           "Ligne": "1 rue Chantereine",
           "CodePostal": "51800",
-          "NomCommune": "MASSIGES",
-          "Localisation": {
-            "Latitude": "49.1865158081",
-            "Longitude": "4.74961614609",
-            "Précision": "6"
-          }
+          "NomCommune": "Massiges"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 91 62"
+          "Téléphone": "03 26 60 44 00",
+          "Email": "commune.massiges@wanadoo.fr",
+          "Url": "https://www.argonnechampenoise.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
             "fin": "lundi",
             "PlageH": {
-              "début": "18:00:00",
-              "fin": "19:00:00"
+              "début": "14:00:00",
+              "fin": "16:00:00"
             }
           }
         }
@@ -1546,14 +1581,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.74364304543,
-          48.6179924011
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51511-01",
         "codeInsee": "51511",
-        "dateMiseAJour": "2007-11-16",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Quentin le Verger",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1561,24 +1596,19 @@
           "type": "géopostale",
           "Ligne": "rue de Charmont",
           "CodePostal": "51120",
-          "NomCommune": "ST QUENTIN LE VERGER",
-          "Localisation": {
-            "Latitude": "48.6179924011",
-            "Longitude": "3.74364304543",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Quentin-le-Verger"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 80 28 44",
-          "Télécopie": "+33 3 26 80 28 44"
+          "Téléphone": "03 26 80 28 44",
+          "Télécopie": "03 26 80 28 44"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
+            "début": "lundi",
+            "fin": "lundi",
             "PlageH": {
-              "début": "17:30:00",
-              "fin": "19:00:00"
+              "début": "18:00:00",
+              "fin": "19:30:00"
             }
           }
         }
@@ -2465,6 +2495,47 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51350-01",
+        "codeInsee": "51350",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Margny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place René-Very",
+          "CodePostal": "51210",
+          "NomCommune": "Margny",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 80 98 40",
+          "Email": "mairiemargny@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "18:30:00"
+            }
+          }
         }
       }
     },
@@ -4419,38 +4490,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.66689014435,
-          49.1009864807
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51547-01",
         "codeInsee": "51547",
-        "dateMiseAJour": "2007-11-30",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Somme Tourbe",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "1 rue du Pont",
           "CodePostal": "51600",
-          "NomCommune": "SOMME TOURBE",
-          "Localisation": {
-            "Latitude": "49.1009864807",
-            "Longitude": "4.66689014435",
-            "Précision": "4"
-          }
+          "NomCommune": "Somme-Tourbe"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 97 13",
+          "Téléphone": "03 26 60 97 13",
           "Email": "commune.sommetourbe@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "vendredi",
-            "fin": "vendredi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": {
-              "début": "18:00:00",
+              "début": "17:00:00",
               "fin": "19:00:00"
             }
           }
@@ -5474,14 +5540,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7859008,
-          49.0533771
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51274-01",
         "codeInsee": "51274",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Gizaucourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5490,11 +5556,6 @@
           "Ligne": "3 Grande rue",
           "CodePostal": "51800",
           "NomCommune": "Gizaucourt",
-          "Localisation": {
-            "Latitude": "49.0533771",
-            "Longitude": "4.7859008",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -5506,8 +5567,8 @@
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "lundi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": {
               "début": "16:00:00",
               "fin": "18:00:00"
@@ -6795,6 +6856,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51348-01",
+        "codeInsee": "51348",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Marfaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de l'Eglise",
+          "CodePostal": "51170",
+          "NomCommune": "Marfaux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 61 81 61"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "13:15:00",
+              "fin": "16:15:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.4646395,
           49.1697547
         ]
@@ -7538,14 +7636,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.715224,
-          49.238818
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51255-01",
         "codeInsee": "51255",
-        "dateMiseAJour": "2017-08-08",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Fontaine en Dormois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7553,15 +7651,12 @@
           "type": "géopostale",
           "Ligne": "rue du Seigneur Raoul Buri",
           "CodePostal": "51800",
-          "NomCommune": "Fontaine en Dormois",
-          "Localisation": {
-            "Latitude": "49.238818",
-            "Longitude": "4.715224",
-            "Précision": "6"
-          }
+          "NomCommune": "Fontaine en Dormois"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 26 60 41 54"
+          "Téléphone": "03 26 60 41 02",
+          "Télécopie": "03 26 60 06 97",
+          "Email": "maryse51dudormois@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -8668,6 +8763,40 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51353-01",
+        "codeInsee": "51353",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Marsangis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Grande Rue",
+          "CodePostal": "51260",
+          "NomCommune": "Marsangis"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:30:00"
+            }
+          }
         }
       }
     },
@@ -9935,6 +10064,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51111-01",
+        "codeInsee": "51111",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Chambrecy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Saint-Julien",
+          "CodePostal": "51170",
+          "NomCommune": "Chambrecy",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 97 67 19",
+          "Email": "mairie.chambrecy@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "16:30:00",
+              "fin": "18:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.8327383,
           48.6804546
         ]
@@ -10336,6 +10506,45 @@
             "PlageH": {
               "début": "11:00:00",
               "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51132-01",
+        "codeInsee": "51132",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Les Charmontois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Louis Patizel",
+          "CodePostal": "51330",
+          "NomCommune": "Les Charmontois"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 60 35 89",
+          "Email": "mairie-charmontois@wanadoo.fr",
+          "Url": "http://www.charmontois.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "18:30:00"
             }
           }
         }
@@ -16065,6 +16274,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51449-01",
+        "codeInsee": "51449",
+        "dateMiseAJour": "2017-09-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Prunay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue Godon Vasnier",
+          "CodePostal": "51360",
+          "NomCommune": "Prunay"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 61 72 44",
+          "Télécopie": "09 70 06 29 99",
+          "Email": "secretaireprunay@free.fr",
+          "Url": "http://www.prunay-en-champagne.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "13:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "13:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.85462188721,
           49.0683708191
         ]
@@ -16222,6 +16489,64 @@
                 "fin": "11:30:00"
               },
               "Note": "Accueil ouvert uniquement les semaines paires."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51534-01",
+        "codeInsee": "51534",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Serzy-et-Prin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue du Tambour",
+          "CodePostal": "51170",
+          "NomCommune": "Serzy-et-Prin",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 97 40 98",
+          "Email": "commune-serzy-et-prin@orange.fr",
+          "Url": "http://www.serzyetprin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "17:45:00",
+                  "fin": "19:15:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:00:00"
+              }
             }
           ]
         }
@@ -16835,27 +17160,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.83627986908,
-          48.7414016724
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51497-01",
         "codeInsee": "51497",
-        "dateMiseAJour": "2004-09-27",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Lumier la Populeuse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "Grande Rue",
           "CodePostal": "51340",
-          "NomCommune": "ST LUMIER LA POPULEUSE",
-          "Localisation": {
-            "Latitude": "48.7414016724",
-            "Longitude": "4.83627986908",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Lumier-la-Populeuse"
         },
         "Ouverture": {
           "PlageJ": {
@@ -18893,14 +19213,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.86920022964,
-          49.0004005432
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51537-01",
         "codeInsee": "51537",
-        "dateMiseAJour": "2007-12-04",
+        "dateMiseAJour": "2017-09-29",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Sivry Ante",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18908,17 +19228,34 @@
           "type": "géopostale",
           "Ligne": "24 rue de Champagne",
           "CodePostal": "51800",
-          "NomCommune": "SIVRY ANTE",
-          "Localisation": {
-            "Latitude": "49.0004005432",
-            "Longitude": "4.86920022964",
-            "Précision": "8"
-          }
+          "NomCommune": "Sivry-Ante"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 60 16",
-          "Télécopie": "+33 3 26 60 60 16"
-        }
+          "Téléphone": "03 26 60 62 61",
+          "Télécopie": "03 26 60 62 61",
+          "Email": "commune.sivry-ante@laposte.net"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "17:30:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "A Sivry : le jeudi 17h30 à 18h\nA Ante : le jeudi 17h à 17h30"
       }
     },
     {
@@ -19267,30 +19604,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.70746,
-          49.2688
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51470-01",
         "codeInsee": "51470",
-        "dateMiseAJour": "2004-09-08",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rouvroy Ripont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "rue principale",
+          "Ligne": "rue Principale",
           "CodePostal": "51800",
-          "NomCommune": "ROUVROY RIPONT",
-          "Localisation": {
-            "Latitude": "49.2688",
-            "Longitude": "4.70746",
-            "Précision": "6"
-          }
+          "NomCommune": "Rouvroy-Ripont"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 43 23"
+          "Téléphone": "03 26 60 44 76",
+          "Email": "sarl.collet@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -21568,6 +21901,58 @@
               "fin": "jeudi",
               "PlageH": {
                 "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51460-01",
+        "codeInsee": "51460",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rieux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue de la Haie",
+          "CodePostal": "51210",
+          "NomCommune": "Rieux",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 81 14 73",
+          "Email": "communederieux@orange.fr",
+          "Url": "http://www.rieux-marne.net"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "11:00:00",
                 "fin": "12:00:00"
               }
             }
@@ -24195,6 +24580,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51382-01",
+        "codeInsee": "51382",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mont-sur-Courville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de Courville",
+          "CodePostal": "51170",
+          "NomCommune": "Mont-sur-Courville",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 50 33 67",
+          "Email": "mairie.mont.sur.courville@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "16:30:00",
+              "fin": "19:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.5322624,
           48.8681807
         ]
@@ -24872,40 +25298,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.86194419861,
-          49.0213928223
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51083-01",
         "codeInsee": "51083",
-        "dateMiseAJour": "2010-04-06",
+        "dateMiseAJour": "2017-09-29",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Braux Saint Rémy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "20 bis grande rue",
+          "Ligne": "20 bis Grande Rue",
           "CodePostal": "51800",
-          "NomCommune": "BRAUX ST REMY",
-          "Localisation": {
-            "Latitude": "49.0213928223",
-            "Longitude": "4.86194419861",
-            "Précision": "4"
-          }
+          "NomCommune": "Braux-Saint-Rémy"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 38 57",
-          "Télécopie": "+33 3 26 60 38 57",
-          "Email": "braux.st.remy.mairie@wanadoo.fr"
+          "Téléphone": "03 26 60 38 57",
+          "Télécopie": "03 26 60 38 57",
+          "Email": "braux.st.remy.mairie@wanadoo.fr",
+          "Url": "https://www.argonnechampenoise.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "jeudi",
-            "fin": "jeudi",
+            "début": "lundi",
+            "fin": "lundi",
             "PlageH": {
-              "début": "18:00:00",
-              "fin": "19:00:00"
+              "début": "10:00:00",
+              "fin": "12:00:00"
             }
           }
         }
@@ -25159,6 +25581,40 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51341-01",
+        "codeInsee": "51341",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Malmy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "grande rue",
+          "CodePostal": "51800",
+          "NomCommune": "Malmy"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            }
+          }
         }
       }
     },
@@ -26714,6 +27170,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51572-01",
+        "codeInsee": "51572",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Tilloy-et-Bellay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 route Nationale",
+          "CodePostal": "51460",
+          "NomCommune": "Tilloy-et-Bellay",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 66 90 69",
+          "Email": "mairie.tilloyetbellay@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "18:45:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.66812992096,
           48.7966995239
         ]
@@ -27613,30 +28110,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5227098465,
-          48.8339996338
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51148-01",
         "codeInsee": "51148",
-        "dateMiseAJour": "2004-09-24",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cheppes la Prairie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "3 rue Saint Georges",
           "CodePostal": "51240",
-          "NomCommune": "CHEPPES LA PRAIRIE",
-          "Localisation": {
-            "Latitude": "48.8339996338",
-            "Longitude": "4.5227098465",
-            "Précision": "6"
-          }
+          "NomCommune": "Cheppes-la-Prairie"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 64 12 45"
+          "Téléphone": "03 26 64 12 45",
+          "Email": "communedecheppeslaprairie@orange.fr",
+          "Url": "http://cheppeslaprairie.pagesperso-orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "18:30:00",
+              "fin": "19:30:00"
+            }
+          }
         }
       }
     },
@@ -28001,37 +28505,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.73594403267,
-          49.3139038086
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51187-01",
         "codeInsee": "51187",
-        "dateMiseAJour": "2004-09-24",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Courlandon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "3 Rue Saint-Laurent",
           "CodePostal": "51170",
-          "NomCommune": "COURLANDON",
-          "Localisation": {
-            "Latitude": "49.3139038086",
-            "Longitude": "3.73594403267",
-            "Précision": "4"
-          }
+          "NomCommune": "Courlandon"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 48 84 47"
+          "Téléphone": "09 62 17 22 02",
+          "Télécopie": "03 26 97 43 56",
+          "Email": "courlandon.commune@wanadoo.fr",
+          "Url": "www.ccfav.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "mardi",
             "fin": "mardi",
             "PlageH": {
-              "début": "14:00:00",
+              "début": "18:00:00",
               "fin": "19:00:00"
             }
           }
@@ -32487,6 +32989,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51475-01",
+        "codeInsee": "51475",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Chéron",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "20 Grande rue",
+          "CodePostal": "51290",
+          "NomCommune": "Saint-Chéron",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 72 83 74",
+          "Télécopie": "03 26 72 83 74",
+          "Email": "mairie.stcheron@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "15:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.792683,
           48.913998
         ]
@@ -33701,30 +34245,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4039440155,
-          48.5786933899
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51508-01",
         "codeInsee": "51508",
-        "dateMiseAJour": "2004-09-28",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Ouen Domprot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "28 Grande Rue",
           "CodePostal": "51320",
-          "NomCommune": "ST OUEN DOMPROT",
-          "Localisation": {
-            "Latitude": "48.5786933899",
-            "Longitude": "4.4039440155",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Ouen-Domprot"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 73 31 34"
+          "Téléphone": "03 26 73 31 34",
+          "Télécopie": "03 26 73 31 34",
+          "Email": "mairiestouen@orange.fr",
+          "Url": "www.vitrychampagneetder.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -33732,7 +34274,7 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "17:30:00",
+                "début": "17:00:00",
                 "fin": "19:00:00"
               }
             },
@@ -34033,6 +34575,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51233-01",
+        "codeInsee": "51233",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Escardes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue des Sables",
+          "CodePostal": "51310",
+          "NomCommune": "Escardes"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 42 47 41",
+          "Télécopie": "03 26 42 47 41",
+          "Email": "mairie.escardes@gmail.com",
+          "Url": "http://escardes.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "17:15:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.75074005127,
           48.5564994812
         ]
@@ -34092,6 +34674,59 @@
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-51616-01",
+        "codeInsee": "51616",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vésigneul-sur-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Route de Chalons",
+          "CodePostal": "51240",
+          "NomCommune": "Vésigneul-sur-Marne",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 26 67 54 12",
+          "Email": "vesigneul-sur-marne@wanadoo.fr",
+          "Url": "http://vesigneul-sur-marne.wixsite.com/vesigneul-sur-marne"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              },
+              "Note": "Accueil ouvert uniquement en semaine paire."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "18:30:00"
               }
             }
           ]

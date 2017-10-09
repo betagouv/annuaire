@@ -66,6 +66,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-76159-01",
+        "codeInsee": "76159",
+        "dateMiseAJour": "2016-11-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Cany-Barville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "48 bis route de Veulettes",
+          "CodePostal": "76450",
+          "NomCommune": "Cany-Barville"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 57 97 97",
+          "Email": "espace.public@cote-albatre.com",
+          "Url": "http://cote-albatre.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.175399,
           49.626536
         ]
@@ -91,6 +136,33 @@
         "CoordonnéesNum": {
           "Email": "msap.bosc-le-hard@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/bosc-le-hard-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-76235-01",
+        "codeInsee": "76235",
+        "dateMiseAJour": "2016-11-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public -  Envermeu",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "46 bis rue du Général de Gaulle",
+          "CodePostal": "76630",
+          "NomCommune": "Envermeu"
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/monts-et-vallees"
         }
       }
     },
@@ -198,6 +270,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-76272-01",
+        "codeInsee": "76272",
+        "dateMiseAJour": "2016-09-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Fontaine-le-Dun",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": [
+            "40 rue Charles Lescane",
+            "Pôle Multiservice"
+          ],
+          "CodePostal": "76740",
+          "NomCommune": "Fontaine-le-Dun"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 57 83 62",
+          "Email": "espacepublic-entremeretlin@orange.fr",
+          "Url": "http://www.cc-entremeretlin.fr/spip.php?rubrique336"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.107838,
           49.424708
         ]
@@ -286,6 +424,96 @@
               ]
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-76655-01",
+        "codeInsee": "76655",
+        "dateMiseAJour": "2016-11-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Saint-Valery-en-Caux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "Place de la Gare",
+          "CodePostal": "76460",
+          "NomCommune": "Saint-Valery-en-Caux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 35 57 92 00",
+          "Email": "espace.public@cote-albatre.com",
+          "Url": "http://cote-albatre.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "msap-76752-01",
+        "codeInsee": "76752",
+        "dateMiseAJour": "2016-11-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Yerville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "Route des Totes",
+          "CodePostal": "76760",
+          "NomCommune": "Yerville"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 70 49 50",
+          "Email": "espace-delahaye@wanadoo.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/espace-delahaye-yerville"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },

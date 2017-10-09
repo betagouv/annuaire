@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.312375,
+          49.879487
+        ]
+      },
+      "properties": {
+        "id": "paierie_departementale-80021-03",
+        "codeInsee": "80021",
+        "dateMiseAJour": "2016-05-10",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Somme",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 - 3 rue Pierre Rollin",
+            "CS 12301"
+          ],
+          "CodePostal": "80023",
+          "NomCommune": "Amiens Cedex 3",
+          "Localisation": {
+            "Latitude": "49.879487",
+            "Longitude": "2.312375",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Télécopie": "03 22 92 94 13",
+          "Email": "t080090@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -366,7 +366,7 @@
       "properties": {
         "id": "tresorerie-24222-01",
         "codeInsee": "24222",
-        "dateMiseAJour": "2017-05-23",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de La Force",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -389,14 +389,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mardi",
               "PlageH": [
@@ -405,7 +397,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
+                  "début": "13:40:00",
                   "fin": "16:00:00"
                 }
               ]
@@ -419,7 +411,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
+                  "début": "13:40:00",
                   "fin": "16:00:00"
                 }
               ]
@@ -1258,59 +1250,6 @@
               }
             }
           ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.711791,
-          45.1804838
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-24322-03",
-        "codeInsee": "24322",
-        "dateMiseAJour": "2016-12-19",
-        "pivotLocal": "tresorerie",
-        "Nom": "Paierie départementale - Dordogne",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "15 rue du 26e-Régiment-d'Infanterie",
-          "CodePostal": "24053",
-          "NomCommune": "Périgueux Cedex",
-          "Localisation": {
-            "Latitude": "45.1804838",
-            "Longitude": "0.711791",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "05 53 08 40 43",
-          "Email": "t024090@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "jeudi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ]
-          }
         }
       }
     },

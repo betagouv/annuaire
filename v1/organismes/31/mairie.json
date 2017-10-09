@@ -911,6 +911,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31354-01",
+        "codeInsee": "31354",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Monestrol",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31560",
+          "NomCommune": "Monestrol"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 71 19 38",
+          "Télécopie": "05 61 08 51 99",
+          "Email": "mairiedemonestrol@nordnet.fr",
+          "Url": "www.colaursud.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.7461218,
           43.0942135
         ]
@@ -1036,6 +1086,62 @@
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31387-01",
+        "codeInsee": "31387",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montoussin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "le village",
+          "CodePostal": "31430",
+          "NomCommune": "Montoussin"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 98 54 63",
+          "Email": "mairie.montoussin.31@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -2255,14 +2361,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.909322023392,
-          43.2880058289
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31414-01",
         "codeInsee": "31414",
-        "dateMiseAJour": "2013-04-23",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Peyrissas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2271,17 +2377,12 @@
           "Ligne": "Place de la Mairie",
           "CodePostal": "31420",
           "NomCommune": "Peyrissas",
-          "Localisation": {
-            "Latitude": "43.2880058289",
-            "Longitude": "0.909322023392",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 98 77 71",
+          "Téléphone": "05 61 98 77 71",
           "Email": "mairie.peyrissas@orange.fr"
         },
         "Ouverture": {
@@ -2847,14 +2948,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.997974991798,
-          43.3656997681
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31469-01",
         "codeInsee": "31469",
-        "dateMiseAJour": "2007-08-03",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "mairie de saint araille",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2862,15 +2963,21 @@
           "type": "géopostale",
           "Ligne": "Soules",
           "CodePostal": "31430",
-          "NomCommune": "ST ARAILLE",
-          "Localisation": {
-            "Latitude": "43.3656997681",
-            "Longitude": "0.997974991798",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Araille"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 98 30 07"
+          "Téléphone": "05 61 98 30 07",
+          "Email": "mairie-st-araille@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
+            }
+          }
         }
       }
     },
@@ -3492,6 +3599,55 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31462-01",
+        "codeInsee": "31462",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rouffiac-Tolosan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 allée des Platanes",
+          "CodePostal": "31180",
+          "NomCommune": "Rouffiac-Tolosan",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 09 11 27",
+          "Télécopie": "05 61 35 68 80",
+          "Email": "mairie-rouffiac-tolosan@wanadoo.fr",
+          "Url": "http://pagesperso-orange.fr/mairie-rouffiac-tolosan"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },
@@ -4453,14 +4609,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.881609976292,
-          43.2172012329
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31477-01",
         "codeInsee": "31477",
-        "dateMiseAJour": "2007-11-22",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Elix Seglan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4468,23 +4624,20 @@
           "type": "géopostale",
           "Ligne": "place de la Mairie",
           "CodePostal": "31420",
-          "NomCommune": "ST ELIX SEGLAN",
-          "Localisation": {
-            "Latitude": "43.2172012329",
-            "Longitude": "0.881609976292",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-Elix-Séglan"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 98 71 54"
+          "Téléphone": "05 61 90 77 50",
+          "Télécopie": "05 61 90 77 50",
+          "Email": "daniele.ader@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "samedi",
-            "fin": "samedi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": {
-              "début": "09:00:00",
-              "fin": "10:30:00"
+              "début": "14:30:00",
+              "fin": "17:30:00"
             }
           }
         }
@@ -4987,6 +5140,57 @@
                   "fin": "18:30:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31474-01",
+        "codeInsee": "31474",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Christaud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31310",
+          "NomCommune": "Saint-Christaud",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 97 15 90",
+          "Email": "mairie-saint-christaud@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
             }
           ]
         }
@@ -8455,6 +8659,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31369-01",
+        "codeInsee": "31369",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mont de Galie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la Mairie",
+          "CodePostal": "31510",
+          "NomCommune": "Mont-de-Galié"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 5 61 79 68 64"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.881609976292,
           43.2172012329
         ]
@@ -9856,6 +10087,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31359-01",
+        "codeInsee": "31359",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montastruc-Savès",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "CodePostal": "31370",
+          "NomCommune": "Montastruc-Savès"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 87 06 53",
+          "Email": "communemontastruc.saves@orange.fr",
+          "Url": "http://www.ccsaves31.fr/commune/montastruc-saves"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.67856800556,
           43.2931785583
         ]
@@ -10646,6 +10915,47 @@
               ]
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31559-01",
+        "codeInsee": "31559",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Trébons-de-Luchon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31110",
+          "NomCommune": "Trébons-de-Luchon",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 94 27 85",
+          "Email": "mairie.trebons.luchon@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "16:30:00"
+            }
+          }
         }
       }
     },
@@ -12234,6 +12544,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31295-01",
+        "codeInsee": "31295",
+        "dateMiseAJour": "2017-08-16",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lespugue",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "31350",
+          "NomCommune": "Lespugue",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 88 15 11",
+          "Télécopie": "05 61 88 15 11",
+          "Email": "mairie.lespugue@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.07013094425,
           43.4825363159
         ]
@@ -13326,6 +13684,66 @@
               "fin": "12:00:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31493-01",
+        "codeInsee": "31493",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Lary-Boujean",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "31350",
+          "NomCommune": "Saint-Lary-Boujean",
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 88 24 06",
+          "Télécopie": "05 61 88 24 06",
+          "Email": "mairie.saintlary@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -15404,14 +15822,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.740983009338,
-          43.3369941711
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31479-01",
         "codeInsee": "31479",
-        "dateMiseAJour": "2007-11-15",
+        "dateMiseAJour": "2017-09-29",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Ferreol de Comminges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15419,16 +15837,10 @@
           "type": "géopostale",
           "Ligne": "place de la Mairie",
           "CodePostal": "31350",
-          "NomCommune": "ST FERREOL DE COMMINGES",
-          "Localisation": {
-            "Latitude": "43.3369941711",
-            "Longitude": "0.740983009338",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Ferréol-de-Comminges"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 88 73 40",
-          "Télécopie": "+33 5 61 88 73 40",
+          "Téléphone": "05 61 88 73 40",
           "Email": "mairie.stferreol@wanadoo.fr"
         },
         "Ouverture": {
@@ -16337,6 +16749,47 @@
             "PlageH": {
               "début": "14:00:00",
               "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31392-01",
+        "codeInsee": "31392",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mourvilles-Basses",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31460",
+          "NomCommune": "Mourvilles-Basses",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 27 73 82",
+          "Email": "mairiedemourvilles@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "12:30:00"
             }
           }
         }
@@ -21287,6 +21740,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31509-01",
+        "codeInsee": "31509",
+        "dateMiseAJour": "2017-08-30",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Pé-d'Ardet",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "31510",
+          "NomCommune": "Saint-Pé-d'Ardet",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 79 68 31",
+          "Télécopie": "05 61 79 68 31",
+          "Email": "mairie-saintpedardet@wanadoo.fr",
+          "Url": "http://www.mairie-saintpedardet31.fr/fr/mairie-1.html"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "19:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.245237,
           43.460357
         ]
@@ -22944,6 +23450,57 @@
                   "fin": "17:30:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31532-01",
+        "codeInsee": "31532",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sarremezan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "31350",
+          "NomCommune": "Sarremezan",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 95 52 43",
+          "Email": "mairie.sarremezan@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -26182,52 +26739,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.758142,
-          43.439793
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31519-01",
         "codeInsee": "31519",
-        "dateMiseAJour": "2013-04-23",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Vincent",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, place de la Mairie",
+          "Ligne": "1 place de la Mairie",
           "CodePostal": "31290",
           "NomCommune": "Saint-Vincent",
-          "Localisation": {
-            "Latitude": "43.439793",
-            "Longitude": "1.758142",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 27 70 62",
-          "Télécopie": "+33 5 61 27 70 62",
+          "Téléphone": "05 61 27 70 62",
+          "Télécopie": "05 61 27 70 62",
           "Email": "mairie-saint-vincent@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "18:30:00",
                 "fin": "20:00:00"
               }
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "18:30:00",
-                "fin": "20:00:00"
+                "début": "17:15:00",
+                "fin": "18:45:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:15:00",
+                "fin": "18:45:00"
               }
             }
           ]
@@ -28051,6 +28611,66 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31487-01",
+        "codeInsee": "31487",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Ignan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1030 route de Boulogne",
+          "CodePostal": "31800",
+          "NomCommune": "Saint-Ignan",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 95 36 51",
+          "Télécopie": "09 70 06 19 77",
+          "Email": "mairiestignan@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -31029,6 +31649,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31350-01",
+        "codeInsee": "31350",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mondilhan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
+          "CodePostal": "31350",
+          "NomCommune": "Mondilhan",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 88 10 33",
+          "Email": "mondilhan.mairie@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.649448,
           42.9753339
         ]
@@ -32438,6 +33109,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31382-01",
+        "codeInsee": "31382",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montgras",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31370",
+          "NomCommune": "Montgras",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 91 49 98",
+          "Email": "mairie.montgras@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "14:30:00"
+            },
+            "Note": "Permanence du maire"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.4830779,
           43.5289527
         ]
@@ -32580,6 +33293,57 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31569-01",
+        "codeInsee": "31569",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vaudreuille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31250",
+          "NomCommune": "Vaudreuille",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 27 63 43",
+          "Email": "mairie.vaudreuille@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -32821,6 +33585,58 @@
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31521-01",
+        "codeInsee": "31521",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saleich",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place de la Mairie",
+          "CodePostal": "31260",
+          "NomCommune": "Saleich",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 90 31 49",
+          "Télécopie": "05 61 90 31 49",
+          "Email": "commune-de"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -33538,14 +34354,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.563042998314,
-          42.8156318665
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-31465-01",
         "codeInsee": "31465",
-        "dateMiseAJour": "2004-11-29",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saccourvielle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -33553,15 +34369,12 @@
           "type": "géopostale",
           "Ligne": "place de la Mairie",
           "CodePostal": "31110",
-          "NomCommune": "SACCOURVIELLE",
-          "Localisation": {
-            "Latitude": "42.8156318665",
-            "Longitude": "0.563042998314",
-            "Précision": "4"
-          }
+          "NomCommune": "Saccourvielle"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 79 81 67"
+          "Téléphone": "05 61 79 81 67",
+          "Email": "mairiedesaccourvielle@wibox.fr",
+          "Url": "http://www.cc-paysdeluchon.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -34727,6 +35540,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31164-01",
+        "codeInsee": "31164",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Drudas",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "31480",
+          "NomCommune": "Drudas",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 85 59 32",
+          "Télécopie": "05 61 85 59 32",
+          "Email": "mairie.drudas@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "13:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.3535294,
           43.694998
         ]
@@ -35699,6 +36570,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31267-01",
+        "codeInsee": "31267",
+        "dateMiseAJour": "2017-08-16",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lahitère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "CodePostal": "31310",
+          "NomCommune": "Lahitère"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "15:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.588835,
           43.568125
         ]
@@ -36585,6 +37489,43 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-31398-01",
+        "codeInsee": "31398",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Nizan Gesse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la Mairie",
+          "CodePostal": "31350",
+          "NomCommune": "Nizan-Gesse"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 61 88 77 96"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },

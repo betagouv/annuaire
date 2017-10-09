@@ -697,7 +697,7 @@
       "properties": {
         "id": "mairie-71016-01",
         "codeInsee": "71016",
-        "dateMiseAJour": "2017-04-21",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Azé",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -724,27 +724,27 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "08:30:00",
+                "début": "10:30:00",
                 "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "15:30:00"
               }
             },
             {
               "début": "jeudi",
-              "fin": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "08:30:00",
+                "début": "10:30:00",
                 "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -2162,6 +2162,58 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-71507-01",
+        "codeInsee": "71507",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Savigny-sur-Grosne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "71460",
+          "NomCommune": "Savigny-sur-Grosne",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 92 54 22",
+          "Télécopie": "03 85 92 54 22",
+          "Email": "mairiesavignygrosne@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -4004,45 +4056,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.14615106583,
-          46.935798645
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-71329-01",
         "codeInsee": "71329",
-        "dateMiseAJour": "2014-07-17",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Navilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, la Place",
+          "Ligne": "1 la Place",
           "CodePostal": "71270",
           "NomCommune": "Navilly",
-          "Localisation": {
-            "Latitude": "46.935798645",
-            "Longitude": "5.14615106583",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 85 49 11 74",
-          "Télécopie": "+33 3 85 49 11 74",
+          "Téléphone": "03 85 49 11 74",
           "Email": "mairiedenavilly@orange.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "07:30:00",
-              "fin": "12:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "10:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "10:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     },
@@ -4843,6 +4905,44 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-71358-01",
+        "codeInsee": "71358",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Pressy sous Dondin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le bourg",
+          "CodePostal": "71220",
+          "NomCommune": "Pressy-sous-Dondin"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 24 75 44",
+          "Email": "mairie.pressy.sous.dondin@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "17:30:00"
+            }
+          }
         }
       }
     },
@@ -12908,6 +13008,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-71335-01",
+        "codeInsee": "71335",
+        "dateMiseAJour": "2017-08-31",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie d'Ouroux-sous-le-Bois-Sainte-Marie",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "71800",
+          "NomCommune": "Ouroux-sous-le-Bois-Sainte-Marie",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 70 66 59",
+          "Email": "mairie.ourouxsousbois@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.5650325,
           46.4535811
         ]
@@ -16980,6 +17131,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-71025-01",
+        "codeInsee": "71025",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Beaubery",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "71220",
+          "NomCommune": "Beaubery",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 24 80 24",
+          "Email": "mairie.beaubery@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.568505,
           46.58046
         ]
@@ -17022,6 +17232,78 @@
               "fin": "16:30:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-71086-01",
+        "codeInsee": "71086",
+        "dateMiseAJour": "2017-09-01",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Changy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Lieu-dit Tourny",
+          "CodePostal": "71120",
+          "NomCommune": "Changy",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 85 24 09 05",
+          "Télécopie": "09 70 61 40 71",
+          "Email": "commune-de-changy@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
         }
       }
     },

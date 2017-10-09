@@ -194,6 +194,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "codeInsee": "71270",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-71270-02",
+        "idPresta": "531d927fb473e47b8c682b3e",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Pont d'accès au droit détenus",
+        "EditeurSource": "Script automatique Easter-eggs",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Maison de justice et du droit",
+            "1550 avenue Charles de Gaulle"
+          ],
+          "CodePostal": "71000",
+          "NomCommune": "MACON"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 6 40 48 40 23",
+          "Email": "mailto:adad.macon@orange.fr",
+          "Sve": "http://www.justice.gouv.fr/sve"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "une fois par mois sur rendez-vous"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.836301,
           46.315227
         ]

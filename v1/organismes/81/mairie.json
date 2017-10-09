@@ -2210,14 +2210,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.83394396305,
-          44.1016960144
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-81234-01",
         "codeInsee": "81234",
-        "dateMiseAJour": "2011-05-27",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Roussayrolles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2225,36 +2225,23 @@
           "type": "géopostale",
           "Ligne": "Le Bourg",
           "CodePostal": "81140",
-          "NomCommune": "ROUSSAYROLLES",
-          "Localisation": {
-            "Latitude": "44.1016960144",
-            "Longitude": "1.83394396305",
-            "Précision": "4"
-          }
+          "NomCommune": "Roussayrolles"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 56 38 97",
-          "Email": "secretariat@mairie.roussayrolles.fr"
+          "Téléphone": "05 63 56 38 97",
+          "Télécopie": "05 63 56 38 97",
+          "Email": "secretariat@mairie-roussayrolles.fr",
+          "Url": "http://www.mairie-roussayrolles.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "15:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -2465,6 +2452,62 @@
                 "fin": "12:00:00"
               },
               "Note": "Accueil ouvert uniquement pour l'état civil."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81210-01",
+        "codeInsee": "81210",
+        "dateMiseAJour": "2017-09-15",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Poudis",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le bourg",
+          "CodePostal": "81700",
+          "NomCommune": "Poudis"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 75 04 82",
+          "Email": "mairie.poudis@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }
@@ -3083,30 +3126,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.10166406631,
-          43.4657363892
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-81237-01",
         "codeInsee": "81237",
-        "dateMiseAJour": "2004-09-17",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Amancet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "3 rue des Abreuvoirs",
           "CodePostal": "81110",
-          "NomCommune": "ST AMANCET",
-          "Localisation": {
-            "Latitude": "43.4657363892",
-            "Longitude": "2.10166406631",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Amancet"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 0 56 37 41 81"
+          "Téléphone": "05 63 74 18 15",
+          "Télécopie": "09 70 61 00 10",
+          "Email": "mairiestamancet@orange.fr",
+          "Url": "http://saint-amancet.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -3644,6 +3705,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81200-01",
+        "codeInsee": "81200",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Palleville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de Terson de Paleville",
+          "CodePostal": "81700",
+          "NomCommune": "Palleville"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 63 67 09 07",
+          "Url": "http://www.palleville81.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "Fermeture le mercredi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.4367257,
           43.7612497
         ]
@@ -4028,6 +4146,54 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81252-01",
+        "codeInsee": "81252",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint Germier",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "81210",
+          "NomCommune": "Saint-Germier"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 59 40 23",
+          "Email": "mairiestgermier@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -5425,6 +5591,57 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81320-01",
+        "codeInsee": "81320",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Vindrac-Alayrac",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "81170",
+          "NomCommune": "Vindrac-Alayrac",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 56 26 10",
+          "Email": "mairiedevindrac@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -9673,6 +9890,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81191-01",
+        "codeInsee": "81191",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Mouzieys-Panens",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Mouzieys",
+          "CodePostal": "81170",
+          "NomCommune": "Mouzieys-Panens",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 56 12 07",
+          "Télécopie": "05 63 56 12 07",
+          "Email": "mairiemzp@mouzieys-panens.fr",
+          "Url": "http://mouzieys-panens.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Contacter l'accueil pour obtenir les horaires d'ouverture"
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.88589298725,
           43.529750824
         ]
@@ -11310,6 +11581,58 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81246-01",
+        "codeInsee": "81246",
+        "dateMiseAJour": "2017-08-28",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sainte-Cécile-du-Cayrou",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "81140",
+          "NomCommune": "Sainte-Cécile-du-Cayrou",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 33 11 50",
+          "Télécopie": "05 63 33 11 50",
+          "Email": "mairie.saintececileducayrou@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -15986,14 +16309,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.14562702179,
-          43.7594070435
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-81250-01",
         "codeInsee": "81250",
-        "dateMiseAJour": "2004-09-25",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Genest De Contest",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -16001,15 +16324,33 @@
           "type": "géopostale",
           "Ligne": "Eglise",
           "CodePostal": "81440",
-          "NomCommune": "ST GENEST DE CONTEST",
-          "Localisation": {
-            "Latitude": "43.7594070435",
-            "Longitude": "2.14562702179",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Genest-de-Contest"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 79 12 61"
+          "Téléphone": "05 63 55 51 41",
+          "Télécopie": "05 63 79 12 61",
+          "Email": "mairie.stgenestdecontest@wanadoo.fr",
+          "Url": "http://www.cclpa.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "15:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -17753,6 +18094,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-81310-01",
+        "codeInsee": "81310",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Veilhes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "81500",
+          "NomCommune": "Veilhes",
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 63 58 71 01",
+          "Télécopie": "05 63 83 00 36",
+          "Email": "mairie.veilhes@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "15:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.31810998917,
           43.6362991333
         ]
@@ -19266,14 +19649,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.44347000122,
-          44.0145530701
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-81264-01",
         "codeInsee": "81264",
-        "dateMiseAJour": "2004-09-24",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Michel Labadie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19281,15 +19664,21 @@
           "type": "géopostale",
           "Ligne": "Le bourg",
           "CodePostal": "81340",
-          "NomCommune": "ST MICHEL LABADIE",
-          "Localisation": {
-            "Latitude": "44.0145530701",
-            "Longitude": "2.44347000122",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Michel-Labadié"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 53 40 16"
+          "Téléphone": "05 63 53 40 16",
+          "Email": "mairie.st.michel.labadie@wanadoo.fr>"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "samedi",
+            "fin": "samedi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
         }
       }
     },
@@ -19505,14 +19894,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.02970099449,
-          43.6963577271
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-81187-01",
         "codeInsee": "81187",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Moulayrès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19521,11 +19910,6 @@
           "Ligne": "Saint-Martin",
           "CodePostal": "81300",
           "NomCommune": "Moulayrès",
-          "Localisation": {
-            "Latitude": "43.6963577271",
-            "Longitude": "2.02970099449",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
@@ -19542,12 +19926,12 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "08:30:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "17:30:00"
+                  "fin": "17:00:00"
                 }
               ]
             },
@@ -19556,7 +19940,7 @@
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "17:30:00"
+                "fin": "17:00:00"
               }
             }
           ]

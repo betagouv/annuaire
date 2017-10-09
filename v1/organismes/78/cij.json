@@ -2197,56 +2197,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.945326,
-          48.7623589
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78383-01",
         "codeInsee": "78383",
-        "dateMiseAJour": "2013-01-10",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Maurepas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "Rond-point Jean-Moulin",
-            "CodePostal": "78310",
-            "NomCommune": "Maurepas",
-            "Localisation": {
-              "Latitude": "48.7623589",
-              "Longitude": "1.945326",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Boutique info jeunes",
-              "Mairie de Maurepas",
-              "2, place d'Auxois"
-            ],
-            "CodePostal": "78310",
-            "NomCommune": "Maurepas",
-            "Localisation": {
-              "Latitude": "48.7620993",
-              "Longitude": "1.9451632",
-              "Précision": "6"
-            }
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "Rond-point Jean-Moulin",
+          "CodePostal": "78310",
+          "NomCommune": "Maurepas",
+          "Accessibilité": {
+            "type": "ACC"
           }
-        ],
+        },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 62 20 32",
-          "Télécopie": "+33 1 30 62 20 32",
+          "Téléphone": "01 30 66 53 35",
           "Email": "bij@maurepas.net",
           "Url": "http://www.maurepas.net"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -2273,7 +2258,7 @@
             },
             {
               "début": "jeudi",
-              "fin": "samedi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
@@ -2442,52 +2427,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.975422,
-          48.9789448
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78642-01",
         "codeInsee": "78642",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Verneuil-sur-Seine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "17, rue Delapierre",
+          "Ligne": "Allée des Bleuets",
           "CodePostal": "78480",
           "NomCommune": "Verneuil-sur-Seine",
-          "Localisation": {
-            "Latitude": "48.9789448",
-            "Longitude": "1.975422",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 71 57 16",
+          "Téléphone": "01 39 71 01 33",
           "Email": "verneuil.pij@wanadoo.fr",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "16:30:00",
+                "fin": "18:30:00"
               }
             },
             {
-              "début": "mardi",
+              "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
+                "début": "16:30:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
                 "début": "14:00:00",
-                "fin": "19:00:00"
+                "fin": "18:30:00"
               }
             },
             {
@@ -2499,7 +2487,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "lundi : uniquement sur rendez-vous\nVacances scolaires : du lundi au vendredi de 10h à 12h et de 14h à 18h 30."
       }
     },
     {
@@ -2620,34 +2609,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.06853,
-          48.7705875
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78297-01",
         "codeInsee": "78297",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Guyancourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2 quater, rue du Moulin",
+          "Ligne": "2 quater rue du Moulin",
           "CodePostal": "78280",
           "NomCommune": "Guyancourt",
-          "Localisation": {
-            "Latitude": "48.7705875",
-            "Longitude": "2.06853",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 48 33 99",
-          "Télécopie": "+33 1 30 48 33 96",
+          "Téléphone": "01 30 48 33 99",
           "Email": "bij@ville-guyancourt.fr",
           "Url": "http://www.ville-guyancourt.fr"
         },
@@ -2674,18 +2657,10 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "13:00:00"
-              },
-              "Note": "Uniquement sur rendez-vous le 1er samedi du mois"
             }
           ]
-        }
+        },
+        "Commentaire": "le 1er samedi du mois, sur rendez-vous de 10:00:00 à 13:00:00"
       }
     },
     {

@@ -638,6 +638,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-86244-01",
+        "codeInsee": "86244",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Sauvant",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, place de la Mairie",
+          "CodePostal": "86600",
+          "NomCommune": "Saint-Sauvant",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 49 59 70 20",
+          "Télécopie": "05 49 53 42 13",
+          "Email": "saint-sauvant-accueil@departement86.fr",
+          "Url": "http://www.saintsauvant-86.fr/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.176069006324,
           46.6763000488
         ]
@@ -10463,14 +10536,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.453945994377,
-          46.7164001465
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-86219-01",
         "codeInsee": "86219",
-        "dateMiseAJour": "2016-08-08",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Cyr",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10478,12 +10551,7 @@
           "type": "géopostale",
           "Ligne": "1 rue de la Mairie",
           "CodePostal": "86130",
-          "NomCommune": "Saint-Cyr",
-          "Localisation": {
-            "Latitude": "46.7164001465",
-            "Longitude": "0.453945994377",
-            "Précision": "6"
-          },
+          "NomCommune": "Beaumont-Saint-Cyr",
           "Accessibilité": {
             "type": "ACC"
           }
@@ -10491,7 +10559,7 @@
         "CoordonnéesNum": {
           "Téléphone": "05 49 52 40 37",
           "Télécopie": "05 49 62 58 31",
-          "Email": "mairie@saint-cyr.fr"
+          "Email": "mairie@beaumontsaintcyr.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -10548,16 +10616,10 @@
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -13998,6 +14060,60 @@
                 "fin": "12:00:00"
               },
               "Note": "Accueil fermé en juillet-août."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-86220-01",
+        "codeInsee": "86220",
+        "dateMiseAJour": "2017-10-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Gaudent",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de la Mairie",
+          "CodePostal": "86400",
+          "NomCommune": "Saint-Gaudent",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "05 49 87 10 33",
+            "$t": "05 49 87 10 33"
+          },
+          "Email": "saint-gaudent@departement86.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
             }
           ]
         }

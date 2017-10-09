@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.201193,
+          48.003922
+        ]
+      },
+      "properties": {
+        "id": "paierie_departementale-72181-03",
+        "codeInsee": "72181",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Sarthe",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "33 avenue du Général de Gaulle",
+            "BP 22232"
+          ],
+          "CodePostal": "72002",
+          "NomCommune": "Le Mans Cedex 1",
+          "Localisation": {
+            "Latitude": "48.003922",
+            "Longitude": "0.201193",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 77 19 20",
+          "Télécopie": "02 43 87 61 05",
+          "Email": "t072090@dgfip.finances.gouv.fr",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:15:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

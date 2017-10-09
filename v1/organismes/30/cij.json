@@ -1132,14 +1132,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.444588,
-          44.044159
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-30001-01",
         "codeInsee": "30001",
-        "dateMiseAJour": "2013-01-10",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Quentin-la-Poterie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1148,18 +1148,12 @@
           "Ligne": "Avenue Léon-Pintard",
           "CodePostal": "30700",
           "NomCommune": "Saint-Quentin-la-Poterie",
-          "Localisation": {
-            "Latitude": "44.044159",
-            "Longitude": "4.444588",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 66 22 42 07",
-          "Télécopie": "+33 4 66 03 16 34",
+          "Téléphone": "04 66 22 42 07",
           "Email": "csi30@orange.fr",
           "Url": "http://www.csipms.fr"
         },
@@ -1169,8 +1163,8 @@
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
+                "début": "13:00:00",
+                "fin": "19:00:00"
               }
             },
             {
@@ -1179,14 +1173,6 @@
               "PlageH": {
                 "début": "17:00:00",
                 "fin": "20:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
               }
             }
           ]

@@ -13,7 +13,7 @@
       "properties": {
         "id": "sip-34028-01",
         "codeInsee": "34028",
-        "dateMiseAJour": "2015-11-26",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Bédarieux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -34,7 +34,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 23 31 20",
           "Télécopie": "+33 4 67 23 34 08",
-          "Email": "sip-sie.bedarieux@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -56,7 +55,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -71,7 +71,7 @@
       "properties": {
         "id": "sip-34032-01",
         "codeInsee": "34032",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Béziers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -91,7 +91,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 35 69 45",
-          "Email": "sip.beziers@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -125,7 +124,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -140,7 +140,7 @@
       "properties": {
         "id": "sip-34172-02",
         "codeInsee": "34172",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Montpellier 2",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -160,7 +160,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 13 45 00",
-          "Email": "sip.montpellier-2@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -194,7 +193,75 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "sip-34199-01",
+        "codeInsee": "34199",
+        "dateMiseAJour": "2017-10-05",
+        "pivotLocal": "sip",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Pézenas",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 place du 14-Juillet",
+          "CodePostal": "34120",
+          "NomCommune": "Pézenas",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+33 4 67 90 49 00",
+          "Télécopie": "04 67 98 39 10",
+          "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -209,7 +276,7 @@
       "properties": {
         "id": "sip-34301-01",
         "codeInsee": "34301",
-        "dateMiseAJour": "2017-07-25",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Sète",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -229,7 +296,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 46 38 00",
-          "Email": "sip.sete@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -264,7 +330,7 @@
             }
           ]
         },
-        "Commentaire": "de 8h30 – 12h00 (sans rdv) et de 13h30 – 16h00 (avec rdv)"
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -279,7 +345,7 @@
       "properties": {
         "id": "sip-34142-01",
         "codeInsee": "34142",
-        "dateMiseAJour": "2015-11-09",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Lodève",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -303,7 +369,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 88 40 20",
           "Télécopie": "+33 4 67 44 39 46",
-          "Email": "sip-sie.lodeve@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -337,7 +402,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -352,7 +418,7 @@
       "properties": {
         "id": "sip-34284-01",
         "codeInsee": "34284",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Saint-Pons-de-Thomières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -376,7 +442,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 97 38 80",
           "Télécopie": "+33 4 67 97 38 96",
-          "Email": "sip-sie.saint-pons@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -405,7 +470,8 @@
               "Note": "Accueil également sur rendez-vous."
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -420,7 +486,7 @@
       "properties": {
         "id": "sip-34172-03",
         "codeInsee": "34172",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Montpellier Nord-Ouest",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -440,7 +506,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 61 73 00",
-          "Email": "sip.montpellier-nord-ouest@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -474,7 +539,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -489,7 +555,7 @@
       "properties": {
         "id": "sip-34172-01",
         "codeInsee": "34172",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Montpellier 1",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -509,7 +575,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 61 74 00",
-          "Email": "sip.montpellier-1@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -543,7 +608,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -558,7 +624,7 @@
       "properties": {
         "id": "sip-34032-02",
         "codeInsee": "34032",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Béziers Biterrois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -578,7 +644,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 35 69 45",
-          "Email": "sip.beziers-biterrois@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -612,7 +677,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -627,7 +693,7 @@
       "properties": {
         "id": "sip-34172-05",
         "codeInsee": "34172",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Montpellier Sud-Est",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -647,7 +713,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 13 45 07",
-          "Email": "sip.montpellier-sud-est@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -681,7 +746,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -696,7 +762,7 @@
       "properties": {
         "id": "sip-34145-01",
         "codeInsee": "34145",
-        "dateMiseAJour": "2015-03-18",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Lunel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -713,7 +779,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 67 87 86 01",
-          "Email": "sip.lunel@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -747,7 +812,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     }
   ]

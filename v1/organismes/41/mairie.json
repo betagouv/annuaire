@@ -1917,6 +1917,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-41216-01",
+        "codeInsee": "41216",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Saint-Jean-Froidmentel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 avenue de la Gare",
+          "CodePostal": "41160",
+          "NomCommune": "Saint-Jean-Froidmentel",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 82 64 36",
+          "Email": "commune-de-st-jean-froidmentel@wanadoo.fr",
+          "Url": "http://www.saintjeanfroidmentel.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.1237614,
           47.3260919
         ]
@@ -11136,14 +11196,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.32595002651,
-          47.6227989197
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-41276-01",
         "codeInsee": "41276",
-        "dateMiseAJour": "2017-05-10",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villebarou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11152,11 +11212,6 @@
           "Ligne": "9 rue Maurice-Pasquier",
           "CodePostal": "41000",
           "NomCommune": "Villebarou",
-          "Localisation": {
-            "Latitude": "47.6227989197",
-            "Longitude": "1.32595002651",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -11165,7 +11220,7 @@
           "Téléphone": "02 54 90 53 00",
           "Télécopie": "02 54 90 53 02",
           "Email": "contact@villebarou.fr",
-          "Url": "http://www.mairie-villebarou.fr"
+          "Url": "http://www.villebarou.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -14533,40 +14588,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.937824010849,
-          47.7541007996
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-41274-01",
         "codeInsee": "41274",
-        "dateMiseAJour": "2007-11-23",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villavard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "12 rue de la fosse",
+          "Ligne": "12 rue de la Fosse",
           "CodePostal": "41800",
-          "NomCommune": "VILLAVARD",
-          "Localisation": {
-            "Latitude": "47.7541007996",
-            "Longitude": "0.937824010849",
-            "Précision": "6"
-          }
+          "NomCommune": "Villavard"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 22 24 14 56",
-          "Télécopie": "+33 3 22 24 14 56",
-          "Email": "mairie.villavard@wanadoo.fr"
+          "Téléphone": "02 54 85 32 43",
+          "Email": "mairie.villavard@wanadoo.fr",
+          "Url": "http://www.ccvlb.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "15:00:00",
+                "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
@@ -15938,7 +15996,7 @@
       "properties": {
         "id": "mairie-41007-01",
         "codeInsee": "41007",
-        "dateMiseAJour": "2014-07-15",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Authon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15958,10 +16016,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 54 80 33 43",
-          "Télécopie": "+33 2 54 80 33 88",
+          "Téléphone": "02 54 80 33 43",
+          "Télécopie": "02 54 80 33 88",
           "Email": "mairie.authon@wanadoo.fr",
-          "Url": "http://www.authon.net"
+          "Url": "www.authon.fr"
         },
         "Ouverture": {
           "PlageJ": [

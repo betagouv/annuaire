@@ -13,7 +13,7 @@
       "properties": {
         "id": "sip-97115-01",
         "codeInsee": "97115",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Basse-Terre Nord - Lamentin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -30,7 +30,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+590 5 90 95 76 60",
-          "Email": "sip.basse-terre-nord-lamentin@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -42,7 +41,8 @@
               "fin": "12:30:00"
             }
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -57,7 +57,7 @@
       "properties": {
         "id": "sip-97101-01",
         "codeInsee": "97101",
-        "dateMiseAJour": "2017-08-21",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Grande-Terre Nord",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -74,7 +74,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+590 5 90 82 44 00",
-          "Email": "sip.grande-terre@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -128,7 +127,8 @@
               "Note": "également sur rendez-vous"
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -143,7 +143,7 @@
       "properties": {
         "id": "sip-97101-02",
         "codeInsee": "97101",
-        "dateMiseAJour": "2017-08-03",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Grande-Terre Sud",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -160,7 +160,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+590 5 90 82 44 00",
-          "Email": "sip.grande-terre@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -214,7 +213,8 @@
               "Note": "également sur rendez-vous"
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -229,16 +229,13 @@
       "properties": {
         "id": "sip-97105-01",
         "codeInsee": "97105",
-        "dateMiseAJour": "2013-07-30",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Basse-Terre Sud",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Desmarais",
-            "BP 561"
-          ],
+          "Ligne": "Desmarais BP 561",
           "CodePostal": "97100",
           "NomCommune": "Basse-Terre",
           "Localisation": {
@@ -249,61 +246,20 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+590 5 90 99 47 00",
-          "Email": "sip.basse-terre-sud@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "07:30:00",
-                "fin": "12:30:00"
-              },
-              "Note": "également sur rendez-vous"
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "12:30:00"
             },
-            {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "07:30:00",
-                "fin": "12:30:00"
-              },
-              "Note": "également sur rendez-vous"
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "07:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:30:00"
-                }
-              ],
-              "Note": "également sur rendez-vous"
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "07:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:30:00"
-                }
-              ],
-              "Note": "également sur rendez-vous"
-            }
-          ]
-        }
+            "Note": "également sur rendez-vous"
+          }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -318,7 +274,7 @@
       "properties": {
         "id": "sip-97112-01",
         "codeInsee": "97112",
-        "dateMiseAJour": "2013-07-30",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Marie-Galante",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -335,7 +291,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+590 5 90 97 90 11",
-          "Email": "sip-sie.marie-galante@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -348,7 +303,8 @@
             },
             "Note": "également sur rendez-vous"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     }
   ]

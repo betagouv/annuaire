@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "dreal_ut-08105-01",
+        "codeInsee": "08105",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "dreal_ut",
+        "Nom": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Unité territoriale - Ardennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place de la Préfecture",
+            "Préfecture des Ardennes"
+          ],
+          "CodePostal": "08000",
+          "NomCommune": "Charleville-Mézières Cedex"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 24 59 66 00",
+          "Email": "ud08.dreal-grand-est@developpement-durable.gouv.fr",
+          "Url": "http://www.grand-est.developpement-durable.gouv.fr",
+          "Sve": "http://www.developpement-durable.gouv.fr/Formulaire-de-saisie-de-l.html"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

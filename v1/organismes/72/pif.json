@@ -246,6 +246,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pif-72180-01",
+        "codeInsee": "72180",
+        "dateMiseAJour": "2017-09-13",
+        "pivotLocal": "pif",
+        "Nom": "Point info famille - Mamers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Albert Roullée",
+            "Centre d'information sociale et familiale"
+          ],
+          "CodePostal": "72600",
+          "NomCommune": "Mamers"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 31 16 60",
+          "Url": "http://www.mairie-mamers.fr/infos-pratiques/action-sociale/le-centre-d-information-social-et-familiale/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.0903671,
           48.3507307
         ]

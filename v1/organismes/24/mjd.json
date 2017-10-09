@@ -6,13 +6,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.483513,
-          44.850075
+          0.48381340741,
+          44.8568821986
         ]
       },
       "properties": {
         "codeInsee": "24037",
-        "dateMiseAJour": "2010-02-03",
+        "dateMiseAJour": "2017-09-26",
         "id": "mjd-24037-01",
         "idPresta": "51b08c8eb473e41478000239",
         "pivotLocal": "mjd",
@@ -20,13 +20,13 @@
         "EditeurSource": "Ministère de la justice",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "3 rue d'Albret",
+          "Ligne": "16 rue du Petit Sol",
           "CodePostal": "24100",
           "NomCommune": "BERGERAC",
           "Localisation": {
-            "Latitude": "44.850075",
-            "Longitude": "0.483513",
-            "Précision": "8"
+            "Latitude": "44.8568821986",
+            "Longitude": "0.48381340741",
+            "Précision": "9"
           }
         },
         "CoordonnéesNum": {
@@ -40,16 +40,11 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:30:00",
-                "fin": "12:30:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
+            },
+            "Note": "de 9 heures à 12 heures et de 13 heures à 17 heures"
           }
         }
       }

@@ -15,7 +15,7 @@
         "codeInsee": "41269",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Vendôme",
+        "Nom": "Pôle emploi - Vendôme",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -75,6 +75,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-41018-02",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi - Blois - Gare",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue Auguste Poulain",
+          "CodePostal": "41000",
+          "NomCommune": "Blois"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:45:00"
+              },
+              {
+                "début": "12:45:00",
+                "fin": "16:45:00"
+              }
+            ],
+            "Note": "Tous les matins en accès libre. Sur rendez-vous les après-midi (sauf le jeudi après-midi où l'agence est fermée au public, le vendredi après-midi, fermeture à 15h45)"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.7402245,
           47.3670057
         ]
@@ -84,7 +132,7 @@
         "codeInsee": "41194",
         "dateMiseAJour": "2016-09-08",
         "pivotLocal": "pole_emploi",
-        "Nom": "Pôle emploi de Romorantin-Lanthenay",
+        "Nom": "Pôle emploi - Romorantin-Lanthenay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -133,6 +181,54 @@
               "Note": "Accueil ouvert uniquement sur rendez-vous de 12h45 à 15h45."
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pole_emploi-41018-01",
+        "codeInsee": "41018",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "pole_emploi",
+        "Nom": "Pôle emploi - Blois - Laplace",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "67 avenue de Chateaudun",
+          "CodePostal": "41000",
+          "NomCommune": "Blois"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré : prix d'un appel + service gratuit. Depuis l’étranger, vous pouvez composer le +33 1 77 86 39 49. Employeur : 3995. Depuis l'étranger, composez le +33 1 77 86 39 95.",
+            "$t": "3949"
+          },
+          "Url": "http://www.pole-emploi.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:45:00",
+                "fin": "12:45:00"
+              },
+              {
+                "début": "12:45:00",
+                "fin": "16:45:00"
+              }
+            ],
+            "Note": "Tous les matins en accès libre. Sur rendez-vous les après-midi (sauf le jeudi après-midi où l'agence est fermée au public)"
+          }
         }
       }
     }

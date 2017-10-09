@@ -13,7 +13,7 @@
       "properties": {
         "id": "afpa-28085-01",
         "codeInsee": "28085",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "afpa",
         "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Chartres",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -33,7 +33,7 @@
             "coût": "Numéro violet : service payant + prix appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel).",
             "$t": "3936"
           },
-          "Url": "http://www.centre.afpa.fr"
+          "Url": "https://www.afpa.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -68,6 +68,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "afpa-28134-01",
+        "codeInsee": "28134",
+        "dateMiseAJour": "2017-10-02",
+        "pivotLocal": "afpa",
+        "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Dreux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "1 place Louis Armand",
+            "Collège Louis Armand"
+          ],
+          "CodePostal": "28100",
+          "NomCommune": "Dreux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": {
+            "coût": "Numéro violet ou majoré. Écoutez le tarif en début d'appel.",
+            "$t": "3936"
+          },
+          "Url": "https://www.afpa.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermé le vendredi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.3540454,
           48.7388882
         ]
@@ -75,7 +126,7 @@
       "properties": {
         "id": "afpa-28134-02",
         "codeInsee": "28134",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-02",
         "pivotLocal": "afpa",
         "Nom": "Agence nationale pour la formation professionnelle des adultes (Afpa) - Centre de Dreux - Louis-Armand",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -98,7 +149,7 @@
             "coût": "Numéro violet ou majoré.",
             "$t": "3936"
           },
-          "Url": "http://www.centre.afpa.fr"
+          "Url": "https://www.afpa.fr"
         },
         "Ouverture": {
           "PlageJ": [

@@ -123,7 +123,7 @@
       "properties": {
         "id": "hypotheque-13208-04",
         "codeInsee": "13208",
-        "dateMiseAJour": "2017-09-05",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "hypotheque",
         "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Marseille 4",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -148,36 +148,21 @@
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            }
-          ]
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Fermé le jeudi"
+          }
         }
       }
     },
@@ -306,7 +291,7 @@
       "properties": {
         "id": "hypotheque-13108-01",
         "codeInsee": "13108",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "hypotheque",
         "Nom": "Service de publicité foncière (ex-conservation des hypothèques) de Tarascon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -349,7 +334,7 @@
             },
             {
               "début": "lundi",
-              "fin": "mercredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -360,7 +345,7 @@
                   "fin": "16:00:00"
                 }
               ],
-              "Note": "Accueil possible également sur rendez-vous."
+              "Note": "Accueil également sur rendez-vous. Fermé le jeudi"
             }
           ]
         }

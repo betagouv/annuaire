@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pmi-97213-01",
+        "codeInsee": "97213",
+        "dateMiseAJour": "2011-08-12",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de l'Hôpital du Lamentin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Boulevard Fernand Guilon",
+            "Centre Hospitalier du Lamentin"
+          ],
+          "CodePostal": "97232",
+          "NomCommune": "LE LAMENTIN"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 57 12 04",
+          "Télécopie": "+596 5 96 57 12 20"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:00:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pmi-97230-02",
+        "codeInsee": "97230",
+        "dateMiseAJour": "2011-08-12",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Nord-Atlantique-Trinité",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue Schoelcher",
+          "CodePostal": "97220",
+          "NomCommune": "LA TRINITE"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 58 12 18"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Uniquement service administratif."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Uniquement service administratif."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                },
+                {
+                  "début": "08:30:00",
+                  "fin": "13:00:00"
+                }
+              ],
+              "Note": "Uniquement service administratif."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Uniquement service administratif."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -60.98168,
           14.530914
         ]
@@ -155,6 +275,56 @@
                   "fin": "16:00:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pmi-97230-01",
+        "codeInsee": "97230",
+        "dateMiseAJour": "2011-08-12",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de l' Hôpital de Trinité",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre Hospitalier Général Louis Domergue",
+            "Route du Stade Trinité"
+          ],
+          "CodePostal": "97220",
+          "NomCommune": "LA TRINITE"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "+596 5 96 66 46 43"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "07:00:00",
+                "fin": "15:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:00:00",
+                "fin": "14:00:00"
+              }
             }
           ]
         }

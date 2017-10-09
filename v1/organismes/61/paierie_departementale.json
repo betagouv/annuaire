@@ -6,41 +6,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4234776,
-          46.8084196
+          0.0891631,
+          48.4364598
         ]
       },
       "properties": {
-        "id": "suio-71153-01",
-        "codeInsee": "71153",
-        "dateMiseAJour": "2013-10-02",
-        "pivotLocal": "suio",
-        "Nom": "Service universitaire d'information et d'orientation (SUIO) - Université de Dijon - antenne du Creusot",
+        "id": "paierie_departementale-61001-02",
+        "codeInsee": "61001",
+        "dateMiseAJour": "2016-12-19",
+        "pivotLocal": "paierie_departementale",
+        "Nom": "Paierie départementale - Orne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "720, avenue de l'Europe",
-          "CodePostal": "71200",
-          "NomCommune": "Le Creusot",
+          "Ligne": [
+            "23 boulevard de Strasbourg",
+            "BP 346"
+          ],
+          "CodePostal": "61014",
+          "NomCommune": "Alençon Cedex",
           "Localisation": {
-            "Latitude": "46.8084196",
-            "Longitude": "4.4234776",
+            "Latitude": "48.4364598",
+            "Longitude": "0.0891631",
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 85 77 00 79",
-          "Télécopie": "+33 3 85 55 84 58",
-          "Email": "sio.lecreusot@u-bourgogne.fr",
-          "Url": "http://www.u-bourgogne.fr"
+          "Téléphone": "02 33 29 56 75",
+          "Télécopie": "02 33 29 56 69",
+          "Email": "t061090@dgfip.finances.gouv.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mardi",
-            "fin": "mardi",
+            "début": "lundi",
+            "fin": "vendredi",
             "PlageH": [
               {
                 "début": "09:00:00",
@@ -48,7 +50,7 @@
               },
               {
                 "début": "13:30:00",
-                "fin": "16:30:00"
+                "fin": "16:00:00"
               }
             ]
           }

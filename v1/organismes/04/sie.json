@@ -6,33 +6,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7854664,
-          43.8362942
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sie-04112-01",
         "codeInsee": "04112",
-        "dateMiseAJour": "2013-05-06",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "sie",
         "Nom": "Service des impôts des entreprises du centre des finances publiques de Manosque",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "132, boulevard des Cougourdelles",
-            "CS 50002"
+            "CS 40001",
+            "132 boulevard des Cougourdelles"
           ],
           "CodePostal": "04107",
-          "NomCommune": "Manosque Cedex",
-          "Localisation": {
-            "Latitude": "43.8362942",
-            "Longitude": "5.7854664",
-            "Précision": "6"
-          }
+          "NomCommune": "Manosque Cedex"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 92 70 77 26",
+          "Téléphone": {
+            "coût": "(service 0,06 € par minute + prix d'un appel)",
+            "$t": "0811 36 36 00"
+          },
           "Email": "sie.manosque@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
@@ -40,17 +38,10 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "Egalement sur rendez-vous. Fermé le jeudi"
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "19:00:00"
+            }
           }
         }
       }
@@ -60,14 +51,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0521396,
-          44.0555906
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sie-04173-01",
         "codeInsee": "04173",
-        "dateMiseAJour": "2013-05-06",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "sie",
         "Nom": "Service des impôts des entreprises du centre des finances publiques de Saint-André-les-Alpes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -75,15 +66,13 @@
           "type": "géopostale",
           "Ligne": "Place de Verdun",
           "CodePostal": "04170",
-          "NomCommune": "Saint-André-les-Alpes",
-          "Localisation": {
-            "Latitude": "44.0555906",
-            "Longitude": "5.0521396",
-            "Précision": "6"
-          }
+          "NomCommune": "Saint-André-les-Alpes"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 92 89 21 57",
+          "Téléphone": {
+            "coût": "(service 0,06 € par minute + prix d'un appel)",
+            "$t": "0811 36 36 00"
+          },
           "Email": "sip-sie.saint-andre-les-alpes@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
@@ -91,17 +80,10 @@
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "également sur rendez-vous"
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "19:00:00"
+            }
           }
         }
       }

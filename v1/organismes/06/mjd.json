@@ -12,7 +12,7 @@
       },
       "properties": {
         "codeInsee": "06083",
-        "dateMiseAJour": "2013-12-17",
+        "dateMiseAJour": "2017-09-26",
         "id": "mjd-06083-01",
         "idPresta": "51b08cb9b473e41478000bb3",
         "pivotLocal": "mjd",
@@ -37,24 +37,20 @@
           "Sve": "http://www.justice.gouv.fr/sve"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
                 "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
+              },
+              {
                 "début": "13:30:00",
                 "fin": "17:00:00"
               }
-            }
-          ]
+            ]
+          }
         }
       }
     },

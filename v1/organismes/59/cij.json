@@ -674,33 +674,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.06301689148,
-          50.6371841431
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-59350-05",
         "codeInsee": "59350",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-09-21",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - La Sentinelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "110, rue Charles-Basquin",
+          "Ligne": "110 rue Charles-Basquin",
           "CodePostal": "59174",
           "NomCommune": "La Sentinelle",
-          "Localisation": {
-            "Latitude": "50.6371841431",
-            "Longitude": "3.06301689148",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 27 20 01 07",
+          "Téléphone": "03 27 20 01 07",
           "Email": "pijlasentinelle@orange.fr",
           "Url": "http://www.crij-npdc.asso.fr"
         },
@@ -767,6 +762,112 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-59507-01",
+        "codeInsee": "59507",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Ronchin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "(proche de l'espace Coluche)",
+            "Place du Général de Gaulle"
+          ],
+          "CodePostal": "59790",
+          "NomCommune": "Ronchin"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 52 26 03",
+          "Email": "pij@ville-ronchin.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-59017-01",
+        "codeInsee": "59017",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Armentières",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "29 rue Jean Jaurès",
+            "Maison Debosque"
+          ],
+          "CodePostal": "59280",
+          "NomCommune": "Armentières"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 61 76 08 30",
+          "Télécopie": "03 61 76 08 25",
+          "Email": "bij@ville-armentieres.fr",
+          "Url": "http://www.crij-hdf.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -1874,6 +1975,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-59152-01",
+        "codeInsee": "59152",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Comines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Centre communal d'action sociale",
+            "Espace Jeunesse Cominois",
+            "Rue des Maires Lambin"
+          ],
+          "CodePostal": "59560",
+          "NomCommune": "Comines"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 28 38 82 05",
+          "Email": "espacejeunesse@ville-comines.fr",
+          "Url": "http://www.ville-comines.fr/vivre-comines/jeunesse-pij.html"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.0796674,
           50.3623261
         ]
@@ -1944,6 +2112,80 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-59378-01",
+        "codeInsee": "59378",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Marcq-en-Baroeul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "63 boulevard Clemenceau",
+            "Bâtiment Cyrius",
+            "Parc du Petit Prince"
+          ],
+          "CodePostal": "59700",
+          "NomCommune": "Marcq-en-Baroeul"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 45 63 21",
+          "Url": "http://www.marcq-en-baroeul.org/votre-famille/jeunesse/266-point-information-jeunesse"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
               }
             }
           ]
@@ -2037,6 +2279,69 @@
                 },
                 {
                   "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-59410-01",
+        "codeInsee": "59410",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Mons-en-Baroeul",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "41 rue Maréchal Lyautey",
+          "CodePostal": "59370",
+          "NomCommune": "Mons-en-Baroeul"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 20 67 08 36",
+          "Email": "pij@ville-mons-en-baroeul.fr",
+          "Url": "http://monsenbaroeul.fr/vivre-a-mons-en-baroeul/jeunesse/"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
                   "fin": "18:00:00"
                 }
               ]

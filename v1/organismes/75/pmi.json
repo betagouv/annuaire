@@ -2101,6 +2101,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "pmi-75111-01",
+        "codeInsee": "75111",
+        "dateMiseAJour": "2017-09-20",
+        "pivotLocal": "pmi",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Paris - 11e arrondissement",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "31 passage de Ménilmontant",
+          "CodePostal": "75011",
+          "NomCommune": "Paris",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "01 43 57 53 70",
+          "Url": "http://www.paris.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.37322998047,
           48.8875999451
         ]

@@ -9546,14 +9546,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.66588497162,
-          45.6284751892
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-87147-01",
         "codeInsee": "87147",
-        "dateMiseAJour": "2004-09-07",
+        "dateMiseAJour": "2017-09-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Gilles les Forets",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9561,47 +9561,53 @@
           "type": "géopostale",
           "Ligne": "Le Bourg",
           "CodePostal": "87130",
-          "NomCommune": "ST GILLES LES FORETS",
-          "Localisation": {
-            "Latitude": "45.6284751892",
-            "Longitude": "1.66588497162",
-            "Précision": "4"
-          }
+          "NomCommune": "Saint-Gilles-les-Forêts"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 55 69 69 55"
+          "Téléphone": "05 55 69 62 55",
+          "Télécopie": "05 55 35 76 02",
+          "Email": "mairie-st-gilles-les-forets@wanadoo.fr",
+          "Url": "http://www.cc-briance-combade.com"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
                 {
                   "début": "08:30:00",
-                  "fin": "12:30:00"
+                  "fin": "12:00:00"
                 },
                 {
-                  "début": "13:00:00",
+                  "début": "12:30:00",
                   "fin": "16:30:00"
                 }
               ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "16:30:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "16:30:00"
-              }
             }
           ]
         }

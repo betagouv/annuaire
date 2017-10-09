@@ -19310,6 +19310,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-85213-02",
+        "codeInsee": "85213",
+        "dateMiseAJour": "2017-04-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Chaillé-sous-les-Ormeaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "13 rue de la Mairie",
+            "Chaillé-sous-les-Ormeaux"
+          ],
+          "CodePostal": "85310",
+          "NomCommune": "Rives de l'Yon",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 51 34 92 43",
+          "Email": "http://www.chaillesouslesormeaux.fr/index.php?r=contact",
+          "Url": "http://www.chaillesouslesormeaux.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Fermé les lundi, mercredi et jeudi après-midi"
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.7328418,
           46.7929426
         ]

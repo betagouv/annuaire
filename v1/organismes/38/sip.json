@@ -13,7 +13,7 @@
       "properties": {
         "id": "sip-38269-01",
         "codeInsee": "38269",
-        "dateMiseAJour": "2015-10-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de La Mure",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -34,7 +34,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 81 03 31",
           "Télécopie": "+33 4 76 81 18 42",
-          "Email": "sip-sie.la-mure-disere@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -47,58 +46,8 @@
             },
             "Note": "Accueil ouvert également sur rendez-vous."
           }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7052581,
-          45.1771507
-        ]
-      },
-      "properties": {
-        "id": "sip-38185-03",
-        "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
-        "pivotLocal": "sip",
-        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Drac",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "38, avenue Rhin-et-Danube",
-          "CodePostal": "38047",
-          "NomCommune": "Grenoble Cedex 2",
-          "Localisation": {
-            "Latitude": "45.1771507",
-            "Longitude": "5.7052581",
-            "Précision": "6"
-          }
         },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 76 39 39 76",
-          "Email": "sip.grenoble-drac@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "également sur rendez-vous. Fermé le mercredi"
-          }
-        }
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -113,7 +62,7 @@
       "properties": {
         "id": "sip-38553-01",
         "codeInsee": "38553",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de L'Isle-d'Abeau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -130,7 +79,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 74 96 06 06",
-          "Email": "sip.isle-dabeau@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -149,7 +97,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le jeudi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -164,9 +113,9 @@
       "properties": {
         "id": "sip-38185-05",
         "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
-        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Oisans",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Oisans Drac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -181,7 +130,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 39 39 76",
-          "Email": "sip.grenoble-oisans@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -200,7 +148,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le mercredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -215,7 +164,7 @@
       "properties": {
         "id": "sip-38544-01",
         "codeInsee": "38544",
-        "dateMiseAJour": "2015-10-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Vienne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -235,7 +184,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 74 31 31 48",
-          "Email": "sip.vienne@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -254,7 +202,8 @@
             ],
             "Note": "Fermé le vendredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -269,7 +218,7 @@
       "properties": {
         "id": "sip-38563-01",
         "codeInsee": "38563",
-        "dateMiseAJour": "2015-10-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Voiron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -289,7 +238,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 67 04 40",
-          "Email": "sip.voiron@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -340,7 +288,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -355,7 +304,7 @@
       "properties": {
         "id": "sip-38130-01",
         "codeInsee": "38130",
-        "dateMiseAJour": "2015-10-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de La Côte-Saint-André",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -372,7 +321,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 74 20 20 88",
-          "Email": "sip.la-cote-saint-andre@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -391,7 +339,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le mercredi et le vendredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -406,7 +355,7 @@
       "properties": {
         "id": "sip-38509-01",
         "codeInsee": "38509",
-        "dateMiseAJour": "2015-10-16",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de La Tour-du-Pin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -430,7 +379,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 74 83 29 29",
           "Télécopie": "+33 4 74 97 65 37",
-          "Email": "sip.la-tour-du-pin@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -453,7 +401,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -468,7 +417,7 @@
       "properties": {
         "id": "sip-38416-01",
         "codeInsee": "38416",
-        "dateMiseAJour": "2013-05-14",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Saint-Marcellin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -488,77 +437,19 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 64 97 00",
-          "Email": "sip-sie.saint-marcellin@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:45:00",
-                "fin": "11:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "Fermé le mercredi"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7052581,
-          45.1771507
-        ]
-      },
-      "properties": {
-        "id": "sip-38185-06",
-        "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
-        "pivotLocal": "sip",
-        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Vercors",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "38, avenue Rhin-et-Danube",
-          "CodePostal": "38047",
-          "NomCommune": "Grenoble Cedex 2",
-          "Localisation": {
-            "Latitude": "45.1771507",
-            "Longitude": "5.7052581",
-            "Précision": "6"
+            "PlageH": {
+              "début": "08:45:00",
+              "fin": "11:30:00"
+            }
           }
         },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 76 39 39 76",
-          "Email": "sip.grenoble-vercors@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "également sur rendez-vous. Fermé le mercredi"
-          }
-        }
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -573,7 +464,7 @@
       "properties": {
         "id": "sip-38185-02",
         "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Chartreuse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -590,7 +481,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 39 39 76",
-          "Email": "sip.grenoble-chartreuse@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -609,7 +499,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le mercredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -624,9 +515,9 @@
       "properties": {
         "id": "sip-38185-01",
         "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
-        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Belledonne",
+        "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Belledonne Vercors",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -641,7 +532,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 76 39 39 76",
-          "Email": "sip.grenoble-belledonne@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -660,7 +550,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le mercredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -675,7 +566,7 @@
       "properties": {
         "id": "sip-38053-01",
         "codeInsee": "38053",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Bourgoin-Jallieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -699,7 +590,6 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 4 74 93 84 00",
           "Télécopie": "+33 4 74 93 03 71",
-          "Email": "sip.bourgoin-jallieu@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -750,7 +640,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     },
     {
@@ -765,7 +656,7 @@
       "properties": {
         "id": "sip-38185-04",
         "codeInsee": "38185",
-        "dateMiseAJour": "2015-10-15",
+        "dateMiseAJour": "2017-10-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Grenoble Gresivaudan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -782,7 +673,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+33 4 76 54 91 91",
-          "Email": "sip.grenoble-gresivaudan@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
@@ -801,7 +691,8 @@
             ],
             "Note": "également sur rendez-vous. Fermé le mercredi"
           }
-        }
+        },
+        "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }
     }
   ]

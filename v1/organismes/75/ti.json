@@ -686,7 +686,7 @@
       },
       "properties": {
         "codeInsee": "75116",
-        "dateMiseAJour": "2014-01-28",
+        "dateMiseAJour": "2017-10-04",
         "id": "ti-75116-01",
         "idPresta": "4cac9e62293594648a00068d",
         "pivotLocal": "ti",
@@ -714,40 +714,15 @@
           "Sve": "http://www.justice.gouv.fr/sve"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
             },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
-            }
-          ]
+            "Note": "Uniquement les matins de 9h00 à 16h30"
+          }
         }
       }
     },

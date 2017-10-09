@@ -14174,6 +14174,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-50119-01",
+        "codeInsee": "50119",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Les Champs de Losque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "50620",
+          "NomCommune": "Les Champs- de- Losque"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 56 27 91"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.69246,
           49.5541
         ]
@@ -14996,35 +15043,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5274047,
-          49.5331574
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-50587-01",
         "codeInsee": "50587",
-        "dateMiseAJour": "2004-08-27",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Taillepied",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "Les novalles",
           "CodePostal": "50390",
-          "NomCommune": "TAILLEPIED",
-          "Localisation": {
-            "Latitude": "49.5331574",
-            "Longitude": "-1.5274047",
-            "Précision": "6"
-          }
+          "NomCommune": "Taillepied"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 53 27 16",
+          "Télécopie": "02 33 53 27 16",
+          "Email": "mairiedetaillepied@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "mardi",
             "fin": "mardi",
             "PlageH": {
-              "début": "14:30:00",
-              "fin": "16:00:00"
+              "début": "14:00:00",
+              "fin": "17:00:00"
             }
           }
         }
@@ -18073,6 +18120,57 @@
               "PlageH": {
                 "début": "09:30:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-50427-01",
+        "codeInsee": "50427",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Ravenoville",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 place de la Mairie",
+          "CodePostal": "50480",
+          "NomCommune": "Ravenoville",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 41 30 26",
+          "Email": "mairie.ravenoville@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -23265,6 +23363,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-50374-01",
+        "codeInsee": "50374",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Neuville en Beaumont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Eglise",
+          "CodePostal": "50250",
+          "NomCommune": "Neuville-en-Beaumont"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 33 46 80 86"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "11:00:00",
+              "fin": "12:15:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.26413,
           48.94988
         ]
@@ -23774,14 +23909,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3409589529,
-          49.3171081543
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-50099-03",
         "codeInsee": "50099",
-        "dateMiseAJour": "2017-04-28",
+        "dateMiseAJour": "2017-09-28",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Houesville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -23790,39 +23925,24 @@
           "Ligne": "12 village de l'Épine",
           "CodePostal": "50480",
           "NomCommune": "Houesville",
-          "Localisation": {
-            "Latitude": "49.3171081543",
-            "Longitude": "-1.3409589529",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 33 42 07 08",
+          "Téléphone": "02 33 42 07 08",
           "Télécopie": "+33 2 33 42 24 16",
           "Email": "mairie.houesville@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -26270,6 +26390,40 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-50430-01",
+        "codeInsee": "50430",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Reigneville Bocage",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Bourg",
+          "CodePostal": "50390",
+          "NomCommune": "Reigneville-Bocage"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "16:30:00",
+              "fin": "17:30:00"
+            }
+          }
         }
       }
     },
@@ -30875,14 +31029,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2370300293,
-          48.7650985718
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-50112-01",
         "codeInsee": "50112",
-        "dateMiseAJour": "2017-04-21",
+        "dateMiseAJour": "2017-10-03",
         "pivotLocal": "mairie",
         "Nom": "Mairie de La Chaise-Baudouin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -30891,11 +31045,6 @@
           "Ligne": "23 rue Baudouin-de-Mosles",
           "CodePostal": "50370",
           "NomCommune": "La Chaise-Baudouin",
-          "Localisation": {
-            "Latitude": "48.7650985718",
-            "Longitude": "-1.2370300293",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC",
             "$t": "rampe"
@@ -30911,16 +31060,16 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:30:00"
+                "début": "09:30:00",
+                "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "15:00:00",
-                "fin": "19:00:00"
+                "fin": "18:00:00"
               }
             }
           ]

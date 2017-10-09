@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "codeInsee": "97416",
+        "dateMiseAJour": "2017-03-09",
+        "id": "permanence_juridique-97416-01",
+        "idPresta": "4cd18fb42935940531010a8b",
+        "pivotLocal": "permanence_juridique",
+        "Nom": "Point d'accès au droit de Saint-Pierre",
+        "EditeurSource": "Direction de l’information légale et administrative",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Tribunal de grande instance",
+            "28 rue Augustin Archambaud",
+            "BP 338"
+          ],
+          "CodePostal": "97448",
+          "NomCommune": "ST PIERRE CEDEX"
+        },
+        "CoordonnéesNum": {
+          "Sve": "http://www.justice.gouv.fr/sve"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.335704,
           -20.932987
         ]

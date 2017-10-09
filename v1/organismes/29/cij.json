@@ -984,39 +984,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.549281,
-          47.872482
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-29233-01",
         "codeInsee": "29233",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Quimperlé",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Communauté de communes du Pays de Quimperlé",
-            "Place des Écoles"
-          ],
+          "Ligne": "Place des Écoles",
           "CodePostal": "29300",
           "NomCommune": "Quimperlé",
-          "Localisation": {
-            "Latitude": "47.872482",
-            "Longitude": "-3.549281",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 98 96 36 86",
-          "Télécopie": "+33 2 98 39 39 91",
+          "Téléphone": "02 98 96 36 86",
           "Email": "pij.quimperle@cocopaq.com",
-          "Url": "http://www.cocopaq.com"
+          "Url": "http://ij-bretagne.com/blogs/quimperle-cocopaq/"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1024,8 +1015,8 @@
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "16:30:00",
-                "fin": "18:00:00"
+                "début": "16:00:00",
+                "fin": "17:30:00"
               }
             },
             {
@@ -1051,8 +1042,8 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "16:30:00",
-                  "fin": "18:00:00"
+                  "début": "16:00:00",
+                  "fin": "17:30:00"
                 }
               ]
             },

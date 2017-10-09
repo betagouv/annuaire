@@ -429,6 +429,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02446-01",
+        "codeInsee": "02446",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Ly Fontaine",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Mairie",
+          "CodePostal": "02440",
+          "NomCommune": "Ly Fontaine"
+        },
+        "CoordonnéesNum": {
+          "Email": "mairielyfontaine@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "17:30:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.09209,
           49.7913017273
         ]
@@ -2223,6 +2260,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02640-01",
+        "codeInsee": "02640",
+        "dateMiseAJour": "2017-09-19",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Renansart",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "32 rue Monseigneur Coquart",
+          "CodePostal": "02240",
+          "NomCommune": "Renansart"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 63 72 67",
+          "Télécopie": "03 23 63 88 59",
+          "Email": "commune-de-renansart@orange.fr",
+          "Url": "http://www.ccvo.fr/les-communes-membres/"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "18:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.384577,
           49.1832221
         ]
@@ -2314,6 +2391,56 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02417-01",
+        "codeInsee": "02417",
+        "dateMiseAJour": "2017-08-23",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lempire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "25 Grande Rue",
+          "CodePostal": "02420",
+          "NomCommune": "Lempire"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 60 40 33 32",
+          "Télécopie": "03 23 66 26 72",
+          "Email": "mairie.lempire@wanadoo.fr",
+          "Url": "http://www.lempire.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:30:00",
                 "fin": "19:00:00"
               }
             }
@@ -4982,14 +5109,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.4450094,
-          49.1049411
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02280-01",
         "codeInsee": "02280",
-        "dateMiseAJour": "2016-11-14",
+        "dateMiseAJour": "2017-09-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Épieds",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4998,18 +5125,12 @@
           "Ligne": "7 rue de la Mairie",
           "CodePostal": "02400",
           "NomCommune": "Épieds",
-          "Localisation": {
-            "Latitude": "49.1049411",
-            "Longitude": "3.4450094",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "03 23 69 95 84",
-          "Télécopie": "03 23 69 01 11",
           "Email": "epieds.mairie@wanadoo.fr"
         },
         "Ouverture": {
@@ -5040,7 +5161,7 @@
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "13:30:00",
+                "début": "14:30:00",
                 "fin": "19:00:00"
               }
             },
@@ -5871,6 +5992,58 @@
               "fin": "12:00:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02812-01",
+        "codeInsee": "02812",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Villers-Hélon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 Grande rue",
+          "CodePostal": "02600",
+          "NomCommune": "Villers-Hélon",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 72 52 35",
+          "Email": "villershelon@orange.fr",
+          "Url": "http://villershelonvillage.pagesperso-orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -7445,6 +7618,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02629-01",
+        "codeInsee": "02629",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Puisieux-et-Clanlieu",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place de la Mairie",
+          "CodePostal": "02120",
+          "NomCommune": "Puisieux-et-Clanlieu"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 60 94 33",
+          "Email": "mairie.puisieuxetclanlieu@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "20:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.36964988708,
           49.5541000366
         ]
@@ -7537,6 +7758,54 @@
               "début": "18:30:00",
               "fin": "19:30:00"
             }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02471-01",
+        "codeInsee": "02471",
+        "dateMiseAJour": "2017-08-22",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Martigny-Courpierre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9, rue de Laon",
+          "CodePostal": "02860",
+          "NomCommune": "Martigny-Courpierre",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 24 49 91",
+          "Télécopie": "03 23 24 49 91",
+          "Email": "mairie-martigny@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "11:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              }
+            ]
           }
         }
       }
@@ -10357,7 +10626,7 @@
       "properties": {
         "id": "mairie-02798-01",
         "codeInsee": "02798",
-        "dateMiseAJour": "2016-11-14",
+        "dateMiseAJour": "2017-09-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Viels-Maisons",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10493,31 +10762,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.45887994766,
-          49.202999115
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02699-01",
         "codeInsee": "02699",
-        "dateMiseAJour": "2007-12-03",
+        "dateMiseAJour": "2017-09-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saponay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "rue de la Mairie",
+          "Ligne": "10 rue de la Mairie",
           "CodePostal": "02130",
-          "NomCommune": "SAPONAY",
-          "Localisation": {
-            "Latitude": "49.202999115",
-            "Longitude": "3.45887994766",
-            "Précision": "6"
-          }
+          "NomCommune": "Saponay"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 82 37 75",
-          "Télécopie": "+33 3 23 82 37 75"
+          "Téléphone": "03 23 82 37 75",
+          "Télécopie": "3 23 82 37 75"
         },
         "Ouverture": {
           "PlageJ": [
@@ -10538,6 +10802,45 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02531-01",
+        "codeInsee": "02531",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Moussy Verneuil",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue chemin des dames",
+          "CodePostal": "02160",
+          "NomCommune": "Moussy-Verneuil"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 24 44 72",
+          "Télécopie": "03 23 24 44 72",
+          "Email": "commune-de-moussy-verneuil@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "17:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },
@@ -13835,33 +14138,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.4737401,
-          49.1776969
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02806-01",
         "codeInsee": "02806",
-        "dateMiseAJour": "2013-10-02",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villeneuve-sur-Fère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, place Paul-Claudel",
+          "Ligne": "1 place Paul-Claudel",
           "CodePostal": "02130",
           "NomCommune": "Villeneuve-sur-Fère",
-          "Localisation": {
-            "Latitude": "49.1776969",
-            "Longitude": "3.4737401",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 9 63 66 71 31",
+          "Téléphone": "03 23 82 14 34",
           "Télécopie": "+33 3 23 70 55 06",
           "Email": "communevilleneuvesurfere@wanadoo.fr"
         },
@@ -14268,6 +14566,54 @@
               "fin": "mercredi",
               "PlageH": {
                 "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02526-01",
+        "codeInsee": "02526",
+        "dateMiseAJour": "2017-09-07",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Morgny en Thierache",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Lavoirs",
+          "CodePostal": "02360",
+          "NomCommune": "Morgny-en-Thiérache"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 97 70 50",
+          "Email": "commune-morgny-thierache@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
                 "fin": "12:00:00"
               }
             }
@@ -14977,6 +15323,58 @@
               "PlageH": {
                 "début": "18:00:00",
                 "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02581-01",
+        "codeInsee": "02581",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Paars",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1, place du Cat-Rouge",
+          "CodePostal": "02220",
+          "NomCommune": "Paars",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 83 60",
+          "Télécopie": "03 23 54 83 60",
+          "Email": "mairie.paars@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "15:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:30:00"
               }
             }
           ]
@@ -17100,6 +17498,58 @@
                   "fin": "18:00:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02728-01",
+        "codeInsee": "02728",
+        "dateMiseAJour": "2017-09-04",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Sorbais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7, rue de la Mairie",
+          "CodePostal": "02580",
+          "NomCommune": "Sorbais",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 97 92 50",
+          "Télécopie": "09 70 06 44 40",
+          "Email": "commune.sorbais@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "18:30:00"
+              }
             }
           ]
         }
@@ -19302,6 +19752,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02542-01",
+        "codeInsee": "02542",
+        "dateMiseAJour": "2017-09-12",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Neuflieux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2-4  route de Chauny",
+          "CodePostal": "02300",
+          "NomCommune": "Neuflieux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 38 83 36",
+          "Email": "neuflieux@ccct.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.73496007919,
           49.3765983582
         ]
@@ -21352,6 +21840,50 @@
             }
           ]
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-04",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Perles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "5 rue de Fismes",
+            "Perles"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
       }
     },
     {
@@ -23429,6 +23961,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02633-01",
+        "codeInsee": "02633",
+        "dateMiseAJour": "2017-09-14",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Quincy sous le Mont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 rue principale",
+          "CodePostal": "02220",
+          "NomCommune": "Quincy- sous- Le Mont"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 83 48",
+          "Email": "mairie-quincy-slm@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "10:30:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.46974205971,
           50.0160102844
         ]
@@ -25078,6 +25648,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02486-01",
+        "codeInsee": "02486",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Missy les Pierrepont",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue Eglise",
+          "CodePostal": "02350",
+          "NomCommune": "Missy-lès-Pierrepont"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 22 12 44",
+          "Email": "commune.missy-les-pt@orange.fr",
+          "Url": "http://www.cc-champagnepicarde.fr/missy-les-pierrepont-518-a.asp"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.71241998672,
           49.8922996521
         ]
@@ -25228,6 +25847,43 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02561-01",
+        "codeInsee": "02561",
+        "dateMiseAJour": "2017-09-08",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Nouvion le Vineux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue église Saint Martin",
+          "CodePostal": "02860",
+          "NomCommune": "Nouvion-le-Vineux"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 20 27 42"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:00:00"
+            }
+          }
         }
       }
     },
@@ -25642,6 +26298,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-07",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Villers-en-Prayères",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue Saint-Médard",
+            "Villers-en-Prayères"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 24 46 94",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.3793399334,
           49.595500946
         ]
@@ -25921,6 +26622,48 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02494-01",
+        "codeInsee": "02494",
+        "dateMiseAJour": "2017-08-18",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Monceau-sur-Oise",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue de la Résistance",
+          "CodePostal": "02120",
+          "NomCommune": "Monceau-sur-Oise",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 65 12 09 31",
+          "Télécopie": "03 23 60 26 12",
+          "Email": "monceausuroise@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "16:00:00",
+              "fin": "18:00:00"
+            }
+          }
         }
       }
     },
@@ -26441,6 +27184,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-02",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Glennes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "8 rue de la Lombardie",
+            "Glennes"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 00 78",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.19195008278,
           49.9529762268
         ]
@@ -26826,6 +27614,54 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02504-01",
+        "codeInsee": "02504",
+        "dateMiseAJour": "2017-08-21",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Montescourt-Lizerolles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Lénine",
+          "CodePostal": "02440",
+          "NomCommune": "Montescourt-Lizerolles",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 63 21 54",
+          "Télécopie": "03 23 63 27 47",
+          "Email": "mairiemontescourt@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },
@@ -27318,6 +28154,86 @@
                 "début": "13:30:00",
                 "fin": "15:30:00"
               }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02653-01",
+        "codeInsee": "02653",
+        "dateMiseAJour": "2017-08-24",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Romeny-sur-Marne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 route Nationale",
+          "CodePostal": "02310",
+          "NomCommune": "Romeny-sur-Marne",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 70 15 78",
+          "Télécopie": "03 23 70 46 32",
+          "Email": "mairie.de-romeny-sur-marne@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
             }
           ]
         }
@@ -28288,6 +29204,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02427-01",
+        "codeInsee": "02427",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lhuys",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Vidame",
+          "CodePostal": "02220",
+          "NomCommune": "Lhuys"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 72 95 12"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "10:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.66850996017,
           49.4441986084
         ]
@@ -29003,6 +29966,43 @@
               "Note": "Permanence téléphonique uniquement."
             }
           ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02442-01",
+        "codeInsee": "02442",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Loupeigne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "8 rue de la Poule",
+          "CodePostal": "02130",
+          "NomCommune": "Loupeigne"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 82 38 82"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "18:30:00",
+              "fin": "19:30:00"
+            }
+          }
         }
       }
     },
@@ -30689,6 +31689,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02444-01",
+        "codeInsee": "02444",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lugny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue du Lavoir",
+          "CodePostal": "02140",
+          "NomCommune": "Lugny"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 90 04 53"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "18:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.263941,
           49.112766
         ]
@@ -31984,6 +33021,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02722-01",
+        "codeInsee": "02722",
+        "dateMiseAJour": "2017-09-05",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Soissons",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de l'Hôtel-de-Ville",
+          "CodePostal": "02209",
+          "NomCommune": "Soissons Cedex",
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "accessibilité en passant par le standard"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 59 90 00",
+          "Email": "contact@ville-soissons.fr",
+          "Url": "http://www.ville-soissons.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement pour l'état civil."
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.8361435,
           49.9664723
         ]
@@ -32070,47 +33167,88 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6438046,
-          49.6771457
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-03",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Merval",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Merval",
+            "2 rue de l'Ecole"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 04 69",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02156-01",
         "codeInsee": "02156",
-        "dateMiseAJour": "2004-08-16",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chalandry",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "9 rue de la mairie",
+          "Ligne": "9 rue de la Mairie",
           "CodePostal": "02270",
-          "NomCommune": "CHALANDRY",
-          "Localisation": {
-            "Latitude": "49.6771457",
-            "Longitude": "3.6438046",
-            "Précision": "8"
-          }
+          "NomCommune": "Chalandry"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 80 70 89"
+          "Téléphone": "03 23 80 70 89",
+          "Email": "mairie.chalandry@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "18:00:00",
                 "fin": "19:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "11:00:00",
-                "fin": "12:00:00"
+                "début": "18:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -33144,6 +34282,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-06",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Vauxcéré",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "6 rue du Chef-lieu",
+            "Vauxcéré"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 85 23",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.36675405502,
           49.8496322632
         ]
@@ -33277,6 +34460,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02723-01",
+        "codeInsee": "02723",
+        "dateMiseAJour": "2017-09-06",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Soize",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Montcornet",
+          "CodePostal": "02340",
+          "NomCommune": "Soize",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 98 51 51",
+          "Télécopie": "03 23 98 51 51",
+          "Email": "mairie-de-soize02@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.50802206993,
           49.3061904907
         ]
@@ -33315,6 +34540,68 @@
               "fin": "19:00:00"
             }
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02657-01",
+        "codeInsee": "02657",
+        "dateMiseAJour": "2017-08-25",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rougeries",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue de la Libération",
+          "CodePostal": "02140",
+          "NomCommune": "Rougeries",
+          "Accessibilité": {
+            "type": "DEM"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 98 15 12",
+          "Télécopie": "03 23 98 15 12",
+          "Email": "mairie.rougeries@wanadoo.fr",
+          "Url": "http://www.rougeries.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "18:00:00",
+                "fin": "19:00:00"
+              },
+              "Note": "Permanence du maire"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -35256,6 +36543,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02443-01",
+        "codeInsee": "02443",
+        "dateMiseAJour": "2017-08-16",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Lucy-le-Bocage",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 route de Marigny",
+          "CodePostal": "02400",
+          "NomCommune": "Lucy-le-Bocage",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 70 16 23",
+          "Télécopie": "03 23 85 20 01",
+          "Email": "mairielucylebocage@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "11:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.55786991119,
           49.1472015381
         ]
@@ -37070,6 +38399,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02439-05",
+        "codeInsee": "02439",
+        "dateMiseAJour": "2016-12-13",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie déléguée de Révillon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "7 rue de Maizy",
+            "Révillon"
+          ],
+          "CodePostal": "02160",
+          "NomCommune": "Les Septvallons",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 54 02 73",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "lundi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        },
+        "Commentaire": "Depuis le 1er janvier 2016, la commune nouvelle des Septvallons remplace les communes de Vauxcéré, de Glennes, de Longueval-Barbonval, de Merval, de Perles, de Révillon et de Villers-en-Prayères (canton de  Fère en Tardenois, arrondissement de Soissons)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.329576,
           49.760272
         ]
@@ -37747,51 +39121,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.58340001106,
-          50.0424003601
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02647-01",
         "codeInsee": "02647",
-        "dateMiseAJour": "2007-11-21",
+        "dateMiseAJour": "2017-09-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ribeauville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "13 grande rue",
+          "Ligne": "13 Grande Rue",
           "CodePostal": "02110",
-          "NomCommune": "RIBEAUVILLE",
-          "Localisation": {
-            "Latitude": "50.0424003601",
-            "Longitude": "3.58340001106",
-            "Précision": "6"
-          }
+          "NomCommune": "Ribeauville"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 60 60 74",
-          "Télécopie": "+33 3 23 60 60 74"
+          "Téléphone": "03 23 60 60 74",
+          "Télécopie": "03 23 60 60 74",
+          "Email": "mairie.de.ribeauville@orange.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:00:00"
-              }
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "12:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -38785,6 +40145,58 @@
                   "fin": "19:00:00"
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02652-01",
+        "codeInsee": "02652",
+        "dateMiseAJour": "2017-09-11",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rogny",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Grande rue",
+          "CodePostal": "02140",
+          "NomCommune": "Rogny",
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "petite marche à l'entrée"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 98 18 38",
+          "Email": "mairiederogny@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:30:00",
+                "fin": "18:30:00"
+              }
             }
           ]
         }
@@ -41722,6 +43134,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02441-01",
+        "codeInsee": "02441",
+        "dateMiseAJour": "2017-08-29",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Louatre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "3 rue Bois d'Ouvret",
+          "CodePostal": "02600",
+          "NomCommune": "Louâtre"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 72 77 12",
+          "Email": "mairie-louatre@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.122656,
           49.835448
         ]
@@ -42145,14 +43605,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.7342939,
-          49.3765642
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02715-01",
         "codeInsee": "02715",
-        "dateMiseAJour": "2004-08-09",
+        "dateMiseAJour": "2017-09-29",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Serval",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -42160,20 +43620,16 @@
           "type": "géopostale",
           "Ligne": "Mairie",
           "CodePostal": "02160",
-          "NomCommune": "SERVAL",
-          "Localisation": {
-            "Latitude": "49.3765642",
-            "Longitude": "3.7342939",
-            "Précision": "6"
-          }
+          "NomCommune": "Serval"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 54 00 74"
+          "Téléphone": "03 23 54 00 74",
+          "Email": "s.m.s.longuevalbarbonval@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "jeudi",
-            "fin": "jeudi",
+            "début": "vendredi",
+            "fin": "vendredi",
             "PlageH": {
               "début": "17:00:00",
               "fin": "18:00:00"
@@ -44419,6 +45875,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "mairie-02660-01",
+        "codeInsee": "02660",
+        "dateMiseAJour": "2017-08-30",
+        "pivotLocal": "mairie",
+        "Nom": "Mairie de Rouvroy-sur-Serre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Rue de la Mairie",
+          "CodePostal": "02360",
+          "NomCommune": "Rouvroy-sur-Serre",
+          "Accessibilité": {
+            "type": "NAC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 23 98 56 31",
+          "Email": "lamairie0861@orange.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "11:30:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.820453,
           49.497623
         ]
@@ -44754,31 +46251,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.48503088951,
-          49.3522224426
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-02763-01",
         "codeInsee": "02763",
-        "dateMiseAJour": "2007-11-21",
+        "dateMiseAJour": "2017-10-04",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vasseny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "40 grande rue",
+          "Ligne": "40 Grande Rue",
           "CodePostal": "02220",
-          "NomCommune": "VASSENY",
-          "Localisation": {
-            "Latitude": "49.3522224426",
-            "Longitude": "3.48503088951",
-            "Précision": "4"
-          }
+          "NomCommune": "Vasseny"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 23 74 16 76",
-          "Télécopie": "+33 3 23 74 16 76"
+          "Téléphone": "03 23 74 16 76",
+          "Télécopie": "+33 3 23 74 16 76",
+          "Email": "mairie-vasseny@orange.fr",
+          "Url": "www.cc-valdeaisne.fr"
         },
         "Ouverture": {
           "PlageJ": {
