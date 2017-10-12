@@ -2,9 +2,10 @@ swagger: '2.0'
 info:
   title: API Annuaire des établissements publics de l'administration
   version: '1.0.0'
-host: etablissements-publics.api.gouv.fr/v1
+host: etablissements-publics.api.gouv.fr
+basePath: /v1
 schemes:
-  - http
+  - https
 produces:
   - application/json
 paths:
