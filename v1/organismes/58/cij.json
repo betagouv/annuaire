@@ -13,7 +13,7 @@
       "properties": {
         "id": "cij-58062-01",
         "codeInsee": "58062",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Château-Chinon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -37,7 +37,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 86 85 10 77",
-          "Télécopie": "03 86 85 04 12",
           "Email": "pij_chateauchinon@ijbourgogne.com",
           "Url": "http://www.ijbourgogne.com"
         },
@@ -64,40 +63,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.6546414,
-          47.0518868
+          3.6585566,
+          47.0555308
         ]
       },
       "properties": {
         "id": "cij-58065-01",
         "codeInsee": "58065",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Relais accueil de Châtillon-en-Bazois",
+        "Nom": "Maison des services au public de Châtillon-en-Bazois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Centre social",
-            "27, rue du Docteur-Dubois",
-            "BP 10"
-          ],
+          "Ligne": "1 bis rue de la Picherotte",
           "CodePostal": "58110",
           "NomCommune": "Châtillon-en-Bazois",
           "Localisation": {
-            "Latitude": "47.0518868",
-            "Longitude": "3.6546414",
-            "Précision": "6"
+            "Latitude": "47.0555308",
+            "Longitude": "3.6585566",
+            "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 86 84 19 00",
-          "Télécopie": "+33 3 86 84 13 07",
-          "Email": "centre.social.bazois@free.fr",
-          "Url": "http://centre.social.bazois.free.fr"
+          "Téléphone": "03 86 84 19 00",
+          "Email": "accueil@scbazois.org",
+          "Url": "http://scbazois.org"
         },
         "Ouverture": {
           "PlageJ": {
@@ -105,8 +99,8 @@
             "fin": "vendredi",
             "PlageH": [
               {
-                "début": "08:30:00",
-                "fin": "12:30:00"
+                "début": "09:00:00",
+                "fin": "12:15:00"
               },
               {
                 "début": "13:30:00",
@@ -122,42 +116,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1474171,
-          47.0132796
+          3.147417,
+          47.01328
         ]
       },
       "properties": {
         "id": "cij-58303-01",
         "codeInsee": "58303",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Varennes-Vauzelles",
+        "Nom": "Point information jeunesse - Varennes-Vauzelles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Espace multimédia du Crot-Cizeau",
-            "Rue André-Malraux"
-          ],
-          "CodePostal": "58640",
-          "NomCommune": "Varennes-Vauzelles",
-          "Localisation": {
-            "Latitude": "47.0132796",
-            "Longitude": "3.1474171",
-            "Précision": "8"
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": [
+              "Espace multimédia du Crot-Cizeau",
+              "Rue André-Malraux"
+            ],
+            "CodePostal": "58640",
+            "NomCommune": "Varennes-Vauzelles",
+            "Localisation": {
+              "Latitude": "47.01328",
+              "Longitude": "3.147417",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
           },
-          "Accessibilité": {
-            "type": "NAC"
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mairie",
+              "54 avenue Louis-Fouchère"
+            ],
+            "CodePostal": "58640",
+            "NomCommune": "Varennes-Vauzelles"
           }
-        },
+        ],
         "CoordonnéesNum": {
-          "Téléphone": "03 86 71 02 62",
-          "Télécopie": "03 86 57 17 49",
-          "Email": "smj@ville-varennes-vauzelles.fr",
+          "Téléphone": "03 86 71 85 44",
+          "Email": "grelleeconstance@gmail.com",
           "Url": "http://www.ville-varennes-vauzelles.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Il est préférable d'appeler auparavant et de prendre un rendez-vous."
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
             {
               "début": "vendredi",
               "fin": "vendredi",
@@ -167,17 +188,17 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
                 }
               ]
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
+                "début": "10:30:00",
+                "fin": "14:00:00"
               }
             }
           ]
@@ -189,14 +210,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.162845,
-          46.990896
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-58194-01",
         "codeInsee": "58194",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Nevers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -208,11 +229,6 @@
           ],
           "CodePostal": "58000",
           "NomCommune": "Nevers",
-          "Localisation": {
-            "Latitude": "46.990896",
-            "Longitude": "3.162845",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -223,82 +239,8 @@
           "Url": "http://www.ijbourgogne.com"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.9654039,
-          46.7874249
-        ]
-      },
-      "properties": {
-        "id": "cij-58149-01",
-        "codeInsee": "58149",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Luzy",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Centre social et culturel de Luzy",
-            "12, avenue Marceau"
-          ],
-          "CodePostal": "58170",
-          "NomCommune": "Luzy",
-          "Localisation": {
-            "Latitude": "46.7874249",
-            "Longitude": "3.9654039",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 86 30 04 21",
-          "Télécopie": "+33 3 86 30 14 39",
-          "Email": "csluzydumont@gmail.com"
-        },
-        "Ouverture": {
           "PlageJ": {
-            "début": "vendredi",
+            "début": "lundi",
             "fin": "vendredi",
             "PlageH": [
               {
@@ -307,9 +249,10 @@
               },
               {
                 "début": "14:00:00",
-                "fin": "16:30:00"
+                "fin": "18:00:00"
               }
-            ]
+            ],
+            "Note": "Sauf le jeudi, de 9h à 18h"
           }
         }
       }

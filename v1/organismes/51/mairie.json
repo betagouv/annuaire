@@ -1588,7 +1588,7 @@
       "properties": {
         "id": "mairie-51511-01",
         "codeInsee": "51511",
-        "dateMiseAJour": "2017-09-26",
+        "dateMiseAJour": "2017-11-07",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Quentin le Verger",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1599,7 +1599,7 @@
           "NomCommune": "Saint-Quentin-le-Verger"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 26 80 28 44",
+          "Téléphone": "03 26 80 56 48",
           "Télécopie": "03 26 80 28 44"
         },
         "Ouverture": {
@@ -12734,7 +12734,7 @@
       "properties": {
         "id": "mairie-51629-01",
         "codeInsee": "51629",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-10-16",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villers-Allerand",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12755,7 +12755,7 @@
         "CoordonnéesNum": {
           "Téléphone": "03 26 97 62 91",
           "Télécopie": "03 26 97 60 72",
-          "Email": "mairie@villersallerand.fr",
+          "Email": "mairie@villers-allerand.fr",
           "Url": "http://www.villers-allerand.fr"
         },
         "Ouverture": {
@@ -17354,14 +17354,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7846164,
-          49.1333099
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51283-01",
         "codeInsee": "51283",
-        "dateMiseAJour": "2013-02-27",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Hans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17370,36 +17370,31 @@
           "Ligne": "Grande rue",
           "CodePostal": "51800",
           "NomCommune": "Hans",
-          "Localisation": {
-            "Latitude": "49.1333099",
-            "Longitude": "4.7846164",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 60 23 38",
-          "Télécopie": "+33 3 26 60 04 44",
+          "Téléphone": "03 26 60 23 38",
+          "Télécopie": "03 26 60 04 44",
           "Email": "mairie-hans@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "15:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "18:00:00",
                 "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "11:30:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -22667,14 +22662,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.80590295792,
-          48.7614936829
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-51005-01",
         "codeInsee": "51005",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Allemant",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -22683,11 +22678,6 @@
           "Ligne": "1 rue de Signy",
           "CodePostal": "51120",
           "NomCommune": "Allemant",
-          "Localisation": {
-            "Latitude": "48.7614936829",
-            "Longitude": "3.80590295792",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "DEM"
           }
@@ -22695,7 +22685,8 @@
         "CoordonnéesNum": {
           "Téléphone": "03 26 81 61 24",
           "Télécopie": "03 26 81 61 24",
-          "Email": "mairie.allemant@wanadoo.fr"
+          "Email": "mairie.allemant@wanadoo.fr",
+          "Url": "www.allemant.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -34252,18 +34243,18 @@
       "properties": {
         "id": "mairie-51508-01",
         "codeInsee": "51508",
-        "dateMiseAJour": "2017-09-26",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint Ouen Domprot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "28 Grande Rue",
+          "Ligne": "34 Grande Rue",
           "CodePostal": "51320",
           "NomCommune": "Saint-Ouen-Domprot"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 26 73 31 34",
+          "Téléphone": "03 26 72 31 34",
           "Télécopie": "03 26 73 31 34",
           "Email": "mairiestouen@orange.fr",
           "Url": "www.vitrychampagneetder.fr"
@@ -34274,9 +34265,10 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "17:00:00",
+                "début": "16:00:00",
                 "fin": "19:00:00"
-              }
+              },
+              "Note": "permanence uniquement le lundi de 16 à 19 heures"
             },
             {
               "début": "jeudi",

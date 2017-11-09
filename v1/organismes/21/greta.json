@@ -15,7 +15,7 @@
         "codeInsee": "21054",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta 21 - Beaune",
+        "Nom": "Greta 21 - Antenne de Beaune",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -90,7 +90,7 @@
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Lycée Carnot",
+            "Cité scolaire Carnot",
             "16 boulevard Thiers"
           ],
           "CodePostal": "21000",
@@ -189,87 +189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.388925,
-          47.193543
-        ]
-      },
-      "properties": {
-        "id": "greta-21038-01",
-        "codeInsee": "21038",
-        "dateMiseAJour": "2013-04-23",
-        "pivotLocal": "greta",
-        "Nom": "Greta 21 - Auxonne (antenne)",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Lycée Prieur de la Côte-d'Or",
-            "Rue de la Vigne-Jeanneton"
-          ],
-          "CodePostal": "21130",
-          "NomCommune": "Auxonne",
-          "Localisation": {
-            "Latitude": "47.193543",
-            "Longitude": "5.388925",
-            "Précision": "4"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 80 27 04 00",
-          "Télécopie": "+33 3 80 27 04 09",
-          "Email": "ce.greta21@ac-dijon.fr",
-          "Url": "http://www.bourgogne.greta.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.0511309,
           47.3181031
         ]
@@ -279,14 +198,14 @@
         "codeInsee": "21231",
         "dateMiseAJour": "2014-12-04",
         "pivotLocal": "greta",
-        "Nom": "Greta de Dijon",
+        "Nom": "Greta 21 - Siège de Dijon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "BP 27529",
             "Lycée Hippolyte-Fontaine",
-            "20, boulevard Voltaire",
-            "BP 93312"
+            "20, boulevard Voltaire"
           ],
           "CodePostal": "21033",
           "NomCommune": "Dijon Cedex",
@@ -300,8 +219,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 80 54 38 43",
-          "Télécopie": "+33 3 80 54 39 45",
+          "Téléphone": "03 80 54 38 43",
           "Email": "ce.greta21@ac-dijon.fr",
           "Url": "http://www.bourgogne.greta.fr"
         },

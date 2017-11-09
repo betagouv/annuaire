@@ -32,10 +32,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+262 2 62 61 12 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "+262 2 62 61 12 22"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

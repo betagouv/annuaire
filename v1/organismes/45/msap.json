@@ -138,6 +138,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.051996,
+          48.068404
+        ]
+      },
+      "properties": {
+        "id": "msap-45224-01",
+        "codeInsee": "45224",
+        "dateMiseAJour": "2017-10-23",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Neuville-aux-Bois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "2 rue de la Pichardière",
+          "CodePostal": "45170",
+          "NomCommune": "Neuville-aux-Bois",
+          "Localisation": {
+            "Latitude": "48.068404",
+            "Longitude": "2.051996",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.neuville-aux-bois@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/neuville-aux-bois-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.878562,
           48.082822
         ]

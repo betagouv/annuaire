@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 74 47 20 20",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 74 47 20 20"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -66,11 +68,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 74 77 47 33",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 74 77 47 33"
+          },
           "Télécopie": "04 74 73 97 45",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

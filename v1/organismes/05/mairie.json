@@ -5858,7 +5858,7 @@
       "properties": {
         "id": "mairie-05061-01",
         "codeInsee": "05061",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-10-12",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Gap",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5908,7 +5908,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "samedi matin : uniquement Guichet unique et \nPasseports/ Cartes Nationales d'identité : 8h30-12h."
       }
     },
     {
@@ -6064,39 +6065,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.65655422211,
-          44.3555107117
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-05033-01",
         "codeInsee": "05033",
-        "dateMiseAJour": "2017-05-31",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chanousse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le village",
+          "Ligne": "Le Village",
           "CodePostal": "05700",
-          "NomCommune": "CHANOUSSE",
-          "Localisation": {
-            "Latitude": "44.3555107117",
-            "Longitude": "5.65655422211",
-            "Précision": "4"
-          }
+          "NomCommune": "Chanousse"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 92 66 21 59",
-          "Email": "mairie-de-chanousse@alsatis.net"
+          "Téléphone": "04 92 66 21 59",
+          "Email": "mairiedechanousse@orange.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "vendredi",
-            "fin": "vendredi",
+            "début": "jeudi",
+            "fin": "jeudi",
             "PlageH": {
-              "début": "13:30:00",
-              "fin": "16:30:00"
+              "début": "14:00:00",
+              "fin": "18:00:00"
             }
           }
         }

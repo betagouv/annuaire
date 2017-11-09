@@ -6,6 +6,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.938162,
+          49.6662
+        ]
+      },
+      "properties": {
+        "id": "msap-60286-01",
+        "codeInsee": "60286",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Grandvilliers",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "32 rue Frédéric Petit",
+          "CodePostal": "60210",
+          "NomCommune": "Grandvilliers",
+          "Localisation": {
+            "Latitude": "49.6662",
+            "Longitude": "1.938162",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 46 75 41",
+          "Email": "msap.grandvilliers60210@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/msap-de-grandvilliers"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.744921,
           49.538087
         ]
@@ -91,6 +141,56 @@
         "CoordonnéesNum": {
           "Email": "msap.longueil-ste-marie@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.839906,
+          49.412903
+        ]
+      },
+      "properties": {
+        "id": "msap-60164-01",
+        "codeInsee": "60164",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Le Coudray-Saint-Germer",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 rue des Ecoles",
+          "CodePostal": "60850",
+          "NomCommune": "Le Coudray-Saint-Germer",
+          "Localisation": {
+            "Latitude": "49.412903",
+            "Longitude": "1.839906",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 44 81 83 00",
+          "Email": "msap.lecoudraystgermer@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/le-coudray-saint-germer"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },

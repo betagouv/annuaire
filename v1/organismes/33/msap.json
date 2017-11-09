@@ -164,7 +164,7 @@
         "codeInsee": "33490",
         "dateMiseAJour": "2017-01-10",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Galgon",
+        "Nom": "Maison de services au public (Bureau de Poste) - Saint-Vivien-de-Médoc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -381,6 +381,80 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.558312,
+          44.82759
+        ]
+      },
+      "properties": {
+        "id": "msap-33063-01",
+        "codeInsee": "33063",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public PIMMS de Bordeaux",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "213 bis cours de la Marne",
+          "CodePostal": "33800",
+          "NomCommune": "Bordeaux",
+          "Localisation": {
+            "Latitude": "44.82759",
+            "Longitude": "-0.558312",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 56 85 85 45",
+          "Email": "bordeaux@pimms.org",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-bordeaux"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.354807,
           44.397587
         ]
@@ -406,6 +480,38 @@
         "CoordonnéesNum": {
           "Email": "msap.prechac@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/prechac-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.799503,
+          45.027467
+        ]
+      },
+      "properties": {
+        "id": "msap-33104-01",
+        "codeInsee": "33104",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Castelnau-de-Médoc",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "23 rue Victor Hugo",
+          "CodePostal": "33480",
+          "NomCommune": "Castelnau-de-Médoc",
+          "Localisation": {
+            "Latitude": "45.027467",
+            "Longitude": "-0.799503",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/castelnau-de-medoc-bureau-de-poste"
         }
       }
     },
@@ -489,6 +595,38 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12454,
+          44.779591
+        ]
+      },
+      "properties": {
+        "id": "msap-33350-01",
+        "codeInsee": "33350",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Rauzan",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "11 grande rue",
+          "CodePostal": "33420",
+          "NomCommune": "Rauzan",
+          "Localisation": {
+            "Latitude": "44.779591",
+            "Longitude": "-0.12454",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/rauzan-bureau-de-poste"
         }
       }
     },

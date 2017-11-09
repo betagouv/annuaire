@@ -126,6 +126,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.82041,
+          48.193453
+        ]
+      },
+      "properties": {
+        "id": "msap-29027-01",
+        "codeInsee": "29027",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Haute Cornouaille",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 rue de Morlaix",
+          "CodePostal": "29520",
+          "NomCommune": "Châteauneuf-du-Faou",
+          "Localisation": {
+            "Latitude": "48.193453",
+            "Longitude": "-3.82041",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 73 25 36",
+          "Email": "contact@haute-cornouaille.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/haute-cornouaille"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermeture à 16h le vendredi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.129003,
           47.988332
         ]
@@ -209,6 +260,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.98966,
+          48.682866
+        ]
+      },
+      "properties": {
+        "id": "msap-29259-01",
+        "codeInsee": "29259",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Carmes",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "29 rue des Carmes",
+          "CodePostal": "29250",
+          "NomCommune": "Saint-Pol-de-Léon",
+          "Localisation": {
+            "Latitude": "48.682866",
+            "Longitude": "-3.98966",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 69 10 44",
+          "Email": "msap.carmes@hlc.bzh",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/msap-des-carmes"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.829742,
           48.060816
         ]
@@ -242,6 +343,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.087133,
+          48.19898
+        ]
+      },
+      "properties": {
+        "id": "msap-29026-01",
+        "codeInsee": "29026",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Pleyben - Châteaulin - Porzay",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 quai Robert Alba",
+          "CodePostal": "29150",
+          "NomCommune": "Châteaulin",
+          "Localisation": {
+            "Latitude": "48.19898",
+            "Longitude": "-4.087133",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 16 14 20",
+          "Email": "msap@ccpcp.bzh",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/msap-pleyben-chateaulin-porzay"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.191256,
           48.077927
         ]
@@ -267,6 +434,125 @@
         "CoordonnéesNum": {
           "Email": "msap.plogonnec@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/plogonnec-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.129107,
+          48.659575
+        ]
+      },
+      "properties": {
+        "id": "msap-29030-01",
+        "codeInsee": "29030",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Kerhall",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Zone d’activité de Kerhall",
+          "CodePostal": "29233",
+          "NomCommune": "Cléder",
+          "Localisation": {
+            "Latitude": "48.659575",
+            "Longitude": "-4.129107",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 98 69 44 54",
+          "Email": "msap.kerhall@hlc.bzh",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/msap-de-kerhall"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.747585,
+          48.3625
+        ]
+      },
+      "properties": {
+        "id": "msap-29081-01",
+        "codeInsee": "29081",
+        "dateMiseAJour": "2017-10-19",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de poste) - Huelgoat",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "22 rue des Cieux",
+          "CodePostal": "29690",
+          "NomCommune": "Huelgoat",
+          "Localisation": {
+            "Latitude": "48.3625",
+            "Longitude": "-3.747585",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.huelgoat@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/huelgoat-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:45:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },

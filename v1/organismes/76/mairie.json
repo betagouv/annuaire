@@ -1987,15 +1987,15 @@
       "properties": {
         "id": "mairie-76618-13",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Guilmécourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Guilmécourt",
-            "9 rue Saint-Pierre"
+            "7 bis rue Saint-Pierre",
+            "Guilmécourt"
           ],
           "CodePostal": "76630",
           "NomCommune": "Petit-Caux",
@@ -2765,15 +2765,15 @@
       "properties": {
         "id": "mairie-76618-15",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Penly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Penly",
-            "place de la Mairie"
+            "rue des Hares",
+            "Penly"
           ],
           "CodePostal": "76630",
           "NomCommune": "Petit-Caux",
@@ -10596,7 +10596,7 @@
       "properties": {
         "id": "mairie-76618-11",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Gouchaupré",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10618,10 +10618,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "02 35 85 49 34",
-            "$t": "02 35 85 49 34"
-          },
+          "Téléphone": "02 35 85 49 34",
+          "Télécopie": "02 35 85 49 34",
           "Email": "mairie.gouchaupre@wanadoo.fr"
         },
         "Ouverture": {
@@ -10797,14 +10795,14 @@
       "properties": {
         "id": "mairie-76618-08",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Brunville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "2 rue de l'Eglise",
+            "28 rue de la Récré",
             "Brunville"
           ],
           "CodePostal": "76630",
@@ -13462,15 +13460,15 @@
       "properties": {
         "id": "mairie-76618-12",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Greny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Greny",
-            "place centre Bourg"
+            "rue de Verton",
+            "Greny"
           ],
           "CodePostal": "76630",
           "NomCommune": "Petit-Caux",
@@ -14345,14 +14343,14 @@
       "properties": {
         "id": "mairie-76618-03",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée d'Auquemesnil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "4 ter rue de l'Abbaye",
+            "rue de l'Abbaye",
             "Auquemesnil"
           ],
           "CodePostal": "76630",
@@ -19281,7 +19279,7 @@
       "properties": {
         "id": "mairie-76624-01",
         "codeInsee": "76624",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Nicolas-d'Aliermont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19309,20 +19307,44 @@
           "Url": "http://www.saint-nicolas-aliermont.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "18:00:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -32454,15 +32476,15 @@
       "properties": {
         "id": "mairie-76618-18",
         "codeInsee": "76618",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de Saint-Quentin-au-Bosc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Saint-Quentin-au-Bosc",
-            "rue des Riots"
+            "rue de la Grande Mare",
+            "Saint-Quentin-au-Bosc"
           ],
           "CodePostal": "76630",
           "NomCommune": "Petit-Caux",
@@ -33775,34 +33797,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.58007705212,
-          49.7331581116
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-76265-01",
         "codeInsee": "76265",
-        "dateMiseAJour": "2013-07-03",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Flamets-Frétils",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "9, rue de la Forge",
+          "Ligne": "9 rue de la Forge",
           "CodePostal": "76270",
           "NomCommune": "Flamets-Frétils",
-          "Localisation": {
-            "Latitude": "49.7331581116",
-            "Longitude": "1.58007705212",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 94 20 83",
-          "Télécopie": "+33 2 35 94 20 83",
+          "Téléphone": "02 35 94 20 83",
+          "Télécopie": "02 35 94 20 83",
           "Email": "commune-flamets-fretils@orange.fr"
         },
         "Ouverture": {
@@ -37093,35 +37110,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.618019998074,
-          49.6944961548
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-76692-01",
         "codeInsee": "76692",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-10-30",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Thiouville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Rue de l'École",
+          "Ligne": "136 rue de l'École",
           "CodePostal": "76450",
           "NomCommune": "Thiouville",
-          "Localisation": {
-            "Latitude": "49.6944961548",
-            "Longitude": "0.618019998074",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 35 27 62 27",
-          "Email": "mairie-sg.thiouville@cc-coeurdecaux.fr",
-          "Url": "http://www.thiouville.coeurdecaux.fr"
+          "Email": "mairie.thiouville@wanadoo.fr",
+          "Url": "https://www.thiouville.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -43687,49 +43699,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.865643978119,
-          49.7852668762
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-76140-01",
         "codeInsee": "76140",
-        "dateMiseAJour": "2006-02-21",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Brametot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
+          "Ligne": "6 Bis Rue de l'Eglise",
           "CodePostal": "76740",
-          "NomCommune": "BRAMETOT",
-          "Localisation": {
-            "Latitude": "49.7852668762",
-            "Longitude": "0.865643978119",
-            "Précision": "4"
-          }
+          "NomCommune": "Brametot"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 97 40 71"
+          "Téléphone": "02 35 97 40 71",
+          "Email": "mairiebrametot@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "18:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "15:00:00"
-              }
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "17:30:00",
+              "fin": "19:00:00"
             }
-          ]
+          }
         }
       }
     },

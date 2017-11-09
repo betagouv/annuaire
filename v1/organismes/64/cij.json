@@ -6,278 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3760072,
-          43.3771303
-        ]
-      },
-      "properties": {
-        "id": "cij-64519-01",
-        "codeInsee": "64519",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Serres-Castet",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Centre social Alexis Peyret",
-            "2, rue Aristide-Finco"
-          ],
-          "CodePostal": "64121",
-          "NomCommune": "Serres-Castet",
-          "Localisation": {
-            "Latitude": "43.3771303",
-            "Longitude": "-0.3760072",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 33 11 66",
-          "Télécopie": "+33 5 59 33 30 90",
-          "Email": "cs-alexispeyret@orange.fr",
-          "Url": "http://www.csap.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.39883005619,
-          43.361000061
-        ]
-      },
-      "properties": {
-        "id": "cij-64160-01",
-        "codeInsee": "64160",
-        "dateMiseAJour": "2011-10-13",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Cambo-les-Bains",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Avenue de la Mairie",
-            "Centre multi services"
-          ],
-          "CodePostal": "64250",
-          "NomCommune": "CAMBO LES BAINS",
-          "Localisation": {
-            "Latitude": "43.361000061",
-            "Longitude": "-1.39883005619",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 93 50 60",
-          "Url": "http://www.info-jeunes.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.62106096745,
-          43.3448219299
-        ]
-      },
-      "properties": {
-        "id": "cij-64065-01",
-        "codeInsee": "64065",
-        "dateMiseAJour": "2006-02-28",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Ascain",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "chemin Chourio",
-            "maison de l'enfance"
-          ],
-          "CodePostal": "64310",
-          "NomCommune": "ASCAIN",
-          "Localisation": {
-            "Latitude": "43.3448219299",
-            "Longitude": "-1.62106096745",
-            "Précision": "4"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 85 91 29",
-          "Url": "http://www.info-jeune.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.439532995224,
-          43.3367996216
-        ]
-      },
-      "properties": {
-        "id": "cij-64335-01",
-        "codeInsee": "64335",
-        "dateMiseAJour": "2011-10-13",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Lescar",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Rue Raoul Follereau",
-          "CodePostal": "64230",
-          "NomCommune": "LESCAR",
-          "Localisation": {
-            "Latitude": "43.3367996216",
-            "Longitude": "-0.439532995224",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 81 31 90",
-          "Url": "http://www.info-jeune.net"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:30:00",
-                "fin": "18:30:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.625475,
           43.364014
         ]
@@ -285,7 +13,7 @@
       "properties": {
         "id": "cij-64410-01",
         "codeInsee": "64410",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Mourenx",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -343,70 +71,6 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "16:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.470093011856,
-          43.3502998352
-        ]
-      },
-      "properties": {
-        "id": "cij-64448-01",
-        "codeInsee": "64448",
-        "dateMiseAJour": "2006-03-07",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Poey de Lescar",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "maison des associations",
-            "41 rue Principale"
-          ],
-          "CodePostal": "64230",
-          "NomCommune": "POEY DE LESCAR",
-          "Localisation": {
-            "Latitude": "43.3502998352",
-            "Longitude": "-0.470093011856",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 68 89 12",
-          "Url": "http://www.info-jeune.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
               }
             }
           ]
@@ -530,7 +194,7 @@
       "properties": {
         "id": "cij-64445-01",
         "codeInsee": "64445",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Pau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -539,7 +203,7 @@
           "Ligne": [
             "Mission locale",
             "Complexe de la république",
-            "8, rue Carnot"
+            "8 rue Carnot"
           ],
           "CodePostal": "64000",
           "NomCommune": "Pau",
@@ -553,7 +217,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 98 90 46",
+          "Téléphone": "05 59 98 90 46",
           "Email": "bij@mljpau.fr"
         },
         "Ouverture": {
@@ -586,7 +250,7 @@
       "properties": {
         "id": "cij-64024-01",
         "codeInsee": "64024",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Anglet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -615,7 +279,7 @@
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
-            "fin": "samedi",
+            "fin": "vendredi",
             "PlageH": [
               {
                 "début": "09:00:00",
@@ -625,8 +289,7 @@
                 "début": "14:00:00",
                 "fin": "17:30:00"
               }
-            ],
-            "Note": "Horaires du lundi au vendredi de 9h à 17h30 pendant les vacances scolaires."
+            ]
           }
         }
       }
@@ -643,7 +306,7 @@
       "properties": {
         "id": "cij-64102-01",
         "codeInsee": "64102",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Bayonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -684,83 +347,6 @@
               }
             ]
           }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.506357014179,
-          43.3336982727
-        ]
-      },
-      "properties": {
-        "id": "cij-64037-01",
-        "codeInsee": "64037",
-        "dateMiseAJour": "2006-03-07",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Arbus",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "4 rue du Général Pommiès",
-            "CodePostal": "64230",
-            "NomCommune": "ARBUS",
-            "Localisation": {
-              "Latitude": "43.3336982727",
-              "Longitude": "-0.506357014179",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "4 rue Principale",
-              "communauté de communes"
-            ],
-            "CodePostal": "64230",
-            "NomCommune": "POEY DE LESCAR",
-            "Localisation": {
-              "Latitude": "43.3471984863",
-              "Longitude": "-0.476915001869",
-              "Précision": "8"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 83 16 99",
-          "Url": "http://www.info-jeune.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
         }
       }
     },
@@ -845,15 +431,15 @@
       "properties": {
         "id": "cij-64477-01",
         "codeInsee": "64477",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Étienne-de-Baïgorry",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Place de la Mairie",
-            "Comité Izpegi"
+            "Comité Izpegi",
+            "Place de la Mairie"
           ],
           "CodePostal": "64430",
           "NomCommune": "Saint-Étienne-de-Baïgorry",
@@ -869,7 +455,7 @@
         "CoordonnéesNum": {
           "Téléphone": "05 59 37 47 20",
           "Email": "pij.comite.izpegi@wanadoo.fr",
-          "Url": "http://izpegi.pagesperso-orange.fr/PIJbaigorriACCUEIL.html"
+          "Url": "http://www.cpie.pays.basque.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -901,7 +487,7 @@
       "properties": {
         "id": "cij-64422-01",
         "codeInsee": "64422",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Oloron-Sainte-Marie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -931,6 +517,22 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
               "début": "mardi",
               "fin": "jeudi",
               "PlageH": [
@@ -943,22 +545,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "16:00:00"
-              }
             }
           ]
         }
@@ -976,7 +562,7 @@
       "properties": {
         "id": "cij-64122-01",
         "codeInsee": "64122",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Biarritz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -999,7 +585,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 59 41 01 67",
-          "Télécopie": "05 59 23 93 56",
           "Email": "bij@biarritz.fr",
           "Url": "http://www.biarritz.fr"
         },
@@ -1033,7 +618,7 @@
       "properties": {
         "id": "cij-64430-01",
         "codeInsee": "64430",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Orthez",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1062,20 +647,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -1091,6 +662,20 @@
                 "début": "09:00:00",
                 "fin": "16:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -1101,14 +686,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5517861,
-          43.3570769
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-64495-01",
         "codeInsee": "64495",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Pée-sur-Nivelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1120,11 +705,6 @@
           ],
           "CodePostal": "64310",
           "NomCommune": "Saint-Pée-sur-Nivelle",
-          "Localisation": {
-            "Latitude": "43.3570769",
-            "Longitude": "-1.5517861",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC",
             "$t": "ascenseur"
@@ -1132,25 +712,16 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 59 54 58 21",
-          "Télécopie": "05 59 54 57 19",
           "Email": "enfancejeunesse@senpere64.fr",
           "Url": "http://www.info-jeunes.net"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
+              "début": "lundi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
+                "début": "09:30:00",
                 "fin": "12:00:00"
               }
             },
@@ -1159,12 +730,12 @@
               "fin": "mercredi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "09:30:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "17:00:00"
+                  "fin": "18:00:00"
                 }
               ]
             }
@@ -1184,7 +755,7 @@
       "properties": {
         "id": "cij-64405-01",
         "codeInsee": "64405",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Morlaas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1217,8 +788,8 @@
             "fin": "vendredi",
             "PlageH": [
               {
-                "début": "09:00:00",
-                "fin": "12:30:00"
+                "début": "08:30:00",
+                "fin": "12:00:00"
               },
               {
                 "début": "14:00:00",
@@ -1241,7 +812,7 @@
       "properties": {
         "id": "cij-64256-01",
         "codeInsee": "64256",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Hasparren",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1249,7 +820,7 @@
           "type": "géopostale",
           "Ligne": [
             "Maison de services publics Elgar",
-            "11, rue Gaskoina"
+            "11 rue Gaskoina"
           ],
           "CodePostal": "64240",
           "NomCommune": "Hasparren",
@@ -1263,8 +834,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 29 58 33",
-          "Télécopie": "+33 5 59 29 11 23",
+          "Téléphone": "05 59 29 58 33",
+          "Télécopie": "05 59 29 11 23",
           "Email": "pij.hazparne@wanadoo.fr",
           "Url": "http://www.ville-hasparren.fr"
         },
@@ -1298,7 +869,7 @@
       "properties": {
         "id": "cij-64260-01",
         "codeInsee": "64260",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Hendaye",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1318,12 +889,19 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 59 20 41 41",
-          "Télécopie": "05 59 08 77 64",
           "Email": "bij@hendaye.com",
           "Url": "http://www.hendaye.com"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "vendredi",
@@ -1337,14 +915,6 @@
                   "fin": "18:30:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "12:30:00"
-              }
             }
           ]
         }
@@ -1362,13 +932,13 @@
       "properties": {
         "id": "cij-64483-01",
         "codeInsee": "64483",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Saint-Jean-de-Luz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "34, boulevard Victor-Hugo",
+          "Ligne": "34 boulevard Victor-Hugo",
           "CodePostal": "64500",
           "NomCommune": "Saint-Jean-de-Luz",
           "Localisation": {
@@ -1381,30 +951,20 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 59 85 20 40",
-          "Télécopie": "+33 5 59 85 20 49",
+          "Téléphone": "05 59 85 20 40",
+          "Télécopie": "05 59 85 20 49",
           "Email": "jeunesse@saintjeandeluz.fr",
           "Url": "http://www.saintjeandeluz.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "18:00:00"
-              }
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:30:00"
             }
-          ]
+          }
         }
       }
     }

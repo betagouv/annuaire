@@ -232,6 +232,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.147578,
+          45.26036
+        ]
+      },
+      "properties": {
+        "id": "msap-24210-01",
+        "codeInsee": "24210",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Hautefort",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Sylvain Floirat",
+          "CodePostal": "24390",
+          "NomCommune": "Hautefort",
+          "Localisation": {
+            "Latitude": "45.26036",
+            "Longitude": "1.147578",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 53 50 40 20",
+          "Email": "accueil.mairie@hautefort.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.353251,
           44.883128
         ]
@@ -322,57 +390,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.139916,
-          45.392017
+          0.55872,
+          45.5708
         ]
       },
       "properties": {
-        "id": "msap-24227-01",
-        "codeInsee": "24227",
-        "dateMiseAJour": "2016-10-14",
+        "id": "msap-24214-01",
+        "codeInsee": "24214",
+        "dateMiseAJour": "2017-10-17",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Lanouaille",
+        "Nom": "Maison de services au public (Bureau de Poste) - Javerlhac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "9 place de la Fontaine Bugeaud",
-          "CodePostal": "24270",
-          "NomCommune": "Lanouaille",
+          "type": "géopostale",
+          "Ligne": "le Bourg",
+          "CodePostal": "24300",
+          "NomCommune": "Javerlhac",
           "Localisation": {
-            "Latitude": "45.392017",
-            "Longitude": "1.139916",
-            "Précision": "1"
+            "Latitude": "45.5708",
+            "Longitude": "0.55872",
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
-          "Email": "msap.lanouaille@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/lanouaille-bureau-de-poste"
+          "Email": "msap.javerlhac@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/javerlhac-bureau-de-poste"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:00:00"
               }
-            }
-          ]
+            ]
+          }
         }
       }
     },

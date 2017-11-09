@@ -6,34 +6,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0740662,
-          49.7461274
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-80410-01",
         "codeInsee": "80410",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ham",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Rue Sorigny",
+          "Ligne": "4 Rue Sorigny",
           "CodePostal": "80400",
           "NomCommune": "Ham",
-          "Localisation": {
-            "Latitude": "49.7461274",
-            "Longitude": "3.0740662",
-            "Précision": "8"
-          },
           "Accessibilité": {
-            "type": "ACC",
-            "$t": "passer par la cour de l’école"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "09 64 03 34 07",
+          "Téléphone": "03 22 79 03 71",
           "Email": "picardieenligne2@orange.fr"
         },
         "Ouverture": {
@@ -47,8 +41,8 @@
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
@@ -79,65 +73,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          2.3550393,
+          49.8714197
         ]
       },
       "properties": {
         "id": "cij-80489-01",
         "codeInsee": "80489",
-        "dateMiseAJour": "2017-09-21",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Longueau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1 ter Avenue Henri-Barbusse",
+          "Ligne": "Avenue Henri-Barbusse",
           "CodePostal": "80330",
           "NomCommune": "Longueau",
+          "Localisation": {
+            "Latitude": "49.8714197",
+            "Longitude": "2.3550393",
+            "Précision": "6"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "03 22 46 11 03",
-          "Email": "caj-pij@ville-longueau.fr"
+          "Email": "caj-pij@ville-longueau.fr",
+          "Url": "http://www.ville-longueau.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "16:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "jeudi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:30:00"
-              }
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -146,62 +126,112 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7893581,
-          49.6996385
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-80685-01",
         "codeInsee": "80685",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-30",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Roye",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Mission locale",
-            "7, boulevard du Général-Leclerc"
+            "12 Boulevard des Glycines",
+            "Maison Information Jeunesse"
           ],
           "CodePostal": "80700",
           "NomCommune": "Roye",
-          "Localisation": {
-            "Latitude": "49.6996385",
-            "Longitude": "2.7893581",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 22 87 02 63",
-          "Télécopie": "+33 3 22 87 91 89",
-          "Email": "mlcp@mlcp.org",
-          "Url": "http://www.mlcp.org"
+          "Téléphone": "09 54 79 27 15",
+          "Email": "mij@roye.eu",
+          "Url": "https://facebook.com/mijroye"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-80620-01",
+        "codeInsee": "80620",
+        "dateMiseAJour": "2017-11-07",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Péronne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue Jules-Ferry",
+          "CodePostal": "80200",
+          "NomCommune": "Péronne",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 22 84 75 10",
+          "Email": "pij@ville-peronne.fr",
+          "Url": "http://www.ccl-peronne.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "jeudi",
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
                 }
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -209,186 +239,22 @@
                   "fin": "16:00:00"
                 }
               ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.7021374,
-          49.8147423
-        ]
-      },
-      "properties": {
-        "id": "cij-80680-01",
-        "codeInsee": "80680",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Rosières-en-Santerre",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Relais services publics",
-            "5 rue Victor-Hugo"
-          ],
-          "CodePostal": "80170",
-          "NomCommune": "Rosières-en-Santerre",
-          "Localisation": {
-            "Latitude": "49.8147423",
-            "Longitude": "2.7021374",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "03 22 88 49 30",
-          "Télécopie": "03 22 88 49 39",
-          "Email": "maison-sociale-ros@wanadoo.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3454945,
-          49.8939841
-        ]
-      },
-      "properties": {
-        "id": "cij-80164-01",
-        "codeInsee": "80164",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Camon",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "4, place des Libertés",
-            "CodePostal": "80450",
-            "NomCommune": "Camon",
-            "Localisation": {
-              "Latitude": "49.8939841",
-              "Longitude": "2.3454945",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC",
-              "$t": "plain-pied"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Camon",
-              "Place du Général-Leclerc"
-            ],
-            "CodePostal": "80450",
-            "NomCommune": "Camon",
-            "Localisation": {
-              "Latitude": "49.887576",
-              "Longitude": "2.3444639",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 22 70 01 82",
-          "Email": "point-jeunes-camon@wanadoo.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.9384245,
-          49.9394477
-        ]
-      },
-      "properties": {
-        "id": "cij-80620-01",
-        "codeInsee": "80620",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Péronne",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "7, rue Jules-Ferry",
-          "CodePostal": "80200",
-          "NomCommune": "Péronne",
-          "Localisation": {
-            "Latitude": "49.9394477",
-            "Longitude": "2.9384245",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 22 84 47 22",
-          "Email": "assoccl@free.fr",
-          "Url": "http://www.ccl-peronne.com"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "samedi",
-            "PlageH": [
-              {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
-            ]
-          }
         }
       }
     },
@@ -466,142 +332,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2907749,
-          49.8932817
+          2.31275779,
+          49.8894457
         ]
       },
       "properties": {
         "id": "cij-80021-01",
         "codeInsee": "80021",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Centre régional information jeunesse - Picardie",
+        "Nom": "Centre régional information jeunesse - Hauts-de-France",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Espace Dewailly - Salle 1",
-            "3 place Louis-Dewailly"
-          ],
+          "Ligne": "50 rue Riolan",
           "CodePostal": "80000",
           "NomCommune": "Amiens",
           "Localisation": {
-            "Latitude": "49.8932817",
-            "Longitude": "2.2907749",
+            "Latitude": "49.8894457",
+            "Longitude": "2.31275779",
             "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC",
-            "$t": "rez-de-chaussée"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "03 22 50 02 70",
-          "Email": "contact@crij-picardie.fr",
-          "Url": "http://www.crij-picardie.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7644200325,
-          49.9558982849
-        ]
-      },
-      "properties": {
-        "id": "cij-80606-01",
-        "codeInsee": "80606",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Oisemont",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "8 rue de la Commanderie",
-          "CodePostal": "80140",
-          "NomCommune": "Oisemont",
-          "Localisation": {
-            "Latitude": "49.9558982849",
-            "Longitude": "1.7644200325",
-            "Précision": "6"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 22 25 27 00"
+          "Téléphone": "03 22 50 02 70",
+          "Email": "contact@crij-hdf.fr",
+          "Url": "http://www.crij-hdf.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "17:00:00"
               }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "12:30:00"
-              }
-            }
-          ]
+            ],
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
+          }
         }
       }
     },
@@ -617,7 +393,7 @@
       "properties": {
         "id": "cij-80001-01",
         "codeInsee": "80001",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Abbeville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -666,8 +442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3249209,
-          49.9021824
+          null,
+          null
         ]
       },
       "properties": {
@@ -677,41 +453,21 @@
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Rivery",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Maison pour tous",
-              "Centre d'animation jeunesse",
-              "103, rue Thuillier-Delambre"
-            ],
-            "CodePostal": "80136",
-            "NomCommune": "Rivery",
-            "Localisation": {
-              "Latitude": "49.9021824",
-              "Longitude": "2.3249209",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "DEM",
-              "$t": "il y a une marche mais l'usager peut demander de l'aide à un agent"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": "63, rue Baudrez",
-            "CodePostal": "80136",
-            "NomCommune": "Rivery",
-            "Localisation": {
-              "Latitude": "49.9034876",
-              "Longitude": "2.3223489",
-              "Précision": "6"
-            }
+        "Adresse": {
+          "type": "physique",
+          "Ligne": [
+            "63 rue Baudrez",
+            "Centre socio-culturel Jean Cayeux"
+          ],
+          "CodePostal": "80136",
+          "NomCommune": "Rivery",
+          "Accessibilité": {
+            "type": "DEM",
+            "$t": "il y a une marche mais l'usager peut demander de l'aide à un agent"
           }
-        ],
+        },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 22 70 06 85",
-          "Télécopie": "+33 3 22 70 07 39",
+          "Téléphone": "03 22 70 07 38",
           "Email": "ewilsmptrivery@gmail.com",
           "Url": "http://mptcsrivery.fr"
         },

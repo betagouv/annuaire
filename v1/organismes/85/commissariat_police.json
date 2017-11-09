@@ -35,7 +35,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 51 45 16 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 51 45 16 00"
+          },
           "Télécopie": "02 51 45 16 16",
           "Email": "ddsp85@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -89,7 +92,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 51 23 73 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 51 23 73 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -138,10 +144,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 51 40 86 72",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 51 40 86 72"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -178,7 +186,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 51 06 92 20",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 51 06 92 20"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {

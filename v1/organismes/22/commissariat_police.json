@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 77 29 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 96 77 29 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -78,7 +81,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 33 54 55",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 96 33 54 55"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -140,7 +146,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 46 69 50",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 96 46 69 50"
+          },
           "Télécopie": "02 96 46 23 10",
           "Email": "ddsp22-csp-lannion@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -185,10 +194,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 87 74 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 96 87 74 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

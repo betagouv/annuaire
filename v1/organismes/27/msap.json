@@ -151,6 +151,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.720236,
+          49.193234
+        ]
+      },
+      "properties": {
+        "id": "msap-27116-01",
+        "codeInsee": "27116",
+        "dateMiseAJour": "2017-10-18",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Brionne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "10 rue de la Soie",
+          "CodePostal": "27800",
+          "NomCommune": "Brionne",
+          "Localisation": {
+            "Latitude": "49.193234",
+            "Longitude": "0.720236",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "07 68 70 09 71",
+          "Email": "msap.brionne@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/brionne"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.612583,
           49.303332
         ]
@@ -583,6 +649,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.276283,
+          48.906051
+        ]
+      },
+      "properties": {
+        "id": "msap-27507-01",
+        "codeInsee": "27507",
+        "dateMiseAJour": "2017-10-18",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Saint-André-de-l'Eure",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "18 rue du Maréchal Joffre",
+          "CodePostal": "27220",
+          "NomCommune": "Saint-André-de-l'Eure",
+          "Localisation": {
+            "Latitude": "48.906051",
+            "Longitude": "1.276283",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-andre-de-leure-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.337339,
           49.161921
         ]
@@ -675,6 +773,57 @@
           "Email": "msap.pont-st-pierre@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711099,
+          48.822063
+        ]
+      },
+      "properties": {
+        "id": "msap-27502-01",
+        "codeInsee": "27502",
+        "dateMiseAJour": "2017-10-18",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Rugles",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "33 ter rue Aristide Briand",
+          "CodePostal": "27250",
+          "NomCommune": "Rugles",
+          "Localisation": {
+            "Latitude": "48.822063",
+            "Longitude": "0.711099",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 32 24 70 42",
+          "Email": "magalie.barbier@mairie-rugles.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/rugles"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "- Pour le visio accueil, du lundi au jeudi de 9h à 12h et de 13h30 à 17h et de 9h à12h le vendredi.\n- Pour l’espace public numérique, du lundi au jeudi de 9h à 13h et de 13h30 à 17h et de 9h à12h le vendredi."
       }
     },
     {

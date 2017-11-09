@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 53 15 60",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 53 15 60"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -47,9 +49,9 @@
       "properties": {
         "id": "commissariat_police-14118-03",
         "codeInsee": "14118",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "commissariat_police",
-        "Nom": "Commissariat subdivisionnaire de police de Caen",
+        "Nom": "Bureau de police de Caen - Guynemer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -63,10 +65,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 35 43 60",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 35 43 60"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -81,15 +85,19 @@
       "properties": {
         "id": "commissariat_police-14118-01",
         "codeInsee": "14118",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "commissariat_police",
-        "Nom": "Commissariat de police de Caen",
+        "Nom": "Hôtel de police de Caen",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "10 rue Thibout-de-la-Fresnaye",
-          "CodePostal": "14000",
-          "NomCommune": "Caen",
+          "Ligne": [
+            "BP 530",
+            "Direction Départementale de la Sécurité Publique",
+            "10 rue Thibout-de-la-Fresnaye"
+          ],
+          "CodePostal": "14035",
+          "NomCommune": "Caen Cedex 1",
           "Localisation": {
             "Latitude": "49.1856901",
             "Longitude": "-0.3793559",
@@ -100,7 +108,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 29 22 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 29 22 22"
+          },
           "Télécopie": "02 31 73 89 46",
           "Email": "ddsp14@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -154,7 +165,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 29 55 35",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 29 55 35"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -191,9 +205,9 @@
       "properties": {
         "id": "commissariat_police-14118-02",
         "codeInsee": "14118",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "commissariat_police",
-        "Nom": "Bureau de police de Caen",
+        "Nom": "Bureau de police de Caen - Jacobins",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -210,7 +224,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 15 63 60",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 15 63 60"
+          },
           "Email": "ddsp14-csec-jacobins@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -264,10 +281,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 48 45 50",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 48 45 50"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -301,7 +320,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 28 23 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 28 23 00"
+          },
           "Télécopie": "02 31 28 23 10",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -351,10 +373,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 25 03 20",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 25 03 20"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -388,10 +412,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 29 13 20",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 29 13 20"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -425,10 +451,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 14 44 45",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 14 44 45"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -462,7 +490,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 14 61 70",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 31 14 61 70"
+          },
           "Télécopie": "02 31 14 61 71",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },

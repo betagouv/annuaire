@@ -7840,14 +7840,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7368975,
-          46.5511915
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-03222-01",
         "codeInsee": "03222",
-        "dateMiseAJour": "2017-03-31",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Caprais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7856,11 +7856,6 @@
           "Ligne": "Le Bourg",
           "CodePostal": "03190",
           "NomCommune": "Saint-Caprais",
-          "Localisation": {
-            "Latitude": "46.5511915",
-            "Longitude": "2.7368975",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC",
             "$t": "rampe"
@@ -7876,16 +7871,16 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
+                "début": "16:00:00",
+                "fin": "18:00:00"
               }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -14401,14 +14396,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.5518762,
-          46.6108071
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-03074-01",
         "codeInsee": "03074",
-        "dateMiseAJour": "2017-03-31",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chevagnes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -14417,11 +14412,6 @@
           "Ligne": "1 route Nationale",
           "CodePostal": "03230",
           "NomCommune": "Chevagnes",
-          "Localisation": {
-            "Latitude": "46.6108071",
-            "Longitude": "3.5518762",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -14450,8 +14440,8 @@
                   "fin": "12:30:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
                 }
               ]
             },
@@ -14465,7 +14455,7 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "18:00:00"
+                  "fin": "17:30:00"
                 }
               ]
             }

@@ -378,6 +378,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.62716,
+          44.981534
+        ]
+      },
+      "properties": {
+        "id": "msap-15258-01",
+        "codeInsee": "15258",
+        "dateMiseAJour": "2017-10-12",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Vic-sur-Cère",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue du 14 juillet 1789",
+          "CodePostal": "15800",
+          "NomCommune": "Vic-sur-Cère",
+          "Localisation": {
+            "Latitude": "44.981534",
+            "Longitude": "2.62716",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/vic-sur-cere-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.976967,
           45.125469
         ]
@@ -472,6 +504,78 @@
           "Téléphone": "+33 4 71 78 68 33",
           "Email": "oliviermayet@wanadoo.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/allanche"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.195793,
+          44.96829
+        ]
+      },
+      "properties": {
+        "id": "msap-15094-01",
+        "codeInsee": "15094",
+        "dateMiseAJour": "2017-10-12",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Laroquebrou",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue Emile Dumas",
+          "CodePostal": "15150",
+          "NomCommune": "Laroquebrou",
+          "Localisation": {
+            "Latitude": "44.96829",
+            "Longitude": "2.195793",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/laroquebrou-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },

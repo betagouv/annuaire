@@ -15,7 +15,7 @@
         "codeInsee": "71306",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta 71 - Sud-Bourgogne",
+        "Nom": "Greta 71 - Sud-Bourgogne - Antenne de la CCM Montceau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -115,16 +115,16 @@
         "codeInsee": "71076",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta 71 - Sud-Bourgogne",
+        "Nom": "Greta 71 - Sud-Bourgogne - Siège de Chalon-sur-Saône",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "141 avenue Boucicaut",
-            "BP 50099"
+            "Cité scolaire Niépce - Balleure",
+            "141 avenue Boucicaut"
           ],
-          "CodePostal": "71321",
-          "NomCommune": "Chalon-sur-Saône Cedex",
+          "CodePostal": "71100",
+          "NomCommune": "Chalon-sur-Saône",
           "Localisation": {
             "Latitude": "46.7886923",
             "Longitude": "4.8364675",
@@ -137,8 +137,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 85 45 82 45",
-          "Télécopie": "03 85 41 94 48",
-          "Email": "ce.greta.chalon@ac-dijon.fr",
+          "Email": "greta71.contact@ac-dijon.fr",
           "Url": "http://www.bourgogne.greta.ac-dijon.fr"
         },
         "Ouverture": {
@@ -171,9 +170,9 @@
       "properties": {
         "id": "greta-71176-01",
         "codeInsee": "71176",
-        "dateMiseAJour": "2014-12-04",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "greta",
-        "Nom": "Greta 71  - Sud-Bourgogne",
+        "Nom": "Greta 71  - Sud-Bourgogne - Antenne de Digoin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -190,9 +189,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 85 53 77 10",
-          "Télécopie": "+33 3 85 53 77 19",
-          "Email": "ce.greta.charolais@ac-dijon.fr",
+          "Téléphone": "03 85 53 77 10",
+          "Email": "greta71.contact@ac-dijon.fr",
           "Url": "http://www.bourgogne.greta.fr"
         },
         "Ouverture": {
@@ -251,7 +249,7 @@
         "codeInsee": "71270",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta de Mâcon",
+        "Nom": "Greta - Mâcon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -315,109 +313,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4067428,
-          46.802884
-        ]
-      },
-      "properties": {
-        "id": "greta-71153-02",
-        "codeInsee": "71153",
-        "dateMiseAJour": "2011-11-08",
-        "pivotLocal": "greta",
-        "Nom": "Greta Entre Saône-et-Loire - antenne du Creusot",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "62 rue Lavoisier",
-            "Bâtiment G"
-          ],
-          "CodePostal": "71200",
-          "NomCommune": "LE CREUSOT",
-          "Localisation": {
-            "Latitude": "46.802884",
-            "Longitude": "4.4067428",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 85 56 02 15",
-          "Email": "ce.greta.entresel@ac-dijon.fr",
-          "Url": "http://www.bourgogne.greta.fr"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4164231,
-          46.8053056
-        ]
-      },
-      "properties": {
-        "id": "greta-71153-01",
-        "codeInsee": "71153",
-        "dateMiseAJour": "2013-04-23",
-        "pivotLocal": "greta",
-        "Nom": "Greta Entre Saône-et-Loire (siège)",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "2, boulevard Saint-Quentin",
-            "BP 90139"
-          ],
-          "CodePostal": "71204",
-          "NomCommune": "Le Creusot",
-          "Localisation": {
-            "Latitude": "46.8053056",
-            "Longitude": "4.4164231",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 85 55 30 68",
-          "Email": "ce.greta.entresel@ac-dijon.fr",
-          "Url": "http://www.bourgogne.greta.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.3017935,
           46.9584289
         ]
@@ -427,11 +322,15 @@
         "codeInsee": "71014",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta - 71 Sud Bourgogne",
+        "Nom": "Greta 71 - Sud Bourgogne - Antenne d'Autun",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "18 rue Paul-Cazin",
+          "Ligne": [
+            "Lycée Bonaparte",
+            "Pôle Technologique et professionnel",
+            "18 rue Paul-Cazin"
+          ],
           "CodePostal": "71400",
           "NomCommune": "Autun",
           "Localisation": {
@@ -445,7 +344,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 85 86 51 64",
-          "Email": "ce.greta.autun@ac-dijon.fr",
+          "Email": "greta71.contact@ac-dijon.fr",
           "Url": "http://www.bourgogne.greta.fr"
         },
         "Ouverture": {

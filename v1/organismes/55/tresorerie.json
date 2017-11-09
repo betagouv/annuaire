@@ -394,7 +394,7 @@
       "properties": {
         "id": "tresorerie-55122-01",
         "codeInsee": "55122",
-        "dateMiseAJour": "2017-05-11",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Commercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -420,7 +420,7 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -432,6 +432,14 @@
                   "fin": "16:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "mercredi",

@@ -396,6 +396,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.389289,
+          42.547128
+        ]
+      },
+      "properties": {
+        "id": "msap-66222-01",
+        "codeInsee": "66222",
+        "dateMiseAJour": "2017-10-25",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (bureau de poste) - Vernet les Bains",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "9 Promenade du Cady",
+          "CodePostal": "66820",
+          "NomCommune": "Vernet-les-Bains",
+          "Localisation": {
+            "Latitude": "42.547128",
+            "Longitude": "2.389289",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 05 51 19",
+          "Email": "msap.vernet-les-bains@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/vernet-les-bains-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "16:15:00"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.073906,
           42.577537
         ]
@@ -578,6 +628,66 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.039853,
+          42.458983
+        ]
+      },
+      "properties": {
+        "id": "msap-66167-01",
+        "codeInsee": "66167",
+        "dateMiseAJour": "2017-10-25",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (bureau de poste) - Saillagouse",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place Oliva",
+          "CodePostal": "66800",
+          "NomCommune": "Saillagouse",
+          "Localisation": {
+            "Latitude": "42.458983",
+            "Longitude": "2.039853",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 04 08 35",
+          "Email": "msap.saillagouse@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saillagouse-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
               }
             }
           ]

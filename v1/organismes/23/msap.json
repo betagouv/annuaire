@@ -122,6 +122,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.485826,
+          45.916831
+        ]
+      },
+      "properties": {
+        "id": "msap-23131-01",
+        "codeInsee": "23131",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Mérinchal-les-Mines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 rue de la Source du Cher",
+          "CodePostal": "23420",
+          "NomCommune": "Mérinchal",
+          "Localisation": {
+            "Latitude": "45.916831",
+            "Longitude": "2.485826",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.merinchal@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/merinchal-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.904195,
           46.327911
         ]
@@ -197,6 +278,98 @@
         "CoordonnéesNum": {
           "Email": "msap.chambon-sur-voueize@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/bureau-de-poste-chambon-sur-voueize"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3878,
+          46.052421
+        ]
+      },
+      "properties": {
+        "id": "msap-23116-01",
+        "codeInsee": "23116",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Mainsat-les-Mines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place de la Liberté",
+          "CodePostal": "23700",
+          "NomCommune": "Mainsat",
+          "Localisation": {
+            "Latitude": "46.052421",
+            "Longitude": "2.3878",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 67 07 00",
+          "Email": "msap.mainsat@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/mainsat-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089289,
+          46.071922
+        ]
+      },
+      "properties": {
+        "id": "msap-23105-01",
+        "codeInsee": "23105",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Lavaveix-les-Mines",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 place Carnot",
+          "CodePostal": "23150",
+          "NomCommune": "Lavaveix-les-Mines",
+          "Localisation": {
+            "Latitude": "46.071922",
+            "Longitude": "2.089289",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/lavaveix-les-mines-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
         }
       }
     },

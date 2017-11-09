@@ -13,7 +13,7 @@
       "properties": {
         "id": "cij-69220-01",
         "codeInsee": "69220",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Saint-Laurent-de-Chamousset",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -21,7 +21,7 @@
           "type": "géopostale",
           "Ligne": [
             "Maison des services",
-            "Chemin de l'Hôpital"
+            "Avenue des Quatre-Cantons"
           ],
           "CodePostal": "69930",
           "NomCommune": "Saint-Laurent-de-Chamousset",
@@ -35,10 +35,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 74 26 50 78",
-          "Télécopie": "+33 4 74 26 52 67",
-          "Email": "bij@chamousset-en-lyonnais.com",
-          "Url": "http://www.chamousset-en-lyonnais.com"
+          "Téléphone": "04 74 26 50 78",
+          "Télécopie": "04 74 26 52 67",
+          "Email": "bij@cc-mdl.fr",
+          "Url": "http://www.cc-montsdulyonnais.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -51,8 +51,8 @@
                   "fin": "12:30:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
                 }
               ]
             },
@@ -63,15 +63,6 @@
                 "début": "08:30:00",
                 "fin": "12:30:00"
               }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              },
-              "Note": "Ouvert uniquement le premier samedi du mois"
             }
           ]
         }
@@ -89,7 +80,7 @@
       "properties": {
         "id": "cij-69142-01",
         "codeInsee": "69142",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - La Mulatière",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -119,19 +110,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mercredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -150,15 +141,15 @@
       "properties": {
         "id": "cij-69238-01",
         "codeInsee": "69238",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Saint-Symphorien-Sur-Coise",
+        "Nom": "Point information jeunesse - Saint-Symphorien-sur-Coise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "57 rue des Tanneries",
           "CodePostal": "69590",
-          "NomCommune": "Saint-Symphorien-Sur-Coise",
+          "NomCommune": "Saint-Symphorien-sur-Coise",
           "Localisation": {
             "Latitude": "45.6338462",
             "Longitude": "4.4560499",
@@ -170,28 +161,11 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 78 48 46 14",
-          "Télécopie": "04 78 19 00 65",
           "Email": "centresocioculturel@cscdeshautsdulyonnais.fr",
           "Url": "http://www.hautsdulyonnais.centres-socio.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -205,6 +179,22 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }
@@ -222,7 +212,7 @@
       "properties": {
         "id": "cij-69152-01",
         "codeInsee": "69152",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Pierre-Bénite",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -241,9 +231,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 50 17 90",
-          "Télécopie": "+33 4 78 50 77 06",
-          "Email": "jeunesse@pierrebenite.fr",
+          "Téléphone": "04 78 50 85 17",
+          "Email": "h2vj@pierrebenite.fr",
           "Url": "http://www.pierrebenite.fr"
         },
         "Ouverture": {
@@ -287,38 +276,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.77453994751,
-          45.5830993652
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69091-01",
         "codeInsee": "69091",
-        "dateMiseAJour": "2011-09-02",
+        "dateMiseAJour": "2017-10-12",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Givors",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Maison de l'emploi et des services publics",
-            "6 rue Jacques Prévert"
+            "Maison du fleuve Rhône",
+            "Place de la Liberté"
           ],
           "CodePostal": "69700",
-          "NomCommune": "GIVORS",
-          "Localisation": {
-            "Latitude": "45.5830993652",
-            "Longitude": "4.77453994751",
-            "Précision": "8"
-          }
+          "NomCommune": "Givors"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 72 24 99 05"
+          "Téléphone": "04 72 49 18 18",
+          "Email": "pij@ville-givors.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
                 {
@@ -327,20 +312,41 @@
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "17:00:00"
+                  "fin": "18:00:00"
                 }
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
-        }
+        },
+        "Commentaire": "Vendredi de 9h à 11h sur rendez-vous"
       }
     },
     {
@@ -355,7 +361,7 @@
       "properties": {
         "id": "cij-69282-01",
         "codeInsee": "69282",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Meyzieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -422,63 +428,8 @@
                 "début": "14:00:00",
                 "fin": "17:00:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
             }
           ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "id": "cij-69081-01",
-        "codeInsee": "69081",
-        "dateMiseAJour": "2017-08-21",
-        "pivotLocal": "cij",
-        "Nom": "Bureau Information Jeunesse - Ecully",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Maison de la Rencontre",
-            "21 avenue Edouard Aynard"
-          ],
-          "CodePostal": "69130",
-          "NomCommune": "Ecully"
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "04 78 33 83 56",
-          "Email": "courriel"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "14:00:00",
-              "fin": "17:30:00"
-            }
-          }
         }
       }
     },
@@ -494,7 +445,7 @@
       "properties": {
         "id": "cij-69064-01",
         "codeInsee": "69064",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Condrieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -562,91 +513,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.77437019348,
-          45.7382011414
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69089-01",
         "codeInsee": "69089",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Francheville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2, rue de la Poste",
+          "Ligne": "2 rue de la Poste",
           "CodePostal": "69340",
           "NomCommune": "Francheville",
-          "Localisation": {
-            "Latitude": "45.7382011414",
-            "Longitude": "4.77437019348",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 59 05 04",
-          "Télécopie": "+33 4 78 59 91 02",
+          "Téléphone": "04 78 59 05 04",
           "Email": "bureauinfosjeunesse@mairie-francheville69.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.79995012283,
-          45.7635993958
-        ]
-      },
-      "properties": {
-        "id": "cij-69389-01",
-        "codeInsee": "69389",
-        "dateMiseAJour": "2011-09-02",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Champvert",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "204 avenue Barthélémy Buyer",
-          "CodePostal": "69009",
-          "NomCommune": "LYON",
-          "Localisation": {
-            "Latitude": "45.7635993958",
-            "Longitude": "4.79995012283",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 25 78 63"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "mardi",
+            "début": "vendredi",
             "fin": "vendredi",
             "PlageH": {
               "début": "14:00:00",
-              "fin": "18:00:00"
+              "fin": "17:00:00"
             }
           }
         }
@@ -657,14 +554,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.823896,
-          45.6931421
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69199-01",
         "codeInsee": "69199",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Fons",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -673,11 +570,6 @@
           "Ligne": "3 allée du Merle-Rouge",
           "CodePostal": "69190",
           "NomCommune": "Saint-Fons",
-          "Localisation": {
-            "Latitude": "45.6931421",
-            "Longitude": "4.823896",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -694,13 +586,14 @@
             "PlageH": [
               {
                 "début": "09:00:00",
-                "fin": "12:00:00"
+                "fin": "12:30:00"
               },
               {
-                "début": "14:00:00",
+                "début": "13:45:00",
                 "fin": "17:30:00"
               }
-            ]
+            ],
+            "Note": "fermé le mardi après midi"
           }
         }
       }
@@ -710,52 +603,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8382585,
-          45.7945098
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69034-01",
         "codeInsee": "69034",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Caluire-et-Cuire",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "16, rue Frédéric-Mistral",
+          "Ligne": "11 rue de l'Oratoire",
           "CodePostal": "69300",
           "NomCommune": "Caluire-et-Cuire",
-          "Localisation": {
-            "Latitude": "45.7945098",
-            "Longitude": "4.8382585",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 08 24 49",
+          "Téléphone": "04 78 08 24 49",
           "Email": "bij@ville-caluire.fr",
           "Url": "http://www.ville-caluire.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
                 "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "19:00:00"
               }
-            ]
-          }
-        }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        },
+        "Commentaire": "pendant les vacances scolaires : du lundi au vendredi de 8h à 18h"
       }
     },
     {
@@ -763,14 +676,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8343475,
-          45.7689986
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69381-02",
         "codeInsee": "69381",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Lyon - 1er arrondissement",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -778,21 +691,16 @@
           "type": "géopostale",
           "Ligne": [
             "Centre social Quartier Vitalité",
-            "7, rue Saint-Polycarpe"
+            "7 rue Saint-Polycarpe"
           ],
           "CodePostal": "69001",
           "NomCommune": "Lyon",
-          "Localisation": {
-            "Latitude": "45.7689986",
-            "Longitude": "4.8343475",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 39 36 36",
+          "Téléphone": "04 78 39 36 36",
           "Email": "quartiervitalite@wanadoo.fr",
           "Url": "http://www.centresocialquartiervitalite.fr"
         },
@@ -820,63 +728,6 @@
               "PlageH": {
                 "début": "13:00:00",
                 "fin": "19:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8741584,
-          45.8238097
-        ]
-      },
-      "properties": {
-        "id": "cij-69292-01",
-        "codeInsee": "69292",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Sathonay-Camp",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "1, avenue de Pérouges",
-          "CodePostal": "69580",
-          "NomCommune": "Sathonay-Camp",
-          "Localisation": {
-            "Latitude": "45.8238097",
-            "Longitude": "4.8741584",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 08 47 17",
-          "Email": "ccas.jeunesse@ville-sathonaycamp.fr",
-          "Url": "http://www.ville-sathonaycamp.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:30:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
               }
             }
           ]
@@ -966,7 +817,7 @@
       "properties": {
         "id": "cij-69266-02",
         "codeInsee": "69266",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Villeurbanne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1016,34 +867,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8788339,
-          45.7682963
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69266-01",
         "codeInsee": "69266",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Villeurbanne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "15, rue Michel-Servet",
+          "Ligne": "15 rue Michel-Servet",
           "CodePostal": "69100",
           "NomCommune": "Villeurbanne",
-          "Localisation": {
-            "Latitude": "45.7682963",
-            "Longitude": "4.8788339",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 72 65 97 13",
-          "Télécopie": "+33 4 72 65 97 01",
+          "Téléphone": "04 72 65 97 13",
+          "Télécopie": "04 72 65 97 01",
           "Email": "bij@mairie-villeurbanne.fr",
           "Url": "http://www.jeunes.villeurbanne.fr"
         },
@@ -1116,47 +962,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8502497673,
-          45.6661987305
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69276-01",
         "codeInsee": "69276",
-        "dateMiseAJour": "2009-09-11",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "cij",
         "Nom": "Point Information Jeunesse - Feyzin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "3 Place Claudius Bery",
+          "Ligne": [
+            "18 rue de la Mairie",
+            "Espace Jeunes"
+          ],
           "CodePostal": "69320",
-          "NomCommune": "FEYZIN",
-          "Localisation": {
-            "Latitude": "45.6661987305",
-            "Longitude": "4.8502497673",
-            "Précision": "8"
-          }
+          "NomCommune": "Feyzin"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 67 46 28"
+          "Téléphone": "04 72 21 46 33",
+          "Email": "jeunesse@ville-feyzin.fr"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
             "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
+            }
           }
-        }
+        },
+        "Commentaire": "Pendant les vacances scolaires : \ndu lundi au vendredi de 9h à 12 h et de 14 h à 18 h"
       }
     },
     {
@@ -1171,7 +1011,7 @@
       "properties": {
         "id": "cij-69256-01",
         "codeInsee": "69256",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Vaulx-en-Velin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1187,8 +1027,7 @@
               "Précision": "6"
             },
             "Accessibilité": {
-              "type": "ACC",
-              "$t": "rez-de-chaussée"
+              "type": "ACC"
             }
           },
           {
@@ -1247,66 +1086,38 @@
       "properties": {
         "id": "cij-69149-01",
         "codeInsee": "69149",
-        "dateMiseAJour": "2017-08-21",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Bureau Information Jeunesse - Oullins",
+        "Nom": "Bureau information jeunesse - Oullins",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "5 place Anatole France",
+          "Ligne": "5 place Anatole-France",
           "CodePostal": "69600",
           "NomCommune": "Oullins",
           "Localisation": {
             "Latitude": "45.714316",
             "Longitude": "4.805823",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 78 45 11 68",
-          "Url": "http://www.ville-oullins.fr/jeunesse/bureau-information-jeunesse-221.html"
+          "Email": "service.jeunesse@ville-oullins.fr",
+          "Url": "http://www.ville-oullins.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -1322,14 +1133,14 @@
       "properties": {
         "id": "cij-69259-01",
         "codeInsee": "69259",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Vénissieux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": [
           {
             "type": "physique",
-            "Ligne": "1, place Henri-Barbusse",
+            "Ligne": "1 place Henri-Barbusse",
             "CodePostal": "69200",
             "NomCommune": "Vénissieux",
             "Localisation": {
@@ -1344,21 +1155,17 @@
           {
             "type": "postale",
             "Ligne": [
-              "5, avenue Marcel-Houël",
+              "5 avenue Marcel-Houël",
               "BP 24"
             ],
             "CodePostal": "69200",
-            "NomCommune": "Vénissieux",
-            "Localisation": {
-              "Latitude": "45.6966519",
-              "Longitude": "4.8851423",
-              "Précision": "6"
-            }
+            "NomCommune": "Vénissieux"
           }
         ],
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 72 50 01 20",
-          "Email": "bij@ville-venissieux.fr"
+          "Téléphone": "04 72 50 01 20",
+          "Email": "bij@ville-venissieux.fr",
+          "Url": "http://www.ville-venissieux.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1408,7 +1215,7 @@
       "properties": {
         "id": "cij-69010-01",
         "codeInsee": "69010",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - L'Arbresle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1430,28 +1237,19 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 74 72 02 19",
-          "Télécopie": "+33 4 74 71 00 15",
+          "Téléphone": "04 74 72 02 19",
           "Email": "pij.larbresle@mairie-larbresle.fr",
           "Url": "http://www.mairie-larbresle.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "10:30:00",
-                  "fin": "12:30:00"
+                  "fin": "14:00:00"
                 },
                 {
                   "début": "15:00:00",
@@ -1460,11 +1258,19 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "15:00:00",
-                "fin": "17:00:00"
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -1472,12 +1278,78 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "15:00:00",
-                "fin": "19:00:00"
+                "fin": "18:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-69283-01",
+        "codeInsee": "69283",
+        "dateMiseAJour": "2017-10-12",
+        "pivotLocal": "cij",
+        "Nom": "Point Information Jeunesse - Mions",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "57 rue des Brosses",
+            "CATEM",
+            "Service des Sports et de la Jeunesse"
+          ],
+          "CodePostal": "69780",
+          "NomCommune": "Mions"
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 72 23 62 51",
+          "Url": "http://www.ville-mions.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "10:00:00",
                 "fin": "12:00:00"
@@ -1492,197 +1364,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.78800010681,
-          45.6086997986
-        ]
-      },
-      "properties": {
-        "id": "cij-69096-01",
-        "codeInsee": "69096",
-        "dateMiseAJour": "2011-10-13",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Grigny",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "5 rue Guy Raffin",
-          "CodePostal": "69520",
-          "NomCommune": "GRIGNY",
-          "Localisation": {
-            "Latitude": "45.6086997986",
-            "Longitude": "4.78800010681",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 07 25 05",
-          "Url": "http://www.mairie-grigny69.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "15:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "15:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.95693016052,
-          45.663898468
-        ]
-      },
-      "properties": {
-        "id": "cij-69283-01",
-        "codeInsee": "69283",
-        "dateMiseAJour": "2009-09-11",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Mions",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Place de la République",
-          "CodePostal": "69780",
-          "NomCommune": "MIONS",
-          "Localisation": {
-            "Latitude": "45.663898468",
-            "Longitude": "4.95693016052",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 72 23 26 00",
-          "Url": "http://www.ville-mions.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "13:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.935902,
-          45.694023
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-69290-01",
         "codeInsee": "69290",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-12",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Saint-Priest",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "18, place Charles-Ottina",
-            "BP 330"
-          ],
+          "Ligne": "18 place Charles Ottina",
           "CodePostal": "69800",
           "NomCommune": "Saint-Priest",
-          "Localisation": {
-            "Latitude": "45.694023",
-            "Longitude": "4.935902",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 21 93 50",
-          "Télécopie": "+33 4 72 28 47 77",
+          "Téléphone": "04 81 92 21 70",
           "Email": "bij@mairie-saint-priest.fr",
           "Url": "http://www.ville-saint-priest.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
               "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
-                  "fin": "12:30:00"
+                  "fin": "12:15:00"
                 },
                 {
                   "début": "14:00:00",
@@ -1691,35 +1414,12 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
                 "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement le 1er et 3e samedi du mois."
+                "fin": "17:00:00"
+              }
             }
           ]
         }
@@ -1737,7 +1437,7 @@
       "properties": {
         "id": "cij-69019-01",
         "codeInsee": "69019",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Belleville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1762,25 +1462,26 @@
           "Téléphone": "04 74 66 13 26",
           "Télécopie": "04 74 66 60 07",
           "Email": "contact-pij@mairie-belleville.fr",
-          "Url": "http://www.netvibes.com/pijbelleville"
+          "Url": "http://www.netvibes.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "16:00:00",
                 "fin": "19:00:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
+                "début": "13:30:00",
+                "fin": "18:30:00"
+              },
+              "Note": "Accueil uniquement pour les mineurs."
             },
             {
               "début": "mercredi",
@@ -1792,16 +1493,8 @@
               "Note": "Accueil uniquement pour les mineurs."
             },
             {
-              "début": "vendredi",
+              "début": "jeudi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "22:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "18:30:00"
@@ -1823,7 +1516,7 @@
       "properties": {
         "id": "cij-69382-01",
         "codeInsee": "69382",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre régional information jeunesse - Rhône-Alpes - Lyon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1865,14 +1558,6 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -1887,184 +1572,19 @@
               ]
             },
             {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "18:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.43220996857,
-          45.8987007141
-        ]
-      },
-      "properties": {
-        "id": "cij-69243-01",
-        "codeInsee": "69243",
-        "dateMiseAJour": "2009-09-11",
-        "pivotLocal": "cij",
-        "Nom": "Bureau Information Jeunesse - Tarare",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "rue Bataillon Berthier",
-            "CodePostal": "69170",
-            "NomCommune": "TARARE",
-            "Localisation": {
-              "Latitude": "45.8987007141",
-              "Longitude": "4.43220996857",
-              "Précision": "6"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": "57 rue de la République",
-            "CodePostal": "69170",
-            "NomCommune": "TARARE",
-            "Localisation": {
-              "Latitude": "45.895401001",
-              "Longitude": "4.43381023407",
-              "Précision": "8"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 74 05 01 41"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:15:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:15:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7569908,
-          45.6716005
-        ]
-      },
-      "properties": {
-        "id": "cij-69027-01",
-        "codeInsee": "69027",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Brignais",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Le Forum",
-            "47, rue de la Giraudière"
-          ],
-          "CodePostal": "69530",
-          "NomCommune": "Brignais",
-          "Localisation": {
-            "Latitude": "45.6716005",
-            "Longitude": "4.7569908",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 72 31 84 00",
-          "Email": "lemire@mairie-brignais.fr",
-          "Url": "http://www.brignais.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
               }
             }
           ]
@@ -2083,15 +1603,15 @@
       "properties": {
         "id": "cij-69202-01",
         "codeInsee": "69202",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Sainte Foy-les-Lyon",
+        "Nom": "Point information jeunesse - Sainte Foy-lès-Lyon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "55 boulevard des Provinces",
           "CodePostal": "69110",
-          "NomCommune": "Sainte-Foy-les-Lyon",
+          "NomCommune": "Sainte-Foy-lès-Lyon",
           "Localisation": {
             "Latitude": "45.7473983765",
             "Longitude": "4.80005979538",
@@ -2103,10 +1623,27 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 78 25 15 16",
-          "Email": "pij@ville-saintefoyleslyon.fr"
+          "Email": "pij@ville-saintefoyleslyon.fr",
+          "Url": "http://www.saintefoyleslyon.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "jeudi",
@@ -2120,14 +1657,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -2138,82 +1667,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7718959,
-          45.7603756
+          4.779198,
+          45.759889
         ]
       },
       "properties": {
         "id": "cij-69244-01",
         "codeInsee": "69244",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Tassin-la-Demi-Lune",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Bâtiment L'Atrium",
-            "35, avenue du 8-Mai-1945"
-          ],
+          "Ligne": "13 avenue de Lauterbourg",
           "CodePostal": "69160",
           "NomCommune": "Tassin-la-Demi-Lune",
           "Localisation": {
-            "Latitude": "45.7603756",
-            "Longitude": "4.7718959",
-            "Précision": "6"
+            "Latitude": "45.759889",
+            "Longitude": "4.779198",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 78 34 78 60",
-          "Email": "bij@villetassinlademilune.fr",
+          "Téléphone": "04 78 34 78 60",
+          "Email": "ij@villetassinlademilune.fr",
           "Url": "http://www.tassinlademilune.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "13:00:00"
+                "début": "15:00:00",
+                "fin": "19:00:00"
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
               "début": "jeudi",
-              "fin": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "15:00:00",
                 "fin": "18:00:00"
               }
             },
@@ -2221,8 +1719,16 @@
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -2241,13 +1747,16 @@
       "properties": {
         "id": "cij-69141-01",
         "codeInsee": "69141",
-        "dateMiseAJour": "2017-09-26",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Mornant",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Boulevard du Pilat",
+          "Ligne": [
+            "50 avenue du Pays Mormantais",
+            "Espace Copamo"
+          ],
           "CodePostal": "69440",
           "NomCommune": "Mornant",
           "Accessibilité": {
@@ -2264,18 +1773,18 @@
           "PlageJ": [
             {
               "début": "jeudi",
-              "fin": "vendredi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
             },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
+                "début": "13:30:00",
+                "fin": "17:30:00"
               },
               "Note": "Accueil ouvert pendant les vacances scolaires de 14h à 18h"
             },
@@ -2288,18 +1797,17 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
+                  "début": "13:30:00",
+                  "fin": "18:30:00"
                 }
-              ],
-              "Note": "Accueil ouvert pendant les vacances scolaires de 9h à 12h et de 14h à 18h"
+              ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "17:00:00"
+                "fin": "16:30:00"
               }
             }
           ]
@@ -2318,13 +1826,13 @@
       "properties": {
         "id": "cij-69264-01",
         "codeInsee": "69264",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Service jeunesse de Villefranche-sur-Saône",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "230 rue de la Quarantaine",
+          "Ligne": "228 rue Paul-Bert",
           "CodePostal": "69400",
           "NomCommune": "Villefranche-sur-Saône",
           "Localisation": {
@@ -2337,15 +1845,15 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 74 62 26 31",
-          "Email": "jeunesse@villefranche.net",
+          "Téléphone": "04 81 70 04 70",
+          "Email": "guichetfamille@villefranche.net",
           "Url": "http://www.villefranche.net"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "jeudi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -2353,17 +1861,31 @@
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "18:00:00"
+                  "fin": "17:30:00"
                 }
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -2381,7 +1903,7 @@
       "properties": {
         "id": "cij-69275-01",
         "codeInsee": "69275",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Décines-Charpieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2407,6 +1929,15 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil téléphonique de 9h à 12h30."
+            },
+            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
@@ -2433,15 +1964,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Accueil téléphonique de 9h à 12h30."
             },
             {
               "début": "jeudi",
@@ -2474,58 +1996,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.89595985413,
-          45.8147010803
+          4.8976863,
+          45.8184507
         ]
       },
       "properties": {
         "id": "cij-69286-01",
         "codeInsee": "69286",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Rillieux-la-Pape",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Espace Baudelaire",
-            "83 avenue de l'Europe"
+            "Accueil Marcel André",
+            "165 rue Ampère"
           ],
           "CodePostal": "69140",
           "NomCommune": "Rillieux-la-Pape",
           "Localisation": {
-            "Latitude": "45.8147010803",
-            "Longitude": "4.89595985413",
-            "Précision": "6"
+            "Latitude": "45.8184507",
+            "Longitude": "4.8976863",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 37 85 01 66",
-          "Télécopie": "04 37 85 01 55",
+          "Téléphone": "04 37 85 05 70",
           "Email": "bij@rillieuxlapape.fr",
           "Url": "http://www.rillieuxlapape.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -2539,6 +2044,22 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }

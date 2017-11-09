@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 53 49 62 70",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 53 49 62 70"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -81,10 +84,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 53 68 17 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 53 68 17 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

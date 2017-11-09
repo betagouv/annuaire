@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 58 56 58 58",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 58 56 58 58"
+          },
           "Télécopie": "05 58 56 58 48",
           "Email": "xavier.orain@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -86,11 +89,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 58 05 52 52",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 58 05 52 52"
+          },
           "Télécopie": "05 58 75 05 86",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -124,7 +129,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 58 91 69 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 58 91 69 22"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {

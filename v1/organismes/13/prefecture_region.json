@@ -6,39 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.379238,
-          43.292022
+          5.383982,
+          43.2824767
         ]
       },
       "properties": {
         "id": "prefecture_region-13206-01",
         "codeInsee": "13206",
-        "dateMiseAJour": "2016-04-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "prefecture_region",
-        "Nom": "Préfecture de région - Provence-Alpes-Côte-d'Azur",
+        "Nom": "Préfecture de région - Provence-Alpes-Côte d'azur",
         "EditeurSource": "la Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "postale",
+          "type": "géopostale",
           "Ligne": [
-            "CS 30001",
-            "place Félix-Baret"
+            "Place Félix-Baret",
+            "CS 30001"
           ],
           "CodePostal": "13259",
-          "NomCommune": "Marseille Cedex 06",
+          "NomCommune": "Marseille Cedex 6",
           "Localisation": {
-            "Latitude": "43.292022",
-            "Longitude": "5.379238",
+            "Latitude": "43.2824767",
+            "Longitude": "5.383982",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 84 35 40 00",
-          "Télécopie": "+33 4 84 35 48 55",
+          "Téléphone": "04 84 35 40 00",
+          "Télécopie": "04 84 35 44 40",
           "Email": "http://prefectures-regions.gouv.fr/provence-alpes-cote-dazur/Outils/Nous-contacter",
-          "Url": "http://prefectures-regions.gouv.fr/provence-alpes-cote-dazur",
-          "Sve": "https://contacts-demarches.interieur.gouv.fr/saisine-par-voie-electronique/saisine-par-voie-electronique/"
+          "Url": "http://prefectures-regions.gouv.frprovence-alpes-cote-dazur"
         },
-        "Commentaire": "Autre site : 66bis, rue saint-Sébastien 13282 Marseille Cedex 20 téléphone : 04 84 35 40 45"
+        "Commentaire": "Contacter l'accueil pour obtenir les horaires d'ouverture des différents services."
       }
     }
   ]

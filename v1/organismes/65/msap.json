@@ -6,6 +6,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.074139,
+          42.961201
+        ]
+      },
+      "properties": {
+        "id": "msap-65362-01",
+        "codeInsee": "65362",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public ( Bureau de Poste ) - Pierrefitte-Nestalas",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "place Jean Jaurès",
+          "CodePostal": "65260",
+          "NomCommune": "Pierrefitte-Nestalas",
+          "Localisation": {
+            "Latitude": "42.961201",
+            "Longitude": "-0.074139",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 62 92 24 64",
+          "Email": "msap.pierrefitte-nestalas@laposte.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.370929,
           43.320506
         ]

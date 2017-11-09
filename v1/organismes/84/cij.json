@@ -64,13 +64,16 @@
       "properties": {
         "id": "cij-84132-01",
         "codeInsee": "84132",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Thor",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "20 chemin des Moulins",
+          "Ligne": [
+            "Mairie",
+            "180 cours Gambetta"
+          ],
           "CodePostal": "84250",
           "NomCommune": "Le Thor",
           "Localisation": {
@@ -111,14 +114,14 @@
       "properties": {
         "id": "cij-84035-01",
         "codeInsee": "84035",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Cavaillon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "110, place Joseph-Guis",
+            "110 place Joseph-Guis",
             "BP 80037"
           ],
           "CodePostal": "84300",
@@ -129,63 +132,23 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "DEM"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 71 96 06",
-          "Télécopie": "+33 4 90 72 45 96",
-          "Email": "jeunesse@ville-cavaillon.fr",
+          "Téléphone": "04 90 71 96 06",
+          "Email": "pij@ville-cavaillon.fr",
           "Url": "http://www.cavaillon.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ],
-              "Note": "Accueil fermé le matin pendant les vacances scolaires."
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -194,30 +157,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.89739990234,
-          44.1156997681
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-84056-01",
         "codeInsee": "84056",
-        "dateMiseAJour": "2009-09-14",
+        "dateMiseAJour": "2017-10-16",
         "pivotLocal": "cij",
         "Nom": "Point Information Jeunesse - Jonquières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "avenue de la Libération",
+          "Ligne": [
+            "Centre Socio-Culturel",
+            "26 avenue de la Libération"
+          ],
           "CodePostal": "84150",
-          "NomCommune": "JONQUIERES",
-          "Localisation": {
-            "Latitude": "44.1156997681",
-            "Longitude": "4.89739990234",
-            "Précision": "6"
-          }
+          "NomCommune": "Jonquières",
+          "Accessibilité": "uniquement sur RDV"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 32 81 00 38",
+          "Téléphone": "04 90 70 59 17",
+          "Télécopie": "04 90 70 59 17",
+          "Email": "infojeunesse@jonquieres.fr",
           "Url": "http://www.crijpa.com"
         }
       }
@@ -227,57 +191,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0483905,
-          43.916222
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-84054-01",
         "codeInsee": "84054",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-16",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - L'Isle-sur-la-Sorgue",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Point relais Envie-d'Agir",
-            "Accueil jeunesse municipal",
-            "25 boulevard Paul-Pons"
+            "Point relais initiatives Jeunes",
+            "Rue Carnot"
           ],
           "CodePostal": "84800",
           "NomCommune": "L'Isle-sur-la-Sorgue",
-          "Localisation": {
-            "Latitude": "43.916222",
-            "Longitude": "5.0483905",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 90 95 02 85",
-          "Télécopie": "04 90 95 04 91",
-          "Email": "pij.isle84@yahoo.fr",
+          "Téléphone": "04 90 24 50 19",
+          "Email": "pij@islesurlasorgue.fr",
           "Url": "http://www.mairie-islesurlasorgue.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ],
-            "Note": "Accueil ouvert de 9h à 12h et de 14h à 18h pendant les vacances scolaires pour les 12-17 ans."
-          }
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "13:30:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "13:30:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -293,7 +307,7 @@
       "properties": {
         "id": "cij-84016-01",
         "codeInsee": "84016",
-        "dateMiseAJour": "2017-09-26",
+        "dateMiseAJour": "2017-10-16",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bédarrides",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -357,7 +371,7 @@
       "properties": {
         "id": "cij-84138-01",
         "codeInsee": "84138",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Valréas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -429,7 +443,7 @@
       "properties": {
         "id": "cij-84137-01",
         "codeInsee": "84137",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Vaison-la-Romaine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -462,11 +476,11 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
+                  "début": "08:15:00",
+                  "fin": "12:30:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "13:15:00",
                   "fin": "17:00:00"
                 }
               ]
@@ -476,11 +490,11 @@
               "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
+                  "début": "08:15:00",
+                  "fin": "12:30:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "13:15:00",
                   "fin": "16:00:00"
                 }
               ]
@@ -501,9 +515,9 @@
       "properties": {
         "id": "cij-84092-01",
         "codeInsee": "84092",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Pontet",
+        "Nom": "Bureau information jeunesse - Le Pontet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -528,8 +542,24 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "jeudi",
               "fin": "jeudi",
+              "PlageH": {
+                "début": "09:15:00",
+                "fin": "17:15:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:15:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -537,25 +567,26 @@
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "17:30:00"
+                  "fin": "17:15:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "17:00:00"
+                "fin": "12:00:00"
               }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement le 1er et le 3e samedi du mois."
             }
           ]
         }
@@ -573,15 +604,15 @@
       "properties": {
         "id": "cij-84019-01",
         "codeInsee": "84019",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bollène",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "Mission locale du haut Vaucluse",
             "Centre Georges-Brassens",
-            "Mission locale du Haut Vaucluse",
             "Avenue Jean-Moulin"
           ],
           "CodePostal": "84500",
@@ -597,13 +628,26 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 90 30 36 40",
-          "Télécopie": "04 90 30 36 48",
           "Email": "accueil.bollene@mlhv.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
               "fin": "jeudi",
               "PlageH": [
                 {
@@ -639,56 +683,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0486027,
-          44.0541367
+          5.0461983,
+          44.0537022
         ]
       },
       "properties": {
         "id": "cij-84031-02",
         "codeInsee": "84031",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Carpentras",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Maison des jeunes et de la culture",
-            "8, place des Pénitents-Noirs"
+            "Maison du citoyen",
+            "35 rue du Collège"
           ],
           "CodePostal": "84200",
           "NomCommune": "Carpentras",
           "Localisation": {
-            "Latitude": "44.0541367",
-            "Longitude": "5.0486027",
-            "Précision": "6"
+            "Latitude": "44.0537022",
+            "Longitude": "5.0461983",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 63 04 55",
-          "Télécopie": "+33 4 90 60 66 71",
-          "Email": "mjc-carpentras@wanadoo.fr",
-          "Url": "http://www.mjccarpentras.com"
+          "Téléphone": "04 90 67 92 44",
+          "Email": "jeunesse@carpentras.fr",
+          "Url": "http://www.carpentras.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "19:00:00"
+                "début": "11:00:00",
+                "fin": "17:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "lundi",
+              "fin": "mercredi",
               "PlageH": {
-                "début": "12:00:00",
-                "fin": "19:00:00"
+                "début": "11:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -700,55 +743,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.971544,
-          44.083415
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-84122-01",
         "codeInsee": "84122",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-18",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Sarrians",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "141, allée de Valensole",
-            "Maison d'économie et des associations"
+            "Club Jeunes",
+            "Zone St Croix"
           ],
           "CodePostal": "84260",
           "NomCommune": "Sarrians",
-          "Localisation": {
-            "Latitude": "44.083415",
-            "Longitude": "4.971544",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 37 36 93",
+          "Téléphone": "04 90 37 36 93",
           "Email": "pij-sarrians@hotmail.fr",
           "Url": "http://www.ville-sarrians.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "17:00:00"
               }
             },
             {
               "début": "lundi",
-              "fin": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "17:00:00"
               }
             },
             {
@@ -760,8 +798,8 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
                 }
               ]
             }
@@ -781,7 +819,7 @@
       "properties": {
         "id": "cij-84007-01",
         "codeInsee": "84007",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Avignon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -837,11 +875,14 @@
         "codeInsee": "84003",
         "dateMiseAJour": "2013-01-10",
         "pivotLocal": "cij",
-        "Nom": "Point info jeunes - Maison des jeunes et de la culture",
+        "Nom": "Point information jeunesse - Apt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "77, boulevard National",
+          "Ligne": [
+            "77 boulevard National",
+            "Maison des jeunes et de la culture"
+          ],
           "CodePostal": "84400",
           "NomCommune": "Apt",
           "Localisation": {
@@ -907,14 +948,14 @@
       "properties": {
         "id": "cij-84003-02",
         "codeInsee": "84003",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Apt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Mission locale du Lubéron du Pays des Sorgues et des Monts du Vaucluse",
+            "Mission locale du Lubéron du pays des Sorgues et des monts du Vaucluse",
             "Ancien Hôpital",
             "Avenue Philippe-de-Girard"
           ],
@@ -936,36 +977,20 @@
           "Email": "mlapt@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },
@@ -981,15 +1006,15 @@
       "properties": {
         "id": "cij-84031-01",
         "codeInsee": "84031",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Cavaillon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "14, rue Saunerie",
-            "Mission locale du Lubéron"
+            "Mission locale du Lubéron",
+            "14 rue Saunerie"
           ],
           "CodePostal": "84300",
           "NomCommune": "Cavaillon",
@@ -1003,8 +1028,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 78 29 32",
-          "Télécopie": "+33 4 90 71 46 96",
+          "Téléphone": "04 90 78 29 32",
+          "Télécopie": "04 90 71 46 96",
           "Email": "mlcavaillon@wanadoo.fr",
           "Url": "http://www.crijpa.com"
         },
@@ -1054,7 +1079,7 @@
       "properties": {
         "id": "cij-84089-01",
         "codeInsee": "84089",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pertuis",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1062,7 +1087,7 @@
           "type": "géopostale",
           "Ligne": [
             "Mission locale du Luberon",
-            "Résidence le Belvédère",
+            "Résidence Le Belvédère",
             "Rue de Croze"
           ],
           "CodePostal": "84120",
@@ -1083,20 +1108,36 @@
           "Url": "http://www.crijpa.com"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1105,79 +1146,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.8405719,
-          49.8079931
+          5.054903,
+          43.998478
         ]
       },
       "properties": {
         "id": "cij-84001-01",
         "codeInsee": "84001",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Perne-les-Fontaines",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Avenue Font-de-Luna",
+          "Ligne": "19 avenue Font-de-Luna",
           "CodePostal": "84210",
           "NomCommune": "Perne-les-Fontaines",
           "Localisation": {
-            "Latitude": "49.8079931",
-            "Longitude": "0.8405719",
-            "Précision": "6"
+            "Latitude": "43.998478",
+            "Longitude": "5.054903",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 66 66 94",
-          "Télécopie": "+33 4 90 40 19 35",
+          "Téléphone": "04 90 66 66 94",
           "Email": "conserverie@jeunesse-pernelesfontaines.fr",
           "Url": "http://www.jeunesse-pernelesfontaines.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:30:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert le samedi uniquement sur rendez-vous."
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -1193,9 +1206,9 @@
       "properties": {
         "id": "cij-84004-01",
         "codeInsee": "84004",
-        "dateMiseAJour": "2009-09-14",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Aubignan",
+        "Nom": "Point information jeunesse - Aubignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -1204,16 +1217,52 @@
             "Place de l'Hotel de ville"
           ],
           "CodePostal": "84810",
-          "NomCommune": "AUBIGNAN",
+          "NomCommune": "Aubignan",
           "Localisation": {
             "Latitude": "44.0994793",
             "Longitude": "5.0245264",
             "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 62 61 14",
-          "Url": "http://www.crijpa.com"
+          "Téléphone": "04 90 37 08 95",
+          "Email": "periscolaire@aubignan.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil possible le mercredi au centre de loisirs."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1229,47 +1278,31 @@
       "properties": {
         "id": "cij-84129-01",
         "codeInsee": "84129",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Sorgues",
+        "Nom": "Accueil municipal des jeunes - Sorgues",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "285 avenue d'Avignon",
-              "Pôle culturel Camille Claudel"
-            ],
-            "CodePostal": "84700",
-            "NomCommune": "Sorgues",
-            "Localisation": {
-              "Latitude": "44.005984",
-              "Longitude": "4.8708298",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC",
-              "$t": "rez-de-chaussée"
-            }
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Pôle culturel Camille Claudel",
+            "285 avenue d'Avignon"
+          ],
+          "CodePostal": "84700",
+          "NomCommune": "Sorgues",
+          "Localisation": {
+            "Latitude": "44.005984",
+            "Longitude": "4.8708298",
+            "Précision": "6"
           },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Centre administratif",
-              "BP 20310"
-            ],
-            "CodePostal": "84706",
-            "NomCommune": "Sorgues Cedex",
-            "Localisation": {
-              "Latitude": "44.008767",
-              "Longitude": "4.872757",
-              "Précision": "6"
-            }
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "rez-de-chaussée"
           }
-        ],
+        },
         "CoordonnéesNum": {
           "Téléphone": "04 90 39 71 07",
-          "Email": "g.leggio@sorgues.fr",
+          "Email": "amdj@sorgues.fr",
           "Url": "http://www.sorgues.fr"
         },
         "Ouverture": {
@@ -1283,18 +1316,18 @@
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mardi",
               "PlageH": {
                 "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
                 "fin": "18:00:00"
               }
             }

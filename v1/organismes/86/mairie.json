@@ -711,14 +711,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.176069006324,
-          46.6763000488
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-86300-01",
         "codeInsee": "86300",
-        "dateMiseAJour": "2016-08-08",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Yversay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -727,11 +727,6 @@
           "Ligne": "1 place de la Mairie",
           "CodePostal": "86170",
           "NomCommune": "Yversay",
-          "Localisation": {
-            "Latitude": "46.6763000488",
-            "Longitude": "0.176069006324",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -745,28 +740,22 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:15:00"
+              }
             },
             {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "18:30:00"
                 }
               ]
@@ -774,24 +763,25 @@
             {
               "début": "vendredi",
               "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Mr le Maire le vendredi de 9 à 12 heures"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
+                  "début": "14:00:00",
+                  "fin": "17:15:00"
                 }
               ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              }
             }
           ]
         }

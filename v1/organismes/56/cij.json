@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4159655,
-          47.7289005
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-56162-02",
         "codeInsee": "56162",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ploemeur - Centre pénitentiaire",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -25,11 +25,6 @@
           ],
           "CodePostal": "56275",
           "NomCommune": "Ploemeur Cedex",
-          "Localisation": {
-            "Latitude": "47.7289005",
-            "Longitude": "-3.4159655",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -79,14 +74,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.983767,
-          47.666491
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-56007-01",
         "codeInsee": "56007",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Auray",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -95,11 +90,6 @@
           "Ligne": "22 rue Auguste-la-Houlle",
           "CodePostal": "56400",
           "NomCommune": "Auray",
-          "Localisation": {
-            "Latitude": "47.666491",
-            "Longitude": "-2.983767",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -126,47 +116,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1203468,
-          47.4839953
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-56186-01",
         "codeInsee": "56186",
-        "dateMiseAJour": "2009-09-15",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Quiberon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "16 rue Michelet",
+          "Ligne": [
+            "Espace Jeunes",
+            "Rue Jules Ferry"
+          ],
           "CodePostal": "56170",
-          "NomCommune": "QUIBERON",
-          "Localisation": {
-            "Latitude": "47.4839953",
-            "Longitude": "-3.1203468",
-            "Précision": "9"
-          }
+          "NomCommune": "Quiberon"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 30 88 88",
-          "Email": "rijquib@wanadoo.fr",
+          "Téléphone": "07 86 46 14 17",
+          "Email": "animationjeunesse@ville-quiberon.fr",
           "Url": "http://www.crij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "samedi",
             "fin": "samedi",
-            "PlageH": [
-              {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            ]
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
+            }
           }
         }
       }
@@ -183,7 +165,7 @@
       "properties": {
         "id": "cij-56098-01",
         "codeInsee": "56098",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Lanester",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -285,89 +267,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9649312,
-          48.0652715
-        ]
-      },
-      "properties": {
-        "id": "cij-56178-01",
-        "codeInsee": "56178",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Pontivy",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Mission locale Centre Bretagne",
-            "13 bis, rue Saint-Jory",
-            "BP 225"
-          ],
-          "CodePostal": "56300",
-          "NomCommune": "Pontivy",
-          "Localisation": {
-            "Latitude": "48.0652715",
-            "Longitude": "-2.9649312",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC",
-            "$t": "ascenseur"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 25 38 35",
-          "Télécopie": "+33 2 97 25 66 70",
-          "Email": "pontivy@ml-cb.fr",
-          "Url": "http://www.ml-cb.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.3316056,
           47.9145009
         ]
@@ -375,7 +274,7 @@
       "properties": {
         "id": "cij-56166-01",
         "codeInsee": "56166",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plouay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -434,108 +333,16 @@
               "fin": "jeudi",
               "PlageH": {
                 "début": "13:45:00",
-                "fin": "16:45:00"
+                "fin": "16:30:00"
               }
             },
             {
               "début": "samedi",
               "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1330821,
-          47.8173484
-        ]
-      },
-      "properties": {
-        "id": "cij-56033-01",
-        "codeInsee": "56033",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Carentoir",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "2 chemin du Presbytère",
-          "CodePostal": "56910",
-          "NomCommune": "Carentoir",
-          "Localisation": {
-            "Latitude": "47.8173484",
-            "Longitude": "-2.1330821",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "02 99 93 74 74",
-          "Email": "mairie.carentoir@wanadoo.fr",
-          "Url": "http://www.ij-bretagne.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Accueil possible le lundi sur rendez-vous."
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
             }
           ]
         }
@@ -603,7 +410,7 @@
       "properties": {
         "id": "cij-56260-01",
         "codeInsee": "56260",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Vannes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -626,26 +433,11 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 97 01 61 00",
-          "Télécopie": "02 97 01 61 01",
           "Email": "bij@mairie-vannes.fr",
           "Url": "http://www.mairie-vannes.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -653,6 +445,20 @@
                 "début": "13:30:00",
                 "fin": "17:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -663,35 +469,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.276935,
-          47.53302
+          null,
+          null
         ]
       },
       "properties": {
-        "id": "cij-56147-01",
-        "codeInsee": "56147",
-        "dateMiseAJour": "2014-12-16",
+        "id": "cij-56083-01",
+        "codeInsee": "56083",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Nivillac",
+        "Nom": "Point information jeunesse - Hennebont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, rue des Ajoncs",
-          "CodePostal": "56130",
-          "NomCommune": "Nivillac",
-          "Localisation": {
-            "Latitude": "47.53302",
-            "Longitude": "-2.276935",
-            "Précision": "6"
-          },
+          "Ligne": [
+            "Maison de quartier de Kerihouais",
+            "rue Kerorben"
+          ],
+          "CodePostal": "56700",
+          "NomCommune": "Hennebont",
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 99 90 82 12",
-          "Email": "pij-nivillac@wanadoo.fr",
-          "Url": "http://www.crij-bretagne.com"
+          "Téléphone": "02 97 85 53 78",
+          "Email": "pij.hennebont@wanadoo.fr",
+          "Url": "http://www.ij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -699,10 +503,9 @@
               "début": "lundi",
               "fin": "mardi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Accueil uniquement sur rendez-vous."
+                "début": "12:30:00",
+                "fin": "17:00:00"
+              }
             },
             {
               "début": "mercredi",
@@ -713,106 +516,16 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ],
-              "Note": "Accueil uniquement sur rendez-vous."
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Accueil uniquement sur rendez-vous."
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2754652,
-          47.8089294
-        ]
-      },
-      "properties": {
-        "id": "cij-56083-01",
-        "codeInsee": "56083",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Hennebont",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Centre socioculturel",
-            "15, rue Gabriel-Péri"
-          ],
-          "CodePostal": "56700",
-          "NomCommune": "Hennebont",
-          "Localisation": {
-            "Latitude": "47.8089294",
-            "Longitude": "-3.2754652",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 36 29 10",
-          "Email": "pij.hennebont@wanadoo.fr",
-          "Url": "http://www.crij-bretagne.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
+                  "début": "13:00:00",
                   "fin": "17:00:00"
                 }
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
               "début": "jeudi",
-              "fin": "vendredi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "17:00:00",
                 "fin": "18:00:00"
               }
             }
@@ -825,65 +538,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4034605,
-          47.8341185
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-56179-01",
         "codeInsee": "56179",
-        "dateMiseAJour": "2009-09-15",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pont-scorff",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "18 rue du Général de Gaulle",
+          "Ligne": "Stade Henri Penvern",
           "CodePostal": "56620",
-          "NomCommune": "PONT SCORFF",
-          "Localisation": {
-            "Latitude": "47.8341185",
-            "Longitude": "-3.4034605",
-            "Précision": "9"
-          }
+          "NomCommune": "Pont-Scorff"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 35 49 37",
-          "Email": "lesquat-pontscorff@orange.fr",
+          "Téléphone": "02 97 85 14 93",
+          "Email": "lesquat@pontscorff.bzh",
           "Url": "http://www.crij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "10:00:00",
-                "fin": "18:00:00"
+                "fin": "19:00:00"
               }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "18:30:00"
+                "début": "14:00:00",
+                "fin": "19:00:00"
               }
             },
             {
               "début": "jeudi",
-              "fin": "vendredi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "18:00:00"
+                "début": "14:00:00",
+                "fin": "19:00:00"
               }
             },
             {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
                 "début": "10:00:00",
-                "fin": "18:30:00"
+                "fin": "18:00:00"
               }
             }
           ]
@@ -902,15 +618,15 @@
       "properties": {
         "id": "cij-56121-01",
         "codeInsee": "56121",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Lorient",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Rue Sarah-Bernhardt",
-            "Esplanade du Moustoir"
+            "Esplanade du Moustoir",
+            "Rue Sarah-Bernhardt"
           ],
           "CodePostal": "56100",
           "NomCommune": "Lorient",
@@ -927,24 +643,24 @@
           "Téléphone": "02 97 84 84 57",
           "Télécopie": "02 97 84 94 55",
           "Email": "infos@bij-lorient.org",
-          "Url": "http://www.ij-bretagne.com/lorient"
+          "Url": "http://www.bij-lorient.org"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "12:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:00:00",
+                "fin": "18:00:00"
               }
             },
             {
@@ -971,7 +687,7 @@
       "properties": {
         "id": "cij-56078-01",
         "codeInsee": "56078",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Guidel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1001,8 +717,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -1015,8 +731,8 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "mercredi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -1044,7 +760,7 @@
       "properties": {
         "id": "cij-56067-01",
         "codeInsee": "56067",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Grand-Champ",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1065,8 +781,8 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 97 61 40 16",
-          "Email": "lochinfoservices@leloch.fr",
-          "Url": "http://www.leloch.fr"
+          "Email": "lochinfoservices@gmvagglo.bzh",
+          "Url": "http://www.golfedumorbihan-vannesagglomeration.bzh"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1136,13 +852,16 @@
       "properties": {
         "id": "cij-56075-01",
         "codeInsee": "56075",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Guer-Communauté",
+        "Nom": "Point information jeunesse - Guer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "4, avenue du Général-de-Gaulle",
+          "Ligne": [
+            "Brocéliande communauté",
+            "4 avenue du Général-de-Gaulle"
+          ],
           "CodePostal": "56380",
           "NomCommune": "Guer",
           "Localisation": {
@@ -1155,27 +874,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 22 18 52",
-          "Télécopie": "+33 2 97 22 50 89",
-          "Email": "pefpij@paysdeguer.fr",
+          "Téléphone": "02 97 22 18 52",
+          "Email": "aude.thomas@oust-broceliande.bzh",
           "Url": "http://www.paysdeguer.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -1203,6 +907,20 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -1213,14 +931,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4273295,
-          47.7342618
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-56162-01",
         "codeInsee": "56162",
-        "dateMiseAJour": "2009-09-15",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ploemeur",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1228,58 +946,38 @@
           "type": "géopostale",
           "Ligne": "18 rue de Kervam",
           "CodePostal": "56270",
-          "NomCommune": "Ploemeur",
-          "Localisation": {
-            "Latitude": "47.7342618",
-            "Longitude": "-3.4273295",
-            "Précision": "9"
-          }
+          "NomCommune": "Ploemeur"
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 97 84 41 03",
+          "Téléphone": "02 97 86 41 03",
           "Email": "pij.ploemeur@ploemeur.net",
           "Url": "http://www.ij-bretagne.com/blogs/ploemeur/"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
               "début": "mercredi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "17:00:00"
+                "fin": "18:00:00"
               }
             },
             {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "sur RDV"
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }

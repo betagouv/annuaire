@@ -390,6 +390,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.841348,
+          44.167335
+        ]
+      },
+      "properties": {
+        "id": "msap-48148-01",
+        "codeInsee": "48148",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Saint-Etienne-Vallée-Française",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "avenue de l'Enclos",
+          "CodePostal": "48330",
+          "NomCommune": "St-Etienne-Vallée-Française",
+          "Localisation": {
+            "Latitude": "44.167335",
+            "Longitude": "3.841348",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 45 70 02",
+          "Email": "msapvf@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-etienne-vallee-francaise"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.738387,
+          44.490616
+        ]
+      },
+      "properties": {
+        "id": "msap-48027-01",
+        "codeInsee": "48027",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Le Bleymard",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "La Remise",
+          "CodePostal": "48190",
+          "NomCommune": "Le Bleymard",
+          "Localisation": {
+            "Latitude": "44.490616",
+            "Longitude": "3.738387",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 32 05 98",
+          "Email": "msaplebleymard@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/le-bleymard"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.291826,
           44.553562
         ]
@@ -432,6 +572,74 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7392,
+          44.180845
+        ]
+      },
+      "properties": {
+        "id": "msap-48144-01",
+        "codeInsee": "48144",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Sainte-Croix-Vallée-Française",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Le Village",
+          "CodePostal": "48110",
+          "NomCommune": "Ste-Croix-Vallée-Française",
+          "Localisation": {
+            "Latitude": "44.180845",
+            "Longitude": "3.7392",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 66 44 70 50",
+          "Email": "msapvf@gmail.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/sainte-croix-vallee-francaise"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },

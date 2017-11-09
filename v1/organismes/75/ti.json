@@ -686,7 +686,7 @@
       },
       "properties": {
         "codeInsee": "75116",
-        "dateMiseAJour": "2017-10-04",
+        "dateMiseAJour": "2017-10-23",
         "id": "ti-75116-01",
         "idPresta": "4cac9e62293594648a00068d",
         "pivotLocal": "ti",
@@ -716,12 +716,11 @@
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
-            "fin": "dimanche",
+            "fin": "vendredi",
             "PlageH": {
-              "début": "00:00:00",
-              "fin": "00:00:00"
-            },
-            "Note": "Uniquement les matins de 9h00 à 16h30"
+              "début": "09:00:00",
+              "fin": "12:30:00"
+            }
           }
         }
       }

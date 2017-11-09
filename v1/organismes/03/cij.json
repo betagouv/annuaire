@@ -13,13 +13,16 @@
       "properties": {
         "id": "cij-03310-01",
         "codeInsee": "03310",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Vichy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "9 place de l'Hôtel-de-Ville",
+          "Ligne": [
+            "Vichy communauté",
+            "9 place de l'Hôtel-de-Ville"
+          ],
           "CodePostal": "03200",
           "NomCommune": "Vichy",
           "Localisation": {
@@ -33,7 +36,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 31 05 27",
-          "Email": "pij@vichy-valallier.fr",
+          "Email": "pij@vichy-communaute.fr",
           "Url": "http://www.info-jeunes.net"
         },
         "Ouverture": {
@@ -66,14 +69,14 @@
       "properties": {
         "id": "cij-03102-01",
         "codeInsee": "03102",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Dompierre-sur-Besbre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Maison de l'emploi et de la solidarité",
+            "Maison de services au public",
             "Espace Boudeville"
           ],
           "CodePostal": "03290",
@@ -88,8 +91,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 70 48 21 10",
-          "Télécopie": "+33 4 70 48 27 95",
+          "Téléphone": "04 70 48 21 10",
+          "Email": "maisonpourlemploi@interco-abl.fr",
           "Url": "http://www.espaceinfojeunes.net"
         },
         "Ouverture": {
@@ -122,7 +125,7 @@
       "properties": {
         "id": "cij-03190-01",
         "codeInsee": "03190",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Moulins",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -170,7 +173,7 @@
       "properties": {
         "id": "cij-03185-01",
         "codeInsee": "03185",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Montluçon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -194,19 +197,11 @@
         "CoordonnéesNum": {
           "Téléphone": "04 70 02 27 10",
           "Télécopie": "04 70 03 93 36",
-          "Email": "point.cyb.montlucon@wanadoo.fr",
+          "Email": "pointcyb.montlucon@wanadoo.fr",
           "Url": "http://www.espaceinfojeunes.net"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -220,6 +215,14 @@
               "fin": "mercredi",
               "PlageH": {
                 "début": "10:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
                 "fin": "17:30:00"
               }
             },
@@ -253,7 +256,7 @@
       "properties": {
         "id": "cij-03118-01",
         "codeInsee": "03118",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Gannat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -276,8 +279,8 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 90 26 70",
-          "Email": "eureka@ville-gannat.fr",
-          "Url": "http://www.info-jeunes.net"
+          "Email": "pij@ville-gannat.fr",
+          "Url": "http://www.ville-gannat.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -317,8 +320,8 @@
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -337,7 +340,7 @@
       "properties": {
         "id": "cij-03082-01",
         "codeInsee": "03082",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Commentry",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -352,7 +355,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -364,109 +367,34 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.4629099369,
-          46.0662002563
-        ]
-      },
-      "properties": {
-        "id": "cij-03264-01",
-        "codeInsee": "03264",
-        "dateMiseAJour": "2009-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Saint-Yorre",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Place du Marché",
-          "CodePostal": "03270",
-          "NomCommune": "ST YORRE",
-          "Localisation": {
-            "Latitude": "46.0662002563",
-            "Longitude": "3.4629099369",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 70 41 01 32",
-          "Url": "http://www.espaceinfojeunes.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
+            },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "16:00:00",
+                "début": "15:00:00",
                 "fin": "18:00:00"
               }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
               "PlageH": {
-                "début": "16:00:00",
+                "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "15:00:00",
                 "fin": "18:00:00"
               }
             }
@@ -486,13 +414,13 @@
       "properties": {
         "id": "cij-03321-01",
         "codeInsee": "03321",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Yzeure",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "42-44 place Jules-Ferry",
+          "Ligne": "Boulevard Jean-Moulin-Yzatis",
           "CodePostal": "03400",
           "NomCommune": "Yzeure",
           "Localisation": {

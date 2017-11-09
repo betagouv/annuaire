@@ -56,7 +56,7 @@
       "properties": {
         "id": "mairie-82146-01",
         "codeInsee": "82146",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Puygaillard-de-Lomagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -103,7 +103,7 @@
       "properties": {
         "id": "mairie-82117-01",
         "codeInsee": "82117",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montaigu-de-Quercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -130,12 +130,18 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:15:00"
-              }
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
             },
             {
               "début": "vendredi",
@@ -152,18 +158,12 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:15:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              }
             }
           ]
         }
@@ -181,7 +181,7 @@
       "properties": {
         "id": "mairie-82160-01",
         "codeInsee": "82160",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Clair",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -201,8 +201,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 39 68 76",
-          "Email": "mairie-saint.clair@info82.com",
-          "Url": "http://www.cdg82."
+          "Email": "mairie-saint.clair@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -215,19 +214,19 @@
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -246,7 +245,7 @@
       "properties": {
         "id": "mairie-82136-01",
         "codeInsee": "82136",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Orgueil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -261,7 +260,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
@@ -271,6 +270,14 @@
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -292,14 +299,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
             },
             {
               "début": "vendredi",
@@ -471,7 +470,7 @@
       "properties": {
         "id": "mairie-82021-01",
         "codeInsee": "82021",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bouloc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -479,7 +478,7 @@
           "type": "géopostale",
           "Ligne": "Le Bourg",
           "CodePostal": "82110",
-          "NomCommune": "Bouloc",
+          "NomCommune": "Bouloc-en-Quercy",
           "Localisation": {
             "Latitude": "44.299711",
             "Longitude": "1.127577",
@@ -490,9 +489,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 94 67 97",
-          "Télécopie": "+33 5 63 94 67 97",
-          "Email": "http://www.bouloc-en-quercy.fr/fr/contact.html",
+          "Téléphone": "05 63 94 67 97",
+          "Télécopie": "05 63 94 67 97",
+          "Email": "mairie-bouloc@info82.com",
           "Url": "http://www.bouloc-en-quercy.fr"
         },
         "Ouverture": {
@@ -504,7 +503,7 @@
                 "début": "09:00:00",
                 "fin": "13:00:00"
               },
-              "Note": "Permanence du maire le mardi matin."
+              "Note": "Permanence du maire mardi matin."
             },
             {
               "début": "jeudi",
@@ -530,7 +529,7 @@
       "properties": {
         "id": "mairie-82045-01",
         "codeInsee": "82045",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cordes-Tolosannes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -557,19 +556,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -596,7 +595,7 @@
       "properties": {
         "id": "mairie-82038-01",
         "codeInsee": "82038",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Caylus",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -660,7 +659,7 @@
       "properties": {
         "id": "mairie-82096-01",
         "codeInsee": "82096",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de La Ville-Dieu-du-Temple",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -686,8 +685,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -708,8 +707,16 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -720,14 +727,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -745,7 +744,7 @@
       "properties": {
         "id": "mairie-82127-01",
         "codeInsee": "82127",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montesquieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -824,14 +823,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.942533,
-          43.852078
+          0.9409405,
+          43.8519321
         ]
       },
       "properties": {
         "id": "mairie-82068-01",
         "codeInsee": "82068",
-        "dateMiseAJour": "2017-07-12",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Gimat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -841,9 +840,9 @@
           "CodePostal": "82500",
           "NomCommune": "Gimat",
           "Localisation": {
-            "Latitude": "43.852078",
-            "Longitude": "0.942533",
-            "Précision": "8"
+            "Latitude": "43.8519321",
+            "Longitude": "0.9409405",
+            "Précision": "6"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -851,24 +850,25 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 02 25 10",
+          "Télécopie": "05 63 02 25 14",
           "Email": "mairie-gimat@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:30:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "14:30:00",
-                "fin": "18:30:00"
+                "début": "15:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -887,7 +887,7 @@
       "properties": {
         "id": "mairie-82047-01",
         "codeInsee": "82047",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cumont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -914,16 +914,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "10:30:00",
                 "fin": "13:00:00"
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "10:30:00",
                 "fin": "13:00:00"
@@ -945,7 +945,7 @@
       "properties": {
         "id": "mairie-82063-01",
         "codeInsee": "82063",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Garganvillar",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -972,16 +972,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -1003,7 +1003,7 @@
       "properties": {
         "id": "mairie-82015-01",
         "codeInsee": "82015",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Belbèze-en-Lomagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1023,7 +1023,8 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 20 75 27",
-          "Email": "mairie-belbeze@info82.com"
+          "Email": "mairie-belbeze@info82.com",
+          "Url": "http://www.belbeze-en-lomagne.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1059,7 +1060,7 @@
       "properties": {
         "id": "mairie-82080-01",
         "codeInsee": "82080",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Labastide-du-Temple",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1118,7 +1119,7 @@
       "properties": {
         "id": "mairie-82143-01",
         "codeInsee": "82143",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Poupas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1174,7 +1175,7 @@
       "properties": {
         "id": "mairie-82121-01",
         "codeInsee": "82121",
-        "dateMiseAJour": "2017-05-05",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montauban",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1215,7 +1216,7 @@
                 "fin": "17:30:00"
               }
             ],
-            "Note": "Accueil état civil ouvert les lundis et vendredis de 8h30 à 17h30."
+            "Note": "Accueil état civil ouvert lundi et vendredi de 8h30 à 17h30."
           }
         }
       }
@@ -1278,7 +1279,7 @@
       "properties": {
         "id": "mairie-82100-01",
         "codeInsee": "82100",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Loze",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1297,7 +1298,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 67 00 51",
+          "Téléphone": "05 63 67 00 51",
           "Email": "mairie-loze@info82.com"
         },
         "Ouverture": {
@@ -1334,7 +1335,7 @@
       "properties": {
         "id": "mairie-82013-01",
         "codeInsee": "82013",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Beaumont-de-Lomagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1409,7 +1410,7 @@
       "properties": {
         "id": "mairie-82168-01",
         "codeInsee": "82168",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Nazaire-de-Valentane",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1475,7 +1476,7 @@
       "properties": {
         "id": "mairie-82141-01",
         "codeInsee": "82141",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Pommevic",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1502,7 +1503,7 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "lundi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -1538,32 +1539,12 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -1581,7 +1562,7 @@
       "properties": {
         "id": "mairie-82031-01",
         "codeInsee": "82031",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castelmayran",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1608,20 +1589,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -1634,14 +1601,6 @@
                   "fin": "17:45:00"
                 }
               ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
             },
             {
               "début": "mardi",
@@ -1664,6 +1623,28 @@
                   "fin": "17:45:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -1681,7 +1662,7 @@
       "properties": {
         "id": "mairie-82150-01",
         "codeInsee": "82150",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Reyniès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1709,7 +1690,23 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
                 "début": "08:30:00",
@@ -1813,33 +1810,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          1.50148439,
+          43.9949555
         ]
       },
       "properties": {
         "id": "mairie-82066-01",
         "codeInsee": "82066",
-        "dateMiseAJour": "2017-08-30",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Génébrières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "223 VC1 de Génebrières",
-            "Le Bourg"
-          ],
+          "Ligne": "223 voie communale 1",
           "CodePostal": "82230",
           "NomCommune": "Génébrières",
+          "Localisation": {
+            "Latitude": "43.9949555",
+            "Longitude": "1.50148439",
+            "Précision": "8"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 30 42 14",
+          "Télécopie": "05 63 30 36 52",
           "Email": "mairie-genebrieres@info82.com",
-          "Url": "http://www.genebrieres.fr/"
+          "Url": "http://www.genebrieres.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1967,7 +1967,7 @@
       "properties": {
         "id": "mairie-82173-01",
         "codeInsee": "82173",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Sardos",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1994,16 +1994,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
               }
             },
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
@@ -2033,7 +2033,7 @@
       "properties": {
         "id": "mairie-82114-01",
         "codeInsee": "82114",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Monbéqui",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2052,8 +2052,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 53 58",
-          "Télécopie": "+33 5 63 64 01 05",
+          "Téléphone": "05 63 65 53 58",
           "Email": "mairie-monbequi@info82.com",
           "Url": "http://www.monbequi.fr"
         },
@@ -2091,7 +2090,7 @@
       "properties": {
         "id": "mairie-82084-01",
         "codeInsee": "82084",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lacour-de-Visa",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2117,19 +2116,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -2148,7 +2147,7 @@
       "properties": {
         "id": "mairie-82181-01",
         "codeInsee": "82181",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Sistels",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2205,7 +2204,7 @@
       "properties": {
         "id": "mairie-82119-01",
         "codeInsee": "82119",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montalzat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2253,7 +2252,7 @@
       "properties": {
         "id": "mairie-82144-01",
         "codeInsee": "82144",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Puycornet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2272,9 +2271,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 81 74",
-          "Télécopie": "+33 5 63 65 98 41",
-          "Email": "com.puycornet@orange.fr"
+          "Téléphone": "05 63 65 81 74",
+          "Télécopie": "05 63 65 98 41",
+          "Email": "com.puycornet@orange.fr",
+          "Url": "http://www.puycornet.com"
         },
         "Ouverture": {
           "PlageJ": {
@@ -2300,7 +2300,7 @@
       "properties": {
         "id": "mairie-82048-01",
         "codeInsee": "82048",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Dieupentale",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2327,20 +2327,21 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
               }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Permanence des élus le samedi de 10h à 12h."
             },
             {
               "début": "mercredi",
@@ -2355,15 +2356,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Permanence uniquement des élus."
             }
           ]
         }
@@ -2427,7 +2419,7 @@
       "properties": {
         "id": "mairie-82152-01",
         "codeInsee": "82152",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Aignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2453,20 +2445,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -2477,6 +2455,20 @@
                 {
                   "début": "13:30:00",
                   "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
                 }
               ]
             },
@@ -2518,7 +2510,7 @@
       "properties": {
         "id": "mairie-82140-01",
         "codeInsee": "82140",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Piquecos",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2533,13 +2525,15 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "DEM",
+            "$t": "travaux en cours"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 31 34 38",
           "Télécopie": "09 70 62 35 78",
-          "Email": "com.piquecos@orange.fr"
+          "Email": "com.piquecos@orange.fr",
+          "Url": "http://www.piquecos.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -2703,7 +2697,7 @@
       "properties": {
         "id": "mairie-82039-01",
         "codeInsee": "82039",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cayrac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2724,7 +2718,8 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 67 11 69",
           "Télécopie": "05 63 31 11 64",
-          "Email": "mairie-cayrac@info82.com"
+          "Email": "mairie-cayrac@info82.com",
+          "Url": "http://www.cayrac.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -2738,7 +2733,7 @@
                 },
                 {
                   "début": "13:00:00",
-                  "fin": "16:00:00"
+                  "fin": "16:30:00"
                 }
               ]
             },
@@ -2768,7 +2763,7 @@
                 },
                 {
                   "début": "13:00:00",
-                  "fin": "16:00:00"
+                  "fin": "16:30:00"
                 }
               ]
             }
@@ -2788,7 +2783,7 @@
       "properties": {
         "id": "mairie-82128-01",
         "codeInsee": "82128",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montfermier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2809,7 +2804,7 @@
           },
           {
             "type": "postale",
-            "Ligne": "Le Bourg",
+            "Ligne": "659 route du Village",
             "CodePostal": "82270",
             "NomCommune": "Montfermier"
           }
@@ -2823,21 +2818,13 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "15:00:00",
                 "fin": "18:00:00"
               },
-              "Note": "Accueil situé à la mairie de Montpezat-de-Quercy."
+              "Note": "Accueil physique et téléphonique situé à la mairie de Montpezat-de-Quercy."
             },
             {
               "début": "samedi",
@@ -2846,6 +2833,20 @@
                 "début": "08:30:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -2863,7 +2864,7 @@
       "properties": {
         "id": "mairie-82166-01",
         "codeInsee": "82166",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Michel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2926,7 +2927,7 @@
       "properties": {
         "id": "mairie-82024-01",
         "codeInsee": "82024",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Brassac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2989,7 +2990,7 @@
       "properties": {
         "id": "mairie-82106-01",
         "codeInsee": "82106",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Maubec",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3011,7 +3012,7 @@
           "Téléphone": "05 63 65 21 38",
           "Télécopie": "05 63 65 21 38",
           "Email": "mairie-maubec@info82.com",
-          "Url": "http://www.coll82.com/maubec"
+          "Url": "http://www.coll82.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -3021,14 +3022,6 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
               }
             },
             {
@@ -3044,6 +3037,14 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -3061,7 +3062,7 @@
       "properties": {
         "id": "mairie-82134-01",
         "codeInsee": "82134",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Nègrepelisse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3111,26 +3112,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.6643819809,
-          44.0551452637
+          1.664488,
+          44.055265
         ]
       },
       "properties": {
         "id": "mairie-82026-01",
         "codeInsee": "82026",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bruniquel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "4 rue de la Fraternité",
           "CodePostal": "82800",
           "NomCommune": "Bruniquel",
           "Localisation": {
-            "Latitude": "44.0551452637",
-            "Longitude": "1.6643819809",
-            "Précision": "4"
+            "Latitude": "44.055265",
+            "Longitude": "1.664488",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -3255,7 +3256,7 @@
       "properties": {
         "id": "mairie-82005-01",
         "codeInsee": "82005",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Aucamville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3321,7 +3322,7 @@
       "properties": {
         "id": "mairie-82003-01",
         "codeInsee": "82003",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Angeville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3377,26 +3378,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.986789,
-          43.952621
+          0.3930765,
+          45.3305754
         ]
       },
       "properties": {
         "id": "mairie-82046-01",
         "codeInsee": "82046",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Coutures",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "75 rue de la Mairie",
           "CodePostal": "82210",
           "NomCommune": "Coutures",
           "Localisation": {
-            "Latitude": "43.952621",
-            "Longitude": "0.986789",
-            "Précision": "6"
+            "Latitude": "45.3305754",
+            "Longitude": "0.3930765",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -3442,7 +3443,7 @@
       "properties": {
         "id": "mairie-82077-01",
         "codeInsee": "82077",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Labarthe",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3468,6 +3469,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
@@ -3482,14 +3491,6 @@
                 "début": "13:30:00",
                 "fin": "17:30:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "16:30:00"
-              }
             }
           ]
         }
@@ -3500,14 +3501,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          1.4573859,
+          43.9152593
         ]
       },
       "properties": {
         "id": "mairie-82192-01",
         "codeInsee": "82192",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Verlhac-Tescou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3516,6 +3517,11 @@
           "Ligne": "73 route de Monclar",
           "CodePostal": "82230",
           "NomCommune": "Verlhac-Tescou",
+          "Localisation": {
+            "Latitude": "43.9152593",
+            "Longitude": "1.4573859",
+            "Précision": "6"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -3523,10 +3529,25 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 30 42 01",
           "Télécopie": "05 63 30 39 23",
-          "Email": "mairie-verlhac.tescou@info82.com"
+          "Email": "mairie-verlhac.tescou@info82.com",
+          "Url": "http://www.verlhac-tescou.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
             {
               "début": "jeudi",
               "fin": "jeudi",
@@ -3542,32 +3563,12 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ]
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -3585,7 +3586,7 @@
       "properties": {
         "id": "mairie-82184-01",
         "codeInsee": "82184",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vaïssac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3690,7 +3691,7 @@
       "properties": {
         "id": "mairie-82129-01",
         "codeInsee": "82129",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montgaillard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3716,16 +3717,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
@@ -3747,7 +3748,7 @@
       "properties": {
         "id": "mairie-82193-01",
         "codeInsee": "82193",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vigueron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3769,7 +3770,7 @@
           "Téléphone": "05 63 20 77 24",
           "Télécopie": "05 63 20 77 24",
           "Email": "mairie-vigueron@info82.com",
-          "Url": "http://www.coll82.com/vigueron"
+          "Url": "http://www.coll82.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -3805,7 +3806,7 @@
       "properties": {
         "id": "mairie-82130-01",
         "codeInsee": "82130",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montjoi",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3820,7 +3821,7 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "DEM"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -3831,8 +3832,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -3845,8 +3846,8 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -3921,7 +3922,7 @@
       "properties": {
         "id": "mairie-82027-01",
         "codeInsee": "82027",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Campsas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3948,8 +3949,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mercredi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -3962,8 +3963,8 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -3984,25 +3985,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.013209,
-          44.096387
+          1.013222,
+          44.096053
         ]
       },
       "properties": {
         "id": "mairie-82019-01",
         "codeInsee": "82019",
-        "dateMiseAJour": "2017-06-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Boudou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "310 chemin de Ronde",
           "CodePostal": "82200",
           "NomCommune": "Boudou",
           "Localisation": {
-            "Latitude": "44.096387",
-            "Longitude": "1.013209",
+            "Latitude": "44.096053",
+            "Longitude": "1.013222",
             "Précision": "8"
           },
           "Accessibilité": {
@@ -4011,11 +4012,20 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 04 09 85",
+          "Télécopie": "05 63 04 09 85",
           "Email": "mairie-boudou@info82.com",
-          "Url": "http://www.cdg82.fr/boudou"
+          "Url": "http://www.boudou.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -4047,14 +4057,6 @@
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:00:00"
@@ -4132,7 +4134,7 @@
       "properties": {
         "id": "mairie-82082-01",
         "codeInsee": "82082",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lacapelle-Livron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4190,26 +4192,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.24072003365,
-          44.1259994507
+          1.24099,
+          44.125691
         ]
       },
       "properties": {
         "id": "mairie-82087-01",
         "codeInsee": "82087",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lafrançaise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Place de la République",
+          "Ligne": "1 place de la République",
           "CodePostal": "82130",
           "NomCommune": "Lafrançaise",
           "Localisation": {
-            "Latitude": "44.1259994507",
-            "Longitude": "1.24072003365",
-            "Précision": "6"
+            "Latitude": "44.125691",
+            "Longitude": "1.24099",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -4251,7 +4253,7 @@
       "properties": {
         "id": "mairie-82094-01",
         "codeInsee": "82094",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lauzerte",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4278,6 +4280,15 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement les 1er et 3e samedis du mois."
+            },
+            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -4289,17 +4300,7 @@
                   "début": "15:00:00",
                   "fin": "17:30:00"
                 }
-              ],
-              "Note": "Passeport biométrique uniquement sur rendez-vous."
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement les 1er et 3e samedis du mois."
+              ]
             }
           ]
         }
@@ -4317,7 +4318,7 @@
       "properties": {
         "id": "mairie-82154-01",
         "codeInsee": "82154",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-16",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Amans-de-Pellagal",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4332,31 +4333,30 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 94 75 65",
-          "Télécopie": "+33 5 63 95 72 83",
-          "Email": "mairie.st-amans-de-pellagal@orange.fr",
-          "Url": "http://www.mairiesaintamansdepellagal.fr"
+          "Téléphone": "05 63 94 75 65",
+          "Télécopie": "05 63 95 72 83",
+          "Email": "mairie.st-amans-de-pellagal@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -4375,7 +4375,7 @@
       "properties": {
         "id": "mairie-82010-01",
         "codeInsee": "82010",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bardigues",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4396,21 +4396,30 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 29 05 01",
           "Télécopie": "05 63 29 05 01",
-          "Email": "mairie-bardigues@info82.com"
+          "Email": "mairie-bardigues@info82.com",
+          "Url": "http://www.bardigues.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "09:30:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
                 }
               ]
             },
@@ -4423,12 +4432,18 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -4446,7 +4461,7 @@
       "properties": {
         "id": "mairie-82044-01",
         "codeInsee": "82044",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Corbarieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4577,7 +4592,7 @@
       "properties": {
         "id": "mairie-82095-01",
         "codeInsee": "82095",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lavaurette",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4611,14 +4626,6 @@
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:15:00",
-                "fin": "11:45:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -4627,11 +4634,19 @@
               }
             },
             {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "09:15:00",
-                "fin": "11:45:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -4650,7 +4665,7 @@
       "properties": {
         "id": "mairie-82158-01",
         "codeInsee": "82158",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Cirice",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4678,16 +4693,10 @@
             {
               "début": "lundi",
               "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             },
             {
               "début": "mercredi",
@@ -4721,13 +4730,13 @@
       "properties": {
         "id": "mairie-82054-01",
         "codeInsee": "82054",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Espalais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "19, rue du Barry",
+          "Ligne": "19 rue du Barry",
           "CodePostal": "82400",
           "NomCommune": "Espalais",
           "Localisation": {
@@ -4740,8 +4749,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 39 64 85",
-          "Télécopie": "+33 5 63 39 64 85",
+          "Téléphone": "05 63 39 64 85",
+          "Télécopie": "05 63 39 64 85",
           "Email": "mairie-espalais@info82.com",
           "Url": "http://www.espalais.fr"
         },
@@ -4749,7 +4758,15 @@
           "PlageJ": [
             {
               "début": "mardi",
-              "fin": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:30:00"
@@ -4761,14 +4778,6 @@
               "PlageH": {
                 "début": "14:30:00",
                 "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
               }
             }
           ]
@@ -4787,7 +4796,7 @@
       "properties": {
         "id": "mairie-82069-01",
         "codeInsee": "82069",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ginals",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4806,23 +4815,23 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 44 77",
-          "Télécopie": "+33 5 63 68 26 11",
+          "Téléphone": "05 63 65 44 77",
+          "Télécopie": "05 63 68 26 11",
           "Email": "mairie.ginals.82@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -4844,7 +4853,7 @@
       "properties": {
         "id": "mairie-82115-01",
         "codeInsee": "82115",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Monclar-de-Quercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4871,6 +4880,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -4883,14 +4900,6 @@
                   "fin": "16:30:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -4908,7 +4917,7 @@
       "properties": {
         "id": "mairie-82125-01",
         "codeInsee": "82125",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montech",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4926,7 +4935,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -4975,7 +4984,7 @@
       "properties": {
         "id": "mairie-82153-01",
         "codeInsee": "82153",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Amans-du-Pech",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5001,20 +5010,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
@@ -5035,6 +5030,20 @@
                 "début": "13:30:00",
                 "fin": "17:30:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -5052,7 +5061,7 @@
       "properties": {
         "id": "mairie-82183-01",
         "codeInsee": "82183",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Tréjouls",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5067,27 +5076,18 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "DEM"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 95 83 85",
-          "Télécopie": "+33 5 63 95 81 38",
+          "Téléphone": "05 63 95 83 85",
           "Email": "mairie-trejouls@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -5100,8 +5100,16 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -5129,7 +5137,7 @@
       "properties": {
         "id": "mairie-82124-01",
         "codeInsee": "82124",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montbeton",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5156,15 +5164,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Permanence des élus uniquement."
-            },
-            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -5177,6 +5176,15 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Permanence des élus uniquement."
             }
           ]
         }
@@ -5194,7 +5202,7 @@
       "properties": {
         "id": "mairie-82155-01",
         "codeInsee": "82155",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Antonin-Noble-Val",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5215,8 +5223,8 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 30 60 23",
           "Télécopie": "05 63 30 60 54",
-          "Email": "mairie-saint.anthonin.noble.val@info82.com",
-          "Url": "http://www.saint-antonin-noble-val.com"
+          "Email": "mairie-saint.antonin.noble.val@info82.com",
+          "Url": "http://www.st-antoninnv.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -5282,7 +5290,7 @@
       "properties": {
         "id": "mairie-82011-01",
         "codeInsee": "82011",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Barry-d'Islemade",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5309,8 +5317,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
@@ -5331,6 +5339,14 @@
               ]
             },
             {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
@@ -5343,14 +5359,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -5368,13 +5376,13 @@
       "properties": {
         "id": "mairie-82151-01",
         "codeInsee": "82151",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Roquecor",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "Place de la Mairie",
           "CodePostal": "82150",
           "NomCommune": "Roquecor",
           "Localisation": {
@@ -5383,7 +5391,7 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -5393,6 +5401,14 @@
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:45:00",
+                "fin": "17:30:00"
+              }
+            },
             {
               "début": "jeudi",
               "fin": "jeudi",
@@ -5407,14 +5423,6 @@
               "PlageH": {
                 "début": "13:45:00",
                 "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:45:00",
-                "fin": "17:30:00"
               }
             }
           ]
@@ -5433,7 +5441,7 @@
       "properties": {
         "id": "mairie-82112-01",
         "codeInsee": "82112",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Moissac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5497,7 +5505,7 @@
       "properties": {
         "id": "mairie-82126-01",
         "codeInsee": "82126",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Monteils",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5523,20 +5531,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -5564,6 +5558,20 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -5581,7 +5589,7 @@
       "properties": {
         "id": "mairie-82167-01",
         "codeInsee": "82167",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Nauphary",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5608,22 +5616,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -5644,12 +5638,26 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -5667,13 +5675,13 @@
       "properties": {
         "id": "mairie-82085-01",
         "codeInsee": "82085",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lacourt-Saint-Pierre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "35, rue de la Mairie",
+          "Ligne": "35 rue de la Mairie",
           "CodePostal": "82290",
           "NomCommune": "Lacourt-Saint-Pierre",
           "Localisation": {
@@ -5686,9 +5694,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 67 49 31",
-          "Télécopie": "+33 5 63 67 53 00",
-          "Email": "mairie-lacourt.saint.pierre@info82.com"
+          "Téléphone": "05 63 67 49 31",
+          "Télécopie": "05 63 67 53 00",
+          "Email": "mairie-lacourt.saint.pierre@info82.com",
+          "Url": "http://lacourt-saint-pierre.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -5724,7 +5733,7 @@
       "properties": {
         "id": "mairie-82051-01",
         "codeInsee": "82051",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Durfort-Lacapelette",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5796,7 +5805,7 @@
       "properties": {
         "id": "mairie-82036-01",
         "codeInsee": "82036",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie du Causé",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5984,13 +5993,13 @@
       "properties": {
         "id": "mairie-82159-01",
         "codeInsee": "82159",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Cirq",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "40 route de Caussade",
           "CodePostal": "82300",
           "NomCommune": "Saint-Cirq",
           "Localisation": {
@@ -6009,20 +6018,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -6044,6 +6039,20 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -6054,14 +6063,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          1.81898903847,
+          44.130947113
         ]
       },
       "properties": {
         "id": "mairie-82061-01",
         "codeInsee": "82061",
-        "dateMiseAJour": "2017-09-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Féneyrols",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6070,14 +6079,18 @@
           "Ligne": "Le Goutal",
           "CodePostal": "82140",
           "NomCommune": "Féneyrols",
+          "Localisation": {
+            "Latitude": "44.130947113",
+            "Longitude": "1.81898903847",
+            "Précision": "4"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 30 61 75",
-          "Télécopie": "05 63 67 14 20",
-          "Email": "mairie.feneyrols@meshnet.fr",
+          "Email": "mairie.feneyrols@orange.fr",
           "Url": "http://www.feneyrols.fr"
         },
         "Ouverture": {
@@ -6110,7 +6123,7 @@
       "properties": {
         "id": "mairie-82042-01",
         "codeInsee": "82042",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cazes-Mondenard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6173,7 +6186,7 @@
       "properties": {
         "id": "mairie-82093-01",
         "codeInsee": "82093",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Larrazet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6230,7 +6243,7 @@
       "properties": {
         "id": "mairie-82030-01",
         "codeInsee": "82030",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castelferrus",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6257,6 +6270,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
@@ -6277,14 +6298,6 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
-            },
-            {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
             }
           ]
         }
@@ -6295,51 +6308,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.954706013203,
-          44.1176795959
+          1.8603862,
+          44.863623
         ]
       },
       "properties": {
         "id": "mairie-82175-01",
         "codeInsee": "82175",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Vincent-Lespinasse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "36 place du Bourg",
           "CodePostal": "82400",
           "NomCommune": "Saint-Vincent-Lespinasse",
           "Localisation": {
-            "Latitude": "44.1176795959",
-            "Longitude": "0.954706013203",
-            "Précision": "4"
+            "Latitude": "44.863623",
+            "Longitude": "1.8603862",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 39 61 09",
+          "Téléphone": "05 63 39 61 09",
           "Email": "mairie-saint.vincent.lespinasse@info82.com",
           "Url": "http://www.saint-vincent-lespinasse.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "13:30:00",
+                "début": "14:00:00",
                 "fin": "17:30:00"
               }
             },
@@ -6349,6 +6354,14 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
               }
             }
           ]
@@ -6367,7 +6380,7 @@
       "properties": {
         "id": "mairie-82097-01",
         "codeInsee": "82097",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lavit-de-Lomagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6421,7 +6434,7 @@
       "properties": {
         "id": "mairie-82147-01",
         "codeInsee": "82147",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Puylagarde",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6479,7 +6492,7 @@
       "properties": {
         "id": "mairie-82050-01",
         "codeInsee": "82050",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Dunes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6514,19 +6527,25 @@
               }
             },
             {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
+            },
+            {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
               }
             }
           ]
@@ -6620,7 +6639,7 @@
       "properties": {
         "id": "mairie-82023-01",
         "codeInsee": "82023",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bourret",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6639,27 +6658,19 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 64 75 44",
-          "Télécopie": "+33 5 63 64 86 99",
+          "Téléphone": "05 63 64 75 44",
+          "Télécopie": "05 63 64 86 99",
           "Email": "mairie-bourret@info82.com",
           "Url": "http://www.bourret.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "mercredi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:30:00"
               }
             },
             {
@@ -6671,8 +6682,16 @@
               }
             },
             {
-              "début": "mercredi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
@@ -6694,7 +6713,7 @@
       "properties": {
         "id": "mairie-82191-01",
         "codeInsee": "82191",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Verfeil-sur-Seye",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6709,7 +6728,7 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -6721,19 +6740,11 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "12:30:00"
+                "fin": "12:00:00"
               }
             },
             {
@@ -6741,7 +6752,15 @@
               "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "12:30:00"
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -6760,7 +6779,7 @@
       "properties": {
         "id": "mairie-82004-01",
         "codeInsee": "82004",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Asques",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6786,16 +6805,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
@@ -6817,13 +6836,13 @@
       "properties": {
         "id": "mairie-82113-01",
         "codeInsee": "82113",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Molières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Rue de la Mairie",
+          "Ligne": "Place de la Mairie",
           "CodePostal": "82220",
           "NomCommune": "Molières",
           "Localisation": {
@@ -6844,14 +6863,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -6864,6 +6875,14 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -6881,7 +6900,7 @@
       "properties": {
         "id": "mairie-82088-01",
         "codeInsee": "82088",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Laguépie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6908,16 +6927,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -6975,7 +6994,7 @@
       "properties": {
         "id": "mairie-82135-01",
         "codeInsee": "82135",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Nohic",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6995,34 +7014,11 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 68 00 72",
-          "Télécopie": "09 70 61 78 58",
           "Email": "mairie@nohic.fr",
           "Url": "http://www.nohic.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            },
             {
               "début": "samedi",
               "fin": "samedi",
@@ -7032,10 +7028,10 @@
               }
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "13:30:00",
+                "début": "14:00:00",
                 "fin": "17:30:00"
               }
             },
@@ -7048,7 +7044,29 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
                   "fin": "17:30:00"
                 }
               ]
@@ -7069,7 +7087,7 @@
       "properties": {
         "id": "mairie-82169-01",
         "codeInsee": "82169",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Nicolas-de-la-Grave",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7088,8 +7106,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 95 92 55",
-          "Télécopie": "+33 5 63 95 97 50",
+          "Téléphone": "05 63 95 92 55",
+          "Télécopie": "05 63 95 97 50",
           "Email": "mairie-saintnicolas@info82.com",
           "Url": "http://www.ville-stnicolas82.fr"
         },
@@ -7123,7 +7141,7 @@
       "properties": {
         "id": "mairie-82022-01",
         "codeInsee": "82022",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bourg-de-Visa",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7138,7 +7156,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "DEM"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
@@ -7149,8 +7167,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -7163,8 +7181,8 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -7200,7 +7218,7 @@
       "properties": {
         "id": "mairie-82057-01",
         "codeInsee": "82057",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Fabas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7226,14 +7244,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -7263,13 +7273,12 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "10:00:00",
+                "début": "09:00:00",
                 "fin": "12:00:00"
-              },
-              "Note": "Permanence des élus uniquement."
+              }
             }
           ]
         }
@@ -7287,7 +7296,7 @@
       "properties": {
         "id": "mairie-82190-01",
         "codeInsee": "82190",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Verdun-sur-Garonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7306,13 +7315,21 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 02 50 36",
-          "Télécopie": "+33 5 63 64 38 43",
+          "Téléphone": "05 63 02 50 36",
+          "Télécopie": "05 63 64 38 43",
           "Email": "mairie-verdun.sur.garonne@info82.com",
           "Url": "http://www.verdun-sur-garonne.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "lundi",
               "fin": "mercredi",
@@ -7328,20 +7345,18 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "jeudi",
               "fin": "jeudi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
             },
             {
               "début": "vendredi",
@@ -7373,7 +7388,7 @@
       "properties": {
         "id": "mairie-82189-01",
         "codeInsee": "82189",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vazerac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7422,14 +7437,6 @@
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
@@ -7443,6 +7450,14 @@
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -7517,7 +7532,7 @@
       "properties": {
         "id": "mairie-82110-01",
         "codeInsee": "82110",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Mirabel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7571,13 +7586,13 @@
       "properties": {
         "id": "mairie-82055-01",
         "codeInsee": "82055",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Esparsac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": "Village",
           "CodePostal": "82500",
           "NomCommune": "Esparsac",
           "Localisation": {
@@ -7593,7 +7608,7 @@
           "Téléphone": "05 63 02 40 02",
           "Télécopie": "05 63 02 40 02",
           "Email": "mairie-esparsac@info82.com",
-          "Url": "http://esparsac.fr"
+          "Url": "http://www.esparsac.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -7637,7 +7652,7 @@
       "properties": {
         "id": "mairie-82180-01",
         "codeInsee": "82180",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Sérignac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7694,7 +7709,7 @@
       "properties": {
         "id": "mairie-82123-01",
         "codeInsee": "82123",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montbartier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7721,19 +7736,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mercredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -7752,7 +7767,7 @@
       "properties": {
         "id": "mairie-82103-01",
         "codeInsee": "82103",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Marignac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7777,6 +7792,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
@@ -7789,14 +7812,6 @@
                   "fin": "17:00:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
             }
           ]
         }
@@ -7814,7 +7829,7 @@
       "properties": {
         "id": "mairie-82195-01",
         "codeInsee": "82195",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villemade",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7834,18 +7849,17 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 03 34 09",
-          "Télécopie": "05 63 03 35 66",
           "Email": "mairie-villemade@info82.com",
           "Url": "http://www.villemade.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mercredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -7863,6 +7877,14 @@
               ]
             },
             {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
@@ -7875,14 +7897,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
             },
             {
               "début": "vendredi",
@@ -7914,7 +7928,7 @@
       "properties": {
         "id": "mairie-82132-01",
         "codeInsee": "82132",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montricoux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7992,7 +8006,7 @@
       "properties": {
         "id": "mairie-82089-01",
         "codeInsee": "82089",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lamagistère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8013,7 +8027,8 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 39 90 11",
           "Télécopie": "05 63 29 23 71",
-          "Email": "mairie-de-la-magistere@wanadoo.fr"
+          "Email": "mairie-de-la-magistere@wanadoo.fr",
+          "Url": "http://www.lamagistere.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -8083,7 +8098,7 @@
       "properties": {
         "id": "mairie-82006-01",
         "codeInsee": "82006",
-        "dateMiseAJour": "2014-09-23",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Auterive",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8096,11 +8111,13 @@
             "Latitude": "43.860725",
             "Longitude": "0.968394",
             "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 35 06",
-          "Télécopie": "+33 5 63 65 35 06",
+          "Téléphone": "05 63 65 35 06",
           "Email": "mairie-auterive@info82.com"
         },
         "Ouverture": {
@@ -8108,8 +8125,8 @@
             "début": "jeudi",
             "fin": "jeudi",
             "PlageH": {
-              "début": "14:00:00",
-              "fin": "19:00:00"
+              "début": "13:00:00",
+              "fin": "18:00:00"
             }
           }
         }
@@ -8127,7 +8144,7 @@
       "properties": {
         "id": "mairie-82137-01",
         "codeInsee": "82137",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Parisot",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8181,7 +8198,7 @@
       "properties": {
         "id": "mairie-82002-01",
         "codeInsee": "82002",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Albias",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8204,25 +8221,12 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 31 00 12",
-          "Télécopie": "05 63 28 22 15",
-          "Email": "mairie-albias@info82.com"
+          "Télécopie": "09 70 62 87 07",
+          "Email": "mairie-albias@info82.com",
+          "Url": "http://www.albias.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
             {
               "début": "samedi",
               "fin": "samedi",
@@ -8230,6 +8234,20 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }
@@ -8247,7 +8265,7 @@
       "properties": {
         "id": "mairie-82012-01",
         "codeInsee": "82012",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie des Barthes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8262,7 +8280,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "DEM"
           }
         },
         "CoordonnéesNum": {
@@ -8274,19 +8292,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -8305,7 +8323,7 @@
       "properties": {
         "id": "mairie-82062-01",
         "codeInsee": "82062",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Finhan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8336,7 +8354,7 @@
               "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "08:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -8358,11 +8376,11 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "08:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "13:00:00",
                   "fin": "17:00:00"
                 }
               ]
@@ -8399,7 +8417,7 @@
       "properties": {
         "id": "mairie-82060-01",
         "codeInsee": "82060",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Fauroux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8420,22 +8438,21 @@
         "CoordonnéesNum": {
           "Téléphone": "05 63 94 26 47",
           "Télécopie": "05 63 94 26 47",
-          "Email": "mairie-fauroux@info82.com",
-          "Url": "http://www.cdg82."
+          "Email": "mairie-fauroux@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:30:00"
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:30:00"
@@ -8465,7 +8482,7 @@
       "properties": {
         "id": "mairie-82122-01",
         "codeInsee": "82122",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montbarla",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8521,7 +8538,7 @@
       "properties": {
         "id": "mairie-82145-01",
         "codeInsee": "82145",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Puygaillard-de-Quercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8590,7 +8607,7 @@
       "properties": {
         "id": "mairie-82109-01",
         "codeInsee": "82109",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Merles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8617,14 +8634,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
@@ -8637,6 +8646,14 @@
                   "fin": "17:30:00"
                 }
               ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -8654,7 +8671,7 @@
       "properties": {
         "id": "mairie-82139-01",
         "codeInsee": "82139",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie du Pin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8681,19 +8698,19 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
               }
             }
           ]
@@ -8712,7 +8729,7 @@
       "properties": {
         "id": "mairie-82041-01",
         "codeInsee": "82041",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cazals",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8732,29 +8749,14 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 30 68 62",
-          "Email": "mairie-cazals@info82.com"
+          "Email": "mairie-cazals@info82.com",
+          "Url": "http://cazals82.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
               "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -8762,13 +8764,13 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "16:30:00"
+                  "fin": "18:30:00"
                 }
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "samedi",
+              "début": "mardi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -8790,7 +8792,7 @@
       "properties": {
         "id": "mairie-82034-01",
         "codeInsee": "82034",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castéra-Bouzet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8846,7 +8848,7 @@
       "properties": {
         "id": "mairie-82188-01",
         "codeInsee": "82188",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Varennes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8946,7 +8948,7 @@
       "properties": {
         "id": "mairie-82162-01",
         "codeInsee": "82162",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Georges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -8979,24 +8981,24 @@
               }
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "13:30:00",
                 "fin": "16:30:00"
               }
             },
             {
               "début": "jeudi",
               "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -9099,7 +9101,7 @@
       "properties": {
         "id": "mairie-82078-01",
         "codeInsee": "82078",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Labastide-de-Penne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9118,8 +9120,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 64 98 79",
-          "Télécopie": "+33 5 63 23 00 96",
+          "Téléphone": "05 63 64 98 79",
+          "Télécopie": "05 63 23 00 96",
           "Email": "mairie-labastide.de.penne@info82.com"
         },
         "Ouverture": {
@@ -9156,7 +9158,7 @@
       "properties": {
         "id": "mairie-82033-01",
         "codeInsee": "82033",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castelsarrasin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9184,31 +9186,20 @@
           "Url": "http://www.ville-castelsarrasin.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
                 "fin": "12:00:00"
               },
-              "Note": "Accueil ouvert uniquement pour l'état civil."
-            }
-          ]
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
         }
       }
     },
@@ -9224,7 +9215,7 @@
       "properties": {
         "id": "mairie-82072-01",
         "codeInsee": "82072",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Golfech",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9251,6 +9242,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "11:45:00"
+              }
+            },
+            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -9263,14 +9262,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "11:45:00"
-              }
             }
           ]
         }
@@ -9288,7 +9279,7 @@
       "properties": {
         "id": "mairie-82174-01",
         "codeInsee": "82174",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Vincent-d'Autéjac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9344,7 +9335,7 @@
       "properties": {
         "id": "mairie-82157-01",
         "codeInsee": "82157",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Beauzeil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9363,14 +9354,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 95 22 04",
-          "Télécopie": "+33 5 63 95 22 19",
+          "Téléphone": "05 63 95 22 04",
           "Email": "mairie-saint.beauzeil@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
@@ -9378,11 +9368,19 @@
               }
             },
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "13:30:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -9449,7 +9447,7 @@
       "properties": {
         "id": "mairie-82049-01",
         "codeInsee": "82049",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Donzac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9484,14 +9482,6 @@
               }
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
@@ -9504,6 +9494,14 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "samedi",
@@ -9588,7 +9586,7 @@
       "properties": {
         "id": "mairie-82059-01",
         "codeInsee": "82059",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Faudoas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9614,20 +9612,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
@@ -9648,6 +9632,20 @@
                 "début": "08:30:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -9665,7 +9663,7 @@
       "properties": {
         "id": "mairie-82138-01",
         "codeInsee": "82138",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Perville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9722,7 +9720,7 @@
       "properties": {
         "id": "mairie-82185-01",
         "codeInsee": "82185",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Valeilles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9741,23 +9739,23 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 95 24 35",
-          "Télécopie": "+33 5 63 95 24 35",
+          "Téléphone": "05 63 95 24 35",
+          "Télécopie": "05 63 95 24 35",
           "Email": "mairie-valeilles@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "08:45:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "08:45:00",
                 "fin": "12:00:00"
@@ -9779,7 +9777,7 @@
       "properties": {
         "id": "mairie-82099-01",
         "codeInsee": "82099",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lizac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9806,6 +9804,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
@@ -9826,14 +9832,6 @@
                   "fin": "19:00:00"
                 }
               ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
             }
           ]
         }
@@ -9851,7 +9849,7 @@
       "properties": {
         "id": "mairie-82148-01",
         "codeInsee": "82148",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Puylaroque",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9885,6 +9883,20 @@
               }
             },
             {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
@@ -9899,18 +9911,12 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -9928,7 +9934,7 @@
       "properties": {
         "id": "mairie-82171-01",
         "codeInsee": "82171",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Porquier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9948,7 +9954,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 68 72 71",
-          "Télécopie": "05 63 68 72 16",
           "Email": "mairie@saint-porquier.fr",
           "Url": "http://www.saint-porquier.fr"
         },
@@ -10014,13 +10019,13 @@
       "properties": {
         "id": "mairie-82001-01",
         "codeInsee": "82001",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Albefeuille-Lagarde",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "244, rue Paul-Roussel",
+          "Ligne": "244 rue Paul-Roussel",
           "CodePostal": "82290",
           "NomCommune": "Albefeuille-Lagarde",
           "Localisation": {
@@ -10033,8 +10038,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 67 45 11",
-          "Télécopie": "+33 5 63 67 59 28",
+          "Téléphone": "05 63 67 45 11",
+          "Télécopie": "05 63 67 59 28",
           "Email": "commune.albefeuillelagarde@wanadoo.fr"
         },
         "Ouverture": {
@@ -10054,32 +10059,12 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "jeudi",
@@ -10096,12 +10081,32 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -10119,7 +10124,7 @@
       "properties": {
         "id": "mairie-82064-01",
         "codeInsee": "82064",
-        "dateMiseAJour": "2013-05-15",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Gariès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10138,7 +10143,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 20 16",
+          "Téléphone": "05 63 65 20 16",
+          "Télécopie": "05 63 65 20 16",
           "Email": "mairie-garies@info82.com"
         },
         "Ouverture": {
@@ -10175,13 +10181,13 @@
       "properties": {
         "id": "mairie-82120-01",
         "codeInsee": "82120",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montastruc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2, route de Labade",
+          "Ligne": "2 route de Labade",
           "CodePostal": "82130",
           "NomCommune": "Montastruc",
           "Localisation": {
@@ -10190,13 +10196,14 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 65 90 13",
-          "Télécopie": "+33 5 63 65 90 13",
-          "Email": "com.montastruc@wanadoo.fr"
+          "Téléphone": "05 63 65 90 13",
+          "Télécopie": "05 63 65 90 13",
+          "Email": "com.montastruc@wanadoo.fr",
+          "Url": "http://www.montastruc82.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -10240,7 +10247,7 @@
       "properties": {
         "id": "mairie-82008-01",
         "codeInsee": "82008",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Auvillar",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10267,10 +10274,10 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "08:30:00",
+                "début": "08:00:00",
                 "fin": "12:00:00"
               }
             },
@@ -10279,7 +10286,7 @@
               "fin": "mercredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "08:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -10289,8 +10296,8 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "08:00:00",
                 "fin": "12:00:00"
@@ -10320,15 +10327,15 @@
       "properties": {
         "id": "mairie-82186-01",
         "codeInsee": "82186",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
-        "Nom": "Mairie de Valence",
+        "Nom": "Mairie de Valence-d'Agen",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "25 rue de la République",
           "CodePostal": "82400",
-          "NomCommune": "Valence",
+          "NomCommune": "Valence-d'Agen",
           "Localisation": {
             "Latitude": "44.108001709",
             "Longitude": "0.888140022755",
@@ -10339,8 +10346,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 29 66 66",
-          "Télécopie": "+33 5 63 39 00 75",
+          "Téléphone": "05 63 29 66 66",
+          "Télécopie": "05 63 39 00 75",
           "Email": "mairie@valencedagen.fr",
           "Url": "http://www.valencedagen.fr"
         },
@@ -10384,7 +10391,7 @@
       "properties": {
         "id": "mairie-82028-01",
         "codeInsee": "82028",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Canals",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10456,15 +10463,15 @@
       "properties": {
         "id": "mairie-82098-01",
         "codeInsee": "82098",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
-        "Nom": "Mairie de Léojac",
+        "Nom": "Mairie de Léojac-Bellegarde",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "55, lotissement Les Vergnous",
+          "Ligne": "55 lotissement Les Vergnous",
           "CodePostal": "82230",
-          "NomCommune": "Léojac",
+          "NomCommune": "Léojac-Bellegarde",
           "Localisation": {
             "Latitude": "44.0032997131",
             "Longitude": "1.44817996025",
@@ -10475,8 +10482,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 64 58 05",
-          "Télécopie": "+33 5 63 64 63 09",
+          "Téléphone": "05 63 64 58 05",
+          "Télécopie": "05 63 64 63 09",
           "Email": "mairie-leojac.bellegarde@info82.com"
         },
         "Ouverture": {
@@ -10484,20 +10491,6 @@
             {
               "début": "mardi",
               "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:00:00",
@@ -10524,6 +10517,20 @@
                 "début": "08:00:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -10541,7 +10548,7 @@
       "properties": {
         "id": "mairie-82007-01",
         "codeInsee": "82007",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Auty",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10568,8 +10575,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -10582,8 +10589,8 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -10611,7 +10618,7 @@
       "properties": {
         "id": "mairie-82118-01",
         "codeInsee": "82118",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montaïn",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10658,7 +10665,7 @@
       "properties": {
         "id": "mairie-82017-01",
         "codeInsee": "82017",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bessens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10673,7 +10680,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -10685,16 +10692,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -10707,8 +10706,16 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -10736,13 +10743,16 @@
       "properties": {
         "id": "mairie-82058-01",
         "codeInsee": "82058",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Fajolles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": [
+            "Le Bourg",
+            "131 rue de la Mairie"
+          ],
           "CodePostal": "82210",
           "NomCommune": "Fajolles",
           "Localisation": {
@@ -10792,7 +10802,7 @@
       "properties": {
         "id": "mairie-82076-01",
         "codeInsee": "82076",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de L'Honor-de-Cos",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10827,7 +10837,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:00:00",
+                  "début": "13:30:00",
                   "fin": "17:30:00"
                 }
               ]
@@ -10944,7 +10954,7 @@
       "properties": {
         "id": "mairie-82163-01",
         "codeInsee": "82163",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Jean-du-Bouzet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10991,15 +11001,15 @@
       "properties": {
         "id": "mairie-82176-01",
         "codeInsee": "82176",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-30",
         "pivotLocal": "mairie",
         "Nom": "Mairie de La Salvetat-Belmontet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Lieu-dit Les Estouards",
-            "51 route départementale 36 de Montclar-à-Fronton"
+            "51 route départementale 36 de Monclar-à-Fronton",
+            "Lieu-dit Les Estouards"
           ],
           "CodePostal": "82230",
           "NomCommune": "La Salvetat-Belmontet",
@@ -11113,7 +11123,7 @@
       "properties": {
         "id": "mairie-82090-01",
         "codeInsee": "82090",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lamothe-Capdeville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11140,15 +11150,15 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "lundi",
+              "début": "jeudi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -11160,6 +11170,28 @@
                   "fin": "16:00:00"
                 }
               ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -11177,7 +11209,7 @@
       "properties": {
         "id": "mairie-82083-01",
         "codeInsee": "82083",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lachapelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11197,24 +11229,25 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 94 06 70",
-          "Email": "mairie-lachapelle@info82.com"
+          "Email": "mairie-lachapelle@info82.com",
+          "Url": "http://www.lachapelle82.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -11233,7 +11266,7 @@
       "properties": {
         "id": "mairie-82035-01",
         "codeInsee": "82035",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Caumont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11303,7 +11336,7 @@
       "properties": {
         "id": "mairie-82018-01",
         "codeInsee": "82018",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bioule",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11318,7 +11351,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
@@ -11330,20 +11363,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "14:30:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -11352,8 +11371,8 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -11378,6 +11397,20 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "14:30:00"
+                }
+              ]
             }
           ]
         }
@@ -11395,7 +11428,7 @@
       "properties": {
         "id": "mairie-82178-01",
         "codeInsee": "82178",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Savenès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11422,22 +11455,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -11451,6 +11468,22 @@
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -11469,7 +11502,7 @@
       "properties": {
         "id": "mairie-82194-01",
         "codeInsee": "82194",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Villebrumier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11496,26 +11529,20 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "10:30:00"
+              }
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:30:00"
               }
-            },
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
             },
             {
               "début": "vendredi",
@@ -11532,12 +11559,18 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "10:30:00"
-              }
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -11628,7 +11661,7 @@
       "properties": {
         "id": "mairie-82105-01",
         "codeInsee": "82105",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Mas-Grenier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11679,7 +11712,7 @@
       "properties": {
         "id": "mairie-82086-01",
         "codeInsee": "82086",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lafitte",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11698,18 +11731,18 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 95 61 44",
-          "Télécopie": "+33 5 63 95 61 44",
+          "Téléphone": "05 63 95 61 44",
+          "Télécopie": "05 63 95 61 44",
           "Email": "mairie-lafitte@info82.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "14:30:00",
-                "fin": "19:00:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -11721,11 +11754,11 @@
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
+                "début": "14:30:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -11744,7 +11777,7 @@
       "properties": {
         "id": "mairie-82025-01",
         "codeInsee": "82025",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bressols",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11873,7 +11906,7 @@
       "properties": {
         "id": "mairie-82102-01",
         "codeInsee": "82102",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Mansonville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11930,7 +11963,7 @@
       "properties": {
         "id": "mairie-82149-01",
         "codeInsee": "82149",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Réalville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11977,14 +12010,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.874444,
-          43.955961
+          0.874480009079,
+          43.9559631348
         ]
       },
       "properties": {
         "id": "mairie-82009-01",
         "codeInsee": "82009",
-        "dateMiseAJour": "2017-06-28",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Balignac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11994,9 +12027,12 @@
           "CodePostal": "82120",
           "NomCommune": "Balignac",
           "Localisation": {
-            "Latitude": "43.955961",
-            "Longitude": "0.874444",
-            "Précision": "8"
+            "Latitude": "43.9559631348",
+            "Longitude": "0.874480009079",
+            "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -12008,8 +12044,8 @@
             "début": "lundi",
             "fin": "lundi",
             "PlageH": {
-              "début": "14:00:00",
-              "fin": "16:00:00"
+              "début": "10:00:00",
+              "fin": "12:00:00"
             }
           }
         }
@@ -12084,7 +12120,7 @@
       "properties": {
         "id": "mairie-82056-01",
         "codeInsee": "82056",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Espinas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12119,7 +12155,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:00:00",
+                  "début": "13:30:00",
                   "fin": "17:00:00"
                 }
               ]
@@ -12130,7 +12166,7 @@
               "PlageH": [
                 {
                   "début": "09:00:00",
-                  "fin": "12:00:00"
+                  "fin": "11:45:00"
                 },
                 {
                   "début": "13:00:00",
@@ -12234,13 +12270,16 @@
       "properties": {
         "id": "mairie-82131-01",
         "codeInsee": "82131",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montpezat-de-Quercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2 place de la Résistance",
+          "Ligne": [
+            "2 place de la Résistance",
+            "BP4"
+          ],
           "CodePostal": "82270",
           "NomCommune": "Montpezat-de-Quercy",
           "Localisation": {
@@ -12261,6 +12300,14 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
               "début": "mardi",
               "fin": "vendredi",
               "PlageH": [
@@ -12273,14 +12320,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
             },
             {
               "début": "samedi",
@@ -12306,7 +12345,7 @@
       "properties": {
         "id": "mairie-82179-01",
         "codeInsee": "82179",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Septfonds",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12334,31 +12373,20 @@
           "Url": "http://www.septfonds.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               },
-              "Note": "Accueil fermé en juillet-août."
-            }
-          ]
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
         }
       }
     },
@@ -12374,7 +12402,7 @@
       "properties": {
         "id": "mairie-82032-01",
         "codeInsee": "82032",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castelsagrat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12401,16 +12429,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "12:00:00",
                 "fin": "17:00:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "12:00:00",
                 "fin": "17:00:00"
@@ -12432,7 +12460,7 @@
       "properties": {
         "id": "mairie-82133-01",
         "codeInsee": "82133",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Mouillac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12488,7 +12516,7 @@
       "properties": {
         "id": "mairie-82108-01",
         "codeInsee": "82108",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Meauzac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12503,23 +12531,30 @@
             "Précision": "9"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "DEM"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 31 64 98",
           "Télécopie": "05 63 31 53 86",
-          "Email": "mairie-meauzac@info82.com"
+          "Email": "mairie-meauzac@info82.com",
+          "Url": "http://www.meauzac.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              }
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
             },
             {
               "début": "lundi",
@@ -12536,18 +12571,12 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
             }
           ]
         }
@@ -12614,14 +12643,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.022862,
-          43.826065
+          1.02262401581,
+          43.8351211548
         ]
       },
       "properties": {
         "id": "mairie-82053-01",
         "codeInsee": "82053",
-        "dateMiseAJour": "2017-07-07",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Escazeaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12631,21 +12660,30 @@
           "CodePostal": "82500",
           "NomCommune": "Escazeaux",
           "Localisation": {
-            "Latitude": "43.826065",
-            "Longitude": "1.022862",
-            "Précision": "8"
+            "Latitude": "43.8351211548",
+            "Longitude": "1.02262401581",
+            "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 63 02 37 52",
           "Télécopie": "05 63 02 37 52",
-          "Email": "mairie-escazeaux@info82.com"
+          "Email": "mairie-escazeaux@info82.com",
+          "Url": "http://coll82.com/escazeaux"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "13:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -12655,18 +12693,10 @@
                   "fin": "13:00:00"
                 },
                 {
-                  "début": "14:30:00",
+                  "début": "15:00:00",
                   "fin": "19:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "13:00:00"
-              }
             }
           ]
         }
@@ -12684,7 +12714,7 @@
       "properties": {
         "id": "mairie-82161-01",
         "codeInsee": "82161",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Étienne-de-Tulmont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12711,20 +12741,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "13:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
@@ -12735,6 +12751,20 @@
                 {
                   "début": "13:30:00",
                   "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
                 }
               ]
             }
@@ -12754,7 +12784,7 @@
       "properties": {
         "id": "mairie-82142-01",
         "codeInsee": "82142",
-        "dateMiseAJour": "2015-07-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Pompignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12773,29 +12803,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 67 30 76",
-          "Télécopie": "+33 5 63 64 49 75",
+          "Téléphone": "05 63 67 30 76",
+          "Télécopie": "05 63 64 49 75",
           "Email": "mairie-pompignan@info82.com",
           "Url": "http://www.ville-pompignan82.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -12831,6 +12845,22 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }
@@ -12848,7 +12878,7 @@
       "properties": {
         "id": "mairie-82164-01",
         "codeInsee": "82164",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Sainte-Juliette",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12912,7 +12942,7 @@
       "properties": {
         "id": "mairie-82052-01",
         "codeInsee": "82052",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Escatalens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12960,7 +12990,7 @@
       "properties": {
         "id": "mairie-82074-01",
         "codeInsee": "82074",
-        "dateMiseAJour": "2014-10-29",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Gramont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12979,8 +13009,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 63 94 09 88",
-          "Télécopie": "+33 5 63 94 09 88",
+          "Téléphone": "05 63 94 09 88",
+          "Télécopie": "05 63 94 09 88",
           "Email": "mairie-gramont@info82.com"
         },
         "Ouverture": {
@@ -13007,7 +13037,7 @@
       "properties": {
         "id": "mairie-82029-01",
         "codeInsee": "82029",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Castanet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13077,7 +13107,7 @@
       "properties": {
         "id": "mairie-82092-01",
         "codeInsee": "82092",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Lapenche",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13134,7 +13164,7 @@
       "properties": {
         "id": "mairie-82165-01",
         "codeInsee": "82165",
-        "dateMiseAJour": "2016-10-10",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Loup",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13169,6 +13199,20 @@
               }
             },
             {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": [
@@ -13189,20 +13233,6 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
             }
           ]
         }

@@ -99,6 +99,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.367972,
+          46.201646
+        ]
+      },
+      "properties": {
+        "id": "msap-17369-01",
+        "codeInsee": "17369",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Saint-Martin-de-Ré",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la République",
+          "CodePostal": "17410",
+          "NomCommune": "Saint-Martin-de-Ré",
+          "Localisation": {
+            "Latitude": "46.201646",
+            "Longitude": "-1.367972",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-martin-de-re-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.874215,
           46.270838
         ]
@@ -333,6 +365,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.079265,
+          45.946815
+        ]
+      },
+      "properties": {
+        "id": "msap-17484-01",
+        "codeInsee": "17484",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Port-des-Barques",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Square Guy Rivière",
+          "CodePostal": "17730",
+          "NomCommune": "Port-des-Barques",
+          "Localisation": {
+            "Latitude": "45.946815",
+            "Longitude": "-1.079265",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/port-des-barques-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ]
+          }
+        },
+        "Commentaire": "Sauf mercredi ouvert que le matin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.891423,
           45.944175
         ]
@@ -443,6 +524,119 @@
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.407903,
+          45.284014
+        ]
+      },
+      "properties": {
+        "id": "msap-17240-01",
+        "codeInsee": "17240",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Montendre",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue de la Garenne",
+          "CodePostal": "17130",
+          "NomCommune": "Montendre",
+          "Localisation": {
+            "Latitude": "45.284014",
+            "Longitude": "-0.407903",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 46 70 43 67",
+          "Email": "lam.montendre@wanadoo.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/montendre"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermeture le mardi matin"
+          }
+        },
+        "Commentaire": "Pendant les vacances scolaires : du lundi au vendredi de 9h à 13h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010853,
+          45.157977
+        ]
+      },
+      "properties": {
+        "id": "msap-17309-01",
+        "codeInsee": "17309",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Saint-Aigulin",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "70 rue Victor Hugo",
+          "CodePostal": "17360",
+          "NomCommune": "Saint-Aigulin",
+          "Localisation": {
+            "Latitude": "45.157977",
+            "Longitude": "-0.010853",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 46 04 97 62",
+          "Email": "msap.saint-aigulin@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-aigulin-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:30:00"
+                }
+              ],
+              "Note": "Fermeture à 16h15 le jeudi"
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     }

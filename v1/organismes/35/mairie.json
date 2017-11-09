@@ -25473,7 +25473,7 @@
       "properties": {
         "id": "mairie-35116-01",
         "codeInsee": "35116",
-        "dateMiseAJour": "2017-02-21",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de La Fresnais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -25496,8 +25496,8 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 99 58 74 97",
-          "Email": "accueil@mairie-la-fresnay.fr",
-          "Url": "http://www.la-fresnay.fr"
+          "Email": "accueil@mairie-la-fresnais.fr",
+          "Url": "www.la-fresnais.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -26712,7 +26712,7 @@
       "properties": {
         "id": "mairie-35238-01",
         "codeInsee": "35238",
-        "dateMiseAJour": "2017-09-04",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rennes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -26734,24 +26734,14 @@
           "Url": "http://www.metropole.rennes.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "12:00:00"
-              }
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
             }
-          ]
+          }
         }
       }
     },
