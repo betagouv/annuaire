@@ -484,6 +484,116 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.044418,
+          43.622202
+        ]
+      },
+      "properties": {
+        "id": "msap-06152-01",
+        "codeInsee": "06152",
+        "dateMiseAJour": "2017-10-27",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Valbonne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "rue de la Vigne Haute",
+          "CodePostal": "06560",
+          "NomCommune": "Valbonne",
+          "Localisation": {
+            "Latitude": "43.622202",
+            "Longitude": "7.044418",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Url": "https://www.maisondeservicesaupublic.fr/content/valbonne"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.302093,
+          43.736688
+        ]
+      },
+      "properties": {
+        "id": "msap-06088-02",
+        "codeInsee": "06088",
+        "dateMiseAJour": "2017-10-27",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - PIMMS Nice Côte d'Azur",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "23 avenue Emile Ripert",
+          "CodePostal": "06300",
+          "NomCommune": "Nice",
+          "Localisation": {
+            "Latitude": "43.736688",
+            "Longitude": "7.302093",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "09 83 95 25 65",
+          "Email": "dany.lance@pimms.org",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-nice-cote-dazur"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.592378,
           44.091151
         ]

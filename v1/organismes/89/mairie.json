@@ -19058,14 +19058,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.26618003845,
-          47.8490982056
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-89281-01",
         "codeInsee": "89281",
-        "dateMiseAJour": "2015-04-22",
+        "dateMiseAJour": "2017-10-17",
         "pivotLocal": "mairie",
         "Nom": "Mairie des Ormes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19074,38 +19074,33 @@
           "Ligne": "9 place de la Libération",
           "CodePostal": "89110",
           "NomCommune": "Les Ormes",
-          "Localisation": {
-            "Latitude": "47.8490982056",
-            "Longitude": "3.26618003845",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "DEM"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 86 73 63 63",
-          "Email": "mairie.lesormes89@orange.fr",
-          "Url": "http://www.lesormes89.fr"
+          "Téléphone": "03 86 73 63 63",
+          "Email": "mairie.lesormes89@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "11:00:00",
-                "fin": "13:00:00"
+                "début": "08:00:00",
+                "fin": "12:00:00"
               },
-              "Note": "Accueil ouvert seulement les semaines paires."
+              "Note": "secrétariat de 8 à 12 heures"
             },
             {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "12:00:00",
-                "fin": "14:00:00"
-              }
+                "début": "13:00:00",
+                "fin": "15:00:00"
+              },
+              "Note": "secrétariat de 9 à 12 heures"
             },
             {
               "début": "mercredi",
@@ -19114,7 +19109,7 @@
                 "début": "17:00:00",
                 "fin": "19:00:00"
               },
-              "Note": "Accueil ouvert seulement les semaines impaires."
+              "Note": "secrétariat de 15 à 19 heures"
             }
           ]
         }

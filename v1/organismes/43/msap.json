@@ -6,6 +6,88 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.95705,
+          45.357369
+        ]
+      },
+      "properties": {
+        "id": "msap-43212-01",
+        "codeInsee": "43212",
+        "dateMiseAJour": "2017-10-23",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Saint-Pal-de-Chalencon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Terrasse",
+          "CodePostal": "43500",
+          "NomCommune": "Saint-Pal-de-Chalencon",
+          "Localisation": {
+            "Latitude": "45.357369",
+            "Longitude": "3.95705",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 66 19 53",
+          "Email": "mairie@saint-pal-de-chalencon.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-pal-de-chalencon"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.302704,
           45.061401
         ]
@@ -184,6 +266,72 @@
         "CoordonnéesNum": {
           "Email": "msap.saugues@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/saugues-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.225281,
+          44.985704
+        ]
+      },
+      "properties": {
+        "id": "msap-43092-01",
+        "codeInsee": "43092",
+        "dateMiseAJour": "2017-10-23",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public (Bureau de Poste) - Fay-sur-Lignon",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place de la Croix",
+          "CodePostal": "43430",
+          "NomCommune": "Fay-sur-Lignon",
+          "Localisation": {
+            "Latitude": "44.985704",
+            "Longitude": "4.225281",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 71 59 50 28",
+          "Email": "msap.fay-sur-lignon@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/fay-sur-lignon-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },

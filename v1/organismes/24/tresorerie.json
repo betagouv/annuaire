@@ -1342,7 +1342,7 @@
       "properties": {
         "id": "tresorerie-24311-01",
         "codeInsee": "24311",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Nontron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1361,25 +1361,35 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 53 56 01 60",
+          "Téléphone": "05 53 56 01 60",
           "Email": "t024022@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "jeudi",
-            "PlageH": [
-              {
-                "début": "09:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
               }
-            ]
-          }
+            }
+          ]
         }
       }
     },
@@ -1395,7 +1405,7 @@
       "properties": {
         "id": "tresorerie-24035-01",
         "codeInsee": "24035",
-        "dateMiseAJour": "2015-04-27",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Belvès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1417,8 +1427,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 53 29 01 98",
-          "Télécopie": "+33 5 53 29 12 42",
+          "Téléphone": "05 53 29 01 98",
+          "Télécopie": "05 53 29 12 42",
           "Email": "t024002@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
@@ -1440,7 +1450,7 @@
             },
             {
               "début": "lundi",
-              "fin": "mardi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -1453,12 +1463,18 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:30:00"
-              }
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
             }
           ]
         }

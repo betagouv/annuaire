@@ -13,43 +13,43 @@
       "properties": {
         "id": "prefecture_region-97302-01",
         "codeInsee": "97302",
-        "dateMiseAJour": "2016-04-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "prefecture_region",
         "Nom": "Préfecture de région - Guyane",
         "EditeurSource": "la Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "rue Fiedmond",
-            "CodePostal": "97300",
-            "NomCommune": "Cayenne",
-            "Localisation": {
-              "Latitude": "4.941292",
-              "Longitude": "-52.335216",
-              "Précision": "8"
-            }
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Rue Fiedmond",
+            "BP 7008"
+          ],
+          "CodePostal": "97307",
+          "NomCommune": "Cayenne Cedex",
+          "Localisation": {
+            "Latitude": "4.941292",
+            "Longitude": "-52.335216",
+            "Précision": "8"
           },
-          {
-            "type": "postale",
-            "Ligne": [
-              "BP 7008",
-              "rue Fiedmond"
-            ],
-            "CodePostal": "97307",
-            "NomCommune": "Cayenne Cedex",
-            "Localisation": {
-              "Latitude": "4.941292",
-              "Longitude": "-52.335216",
-              "Précision": "8"
-            }
+          "Accessibilité": {
+            "type": "ACC"
           }
-        ],
+        },
         "CoordonnéesNum": {
           "Téléphone": "+594 5 94 39 45 00",
           "Télécopie": "+594 5 94 30 02 77",
           "Email": "http://www.guyane.pref.gouv.fr/Contactez-nous",
-          "Url": "http://www.guyane.pref.gouv.fr/",
-          "Sve": "https://contacts-demarches.interieur.gouv.fr/saisine-par-voie-electronique/saisine-par-voie-electronique/"
+          "Url": "http://www.guyane.pref.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "07:30:00",
+              "fin": "12:30:00"
+            },
+            "Note": "Accueil uniquement sur rendez-vous."
+          }
         }
       }
     }

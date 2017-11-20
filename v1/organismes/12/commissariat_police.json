@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 65 61 23 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 65 61 23 00"
+          },
           "Télécopie": "05 65 60 91 08",
           "Email": "ddsp12-csp-millau@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -86,10 +89,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 65 43 88 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 65 43 88 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -123,10 +128,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 65 77 73 17",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 65 77 73 17"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

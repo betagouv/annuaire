@@ -12,7 +12,7 @@
       },
       "properties": {
         "codeInsee": "71014",
-        "dateMiseAJour": "2017-07-19",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71014-01",
         "idPresta": "4cac9e60293594648a00041c",
         "pivotLocal": "permanence_juridique",
@@ -244,7 +244,7 @@
       },
       "properties": {
         "codeInsee": "71270",
-        "dateMiseAJour": "2017-07-19",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71270-01",
         "idPresta": "531d9272b473e47b8c682b3c",
         "pivotLocal": "permanence_juridique",
@@ -265,7 +265,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03-85-21-90-88 et 06-40-48-40-23",
+          "Téléphone": "+33 6 40 48 40 23",
           "Email": "mailto:adad.macon@orange.fr",
           "Sve": "http://www.justice.gouv.fr/sve"
         },
@@ -419,7 +419,7 @@
       },
       "properties": {
         "codeInsee": "71263",
-        "dateMiseAJour": "2017-07-19",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71263-01",
         "idPresta": "4cac9e60293594648a00042b",
         "pivotLocal": "permanence_juridique",
@@ -537,7 +537,7 @@
       },
       "properties": {
         "codeInsee": "71153",
-        "dateMiseAJour": "2017-03-09",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71153-01",
         "idPresta": "4cac9e60293594648a000429",
         "pivotLocal": "permanence_juridique",
@@ -565,6 +565,15 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "dimanche",
+              "PlageH": {
+                "début": "00:00:00",
+                "fin": "00:00:00"
+              },
+              "Note": "permanences d'accès au droit :"
+            },
+            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
@@ -580,7 +589,7 @@
                 "début": "00:00:00",
                 "fin": "00:00:00"
               },
-              "Note": "13 h 30 à 16 H 30 (sur rendez-vous)"
+              "Note": "13 h 30 à 16 H 30 (sur rendez-vous)\n\npermanence d'écrivains publics :\nles deuxième et quatrième jeudis du mois, de 9h à 12h (sur rendez-vous au 06.40.48.52.86)"
             }
           ]
         }
@@ -723,7 +732,7 @@
       },
       "properties": {
         "codeInsee": "71543",
-        "dateMiseAJour": "2017-07-04",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71543-01",
         "idPresta": "4cac9ed4293594648a00e94b",
         "pivotLocal": "permanence_juridique",
@@ -744,8 +753,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 6 40 48 52 86",
-          "Email": "mailto:adad-chalon@orange.fr",
+          "Téléphone": "+33 6 40 48 40 23",
+          "Email": "mailto:adad-macon@orange.fr",
           "Sve": "http://www.justice.gouv.fr/sve"
         },
         "Ouverture": {
@@ -791,7 +800,7 @@
       },
       "properties": {
         "codeInsee": "71306",
-        "dateMiseAJour": "2017-07-19",
+        "dateMiseAJour": "2017-10-06",
         "id": "permanence_juridique-71306-01",
         "idPresta": "4cac9e60293594648a00042d",
         "pivotLocal": "permanence_juridique",
@@ -834,15 +843,7 @@
                 "début": "00:00:00",
                 "fin": "00:00:00"
               },
-              "Note": "de 8 h 30 à 12 h (sur rendez-vous)\n\nPermanence d'écrivains publics :"
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "Note": "de 8 h 30 à 12 h (sur rendez-vous)\n\nPermanence d'écrivains publics :\nles premiers et troisième jeudis du mois, de 9h00 à 12h00 (sur rendez-vous au 06.40.48.52.86)"
             }
           ]
         }

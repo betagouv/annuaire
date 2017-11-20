@@ -13,7 +13,7 @@
       "properties": {
         "id": "cij-90010-01",
         "codeInsee": "90010",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Belfort",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -33,11 +33,19 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 84 90 11 11",
-          "Email": "bij.belfort@jeunes-fc.com",
+          "Email": "bij@mairie-belfort.fr",
           "Url": "http://www.ijbelfort.com"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "vendredi",
@@ -51,14 +59,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
             },
             {
               "début": "samedi",
@@ -77,99 +77,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.00464010239,
-          47.5079994202
-        ]
-      },
-      "properties": {
-        "id": "cij-90033-01",
-        "codeInsee": "90033",
-        "dateMiseAJour": "2009-10-02",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Delle",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "rue Joachim",
-              "Halle des Cinq Fontaines"
-            ],
-            "CodePostal": "90100",
-            "NomCommune": "DELLE",
-            "Localisation": {
-              "Latitude": "47.5079994202",
-              "Longitude": "7.00464010239",
-              "Précision": "6"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "place François Mitterand",
-              "Mairie"
-            ],
-            "CodePostal": "90100",
-            "NomCommune": "DELLE",
-            "Localisation": {
-              "Latitude": "47.5074996948",
-              "Longitude": "6.99783992767",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 84 36 27 96"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.8435041,
           47.7407421
         ]
@@ -177,7 +84,7 @@
       "properties": {
         "id": "cij-90052-01",
         "codeInsee": "90052",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Giromagny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -200,21 +107,10 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 84 29 03 90",
-          "Télécopie": "03 84 27 01 56",
-          "Email": "csgiro@wanadoo.fr",
-          "Url": "http://csgiro.pagesperso-orange.fr"
+          "Email": "csgiro@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil fermé pendant les vacances scolaires le samedi."
-            },
             {
               "début": "lundi",
               "fin": "vendredi",
@@ -228,6 +124,15 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil fermé pendant les vacances scolaires."
             }
           ]
         }

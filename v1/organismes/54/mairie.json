@@ -30568,66 +30568,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.94063901901,
-          48.805431366
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-54532-01",
         "codeInsee": "54532",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Tremblecourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "8 bis rue de la Mairie",
+          "Ligne": "8 rue de la Mairie",
           "CodePostal": "54385",
           "NomCommune": "Tremblecourt",
-          "Localisation": {
-            "Latitude": "48.805431366",
-            "Longitude": "5.94063901901",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "03 83 23 17 28",
-          "Email": "mairietremblecourt@wanadoo.fr",
+          "Email": "mairietremblecourt@ozone.net",
           "Url": "http://www.tremblecourt.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "08:45:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "14:00:00",
                   "fin": "19:00:00"
                 }
-              ],
-              "Note": "Permanence du maire de 17h à 19h."
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
             }
           ]
         }

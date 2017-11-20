@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 25 06 56 56",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 25 06 56 56"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -66,11 +68,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 25 03 85 50",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 25 03 85 50"
+          },
           "Email": "ddsp52@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

@@ -116,7 +116,7 @@
       },
       "properties": {
         "codeInsee": "21054",
-        "dateMiseAJour": "2014-06-09",
+        "dateMiseAJour": "2017-10-18",
         "id": "ti-21054-01",
         "idPresta": "4cac9e61293594648a000628",
         "pivotLocal": "ti",
@@ -128,7 +128,7 @@
             "2 rue du Tribunal",
             "BP 187"
           ],
-          "CodePostal": "21205",
+          "CodePostal": "21203",
           "NomCommune": "BEAUNE CEDEX",
           "Localisation": {
             "Latitude": "47.023336",
@@ -139,29 +139,20 @@
         "CoordonnéesNum": {
           "Téléphone": "+33 3 80 25 03 80",
           "Télécopie": "+33 3 80 25 03 81",
+          "Email": "mailto:ti-beaune@justice.fr",
           "Url": "http://www.justice.gouv.fr/",
           "Sve": "http://www.justice.gouv.fr/sve"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Fermé mardi toute la journée -"
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "dimanche",
+            "PlageH": {
+              "début": "00:00:00",
+              "fin": "00:00:00"
             },
-            {
-              "début": "mercredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
-              }
-            }
-          ]
+            "Note": "De 9h00 à 11h30 et de 14h00 à 16h30\nFermé le mercredi"
+          }
         }
       }
     }

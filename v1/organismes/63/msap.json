@@ -125,6 +125,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.85389,
+          45.833023
+        ]
+      },
+      "properties": {
+        "id": "msap-63285-01",
+        "codeInsee": "63285",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Pontgibaud",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "5 rue du frère Genestier",
+          "CodePostal": "63230",
+          "NomCommune": "Pontgibaud",
+          "Localisation": {
+            "Latitude": "45.833023",
+            "Longitude": "2.85389",
+            "Précision": "8"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.737652,
           45.549453
         ]
@@ -349,6 +378,80 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.558148,
+          45.647959
+        ]
+      },
+      "properties": {
+        "id": "msap-63048-01",
+        "codeInsee": "63048",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Bourg-Lastic",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "4 route de Tulle",
+          "CodePostal": "63760",
+          "NomCommune": "Bourg-Lastic",
+          "Localisation": {
+            "Latitude": "45.647959",
+            "Longitude": "2.558148",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 73 21 88 68",
+          "Email": "cte-com-sioulet@orange.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/bourg-lastic"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
             }
           ]
         }

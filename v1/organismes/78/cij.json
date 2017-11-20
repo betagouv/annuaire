@@ -6,62 +6,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1792457,
-          48.7869457
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78640-01",
         "codeInsee": "78640",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Vélizy-Villacoublay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "14, rue Marcel-Sembat",
+          "Ligne": "14 rue Marcel-Sembat",
           "CodePostal": "78140",
           "NomCommune": "Vélizy-Villacoublay",
-          "Localisation": {
-            "Latitude": "48.7869457",
-            "Longitude": "2.1792457",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 70 86 22",
+          "Téléphone": "01 34 58 12 28",
           "Email": "bij@velizy-villacoublay.fr",
           "Url": "http://www.velizy-villacoublay.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:30:00"
               }
-            },
-            {
-              "début": "lundi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:30:00"
-                }
-              ]
-            }
-          ]
-        }
+            ],
+            "Note": "Fermeture le jeudi matin"
+          }
+        },
+        "Commentaire": "Nocturne le mardi jusqu'à 20h\nFermeture le jeudi matin"
       }
     },
     {
@@ -76,7 +63,7 @@
       "properties": {
         "id": "cij-78423-01",
         "codeInsee": "78423",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Montigny-le-Bretonneux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -107,22 +94,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "20:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -135,7 +106,16 @@
                   "fin": "18:00:00"
                 }
               ],
-              "Note": "Accueil fermé les 3 premières semaines d'août ainsi que Noël et le jour de l'An."
+              "Note": "Accueil ouvert le lundi matin uniquement sur rendez-vous. Accueil fermé les 3 premières semaines d'août ainsi que Noël et le jour de l'An."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Accueil ouvert le mercredi de 9h30 à 13h uniquement sur rendez-vous."
             },
             {
               "début": "jeudi",
@@ -152,6 +132,14 @@
                 "début": "13:30:00",
                 "fin": "17:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "20:00:00"
+              }
             }
           ]
         }
@@ -162,145 +150,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.85740995407,
-          48.6479988098
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78517-02",
         "codeInsee": "78517",
-        "dateMiseAJour": "2006-05-19",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Rambouillet",
+        "Nom": "Bureau information jeunesse - Rambouillet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "La Clairière",
-            "11 place de l'Europe"
+            "32 rue Gambetta",
+            "MJC Centre Social"
           ],
           "CodePostal": "78120",
-          "NomCommune": "RAMBOUILLET",
-          "Localisation": {
-            "Latitude": "48.6479988098",
-            "Longitude": "1.85740995407",
-            "Précision": "8"
-          }
+          "NomCommune": "Rambouillet"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 41 00 34",
+          "Téléphone": "01 30 88 89 01",
+          "Email": "bij@mjc-rambouillet.asso.fr",
           "Url": "http://www.yij78.org"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": [
                 {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
                 },
                 {
                   "début": "14:00:00",
                   "fin": "18:00:00"
                 }
               ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.12190329999999,
-          48.8209044
-        ]
-      },
-      "properties": {
-        "id": "cij-78158-01",
-        "codeInsee": "78158",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Chesnay",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "37 rue Caruel-de-Saint-Martin",
-          "CodePostal": "78150",
-          "NomCommune": "Le Chesnay",
-          "Localisation": {
-            "Latitude": "48.8209044",
-            "Longitude": "2.12190329999999",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC",
-            "$t": "ascenseur"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "01 39 23 17 71",
-          "Email": "pij@lechesnay.fr",
-          "Url": "http://www.lechesnay.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
             },
             {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
+                "début": "15:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
               }
             },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
+                "début": "15:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -312,30 +224,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.91512000561,
-          48.9817008972
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78440-02",
         "codeInsee": "78440",
-        "dateMiseAJour": "2014-02-20",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Les Mureaux",
+        "Nom": "Bureau information jeunesse - Les Mureaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "12, rue Jean-Jacques-Rousseau",
+          "Ligne": "100 rue Paul-Doumer",
           "CodePostal": "78130",
-          "NomCommune": "Les Mureaux",
-          "Localisation": {
-            "Latitude": "48.9817008972",
-            "Longitude": "1.91512000561",
-            "Précision": "8"
-          }
+          "NomCommune": "Les Mureaux"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 34 74 17 82",
+          "Téléphone": "01 30 91 39 34",
           "Url": "http://www.mairie-lesmureaux.fr"
         },
         "Ouverture": {
@@ -343,27 +250,13 @@
             {
               "début": "lundi",
               "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
               "PlageH": {
-                "début": "13:30:00",
+                "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "mercredi",
+              "début": "mardi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -371,7 +264,7 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "18:00:00"
                 }
               ]
@@ -392,15 +285,15 @@
       "properties": {
         "id": "cij-78015-01",
         "codeInsee": "78015",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Andrésy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Centre Louise Weiss",
-            "57, avenue des Robaresses"
+            "Centre Louise-Weiss",
+            "57 avenue des Robaresses"
           ],
           "CodePostal": "78570",
           "NomCommune": "Andresy",
@@ -414,8 +307,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 74 78 32",
-          "Télécopie": "+33 1 39 70 65 67",
+          "Téléphone": "01 39 74 78 32",
+          "Télécopie": "01 39 70 65 67",
           "Email": "pij@andresy.com",
           "Url": "http://www.andresy.com"
         },
@@ -486,85 +379,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9619408,
-          48.7399237
-        ]
-      },
-      "properties": {
-        "id": "cij-78334-01",
-        "codeInsee": "78334",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Mesnil-Saint-Denis",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "1, rue Henri-Husson",
-          "CodePostal": "78320",
-          "NomCommune": "Le Mesnil-Saint-Denis",
-          "Localisation": {
-            "Latitude": "48.7399237",
-            "Longitude": "1.9619408",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 1 34 61 72 48",
-          "Email": "paij.mesnilstdenis@wanadoo.fr",
-          "Url": "http://www.lemesnilsaintdenis.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.188533,
           48.9196101
         ]
@@ -572,7 +386,7 @@
       "properties": {
         "id": "cij-78311-01",
         "codeInsee": "78311",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Houilles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -608,38 +422,14 @@
           "Url": "http://www.ville-houilles.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:30:00",
+              "fin": "18:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -655,13 +445,13 @@
       "properties": {
         "id": "cij-78005-02",
         "codeInsee": "78005",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Achères",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2, place Georges-Brassens",
+          "Ligne": "2 place Georges-Brassens",
           "CodePostal": "78260",
           "NomCommune": "Achères",
           "Localisation": {
@@ -674,75 +464,63 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 06 77 14",
-          "Télécopie": "+33 1 30 06 77 19",
-          "Email": "bij@mairie-acheres78.fr"
+          "Téléphone": "01 30 06 77 14",
+          "Télécopie": "01 30 06 77 19",
+          "Email": "bij@mairie-acheres78.fr",
+          "Url": "http://www.mairie-acheres78.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
                 },
                 {
                   "début": "16:00:00",
-                  "fin": "19:00:00"
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
                 }
               ]
             },
             {
               "début": "jeudi",
-              "fin": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
                 },
                 {
-                  "début": "16:00:00",
-                  "fin": "19:00:00"
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
                 }
-              ]
+              ],
+              "Note": "Accueil ouvert à 16h les 3 premiers jeudis du mois."
             }
           ]
         }
@@ -753,53 +531,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.74459004402,
-          48.9856987
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78335-01",
         "codeInsee": "78335",
-        "dateMiseAJour": "2006-06-14",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Limay",
+        "Nom": "Bureau information jeunesse - Limay",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "175 boulevard Wilson",
-            "Maison de la Jeunesse"
+            "8 Boulevard Adolphe Langlois",
+            "Espace Jeunes",
+            "Parc de la Roseraie"
           ],
           "CodePostal": "78520",
-          "NomCommune": "LIMAY",
-          "Localisation": {
-            "Latitude": "48.9856987",
-            "Longitude": "1.74459004402",
-            "Précision": "8"
-          }
+          "NomCommune": "Limay"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 92 03 59",
+          "Téléphone": "01 34 97 36 90",
+          "Email": "bij@ville-limay.fr",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -808,7 +569,21 @@
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "17:30:00"
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
                 }
               ]
             },
@@ -825,23 +600,10 @@
                   "fin": "18:30:00"
                 }
               ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ]
             }
           ]
-        }
+        },
+        "Commentaire": "Horaires pendant les vacances scolaires :\n                        Lundi : 13h30 -18h    \n                        Mardi : 9h30 - 12h30  et 13h30 - 18h  \n                        Mercredi : 9h30 - 12h30  et  13h30 - 18h30\n                        Jeudi : 14h-18h\n                        Vendredi : 9h30 - 12h30 et 15h - 18h"
       }
     },
     {
@@ -849,26 +611,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.92305099964,
-          48.9503059387
+          1.922979,
+          48.949746
         ]
       },
       "properties": {
         "id": "cij-78206-01",
         "codeInsee": "78206",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ecquevilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "7 place Henri-Deutsch-de-la-Meurthe",
+          "Ligne": "1 place Henri-Deutsch-de-la-Meurthe",
           "CodePostal": "78920",
           "NomCommune": "Ecquevilly",
           "Localisation": {
-            "Latitude": "48.9503059387",
-            "Longitude": "1.92305099964",
-            "Précision": "4"
+            "Latitude": "48.949746",
+            "Longitude": "1.922979",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -877,11 +639,47 @@
         "CoordonnéesNum": {
           "Téléphone": "01 34 75 01 01",
           "Télécopie": "01 34 75 94 44",
-          "Email": "info@ville-ecqueville.fr",
+          "Email": "info@ville-ecquevilly.fr",
           "Url": "http://www.ville-ecquevilly.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -903,42 +701,6 @@
                 "début": "16:00:00",
                 "fin": "18:00:00"
               }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "16:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "16:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
             }
           ]
         }
@@ -949,48 +711,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.00083994865,
-          48.8260993958
+          null,
+          null
         ]
       },
       "properties": {
-        "id": "cij-78674-01",
-        "codeInsee": "78674",
-        "dateMiseAJour": "2006-05-19",
+        "id": "cij-78624-01",
+        "codeInsee": "78624",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Villepreux",
+        "Nom": "Point information jeunesse - Triel-sur-Seine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "géopostale",
+          "type": "physique",
           "Ligne": [
-            "Villepreux Animation Loisirs",
-            "avenue du Mail"
+            "61 rue de Chanteloup",
+            "Maison des Jeunes"
           ],
-          "CodePostal": "78450",
-          "NomCommune": "VILLEPREUX",
-          "Localisation": {
-            "Latitude": "48.8260993958",
-            "Longitude": "2.00083994865",
-            "Précision": "6"
-          }
+          "CodePostal": "78510",
+          "NomCommune": "Triel sur Seine"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 56 40 06",
-          "Url": "http://www.cidj.com"
+          "Téléphone": "01 39 27 13 02",
+          "Télécopie": "01 39 70 22 22",
+          "Email": "service.jeunesse@triel.fr",
+          "Url": "http://www.mairie-triel78.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
+                "début": "10:00:00",
+                "fin": "19:00:00"
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "10:00:00",
@@ -1003,28 +762,40 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
             },
             {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -1035,115 +806,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.01586008072,
-          48.9777984619
-        ]
-      },
-      "properties": {
-        "id": "cij-78624-01",
-        "codeInsee": "78624",
-        "dateMiseAJour": "2006-06-14",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Triel-sur-Seine",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Espace Jeunes",
-              "Rue des Chatelaines"
-            ],
-            "CodePostal": "78510",
-            "NomCommune": "TRIEL SUR SEINE",
-            "Localisation": {
-              "Latitude": "48.9777984619",
-              "Longitude": "2.01586008072",
-              "Précision": "6"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": "Mairie - Kiosque Info Service",
-            "CodePostal": "78510",
-            "NomCommune": "TRIEL SUR SEINE",
-            "Localisation": {
-              "Latitude": "48.9819984436",
-              "Longitude": "2.00247502327",
-              "Précision": "4"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 70 33 48",
-          "Url": "http://www.mairie-triel78.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.09083008766,
-          49.0157012939
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78005-01",
         "codeInsee": "78005",
-        "dateMiseAJour": "2006-05-19",
+        "dateMiseAJour": "2017-10-18",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Achères",
+        "Nom": "Bureau information jeunesse - Achères",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Le bâteau Vivre",
-              "6 chemin d'Andrésy"
-            ],
-            "CodePostal": "78260",
-            "NomCommune": "ACHERES",
-            "Localisation": {
-              "Latitude": "49.0157012939",
-              "Longitude": "2.09083008766",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": "8 rue Deschamps Guérin",
-            "CodePostal": "78260",
-            "NomCommune": "ACHERES",
-            "Localisation": {
-              "Latitude": "48.961101532",
-              "Longitude": "2.06973004341",
-              "Précision": "8"
-            }
-          }
-        ],
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "2 Place Georges Brassens",
+          "CodePostal": "78260",
+          "NomCommune": "Achères"
+        },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 22 04 02",
+          "Téléphone": "01 30 06 77 14",
           "Url": "http://www.mairie-acheres.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -1159,45 +880,16 @@
               ]
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
             }
           ]
-        }
+        },
+        "Commentaire": "et de 16h à 18h les 3 premiers jeudis du mois\nde 14h à 18h les 4e et 5e jeudis du mois"
       }
     },
     {
@@ -1274,64 +966,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.03128004074,
-          48.9203987122
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78498-01",
         "codeInsee": "78498",
-        "dateMiseAJour": "2006-06-14",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Poissy",
+        "Nom": "Bureau information jeunesse - Poissy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "25 avenue du Maréchal Lyautey",
-            "Centre Social André Malraux"
-          ],
+          "Ligne": "13 Boulevard Victor Hugo",
           "CodePostal": "78300",
-          "NomCommune": "POISSY",
-          "Localisation": {
-            "Latitude": "48.9203987122",
-            "Longitude": "2.03128004074",
-            "Précision": "8"
-          }
+          "NomCommune": "Poissy"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 65 35 21",
+          "Téléphone": "01 39 22 56 57",
           "Url": "http://www.ville-poissy.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
               "début": "mardi",
-              "fin": "vendredi",
+              "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
+                  "début": "10:00:00",
+                  "fin": "12:30:00"
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "21:00:00"
+                  "fin": "18:30:00"
                 }
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "20:00:00"
-                }
-              ]
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
             }
           ]
         }
@@ -1349,7 +1035,7 @@
       "properties": {
         "id": "cij-78440-03",
         "codeInsee": "78440",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Les Mureaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1370,10 +1056,19 @@
         "CoordonnéesNum": {
           "Téléphone": "01 30 91 39 34",
           "Télécopie": "01 40 91 39 46",
-          "Email": "bij@mairie-lesmureaux.fr"
+          "Email": "bij@mairie-lesmureaux.fr",
+          "Url": "http://www.lesmureaux.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "vendredi",
@@ -1387,94 +1082,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.13216996193,
-          48.8039016724
-        ]
-      },
-      "properties": {
-        "id": "cij-78646-01",
-        "codeInsee": "78646",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Centre information jeunesse - Versailles",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Yvelines Information Jeunesse",
-            "2, place Charost"
-          ],
-          "CodePostal": "78000",
-          "NomCommune": "Versailles",
-          "Localisation": {
-            "Latitude": "48.8039016724",
-            "Longitude": "2.13216996193",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 50 22 52",
-          "Télécopie": "+33 1 39 51 00 96",
-          "Email": "information@yij78.org",
-          "Url": "http://www.yij78.org"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:30:00"
-              },
-              "Note": "Prise de rendez vous possible le matin de 10h à 12h30."
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:30:00"
-              },
-              "Note": "Prise de rendez vous possible le matin de 10h à 12h30."
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "12:30:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Prise de rendez vous possible le matin de 10h à 12h30."
             }
           ]
         }
@@ -1492,14 +1099,14 @@
       "properties": {
         "id": "cij-78643-01",
         "codeInsee": "78643",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Vernouillet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Espace des Résédas",
+            "Centre social des Résédas",
             "75 allée des Résédas"
           ],
           "CodePostal": "78540",
@@ -1519,110 +1126,42 @@
           "Email": "pij@mairie-vernouillet.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:30:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.874855,
-          48.852845
-        ]
-      },
-      "properties": {
-        "id": "cij-78062-01",
-        "codeInsee": "78062",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Beynes",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Anima Jeunes",
-              "Parc de Mortemai"
-            ],
-            "CodePostal": "78650",
-            "NomCommune": "Beynes",
-            "Localisation": {
-              "Latitude": "48.852845",
-              "Longitude": "1.874855",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Beynes",
-              "Place du 8-Mai-1945"
-            ],
-            "CodePostal": "78650",
-            "NomCommune": "Beynes"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "01 34 91 07 30",
-          "Télécopie": "01 34 91 07 32",
-          "Email": "animajeunes@beynes.fr",
-          "Url": "http://www.beynes.fr"
-        },
-        "Ouverture": {
           "PlageJ": [
             {
               "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              },
-              "Note": "Rendez-vous possible en dehors des heures d'ouverture."
-            },
-            {
-              "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Rendez-vous possible en dehors des heures d'ouverture."
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "20:00:00"
-              },
-              "Note": "Rendez-vous possible en dehors des heures d'ouverture."
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             },
             {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Rendez-vous possible en dehors des heures d'ouverture."
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -1633,36 +1172,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.7010135,
-          48.9929705
+          1.693126,
+          48.9951344
         ]
       },
       "properties": {
         "id": "cij-78361-01",
         "codeInsee": "78361",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Mantes-la-Jolie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Centre Sainte-Hélène",
-            "Boulevard Maréchal-Juin"
+            "Agora",
+            "Service initiatives jeunes",
+            "254 Boulevard du Maréchal-Juin"
           ],
           "CodePostal": "78200",
           "NomCommune": "Mantes-la-Jolie",
           "Localisation": {
-            "Latitude": "48.9929705",
-            "Longitude": "1.7010135",
+            "Latitude": "48.9951344",
+            "Longitude": "1.693126",
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "01 34 00 10 04",
+          "Télécopie": "01 34 00 10 09",
           "Email": "bij@manteslajolie.fr",
           "Url": "http://www.mairie-mantes-la-jolie.fr"
         },
@@ -1696,7 +1237,7 @@
       "properties": {
         "id": "cij-78517-01",
         "codeInsee": "78517",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Rambouillet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1704,7 +1245,8 @@
           "type": "géopostale",
           "Ligne": [
             "L'usine à chapeaux",
-            "Maison des jeunes et de la culture centre social",
+            "Maison des jeunes et de la culture",
+            "Centre social",
             "32 rue Gambetta"
           ],
           "CodePostal": "78120",
@@ -1721,36 +1263,11 @@
         "CoordonnéesNum": {
           "Téléphone": "01 30 88 89 01",
           "Télécopie": "01 30 88 89 03",
-          "Email": "bij@mjc-rambouillet.asso.fr",
-          "Url": "http://www.mjc-rambouillet.asso.fr"
+          "Email": "bij@usineachapeaux.fr",
+          "Url": "http://www.usineachapeaux.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              },
-              "Note": "Horaires pendant les congés scolaires du lundi au vendredi de 14h à 19h."
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            },
             {
               "début": "samedi",
               "fin": "samedi",
@@ -1764,54 +1281,6 @@
                   "fin": "18:00:00"
                 }
               ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.84829998016,
-          48.9094009399
-        ]
-      },
-      "properties": {
-        "id": "cij-78380-01",
-        "codeInsee": "78380",
-        "dateMiseAJour": "2006-06-14",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Maule",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "place des Galliens",
-            "Salle Molière Ancienne Mairie"
-          ],
-          "CodePostal": "78580",
-          "NomCommune": "MAULE",
-          "Localisation": {
-            "Latitude": "48.9094009399",
-            "Longitude": "1.84829998016",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 90 95 70",
-          "Url": "http://www.yij78.org"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
             },
             {
               "début": "mercredi",
@@ -1822,18 +1291,19 @@
               }
             },
             {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "19:00:00"
+              },
+              "Note": "Accueil ouvert du lundi au vendredi de 14h à 19h pendant les vacances scolaires."
+            },
+            {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
+                "début": "15:00:00",
                 "fin": "19:00:00"
               }
             }
@@ -1846,38 +1316,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99030005932,
-          48.8230018616
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78165-01",
         "codeInsee": "78165",
-        "dateMiseAJour": "2013-03-05",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Les Clayes-sous-Bois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Place Charles-de-Gaulle",
-            "Espace jeunes"
+            "1 rue Maurice Jouet",
+            "Cap ados"
           ],
           "CodePostal": "78340",
           "NomCommune": "Les Clayes-sous-Bois",
-          "Localisation": {
-            "Latitude": "48.8230018616",
-            "Longitude": "1.99030005932",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 56 40 80",
-          "Télécopie": "+33 1 30 56 40 87",
-          "Email": "espace.jeunes@lesclayessousbois.fr",
+          "Téléphone": "01 30 79 39 87",
+          "Télécopie": "01 30 79 39 89",
+          "Email": "pij@lesclayessousbois.fr",
           "Url": "http://www.ville-lesclayes78.fr"
         },
         "Ouverture": {
@@ -1903,7 +1368,7 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "19:00:00"
               }
             }
           ]
@@ -1922,7 +1387,7 @@
       "properties": {
         "id": "cij-78372-01",
         "codeInsee": "78372",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Marly-le-Roi",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1968,105 +1433,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.03718996048,
-          48.9031982422
-        ]
-      },
-      "properties": {
-        "id": "cij-78133-01",
-        "codeInsee": "78133",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Chambourcy",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Espace du Panorama",
-            "Chemin du Jeu-de-Boules"
-          ],
-          "CodePostal": "78240",
-          "NomCommune": "Chambourcy",
-          "Localisation": {
-            "Latitude": "48.9031982422",
-            "Longitude": "2.03718996048",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "01 30 06 21 51",
-          "Email": "paj@chambourcy.fr",
-          "Url": "http://www.chambourcy.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
-            "PlageH": {
-              "début": "14:00:00",
-              "fin": "19:00:00"
-            }
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.0062519,
-          48.7756886
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78621-01",
         "codeInsee": "78621",
-        "dateMiseAJour": "2009-09-08",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Trappes",
+        "Nom": "Bureau information jeunesse - Trappes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "16 bis, rue Gabriel Péri",
+          "Ligne": "16 bis rue Gabriel Péri",
           "CodePostal": "78190",
-          "NomCommune": "TRAPPES",
-          "Localisation": {
-            "Latitude": "48.7756886",
-            "Longitude": "2.0062519",
-            "Précision": "8"
-          }
+          "NomCommune": "Trappes"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 69 16 86",
+          "Téléphone": "01 30 16 24 99",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "19:30:00"
-                }
-              ]
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:30:00"
+              }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:30:00",
-                  "fin": "12:30:00"
+                  "fin": "12:15:00"
                 },
                 {
                   "début": "14:00:00",
@@ -2077,10 +1481,18 @@
             {
               "début": "mercredi",
               "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "09:30:00",
-                  "fin": "12:30:00"
+                  "fin": "12:15:00"
                 },
                 {
                   "début": "14:00:00",
@@ -2089,26 +1501,20 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }
@@ -2126,7 +1532,7 @@
       "properties": {
         "id": "cij-78208-01",
         "codeInsee": "78208",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Élancourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2146,28 +1552,21 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "01 30 66 45 11",
-          "Télécopie": "01 30 66 45 08",
-          "Email": "valerie.couet@ville-elancourt.fr",
+          "Email": "valerie.coue@ville-elancourt.fr",
           "Url": "http://www.ville-elancourt.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
             },
             {
-              "début": "lundi",
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -2185,85 +1584,22 @@
               "fin": "mercredi",
               "PlageH": {
                 "début": "13:30:00",
-                "fin": "19:30:00"
+                "fin": "19:00:00"
               }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "id": "cij-78383-01",
-        "codeInsee": "78383",
-        "dateMiseAJour": "2017-09-26",
-        "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Maurepas",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "physique",
-          "Ligne": "Rond-point Jean-Moulin",
-          "CodePostal": "78310",
-          "NomCommune": "Maurepas",
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "01 30 66 53 35",
-          "Email": "bij@maurepas.net",
-          "Url": "http://www.maurepas.net"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Horaires pendant les vacances scolaires 10h à 13h et 14h à 17h du lundi au vendredi"
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ],
-              "Note": "Horaires pendant les vacances scolaires 10h à 13h et 14h à 17h du lundi au vendredi"
             },
             {
               "début": "jeudi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Horaires pendant les vacances scolaires 10h à 13h et 14h à 17h du lundi au vendredi"
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -2281,7 +1617,7 @@
       "properties": {
         "id": "cij-78029-01",
         "codeInsee": "78029",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Aubergenville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2304,8 +1640,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "01 30 90 36 63",
-          "Télécopie": "01 30 90 36 63",
-          "Email": "omeziani@aubergenville.fr",
+          "Email": "mbozza@aubergenville.fr",
           "Url": "http://www.aubergenville.fr"
         },
         "Ouverture": {
@@ -2364,48 +1699,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.98378002644,
-          48.9726982117
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78643-02",
         "codeInsee": "78643",
-        "dateMiseAJour": "2011-09-02",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Vernouillet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "9 rue Paul Doumer",
-            "Mairie"
+            "75 allée des Résédas",
+            "Centre social les Résédas"
           ],
           "CodePostal": "78540",
-          "NomCommune": "VERNOUILLET",
-          "Localisation": {
-            "Latitude": "48.9726982117",
-            "Longitude": "1.98378002644",
-            "Précision": "8"
-          }
+          "NomCommune": "Vernouillet"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 71 56 00",
+          "Téléphone": "01 39 11 83 07",
+          "Email": "pij@mairie-vernouillet.fr",
           "Url": "http://www.mairiedevernouillet.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
                 }
               ]
             },
@@ -2434,7 +1779,7 @@
       "properties": {
         "id": "cij-78642-01",
         "codeInsee": "78642",
-        "dateMiseAJour": "2017-09-22",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Verneuil-sur-Seine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2448,7 +1793,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "01 39 71 01 33",
+          "Téléphone": "01 39 28 05 44",
           "Email": "verneuil.pij@wanadoo.fr",
           "Url": "http://www.cidj.com"
         },
@@ -2488,7 +1833,7 @@
             }
           ]
         },
-        "Commentaire": "lundi : uniquement sur rendez-vous\nVacances scolaires : du lundi au vendredi de 10h à 12h et de 14h à 18h 30."
+        "Commentaire": "lundi : uniquement sur rendez-vous\nVacances scolaires : du lundi au vendredi de 10h à 12h et de 14h à 18h."
       }
     },
     {
@@ -2496,41 +1841,61 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.04510998726,
-          48.8111000061
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-78242-01",
         "codeInsee": "78242",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-13",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Fontenay-le-Fleury",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "5 place du 8-Mai-1945",
+          "Ligne": [
+            "Espace Voltaire",
+            "5 place du 8-Mai-1945"
+          ],
           "CodePostal": "78330",
           "NomCommune": "Fontenay-le-Fleury",
-          "Localisation": {
-            "Latitude": "48.8111000061",
-            "Longitude": "2.04510998726",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "01 30 58 03 63",
+          "Téléphone": "01 30 14 15 25",
           "Email": "pij@fontenay-le-fleury.org",
           "Url": "http://www.fontenay-le-fleury.org"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "jeudi",
               "fin": "jeudi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "15:00:00",
                 "fin": "18:00:00"
@@ -2566,7 +1931,7 @@
       "properties": {
         "id": "cij-78455-01",
         "codeInsee": "78455",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Noisy-le-Roi",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2574,7 +1939,7 @@
           "type": "géopostale",
           "Ligne": [
             "Espace maison associative des jeunes",
-            "24, chemin du Cornouillier"
+            "24 chemin du Cornouillier"
           ],
           "CodePostal": "78590",
           "NomCommune": "Noisy-le-Roi",
@@ -2588,7 +1953,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 56 61 04",
+          "Téléphone": "01 30 56 61 04",
           "Email": "emaj78@gmail.com",
           "Url": "http://www.emaj78.com"
         },
@@ -2609,14 +1974,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          2.06853,
+          48.7705875
         ]
       },
       "properties": {
         "id": "cij-78297-01",
         "codeInsee": "78297",
-        "dateMiseAJour": "2017-09-26",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Guyancourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2625,6 +1990,11 @@
           "Ligne": "2 quater rue du Moulin",
           "CodePostal": "78280",
           "NomCommune": "Guyancourt",
+          "Localisation": {
+            "Latitude": "48.7705875",
+            "Longitude": "2.06853",
+            "Précision": "6"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -2647,20 +2017,22 @@
             {
               "début": "lundi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "13:00:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous le 1er samedi du mois."
             }
           ]
-        },
-        "Commentaire": "le 1er samedi du mois, sur rendez-vous de 10:00:00 à 13:00:00"
+        }
       }
     },
     {
@@ -2675,7 +2047,7 @@
       "properties": {
         "id": "cij-78267-01",
         "codeInsee": "78267",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Gargenville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2690,7 +2062,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "DEM"
           }
         },
         "CoordonnéesNum": {
@@ -2701,22 +2073,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -2730,6 +2086,22 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }

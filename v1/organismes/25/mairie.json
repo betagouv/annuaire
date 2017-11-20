@@ -2395,14 +2395,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.88290977478,
-          47.103099823
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25475-01",
         "codeInsee": "25475",
-        "dateMiseAJour": "2016-11-14",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Quingey",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2411,11 +2411,6 @@
           "Ligne": "Place d'Armes",
           "CodePostal": "25440",
           "NomCommune": "Quingey",
-          "Localisation": {
-            "Latitude": "47.103099823",
-            "Longitude": "5.88290977478",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -2427,21 +2422,53 @@
           "Url": "http://www.quingey.com"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
                 "début": "10:00:00",
                 "fin": "12:00:00"
-              },
-              {
-                "début": "15:30:00",
-                "fin": "17:30:00"
               }
-            ],
-            "Note": "Accueil sur rendez-vous pour les passeports biométriques du lundi au vendredi de 8h à 10h et de 13h30 à 15h30."
-          }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "11:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Accueil sur rendez-vous pour les passeports biométriques du lundi au vendredi de 8h à 10h et de 13h30 à 15h30."
+            }
+          ]
         }
       }
     },
@@ -7113,34 +7140,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.79848003387,
-          47.2878990173
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25510-01",
         "codeInsee": "25510",
-        "dateMiseAJour": "2013-02-27",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ruffey-le-Château",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, place de la Liberté",
+          "Ligne": "1 place de la Liberté",
           "CodePostal": "25170",
           "NomCommune": "Ruffey-le-Château",
-          "Localisation": {
-            "Latitude": "47.2878990173",
-            "Longitude": "5.79848003387",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 58 10 39",
-          "Télécopie": "+33 3 81 58 10 39",
+          "Téléphone": "03 81 58 10 39",
           "Email": "mairie.ruffey-le-chateau@wanadoo.fr"
         },
         "Ouverture": {
@@ -8385,31 +8406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.65787982941,
-          47.2613983154
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25589-01",
         "codeInsee": "25589",
-        "dateMiseAJour": "2007-12-03",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Vauclusotte",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "grande rue",
+          "Ligne": "2 Grande Rue",
           "CodePostal": "25380",
-          "NomCommune": "VAUCLUSOTTE",
-          "Localisation": {
-            "Latitude": "47.2613983154",
-            "Longitude": "6.65787982941",
-            "Précision": "6"
-          }
+          "NomCommune": "Vauclusotte"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 64 21 49",
-          "Télécopie": "+33 3 81 64 21 49",
+          "Téléphone": "03 81 64 21 49",
+          "Télécopie": "03 81 64 21 49",
           "Email": "mairie.vauclusotte@wanadoo.fr"
         },
         "Ouverture": {
@@ -8418,16 +8434,16 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "09:00:00",
+                "fin": "11:00:00"
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "09:00:00",
+                "fin": "11:00:00"
               }
             }
           ]
@@ -10245,14 +10261,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1794629,
-          47.4130963
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25065-01",
         "codeInsee": "25065",
-        "dateMiseAJour": "2013-01-10",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Blarians",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10261,23 +10277,18 @@
           "Ligne": "Rue Principale",
           "CodePostal": "25640",
           "NomCommune": "Blarians",
-          "Localisation": {
-            "Latitude": "47.4130963",
-            "Longitude": "6.1794629",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 81 86 13 25",
+          "Téléphone": "03 81 86 13 25",
           "Email": "sivom.chazelle@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "jeudi",
-            "fin": "jeudi",
+            "début": "lundi",
+            "fin": "lundi",
             "PlageH": {
               "début": "14:00:00",
               "fin": "15:00:00"
@@ -25140,14 +25151,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.93941020966,
-          47.5001983643
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-25040-01",
         "codeInsee": "25040",
-        "dateMiseAJour": "2016-11-14",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Badevel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -25156,11 +25167,6 @@
           "Ligne": "16 Grande rue",
           "CodePostal": "25490",
           "NomCommune": "Badevel",
-          "Localisation": {
-            "Latitude": "47.5001983643",
-            "Longitude": "6.93941020966",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
@@ -25173,15 +25179,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement le 1er samedi du mois."
-            },
             {
               "début": "mercredi",
               "fin": "mercredi",

@@ -32,11 +32,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 75 64 00 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 75 64 00 22"
+          },
           "Télécopie": "04 75 64 84 75",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -70,7 +72,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 75 89 22 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 75 89 22 22"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -122,11 +127,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 75 63 22 22",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 75 63 22 22"
+          },
           "Email": "ddsp07-csp.guilherand-Granges@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

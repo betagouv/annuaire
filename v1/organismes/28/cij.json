@@ -6,62 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.38490998745,
-          48.1818008423
-        ]
-      },
-      "properties": {
-        "id": "cij-28051-01",
-        "codeInsee": "28051",
-        "dateMiseAJour": "2006-03-29",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Bonneval",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "rue saint roch",
-            "Tour du Roi"
-          ],
-          "CodePostal": "28800",
-          "NomCommune": "BONNEVAL",
-          "Localisation": {
-            "Latitude": "48.1818008423",
-            "Longitude": "1.38490998745",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 37 47 58 25",
-          "Url": "http://www.informationjeunesse-centre.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.3458688,
           48.0763671
         ]
@@ -69,7 +13,7 @@
       "properties": {
         "id": "cij-28088-02",
         "codeInsee": "28088",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Châteaudun",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -87,8 +31,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC",
-            "$t": "rez-de-chaussée"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -126,13 +69,16 @@
       "properties": {
         "id": "cij-28088-01",
         "codeInsee": "28088",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Service vie scolaire jeunesse",
+        "Nom": "Jeunesse et sports - Châteaudun",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2, place du 18-Octobre",
+          "Ligne": [
+            "2 place du 18-Octobre",
+            "BP 80117"
+          ],
           "CodePostal": "28200",
           "NomCommune": "Châteaudun",
           "Localisation": {
@@ -145,26 +91,42 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 37 45 94 33",
-          "Télécopie": "+33 2 37 45 54 46",
-          "Email": "viescolaire-jeunesse@mairie-chateaudun.fr",
+          "Téléphone": "02 37 45 94 33",
+          "Télécopie": "02 37 45 54 46",
+          "Email": "jeunesse-sports@mairie-chateaudun.fr",
           "Url": "http://www.mairiechateaudun.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:15:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -180,7 +142,7 @@
       "properties": {
         "id": "cij-28214-01",
         "codeInsee": "28214",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - La Loupe",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -236,7 +198,7 @@
       "properties": {
         "id": "cij-28280-01",
         "codeInsee": "28280",
-        "dateMiseAJour": "2016-02-08",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Nogent-le-Rotrou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -255,164 +217,34 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 37 52 91 08",
+          "Téléphone": "02 37 52 91 08",
           "Email": "information.jeunesse@cc-perche.fr",
-          "Url": "http://www.informationjeunesse-centre.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "13:30:00",
-              "fin": "17:00:00"
-            }
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.1961457,
-          48.7693602
-        ]
-      },
-      "properties": {
-        "id": "cij-28348-01",
-        "codeInsee": "28348",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Saint-Lubin-des-Joncherets",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Maison des services",
-            "38, rue Charles-Renard"
-          ],
-          "CodePostal": "28350",
-          "NomCommune": "Saint-Lubin-des-Joncherets",
-          "Localisation": {
-            "Latitude": "48.7693602",
-            "Longitude": "1.1961457",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 32 58 15 70",
-          "Télécopie": "+33 2 32 58 42 66",
-          "Email": "coordinatrice.aej@fr.oleane.com",
-          "Url": "http://www.aejsaintlubin.over-blog.com"
+          "Url": "www.cc-perche.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.23948001862,
-          48.4491004944
-        ]
-      },
-      "properties": {
-        "id": "cij-28116-01",
-        "codeInsee": "28116",
-        "dateMiseAJour": "2006-03-29",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Courville sur Eure",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "rue Carnot",
-          "CodePostal": "28190",
-          "NomCommune": "COURVILLE SUR EURE",
-          "Localisation": {
-            "Latitude": "48.4491004944",
-            "Longitude": "1.23948001862",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 37 23 81 78",
-          "Url": "http://www.informationjeunesse-centre.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
+                "début": "13:30:00",
+                "fin": "17:15:00"
               }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
             },
             {
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
+                "début": "13:30:00",
+                "fin": "17:15:00"
               }
             }
           ]
@@ -431,47 +263,45 @@
       "properties": {
         "id": "cij-28085-01",
         "codeInsee": "28085",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Chartres",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Place de la Cathédrale",
-              "3 rue de l'Étroit-Degré"
-            ],
-            "CodePostal": "28000",
-            "NomCommune": "Chartres",
-            "Localisation": {
-              "Latitude": "44.4333465",
-              "Longitude": "-0.2083062",
-              "Précision": "8"
-            },
-            "Accessibilité": {
-              "type": "ACC",
-              "$t": "entrée par la place de la cathédrale"
-            }
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Place de la Cathédrale",
+            "3 rue de l'Étroit-Degré"
+          ],
+          "CodePostal": "28000",
+          "NomCommune": "Chartres",
+          "Localisation": {
+            "Latitude": "44.4333465",
+            "Longitude": "-0.2083062",
+            "Précision": "8"
           },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Chartres",
-              "Place des Halles"
-            ],
-            "CodePostal": "28019",
-            "NomCommune": "Chartres Cedex"
+          "Accessibilité": {
+            "type": "ACC",
+            "$t": "par l'entrée de la cathédrale"
           }
-        ],
+        },
         "CoordonnéesNum": {
           "Téléphone": "02 37 23 42 32",
           "Télécopie": "02 37 18 47 26",
           "Email": "bij.chartres@ijcentre.fr",
-          "Url": "http://www.chartres.fr/votre-mairie/bureau-information-jeunesse"
+          "Url": "http://www.chartres.frvotre-mairie/bureau-information-jeunesse"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              },
+              "Note": "Accueil ouvert uniquement le 4e samedi du mois."
+            },
             {
               "début": "lundi",
               "fin": "vendredi",
@@ -485,15 +315,6 @@
                   "fin": "17:15:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "16:30:00"
-              },
-              "Note": "Accueil ouvert uniquement le 4e samedi du mois."
             }
           ]
         }

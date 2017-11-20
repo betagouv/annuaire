@@ -14915,7 +14915,7 @@
       "properties": {
         "id": "mairie-49345-01",
         "codeInsee": "49345",
-        "dateMiseAJour": "2016-02-04",
+        "dateMiseAJour": "2017-10-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bellevigne-en-Layon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -14934,10 +14934,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 41 54 14 36",
-          "Télécopie": "+33 2 41 54 09 11",
-          "Email": "info@thouarce.fr",
-          "Url": "http://www.thouarce.fr"
+          "Téléphone": "02 41 54 14 36",
+          "Télécopie": "02 41 54 09 11",
+          "Email": "mairie@bellevigneenlayon.fr",
+          "Url": "http://www.bellevigneenlayon.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -14982,16 +14982,10 @@
             {
               "début": "jeudi",
               "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
             }
           ]
         },

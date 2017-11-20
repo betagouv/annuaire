@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+689 47 01 47",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "+689 47 01 47"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

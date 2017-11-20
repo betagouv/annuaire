@@ -13,24 +13,35 @@
       "properties": {
         "id": "paierie_departementale-18033-03",
         "codeInsee": "18033",
-        "dateMiseAJour": "2017-09-12",
+        "dateMiseAJour": "2017-10-18",
         "pivotLocal": "paierie_departementale",
         "Nom": "Paierie Départementale - Cher",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Place Ste Catherine",
-          "CodePostal": "18000",
-          "NomCommune": "Bourges",
-          "Localisation": {
-            "Latitude": "47.089224",
-            "Longitude": "2.395327",
-            "Précision": "8"
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Place Ste Catherine",
+            "CodePostal": "18000",
+            "NomCommune": "Bourges",
+            "Localisation": {
+              "Latitude": "47.089224",
+              "Longitude": "2.395327",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
           },
-          "Accessibilité": {
-            "type": "ACC"
+          {
+            "type": "postale",
+            "Ligne": [
+              "CS 21233",
+              "Place Ste Catherine"
+            ],
+            "CodePostal": "18022",
+            "NomCommune": "Bourges Cédex"
           }
-        },
+        ],
         "CoordonnéesNum": {
           "Téléphone": "02 48 23 90 50",
           "Email": "t018090@dgfip.finances.gouv.fr",

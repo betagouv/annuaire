@@ -9453,7 +9453,7 @@
       "properties": {
         "id": "mairie-14496-01",
         "codeInsee": "14496",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Périgny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9464,7 +9464,18 @@
           "NomCommune": "Périgny"
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 31 69 83 80"
+          "Téléphone": "02 31 09 31 28",
+          "Email": "mairie.perigny@nordnet.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:00:00"
+            }
+          }
         }
       }
     },
@@ -9795,14 +9806,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.524321973324,
-          49.2663993835
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14355-01",
         "codeInsee": "14355",
-        "dateMiseAJour": "2017-06-08",
+        "dateMiseAJour": "2017-10-17",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ponts sur Seulles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9811,18 +9822,13 @@
           "Ligne": "3 bis rue de l'Église",
           "CodePostal": "14480",
           "NomCommune": "Ponts sur Seulles",
-          "Localisation": {
-            "Latitude": "49.2663993835",
-            "Longitude": "-0.524321973324",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 31 80 16 20",
-          "Télécopie": "+33 2 31 73 01 17",
+          "Téléphone": "02 31 80 16 20",
+          "Télécopie": "02 31 73 01 17",
           "Email": "mairie.lantheuil@orange.fr",
           "Url": "http://lantheuil.jimdo.com"
         },
@@ -9830,9 +9836,25 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mardi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "10:30:00",
                 "fin": "12:00:00"
               }
             },
@@ -9840,7 +9862,7 @@
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
-                "début": "17:00:00",
+                "début": "16:00:00",
                 "fin": "19:00:00"
               }
             }
@@ -13354,7 +13376,7 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "16:00:00",
+                "début": "17:30:00",
                 "fin": "19:00:00"
               }
             }
@@ -23475,14 +23497,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.722414970398,
-          49.0118522644
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14579-02",
         "codeInsee": "14579",
-        "dateMiseAJour": "2017-06-19",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "mairie",
         "Nom": "Mairie déléguée de la Bigne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -23490,42 +23512,27 @@
           "type": "géopostale",
           "Ligne": [
             "La Bigne",
-            "Route Ondefontaine"
+            "Route d'Ondefontaine"
           ],
           "CodePostal": "14260",
           "NomCommune": "Seulline",
-          "Localisation": {
-            "Latitude": "49.0118522644",
-            "Longitude": "-0.722414970398",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 31 77 83 44",
+          "Téléphone": "02 31 77 83 44",
           "Email": "commune-la-bigne@orange.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "18:30:00",
-                "fin": "19:15:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "15:15:00"
-              }
+          "PlageJ": {
+            "début": "jeudi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
             }
-          ]
+          }
         },
         "Commentaire": "Le 1er janvier 2017, la commune nouvelle de Seulline est créée en lieu et place des communes de Seulline et de La Bigne (canton d'Aunay-sur-Odon, arrondissement de Vire)."
       }
@@ -25530,7 +25537,7 @@
       "properties": {
         "id": "mairie-14501-01",
         "codeInsee": "14501",
-        "dateMiseAJour": "2017-04-21",
+        "dateMiseAJour": "2017-10-26",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Pierrefitte-en-Cinglais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -25557,24 +25564,20 @@
           "Email": "commune.pierrefitte@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "mardi",
+            "PlageH": [
+              {
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              },
+              {
                 "début": "16:00:00",
                 "fin": "18:00:00"
               }
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -32373,33 +32376,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.500885009766,
-          49.0511016846
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14446-01",
         "codeInsee": "14446",
-        "dateMiseAJour": "2013-10-02",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montigny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "La Crête",
+          "Ligne": "La Crette",
           "CodePostal": "14210",
           "NomCommune": "Montigny",
-          "Localisation": {
-            "Latitude": "49.0511016846",
-            "Longitude": "-0.500885009766",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 31 39 07 22",
+          "Téléphone": "02 31 39 07 22",
           "Email": "mairie.montigny14@wanadoo.fr"
         },
         "Ouverture": {
@@ -32985,14 +32983,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.480619,
-          49.032727
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-14307-01",
         "codeInsee": "14307",
-        "dateMiseAJour": "2015-03-16",
+        "dateMiseAJour": "2017-10-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Goupillières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -33000,24 +32998,19 @@
           "type": "géopostale",
           "Ligne": "2 rue de l'Église",
           "CodePostal": "14210",
-          "NomCommune": "Goupillières",
-          "Localisation": {
-            "Latitude": "49.032727",
-            "Longitude": "-0.480619",
-            "Précision": "8"
-          }
+          "NomCommune": "Goupillières"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 31 79 44 98",
+          "Téléphone": "02 31 79 44 98",
           "Email": "mairie.goupillieres-14@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "samedi",
-            "fin": "samedi",
+            "début": "vendredi",
+            "fin": "vendredi",
             "PlageH": {
-              "début": "09:00:00",
-              "fin": "12:00:00"
+              "début": "17:00:00",
+              "fin": "19:00:00"
             }
           }
         }

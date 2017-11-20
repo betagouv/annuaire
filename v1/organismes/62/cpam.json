@@ -13,7 +13,7 @@
       "properties": {
         "id": "cpam-62767-01",
         "codeInsee": "62767",
-        "dateMiseAJour": "2017-09-19",
+        "dateMiseAJour": "2017-10-26",
         "pivotLocal": "cpam",
         "Nom": "Caisse primaire d'assurance maladie (CPAM) de l'Artois - accueil de Saint-Pol-sur-Ternoise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -48,14 +48,24 @@
           "Url": "https://www.ameli.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "jeudi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "12:15:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              }
             }
-          }
+          ]
         }
       }
     },

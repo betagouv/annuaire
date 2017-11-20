@@ -123,7 +123,7 @@
       "properties": {
         "id": "cij-44026-01",
         "codeInsee": "44026",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Carquefou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -143,25 +143,19 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 28 22 20 43",
-          "Email": "pij@mairie-carquefou.fr"
+          "Email": "pij@mairie-carquefou.fr",
+          "Url": "http://www.carquefou.frjeunesse"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "16:00:00",
                 "fin": "18:00:00"
-              }
+              },
+              "Note": "Horaires pendant les congés scolaires: lundi de 14h à 16h et mardi de 10h à 13h et de 14h à 16h."
             },
             {
               "début": "mercredi",
@@ -175,7 +169,17 @@
                   "début": "14:00:00",
                   "fin": "18:00:00"
                 }
-              ]
+              ],
+              "Note": "Horaires pendant les congés scolaires : lundi de mercredi de 14h à 16h."
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Horaires pendant les congés scolaires: jeudi de 10h à 13h et de 14h à 16h et vendredi de 14h à 16h."
             },
             {
               "début": "samedi",
@@ -201,52 +205,45 @@
       "properties": {
         "id": "cij-44109-05",
         "codeInsee": "44109",
-        "dateMiseAJour": "2011-10-13",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Nantes - antenne Nord",
+        "Nom": "Centre régional information jeunesse - Nantes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "37 rue Saint Léonard",
-            "Centre régional d'informations jeunesse"
-          ],
+          "Ligne": "37 rue Saint-Léonard",
           "CodePostal": "44000",
-          "NomCommune": "NANTES",
+          "NomCommune": "Nantes",
           "Localisation": {
             "Latitude": "47.2589639",
             "Longitude": "-1.5784715",
             "Précision": "9"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 76 50 52",
-          "Télécopie": "+33 2 40 20 16 88",
+          "Téléphone": "02 51 72 94 50",
           "Email": "crij@infos-jeunes.fr",
           "Url": "http://www.infos-jeunes.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                },
-                {
-                  "début": "10:00:00",
-                  "fin": "13:00:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
-              "fin": "samedi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -265,7 +262,7 @@
       "properties": {
         "id": "cij-44129-01",
         "codeInsee": "44129",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pontchâteau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -288,26 +285,12 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 40 01 66 18",
-          "Télécopie": "02 40 45 07 99",
+          "Télécopie": "02 40 01 64 29",
           "Email": "pij@cc-paysdepontchateau.fr",
           "Url": "http://www.infos-jeunes.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
             {
               "début": "vendredi",
               "fin": "vendredi",
@@ -319,6 +302,20 @@
                 {
                   "début": "14:00:00",
                   "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
                 }
               ]
             }
@@ -338,7 +335,7 @@
       "properties": {
         "id": "cij-44074-01",
         "codeInsee": "44074",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Indre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -346,7 +343,7 @@
           "type": "géopostale",
           "Ligne": [
             "Association des centres de loisirs éducatifs pour l'enfance et l'adolescence",
-            "Espace Pluriel",
+            "Le Tiers Lieu",
             "2 rue du Stade"
           ],
           "CodePostal": "44610",
@@ -362,11 +359,27 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 40 85 46 15",
-          "Email": "espacepluriel@acleea.fr",
+          "Email": "letierslieu@acleea.fr",
           "Url": "http://www.acleea.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
             {
               "début": "jeudi",
               "fin": "jeudi",
@@ -394,22 +407,6 @@
                   "fin": "19:00:00"
                 }
               ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
             }
           ]
         }
@@ -427,7 +424,7 @@
       "properties": {
         "id": "cij-44035-01",
         "codeInsee": "44035",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - La Chapelle-sur-Erdre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -499,7 +496,7 @@
       "properties": {
         "id": "cij-44103-01",
         "codeInsee": "44103",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Montoir-de-Bretagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -522,32 +519,30 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 40 45 11 92",
-          "Télécopie": "02 51 10 29 56",
           "Email": "pij@startair.fr",
           "Url": "http://www.startair.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              },
-              "Note": "Accueil ouvert pendant les vacances scolaires le mardi, jeudi et vendredi de 10h à 13h. Pendant les vacances d'été accueil sur rendez-vous uniquement."
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:00:00"
+              }
             },
             {
               "début": "samedi",
               "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "13:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
@@ -625,14 +620,14 @@
       "properties": {
         "id": "cij-44184-01",
         "codeInsee": "44184",
-        "dateMiseAJour": "2017-03-31",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Saint-Nazaire",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "25, boulevard Victor-Hugo",
+            "25 boulevard Victor-Hugo",
             "BP 407"
           ],
           "CodePostal": "44612",
@@ -647,8 +642,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 44 73 45 10",
-          "Télécopie": "+33 2 44 73 45 29",
+          "Téléphone": "02 44 73 45 10",
+          "Télécopie": "02 44 73 45 29",
           "Email": "cij@mairie-saintnazaire.fr",
           "Url": "http://www.cijstn.fr"
         },
@@ -780,7 +775,7 @@
       "properties": {
         "id": "cij-44143-01",
         "codeInsee": "44143",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Rezé",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1026,26 +1021,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7181784,
-          47.2306894
+          -1.7300302,
+          47.209758
         ]
       },
       "properties": {
         "id": "cij-44047-01",
         "codeInsee": "44047",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Service enfance jeunesse de Couëron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": [
           {
             "type": "physique",
-            "Ligne": "2 quai Jean-Pierre-Fougerat",
+            "Ligne": "95 quai Jean-Pierre-Fougerat",
             "CodePostal": "44220",
             "NomCommune": "Couëron",
             "Localisation": {
-              "Latitude": "47.2306894",
-              "Longitude": "-1.7181784",
+              "Latitude": "47.209758",
+              "Longitude": "-1.7300302",
               "Précision": "8"
             },
             "Accessibilité": {
@@ -1057,7 +1052,7 @@
             "Ligne": [
               "Mairie",
               "Service enfance jeunesse",
-              "Place Charles-de-Gaulle"
+              "8 place Charles-de-Gaulle"
             ],
             "CodePostal": "44220",
             "NomCommune": "Couëron"
@@ -1070,20 +1065,44 @@
           "Url": "http://www.ville-coueron.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
               }
-            ]
-          }
+            }
+          ]
         }
       }
     },
@@ -1314,13 +1333,13 @@
       "properties": {
         "id": "cij-44186-01",
         "codeInsee": "44186",
-        "dateMiseAJour": "2017-08-24",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Sainte-Pazanne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "physique",
-          "Ligne": "60-64 impasse de Vigneau",
+          "Ligne": "60-64 impasse du Vigneau",
           "CodePostal": "44680",
           "NomCommune": "Sainte-Pazanne",
           "Accessibilité": {
@@ -1334,15 +1353,15 @@
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "samedi",
+            "début": "mercredi",
+            "fin": "mercredi",
             "PlageH": {
-              "début": "09:00:00",
+              "début": "14:00:00",
               "fin": "17:00:00"
-            },
-            "Note": "Accueil ouvert uniquement sur rendez-vous 06 08 34 30 67, déménagement en janvier 2015."
+            }
           }
-        }
+        },
+        "Commentaire": "et les autres jours sur rendez-vous"
       }
     },
     {
@@ -1425,99 +1444,6 @@
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3767085,
-          47.7189249
-        ]
-      },
-      "properties": {
-        "id": "cij-44036-01",
-        "codeInsee": "44036",
-        "dateMiseAJour": "2013-03-05",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Châteaubriant",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Communauté de communes du Castelbriantais",
-              "Cybercentre",
-              "Place Saint-Nicolas"
-            ],
-            "CodePostal": "44110",
-            "NomCommune": "Châteaubriant",
-            "Localisation": {
-              "Latitude": "47.7189249",
-              "Longitude": "-1.3767085",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Communauté de communes du Castelbriantais",
-              "5, rue Gabriel-Delatour"
-            ],
-            "CodePostal": "44110",
-            "NomCommune": "Châteaubriant",
-            "Localisation": {
-              "Latitude": "47.7122437",
-              "Longitude": "-1.3740572",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 28 92 98",
-          "Email": "cybercentre.ccc@wanadoo.fr",
-          "Url": "http://www.cc-castelbriantais.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "18:45:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:45:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:45:00"
               }
             }
           ]
@@ -1687,7 +1613,7 @@
       "properties": {
         "id": "cij-44109-02",
         "codeInsee": "44109",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Nantes - Bellevue",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1717,37 +1643,35 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "15:00:00",
+                "début": "16:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:00:00",
                 "fin": "18:00:00"
               },
-              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 15h à 18h."
+              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 15h à 18h. Accueil sur rendez-vous du lundi au vendredi de 14h-16h."
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -1957,7 +1881,7 @@
       "properties": {
         "id": "cij-44161-01",
         "codeInsee": "44161",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Gildas-des-Bois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1980,6 +1904,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 40 01 66 18",
+          "Télécopie": "02 40 01 41 88",
           "Email": "cbiget@cc-paysdepontchateau.fr",
           "Url": "http://www.infos-jeunes.fr"
         },
@@ -1987,7 +1912,7 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -2029,7 +1954,7 @@
       "properties": {
         "id": "cij-44131-01",
         "codeInsee": "44131",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pornic",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2148,7 +2073,7 @@
       "properties": {
         "id": "cij-44109-04",
         "codeInsee": "44109",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Nantes - antenne Ouest",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2185,19 +2110,19 @@
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
               }
             },
             {

@@ -67,7 +67,7 @@
       "properties": {
         "id": "tresorerie-03048-01",
         "codeInsee": "03048",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-27",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Cérilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -101,7 +101,7 @@
                   "fin": "12:15:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "16:15:00"
                 }
               ]
@@ -115,18 +115,10 @@
                   "fin": "12:15:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "16:15:00"
                 }
               ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              }
             }
           ]
         }
@@ -387,7 +379,7 @@
       "properties": {
         "id": "tresorerie-03138-01",
         "codeInsee": "03138",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-27",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Lapalisse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -414,20 +406,14 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "11:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:45:00"
+              }
             },
             {
-              "début": "mardi",
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "08:30:00",

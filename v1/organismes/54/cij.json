@@ -6,58 +6,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.7399736,
-          48.4487846
+          6.739354,
+          48.443166
         ]
       },
       "properties": {
         "id": "cij-54039-01",
         "codeInsee": "54039",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Baccarat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "23, rue du Port",
-            "Espace loisirs"
-          ],
-          "CodePostal": "54120",
-          "NomCommune": "Baccarat",
-          "Localisation": {
-            "Latitude": "48.4487846",
-            "Longitude": "6.7399736",
-            "Précision": "6"
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "12 rue Émile-Gridel",
+            "CodePostal": "54120",
+            "NomCommune": "Baccarat",
+            "Localisation": {
+              "Latitude": "48.443166",
+              "Longitude": "6.739354",
+              "Précision": "8"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
           },
-          "Accessibilité": {
-            "type": "NAC"
+          {
+            "type": "postale",
+            "Ligne": [
+              "Espace Loisirs",
+              "13 rue du Port"
+            ],
+            "CodePostal": "54120",
+            "NomCommune": "Baccarat"
           }
-        },
+        ],
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 83 75 41 13",
+          "Téléphone": "03 83 75 41 13",
           "Email": "jeunesse@ccvc54.fr",
           "Url": "http://www.informationjeunesselorraine.org"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
+          "PlageJ": {
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "18:00:00"
             }
-          ]
+          }
         }
       }
     },
@@ -73,7 +71,7 @@
       "properties": {
         "id": "cij-54439-01",
         "codeInsee": "54439",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pulnoy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -101,20 +99,64 @@
           "Url": "http://www.pulnoy.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -130,7 +172,7 @@
       "properties": {
         "id": "cij-54205-01",
         "codeInsee": "54205",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Foug",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -276,14 +318,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.8782321,
-          49.1533663
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-54273-01",
         "codeInsee": "54273",
-        "dateMiseAJour": "2017-08-23",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Jarny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -294,44 +336,28 @@
             "Maison de la Jeunesse Concordia"
           ],
           "CodePostal": "54800",
-          "NomCommune": "Jarny",
-          "Localisation": {
-            "Latitude": "49.1533663",
-            "Longitude": "5.8782321",
-            "Précision": "6"
-          }
+          "NomCommune": "Jarny"
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 82 20 16 28",
+          "Téléphone": "03 82 33 27 20",
           "Email": "servicejeunesse.jarny@orange.fr",
           "Url": "http://www.servicejeunesse-jarny.fr/crbst_2.html"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "17:00:00"
+          "PlageJ": {
+            "début": "mardi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Sur rendez-vous les autres jours au 03 82 33 14 54"
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -347,14 +373,14 @@
       "properties": {
         "id": "cij-54304-01",
         "codeInsee": "54304",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Laxou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "15, rue du 8-Mai",
-          "CodePostal": "54526",
+          "Ligne": "15 rue du 8-Mai-1945",
+          "CodePostal": "54520",
           "NomCommune": "Laxou",
           "Localisation": {
             "Latitude": "48.6844162",
@@ -366,8 +392,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 83 90 54 88",
-          "Télécopie": "+33 3 83 41 12 24",
+          "Téléphone": "03 83 90 54 88",
+          "Télécopie": "03 83 41 12 24",
           "Email": "scj@laxou.fr",
           "Url": "http://www.informationjeunesselorraine.org"
         },
@@ -401,7 +427,7 @@
       "properties": {
         "id": "cij-54184-01",
         "codeInsee": "54184",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Service jeunesse d'Essey-lès-Nancy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -409,7 +435,7 @@
           "type": "géopostale",
           "Ligne": [
             "Maison des associations",
-            "Rue des Basses Ruelles"
+            "Rue des Basses-Ruelles"
           ],
           "CodePostal": "54270",
           "NomCommune": "Essey-lès-Nancy",
@@ -423,21 +449,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 83 29 01 73",
-          "Télécopie": "+33 3 83 12 13 57",
+          "Téléphone": "03 83 29 01 73",
+          "Télécopie": "03 83 12 13 57",
           "Email": "mairie@esseylesnancy.fr",
           "Url": "http://www.esseylesnancy.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -451,6 +469,14 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "jeudi",
@@ -617,7 +643,7 @@
       "properties": {
         "id": "cij-54498-01",
         "codeInsee": "54498",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Seichamps",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -646,38 +672,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "15:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
               "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "15:00:00",
                 "fin": "19:00:00"
@@ -687,7 +683,15 @@
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "15:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
                 "fin": "19:00:00"
               }
             }
@@ -823,54 +827,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9371539,
-          49.248233
+          5.9368839,
+          49.254422
         ]
       },
       "properties": {
         "id": "cij-54099-01",
         "codeInsee": "54099",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Kiosque information jeunesse - Briey",
+        "Nom": "Point information jeunesse - Briey",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Mairie de Briey",
-            "Place de l'Hôtel-de-Ville"
+            "Briey",
+            "Rue Olivier-Drouot"
           ],
           "CodePostal": "54150",
-          "NomCommune": "Briey",
+          "NomCommune": "Val-de-Briey",
           "Localisation": {
-            "Latitude": "49.248233",
-            "Longitude": "5.9371539",
-            "Précision": "6"
+            "Latitude": "49.254422",
+            "Longitude": "5.9368839",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 82 47 16 07",
-          "Email": "mdo@ville-briey.fr",
+          "Téléphone": "09 70 57 30 40",
+          "Email": "maryse.satta@valdebriey.fr",
           "Url": "http://www.ville-briey.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:30:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -1169,100 +1177,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1271606,
-          48.7629715
-        ]
-      },
-      "properties": {
-        "id": "cij-54215-01",
-        "codeInsee": "54215",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Frouard",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "K'ré Jeunes",
-              "1, rue du Capitaine-Marchal"
-            ],
-            "CodePostal": "54390",
-            "NomCommune": "Frouard",
-            "Localisation": {
-              "Latitude": "48.7629715",
-              "Longitude": "6.1271606",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie",
-              "Service enfance jeunesse",
-              "Rue de l'Hôtel-de-Ville"
-            ],
-            "CodePostal": "54390",
-            "NomCommune": "Frouard",
-            "Localisation": {
-              "Latitude": "48.7611406",
-              "Longitude": "6.1282359",
-              "Précision": "6"
-            }
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 9 53 63 12 16",
-          "Télécopie": "+33 3 83 24 70 81",
-          "Email": "pijdefrouard@yahoo.fr",
-          "Url": "http://www.mairiedefrouard.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.0607157,
           48.9067217
         ]
@@ -1270,7 +1184,7 @@
       "properties": {
         "id": "cij-54431-01",
         "codeInsee": "54431",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Pont-à-Mousson",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1293,27 +1207,23 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "03 83 81 17 91",
-          "Email": "cscles2rives.animation@orange.fr"
+          "Email": "les-2-rives@wanadoo.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -1329,7 +1239,7 @@
       "properties": {
         "id": "cij-54323-01",
         "codeInsee": "54323",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point jeunes de Longwy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1355,21 +1265,39 @@
               "Avenue de la Grande-Duchesse"
             ],
             "CodePostal": "54400",
-            "NomCommune": "Longwy",
-            "Localisation": {
-              "Latitude": "49.5145412",
-              "Longitude": "5.7681457",
-              "Précision": "6"
-            }
+            "NomCommune": "Longwy"
           }
         ],
         "CoordonnéesNum": {
           "Téléphone": "03 82 25 16 56",
-          "Email": "jeunesse@mairie-longwy.fr",
-          "Url": "http://www.informationjeunesselorraine.org"
+          "Email": "jeunesse@mairie-longwy.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "10:00:00",
+                "fin": "21:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "18:00:00"
+              }
+            },
             {
               "début": "jeudi",
               "fin": "jeudi",
@@ -1384,30 +1312,6 @@
               "PlageH": {
                 "début": "10:00:00",
                 "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "21:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "17:00:00"
               }
             }
           ]
@@ -1426,7 +1330,7 @@
       "properties": {
         "id": "cij-54578-01",
         "codeInsee": "54578",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Villers-lès-Nancy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1435,7 +1339,7 @@
           "Ligne": [
             "Association socio-culturelle",
             "Pôle action jeunesse",
-            "17 bis, rue du Haut-de-la-Taye"
+            "17 bis rue du Haut-de-la-Taye"
           ],
           "CodePostal": "54600",
           "NomCommune": "Villers-lès-Nancy",
@@ -1449,7 +1353,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 83 94 16 37",
+          "Téléphone": "03 83 94 16 37",
           "Email": "action.jeunesse@wanadoo.fr",
           "Url": "http://www.informationjeunesselorraine.org"
         },
@@ -1467,7 +1371,7 @@
                 "fin": "19:00:00"
               }
             ],
-            "Note": "Samedi uniquement sur rendez-vous."
+            "Note": "Accueil fermé pendant les vacances scolaires."
           }
         }
       }
@@ -1484,32 +1388,42 @@
       "properties": {
         "id": "cij-54280-01",
         "codeInsee": "54280",
-        "dateMiseAJour": "2009-08-14",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Kiosque Information Jeunesse - Joeuf",
+        "Nom": "Point information jeunesse - Joeuf",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "30 place de l'Hôtel de Ville",
-            "Service Jeunesse Mairie"
+            "Service jeunesse mairie",
+            "30 place de l'Hôtel-de-Ville"
           ],
           "CodePostal": "54240",
-          "NomCommune": "JOEUF",
+          "NomCommune": "Joeuf",
           "Localisation": {
             "Latitude": "49.2277543",
             "Longitude": "6.0061765",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 82 22 53 46",
-          "Télécopie": "+33 3 82 22 97 64",
-          "Email": "jeunesse@ville-joeuf.fr",
-          "Url": "http://www.ville-joeuf.fr/jeunesse"
+          "Téléphone": "03 82 20 77 14",
+          "Email": "animateurs.jeunesse@ville-joeuf.fr",
+          "Url": "http://www.ville-joeuf.frjeunesse"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
             {
               "début": "mercredi",
               "fin": "mercredi",
@@ -1519,18 +1433,10 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
+                  "début": "13:30:00",
                   "fin": "18:00:00"
                 }
               ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }

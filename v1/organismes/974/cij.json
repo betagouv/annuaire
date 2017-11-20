@@ -138,7 +138,7 @@
       "properties": {
         "id": "cij-97415-03",
         "codeInsee": "97415",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Salines-les-Hauts",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -160,8 +160,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+262 2 62 35 52 25",
-          "Email": "mio.salines@mio.re",
+          "Téléphone": "0262 35 52 25",
+          "Télécopie": "0262 32 20 74",
+          "Email": "mio.guillaume@mio.re",
           "Url": "http://crijreunion.pagesperso-orange.fr"
         },
         "Ouverture": {
@@ -205,14 +206,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.4120397,
-          -21.2881549
+          55.412745,
+          -21.289384
         ]
       },
       "properties": {
         "id": "cij-97414-02",
         "codeInsee": "97414",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Louis",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -220,41 +221,29 @@
           "type": "géopostale",
           "Ligne": [
             "Mission locale Sud",
-            "105-107 rue Sarda-Garriga"
+            "Cité des métiers",
+            "4 rue du Vieux-Moulin",
+            "1er étage"
           ],
           "CodePostal": "97450",
           "NomCommune": "Saint-Louis",
           "Localisation": {
-            "Latitude": "-21.2881549",
-            "Longitude": "55.4120397",
-            "Précision": "6"
+            "Latitude": "-21.289384",
+            "Longitude": "55.412745",
+            "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 62 26 28 29",
           "Télécopie": "02 62 26 85 71",
           "Email": "stlouis@missionlocalesud.com",
-          "Url": "http://www.cybdusud.jimdo.org"
+          "Url": "http://www.missionlocalesud.re"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -265,6 +254,20 @@
                 },
                 {
                   "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
                   "fin": "16:00:00"
                 }
               ]
@@ -285,15 +288,15 @@
       "properties": {
         "id": "cij-97407-02",
         "codeInsee": "97407",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Centre information jeunesse - Port",
+        "Nom": "Point information jeunesse - Port",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Espace jeunes Rivières-des-Galets",
-            "7 rue Maurice"
+            "Plateforme de la Rivières-des-Galets",
+            "7 rue Maurice-Thorez"
           ],
           "CodePostal": "97420",
           "NomCommune": "Le Port",
@@ -308,10 +311,28 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+262 2 62 43 10 42",
-          "Email": "mio.rdg@mio.re"
+          "Télécopie": "+262 2 62 42 44 82",
+          "Email": "mio.rdg@mio.re",
+          "Url": "http://www.mio.re"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "mardi",
               "fin": "jeudi",
@@ -325,22 +346,6 @@
                   "fin": "15:30:00"
                 }
               ]
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -358,7 +363,7 @@
       "properties": {
         "id": "cij-97407-01",
         "codeInsee": "97407",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Port",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -389,12 +394,20 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "08:00:00",
-                  "fin": "12:00:00"
+                  "fin": "11:30:00"
                 },
                 {
                   "début": "13:00:00",
@@ -403,11 +416,11 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
-                "début": "13:00:00",
-                "fin": "15:30:00"
+                "début": "08:00:00",
+                "fin": "11:30:00"
               }
             }
           ]
@@ -419,40 +432,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.290325,
-          -21.173677
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-97413-02",
         "codeInsee": "97413",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Saint-Leu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Bâtiment B",
-            "Le Foirail",
-            "Place Mario-Hoareau",
-            "Le Piton Saint-Leu"
-          ],
-          "CodePostal": "97424",
+          "Ligne": "271 rue du Général Lambert",
+          "CodePostal": "97436",
           "NomCommune": "Saint-Leu",
-          "Localisation": {
-            "Latitude": "-21.173677",
-            "Longitude": "55.290325",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 62 34 07 03",
-          "Télécopie": "+33 2 62 39 72 36",
-          "Email": "mio.pitonsaintleu@mio.eu"
+          "Téléphone": "0262 34 84 34",
+          "Télécopie": "0262 34 84 33",
+          "Email": "mio.saintleu@mio.re"
         },
         "Ouverture": {
           "PlageJ": [
@@ -567,7 +570,7 @@
       "properties": {
         "id": "cij-97410-01",
         "codeInsee": "97410",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Benoît",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -576,7 +579,7 @@
           "Ligne": [
             "Mairie",
             "Bourbier les Rails",
-            "4, route Nationale"
+            "4 route Nationale"
           ],
           "CodePostal": "97470",
           "NomCommune": "Saint-Benoît",
@@ -591,8 +594,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "+262 2 62 50 38 37",
-          "Télécopie": "+262 2 62 50 38 37",
-          "Email": "pijsaintbenoit@yahoo.fr"
+          "Email": "service-insertionsolidaire@ville-saintbenoit.re"
         },
         "Ouverture": {
           "PlageJ": [
@@ -609,7 +611,7 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "08:00:00",
-                "fin": "12:00:00"
+                "fin": "11:45:00"
               }
             }
           ]
@@ -628,7 +630,7 @@
       "properties": {
         "id": "cij-97412-01",
         "codeInsee": "97412",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Joseph",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -653,7 +655,7 @@
           "Téléphone": "02 62 56 57 42",
           "Télécopie": "02 62 56 25 60",
           "Email": "stjoseph@missionlocalesud.com",
-          "Url": "http://www.cybdusud.jimdo.com"
+          "Url": "http://missionlocalesud.re"
         },
         "Ouverture": {
           "PlageJ": [
@@ -701,7 +703,7 @@
       "properties": {
         "id": "cij-97416-02",
         "codeInsee": "97416",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Saint-Pierre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -720,23 +722,34 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+262 2 62 25 77 20",
+          "Téléphone": "02 62 25 77 20",
+          "Télécopie": "02 62 35 25 16",
           "Email": "stpierre@missionlocalesud.com",
-          "Url": "http://cybdusud.jimdo.org"
+          "Url": "http://www.missionlocalesud.re"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "07:45:00",
-              "fin": "16:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "07:45:00",
+                "fin": "16:00:00"
+              }
             }
-          }
+          ]
         }
       }
     },
@@ -812,28 +825,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          3.0703386,
+          50.6117044
         ]
       },
       "properties": {
         "id": "cij-97418-01",
         "codeInsee": "97418",
-        "dateMiseAJour": "2011-10-13",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Sainte-Marie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "16 rue Auguste Panon",
-            "Mission locale Nord antenne de Saint Marie"
+            "Mission locale nord antenne de Sainte-Marie",
+            "16 rue Auguste-Panon"
           ],
           "CodePostal": "97438",
-          "NomCommune": "STE MARIE"
+          "NomCommune": "Sainte-Marie",
+          "Localisation": {
+            "Latitude": "50.6117044",
+            "Longitude": "3.0703386",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
         },
         "CoordonnéesNum": {
           "Téléphone": "+262 2 62 53 07 00",
+          "Télécopie": "+262 2 62 53 17 99",
           "Url": "http://www.mln974.fr"
         },
         "Ouverture": {
@@ -870,7 +892,7 @@
       "properties": {
         "id": "cij-97415-01",
         "codeInsee": "97415",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plateau-Caillou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -889,8 +911,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 62 55 80 62",
-          "Télécopie": "02 62 55 80 63",
+          "Téléphone": "0262 55 80 62",
+          "Télécopie": "0262 55 80 63",
           "Email": "mio.plateaucaillou@mio.re"
         },
         "Ouverture": {
@@ -941,17 +963,13 @@
       "properties": {
         "id": "cij-97421-02",
         "codeInsee": "97421",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-31",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Salazie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Espace accueil insertion",
-            "Ancienne école maternelle",
-            "16 route Bois-de-Pomme"
-          ],
+          "Ligne": "10 route Bois-de-Pomme",
           "CodePostal": "97433",
           "NomCommune": "Salazie",
           "Localisation": {
@@ -1003,7 +1021,7 @@
       "properties": {
         "id": "cij-97413-01",
         "codeInsee": "97413",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Saint-Leu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1024,7 +1042,7 @@
         "CoordonnéesNum": {
           "Téléphone": "+262 2 62 54 85 41",
           "Télécopie": "+262 2 62 54 88 99",
-          "Email": "platteformeservicechaloupe@mairie-saintleu.fr"
+          "Email": "PlateformeServiceChaloupe@mairie-saintleu.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -1143,9 +1161,9 @@
       "properties": {
         "id": "cij-97422-01",
         "codeInsee": "97422",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Centre information jeunesse - Tampon",
+        "Nom": "Point information jeunesse - Tampon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -1165,24 +1183,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+262 2 62 27 04 63"
+          "Téléphone": "+262 2 62 27 04 63",
+          "Télécopie": "+262 2 62 27 12 36",
+          "Email": "letampon@missionlocalesud.com",
+          "Url": "http://missionlocalesud.re"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "07:45:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
             {
               "début": "mardi",
               "fin": "vendredi",
@@ -1193,6 +1200,20 @@
                 },
                 {
                   "début": "12:45:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "07:45:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
                   "fin": "16:00:00"
                 }
               ]
@@ -1213,7 +1234,7 @@
       "properties": {
         "id": "cij-97402-01",
         "codeInsee": "97402",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bras-Panon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1243,14 +1264,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "jeudi",
               "PlageH": [
@@ -1263,6 +1276,14 @@
                   "fin": "16:30:00"
                 }
               ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }

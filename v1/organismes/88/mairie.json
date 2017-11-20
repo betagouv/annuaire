@@ -4223,7 +4223,7 @@
       "properties": {
         "id": "mairie-88529-01",
         "codeInsee": "88529",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Xaronval",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6435,14 +6435,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.15889883041,
-          48.2056922913
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-88047-01",
         "codeInsee": "88047",
-        "dateMiseAJour": "2017-06-13",
+        "dateMiseAJour": "2017-10-25",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Begnécourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6451,11 +6451,6 @@
           "Ligne": "2 Grande rue",
           "CodePostal": "88270",
           "NomCommune": "Begnécourt",
-          "Localisation": {
-            "Latitude": "48.2056922913",
-            "Longitude": "6.15889883041",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -6467,27 +6462,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:30:00",
-                "fin": "11:30:00"
-              }
-            },
-            {
               "début": "lundi",
-              "fin": "lundi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "09:30:00",
-                "fin": "11:30:00"
+                "début": "15:00:00",
+                "fin": "17:00:00"
               }
             },
             {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
-                "début": "10:00:00",
-                "fin": "11:30:00"
+                "début": "09:30:00",
+                "fin": "11:00:00"
               },
               "Note": "Permanence des élus uniquement."
             }

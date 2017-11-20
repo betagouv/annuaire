@@ -15,7 +15,7 @@
         "codeInsee": "13213",
         "dateMiseAJour": "2016-12-19",
         "pivotLocal": "greta",
-        "Nom": "Greta de Marseille - Méditerranée",
+        "Nom": "Greta - Marseille Méditerranée",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -72,7 +72,7 @@
         "codeInsee": "13215",
         "dateMiseAJour": "2014-12-04",
         "pivotLocal": "greta",
-        "Nom": "Greta de Marseille-Littoral",
+        "Nom": "Greta - Marseille Littoral",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -180,7 +180,7 @@
         "codeInsee": "13001",
         "dateMiseAJour": "2017-09-29",
         "pivotLocal": "greta",
-        "Nom": "Greta du Pays d'Aix",
+        "Nom": "Greta - Pays d'Aix",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -348,63 +348,6 @@
               }
             }
           ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.4431925,
-          43.173225
-        ]
-      },
-      "properties": {
-        "id": "greta-13208-01",
-        "codeInsee": "13208",
-        "dateMiseAJour": "2016-12-19",
-        "pivotLocal": "greta",
-        "Nom": "Greta de Marseille - Méditerranée",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Lycée Jean-Perrin",
-            "74 rue Verdillon"
-          ],
-          "CodePostal": "13010",
-          "NomCommune": "Marseille",
-          "Localisation": {
-            "Latitude": "43.173225",
-            "Longitude": "5.4431925",
-            "Précision": "8"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "04 91 96 35 30",
-          "Télécopie": "04 91 74 01 03",
-          "Email": "gmm@ac-aix-marseille.fr",
-          "Url": "http://www.gretanet.com"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            ]
-          }
         }
       }
     }

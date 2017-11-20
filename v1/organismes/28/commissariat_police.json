@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 37 65 84 10",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 37 65 84 10"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -87,7 +90,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 37 64 29 53",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 37 64 29 53"
+          },
           "Télécopie": "02 37 42 50 90",
           "Email": "said.louzi@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -141,10 +147,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 37 24 75 39",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 37 24 75 39"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -175,10 +183,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 37 46 37 23",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 37 46 37 23"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

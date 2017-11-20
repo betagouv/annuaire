@@ -6,159 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6580472,
-          47.3882722
-        ]
-      },
-      "properties": {
-        "id": "cij-37195-01",
-        "codeInsee": "37195",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - La Riche",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Centre social Équinoxe",
-            "Place du Maréchal-Leclerc"
-          ],
-          "CodePostal": "37520",
-          "NomCommune": "La Riche",
-          "Localisation": {
-            "Latitude": "47.3882722",
-            "Longitude": "0.6580472",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "02 47 37 58 88",
-          "Télécopie": "02 47 37 58 59",
-          "Email": "equinoxe@ville-lariche.fr",
-          "Url": "http://www.ville-lariche.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.7241157,
-          47.3944764
-        ]
-      },
-      "properties": {
-        "id": "cij-37233-01",
-        "codeInsee": "37233",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Saint-Pierre-des-Corps",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Maison de l'Aubrière",
-              "Rue de l'Aubrière"
-            ],
-            "CodePostal": "37700",
-            "NomCommune": "Saint-Pierre-des-Corps",
-            "Localisation": {
-              "Latitude": "47.3944764",
-              "Longitude": "0.7241157",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Mairie de Saint-Pierre-des-Corps",
-              "BP 357"
-            ],
-            "CodePostal": "37703",
-            "NomCommune": "Saint-Pierre-des-Corps"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 44 39 16",
-          "Télécopie": "+33 2 47 44 17 96",
-          "Email": "fmj@mairie-stpierredescorps.fr",
-          "Url": "http://www.informationjeunesse-centre.fr"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.6762709,
           47.3935442
         ]
@@ -166,16 +13,13 @@
       "properties": {
         "id": "cij-37261-05",
         "codeInsee": "37261",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-07",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Tours - Courteline",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Le Bocal Jeune",
-            "42 rue Georges-Courteline"
-          ],
+          "Ligne": "59 boulevard Preuilly",
           "CodePostal": "37000",
           "NomCommune": "Tours",
           "Localisation": {
@@ -188,32 +32,26 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 47 76 02 67",
-          "Télécopie": "02 47 38 13 45",
-          "Email": "jeunesse@courteline.fr",
-          "Url": "http://www.informationjeunesse-centre.fr"
+          "Téléphone": "02 47 37 99 94",
+          "Email": "actionsociale@courteline.fr",
+          "Url": "www.courteline.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               },
-              "Note": "Accès en auto-documentation ou accompagné d'un animateur. Horaire uniquement pendant les vacances scolaires."
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
+              {
                 "début": "14:00:00",
-                "fin": "19:00:00"
-              },
-              "Note": "Accès en auto-documentation ou accompagné d'un animateur. Horaire uniquement pendant les vacances scolaires."
-            }
-          ]
+                "fin": "18:30:00"
+              }
+            ],
+            "Note": "Fermé au public le mardi matin"
+          }
         }
       }
     },
@@ -229,7 +67,7 @@
       "properties": {
         "id": "cij-37273-01",
         "codeInsee": "37273",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - La Ville-aux-Dames",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -248,9 +86,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 44 82 08",
+          "Téléphone": "02 47 44 82 08",
           "Email": "clubados@camilleclaudel.fr",
-          "Url": "http://www.informationjeunesse-centre.fr"
+          "Url": "http://www.camilleclaudel.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -295,66 +133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6185153,
-          47.3416518
-        ]
-      },
-      "properties": {
-        "id": "cij-37018-01",
-        "codeInsee": "37018",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Ballan-Miré",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Centre social Jules Verne",
-            "Rue Henri-Dunant"
-          ],
-          "CodePostal": "37510",
-          "NomCommune": "Ballan-Miré",
-          "Localisation": {
-            "Latitude": "47.3416518",
-            "Longitude": "0.6185153",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "NAC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 53 75 69",
-          "Email": "secteur.jeunesse.ballan.mire@gmail.com",
-          "Url": "http://www.centrejulesverne.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "17:30:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.9911022,
           47.3293699
         ]
@@ -362,15 +140,15 @@
       "properties": {
         "id": "cij-37027-01",
         "codeInsee": "37027",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bléré",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "26 rue des Déportés",
-            "Centre socio-culturel"
+            "Centre socio-culturel",
+            "26 rue des Déportés"
           ],
           "CodePostal": "37150",
           "NomCommune": "Bléré",
@@ -392,15 +170,15 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mardi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "mercredi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -411,6 +189,14 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             }
           ]
         }
@@ -428,9 +214,9 @@
       "properties": {
         "id": "cij-37261-03",
         "codeInsee": "37261",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Tours - Sud",
+        "Nom": "Point information jeunesse - Tours",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -455,20 +241,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:30:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
@@ -478,6 +250,20 @@
                 },
                 {
                   "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
                   "fin": "16:30:00"
                 }
               ]
@@ -498,15 +284,15 @@
       "properties": {
         "id": "cij-37011-01",
         "codeInsee": "37011",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Avoine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Avenue de la République",
-            "13, rue Michel-Bouchet"
+            "Espace association et vie locale",
+            "Avenue de la République"
           ],
           "CodePostal": "37420",
           "NomCommune": "Avoine",
@@ -520,8 +306,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 98 17 00",
-          "Télécopie": "+33 2 47 93 54 55",
+          "Téléphone": "02 47 98 17 00",
           "Email": "foyerpij@cc-veron.fr",
           "Url": "http://www.informationjeunesse-centre.fr"
         },
@@ -549,7 +334,7 @@
       "properties": {
         "id": "cij-37003-01",
         "codeInsee": "37003",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Amboise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -593,14 +378,6 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -613,6 +390,14 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
             }
           ]
         }
@@ -630,7 +415,7 @@
       "properties": {
         "id": "cij-37072-01",
         "codeInsee": "37072",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Chinon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -638,7 +423,7 @@
           "type": "géopostale",
           "Ligne": [
             "Association Claac",
-            "60, rue Descartes",
+            "60 rue Descartes",
             "BP 233"
           ],
           "CodePostal": "37500",
@@ -653,25 +438,37 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 93 10 48",
-          "Télécopie": "+33 2 47 98 44 98",
-          "Email": "associationclaac@club-internet.fr"
+          "Téléphone": "02 47 93 10 48",
+          "Télécopie": "02 47 98 44 98",
+          "Email": "jeunesse@assoclaac.fr",
+          "Url": "http://assoclaac.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              },
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
-              }
-            ]
-          }
+              },
+              "Note": "Accueil ouvert à une autre adresse et se renseigner si possible."
+            }
+          ]
         }
       }
     },
@@ -687,7 +484,7 @@
       "properties": {
         "id": "cij-37261-01",
         "codeInsee": "37261",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Tours",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -702,7 +499,7 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -713,19 +510,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "13:00:00",
                 "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -744,7 +541,7 @@
       "properties": {
         "id": "cij-37122-01",
         "codeInsee": "37122",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Joué-lès-Tours",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -768,108 +565,7 @@
           "Email": "pij.joue-les-tours@ijcentre.fr",
           "Url": "http://www.informationjeunesse-centre.fr"
         },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Accueil ouvert le lundi et le jeudi de 10h à 12h et 14h à 17h30 pendant les vacances scolaires."
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.432370990515,
-          47.1242980957
-        ]
-      },
-      "properties": {
-        "id": "cij-37119-01",
-        "codeInsee": "37119",
-        "dateMiseAJour": "2006-03-29",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - L'Ile Bouchard",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "10 Rue des quatre-vents",
-          "CodePostal": "37220",
-          "NomCommune": "L'Ile Bouchard",
-          "Localisation": {
-            "Latitude": "47.1242980957",
-            "Longitude": "0.432370990515",
-            "Précision": "6"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 98 44 94",
-          "Url": "http://www.informationjeunesse-centre.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "15:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
-            }
-          ]
-        }
+        "Commentaire": "Le service est en déménagement et il n'y a pas encore d'horaire défini."
       }
     },
     {
@@ -884,7 +580,7 @@
       "properties": {
         "id": "cij-37261-02",
         "codeInsee": "37261",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Tours - Nord",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",

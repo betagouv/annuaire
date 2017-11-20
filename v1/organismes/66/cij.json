@@ -6,219 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.94395899773,
-          42.4338340759
-        ]
-      },
-      "properties": {
-        "id": "cij-66025-01",
-        "codeInsee": "66025",
-        "dateMiseAJour": "2006-03-31",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Bourg-Madame",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "rue du Collège Ancienne Piscine",
-          "CodePostal": "66760",
-          "NomCommune": "BOURG MADAME",
-          "Localisation": {
-            "Latitude": "42.4338340759",
-            "Longitude": "1.94395899773",
-            "Précision": "4"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 04 13 81",
-          "Télécopie": "+33 4 68 04 13 81",
-          "Url": "http://www.cidj.com"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "11:30:00"
-              },
-              {
-                "début": "13:00:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.90087008476,
-          42.6987991333
-        ]
-      },
-      "properties": {
-        "id": "cij-66136-02",
-        "codeInsee": "66136",
-        "dateMiseAJour": "2006-03-31",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Perpignan",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "54 rue de l'Anguille",
-            "quartier Saint Jacques"
-          ],
-          "CodePostal": "66000",
-          "NomCommune": "PERPIGNAN",
-          "Localisation": {
-            "Latitude": "42.6987991333",
-            "Longitude": "2.90087008476",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 51 21 64",
-          "Url": "http://www.cidj.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.840153,
-          42.717397
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66172-01",
         "codeInsee": "66172",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-30",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Estève",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": "Centre commercial Le Canigou",
-            "CodePostal": "66240",
-            "NomCommune": "Saint-Estève",
-            "Localisation": {
-              "Latitude": "42.717397",
-              "Longitude": "2.840153",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Centre communal d'action sociale",
-              "5, rue de la République"
-            ],
-            "CodePostal": "66240",
-            "NomCommune": "Sainte-Estève",
-            "Localisation": {
-              "Latitude": "42.7077543",
-              "Longitude": "2.8461654",
-              "Précision": "6"
-            }
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Place du Mas Carbasse",
+          "CodePostal": "66240",
+          "NomCommune": "Saint-Estève",
+          "Accessibilité": {
+            "type": "ACC"
           }
-        ],
+        },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 92 95 60",
-          "Télécopie": "+33 4 68 92 95 68",
-          "Email": "nicopij@hotmail.fr",
-          "Url": "http://www.sp-esteve.com"
+          "Téléphone": "04 68 38 74 76",
+          "Email": "pij@st-esteve.com",
+          "Url": "https://www.facebook.com/pij.stesteve"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "19:00:00"
+                "fin": "22:00:00"
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
+              "début": "lundi",
               "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Accueil fermé l'été"
             }
           ]
         }
@@ -236,13 +65,17 @@
       "properties": {
         "id": "cij-66210-01",
         "codeInsee": "66210",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Thuir",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1, rue Pierre-Semard",
+          "Ligne": [
+            "Maison des jeunes et de la culture",
+            "1 rue Pierre-Sémard",
+            "Rez-de-chaussée"
+          ],
           "CodePostal": "66300",
           "NomCommune": "Thuir",
           "Localisation": {
@@ -255,20 +88,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 53 04 14",
+          "Téléphone": "04 68 53 04 14",
           "Email": "pij@cc-aspres.fr",
           "Url": "http://www.servicejeunesseccaspres.unblog.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "vendredi",
@@ -276,98 +101,14 @@
                 "début": "14:00:00",
                 "fin": "19:00:00"
               },
-              "Note": "Accueil fermé du 1er au 31 août et la 2e semaine des vacances de Noël."
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.90279006958,
-          42.6809997559
-        ]
-      },
-      "properties": {
-        "id": "cij-66136-01",
-        "codeInsee": "66136",
-        "dateMiseAJour": "2006-03-31",
-        "pivotLocal": "cij",
-        "Nom": "Point Information Jeunesse - Perpignan",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "Maison de l'Etudiant",
-            "52 avenue Paul Alduy"
-          ],
-          "CodePostal": "66000",
-          "NomCommune": "PERPIGNAN",
-          "Localisation": {
-            "Latitude": "42.6809997559",
-            "Longitude": "2.90279006958",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 67 36 21",
-          "Url": "http://www.cidj.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "Note": "Accueil fermé du 18 août au jour de la rentrée scolaire et la 2e semaine des vacances de Noël."
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
+                "fin": "18:00:00"
               }
             }
           ]
@@ -379,14 +120,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.937348,
-          42.679117
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66028-01",
         "codeInsee": "66028",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Cabestany",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -395,30 +136,35 @@
           "Ligne": "Place des Droits-de-l'Homme",
           "CodePostal": "66330",
           "NomCommune": "Cabestany",
-          "Localisation": {
-            "Latitude": "42.679117",
-            "Longitude": "2.937348",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 67 59 81",
-          "Télécopie": "+33 4 68 66 36 25",
+          "Téléphone": "04 68 67 59 81",
+          "Télécopie": "04 68 66 36 25",
           "Email": "espace.jeunes@cabestany.com",
           "Url": "http://www.ville-cabestany.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "14:00:00",
-              "fin": "18:30:00"
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
             }
-          }
+          ]
         }
       }
     },
@@ -427,34 +173,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6968100071,
-          42.6940002441
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66108-01",
         "codeInsee": "66108",
-        "dateMiseAJour": "2006-03-31",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Millas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "traverse des Estivans",
+            "10 chemin du Tournail",
             "Salle Omnisport"
           ],
           "CodePostal": "66170",
-          "NomCommune": "MILLAS",
-          "Localisation": {
-            "Latitude": "42.6940002441",
-            "Longitude": "2.6968100071",
-            "Précision": "6"
-          }
+          "NomCommune": "Millas"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 57 33 16",
-          "Url": "http://www.cidj.com"
+          "Téléphone": "04 68 57 60 45",
+          "Email": "pij.millas@rousillon.conflent",
+          "Url": "www.rousillon-conflent.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -463,43 +205,31 @@
               "fin": "lundi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "17:00:00"
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "14:00:00"
               }
             },
             {
               "début": "mardi",
               "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "14:00:00"
+              }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
+                "début": "13:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -518,7 +248,7 @@
       "properties": {
         "id": "cij-66088-01",
         "codeInsee": "66088",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ille-sur-Têt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -542,20 +272,44 @@
           "Url": "http://www.roussillon-conflent.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "19:00:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -571,7 +325,7 @@
       "properties": {
         "id": "cij-66230-01",
         "codeInsee": "66230",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Vinça",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -586,7 +340,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -596,35 +350,28 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:30:00"
               }
             },
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:30:00"
-              },
-              "Note": "Accueil ouvert du lundi au vendredi de 9h à 18h pendant les vacances scolaires."
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              }
             }
           ]
         }
@@ -635,14 +382,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          3.034846,
+          42.7870846
         ]
       },
       "properties": {
         "id": "cij-66017-01",
         "codeInsee": "66017",
-        "dateMiseAJour": "2017-09-22",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Barcarès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -654,43 +401,36 @@
           ],
           "CodePostal": "66420",
           "NomCommune": "Le Barcarès",
+          "Localisation": {
+            "Latitude": "42.7870846",
+            "Longitude": "3.034846",
+            "Précision": "6"
+          },
           "Accessibilité": {
-            "type": "DEM"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 68 86 11 64",
-          "Email": "pij@lebarcares.fr"
+          "Télécopie": "04 68 86 02 72",
+          "Email": "pijbarcares@yahoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "lundi",
               "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
-                  "fin": "12:00:00"
+                  "fin": "11:45:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "19:00:00"
                 }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ]
+              ],
+              "Note": "Contacter l'accueil pour les horaires d'ouverture de congés scolaires."
             },
             {
               "début": "jeudi",
@@ -698,13 +438,14 @@
               "PlageH": [
                 {
                   "début": "08:30:00",
-                  "fin": "12:00:00"
+                  "fin": "11:45:00"
                 },
                 {
-                  "début": "13:30:00",
+                  "début": "14:00:00",
                   "fin": "19:00:00"
                 }
-              ]
+              ],
+              "Note": "Contacter l'accueil pour les horaires d'ouverture de congés scolaires."
             }
           ]
         }
@@ -722,7 +463,7 @@
       "properties": {
         "id": "cij-66009-01",
         "codeInsee": "66009",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Arles-sur-Tech",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -741,7 +482,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 54 28 11",
+          "Téléphone": "04 68 54 28 11",
           "Email": "service.jeunesse.arles@haut-vallespire.fr",
           "Url": "http://www.cidj.com"
         },
@@ -769,35 +510,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8920049,
-          42.6057995
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66011-01",
         "codeInsee": "66011",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bages",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "20, avenue Jean-Jaurès",
+          "Ligne": "22 avenue Jean-Jaurès",
           "CodePostal": "66670",
           "NomCommune": "Bages",
-          "Localisation": {
-            "Latitude": "42.6057995",
-            "Longitude": "2.8920049",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 21 89 56",
-          "Télécopie": "+33 4 68 37 50 27",
-          "Email": "pijbages@cc-albertcotevermeille.com",
+          "Téléphone": "04 68 36 24 56",
+          "Email": "pijbages@cc-acvi.com",
           "Url": "http://www.cc-albert-cote-vermeille.fr"
         },
         "Ouverture": {
@@ -820,7 +555,7 @@
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "12:00:00",
+                "début": "16:30:00",
                 "fin": "19:00:00"
               }
             },
@@ -842,154 +577,9 @@
               "début": "jeudi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "12:00:00",
+                "début": "16:30:00",
                 "fin": "19:00:00"
               }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.83573007584,
-          42.6512985229
-        ]
-      },
-      "properties": {
-        "id": "cij-66038-01",
-        "codeInsee": "66038",
-        "dateMiseAJour": "2016-09-08",
-        "pivotLocal": "cij",
-        "Nom": "Bureau information jeunesse - Canohès",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Rue de la Mairie",
-          "CodePostal": "66680",
-          "NomCommune": "Canohès",
-          "Localisation": {
-            "Latitude": "42.6512985229",
-            "Longitude": "2.83573007584",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "04 68 55 98 34",
-          "Email": "point-jeunes3@wanadoo.fr",
-          "Url": "http://www.cidj.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4290062,
-          42.6171226
-        ]
-      },
-      "properties": {
-        "id": "cij-66149-01",
-        "codeInsee": "66149",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Prades",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "Boulevard de la Gare",
-          "CodePostal": "66500",
-          "NomCommune": "Prades",
-          "Localisation": {
-            "Latitude": "42.6171226",
-            "Longitude": "2.4290062",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "ACC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 05 93 20",
-          "Télécopie": "+33 4 68 05 94 20",
-          "Email": "pij.prades@wanadoo.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "13:00:00",
-                  "fin": "18:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:30:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:30:00"
-              },
-              "Note": "Ouverture pendant les vacances scolaires de 13h à 18h30"
             }
           ]
         }
@@ -1005,23 +595,177 @@
         ]
       },
       "properties": {
-        "id": "cij-66071-01",
-        "codeInsee": "66071",
-        "dateMiseAJour": "2017-09-11",
+        "id": "cij-66038-01",
+        "codeInsee": "66038",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Estagel",
+        "Nom": "Bureau information jeunesse - Canohès",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Avenue Henri-Barbusse",
-          "CodePostal": "66310",
-          "NomCommune": "Estagel",
+          "Ligne": "1 Rue de la Mairie",
+          "CodePostal": "66680",
+          "NomCommune": "Canohès",
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 68 55 98 34",
+          "Email": "point-jeunes3@wanadoo.fr",
+          "Url": "http://www.cidj.com"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "19:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "id": "cij-66149-01",
+        "codeInsee": "66149",
+        "dateMiseAJour": "2017-10-10",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Prades",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Allée de la Plaine Saint-Martin",
+          "CodePostal": "66500",
+          "NomCommune": "Prades",
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 05 82 93",
+          "Télécopie": "04 68 05 94 20",
+          "Email": "pij.prades@wanadoo.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "18:30:00"
+              },
+              "Note": "Ouverture pendant les vacances scolaires de 13h à 18h30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6953895,
+          42.7699614
+        ]
+      },
+      "properties": {
+        "id": "cij-66071-01",
+        "codeInsee": "66071",
+        "dateMiseAJour": "2017-10-09",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Estagel",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "Avenue Henri-Barbusse",
+            "CodePostal": "66310",
+            "NomCommune": "Estagel",
+            "Localisation": {
+              "Latitude": "42.7699614",
+              "Longitude": "2.6953895",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "NAC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mairie",
+              "6 avenue du Docteur-Torreilles"
+            ],
+            "CodePostal": "66310",
+            "NomCommune": "Estagel"
+          }
+        ],
+        "CoordonnéesNum": {
           "Téléphone": "04 68 29 06 34",
+          "Télécopie": "04 66 29 14 12",
           "Email": "mairie-estagel-pij@wanadoo.fr"
         },
         "Ouverture": {
@@ -1058,7 +802,7 @@
       "properties": {
         "id": "cij-66213-01",
         "codeInsee": "66213",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Toulouges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1079,7 +823,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 68 55 39 89",
-          "Email": "espacejeunes@hotmail.fr",
+          "Email": "espace.jeunes@toulouges.fr",
           "Url": "http://www.toulouges.fr"
         },
         "Ouverture": {
@@ -1105,30 +849,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.91909003258,
-          42.8331985474
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66190-01",
         "codeInsee": "66190",
-        "dateMiseAJour": "2006-04-03",
+        "dateMiseAJour": "2017-10-11",
         "pivotLocal": "cij",
         "Nom": "Point Information Jeunesse - Salses Le Chateau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "cours Carcassonne",
+          "Ligne": "Impasse Valette",
           "CodePostal": "66600",
-          "NomCommune": "SALSES LE CHATEAU",
-          "Localisation": {
-            "Latitude": "42.8331985474",
-            "Longitude": "2.91909003258",
-            "Précision": "4"
-          }
+          "NomCommune": "Salses-le-Château"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 38 72 13",
+          "Téléphone": "06 30 84 12 52",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
@@ -1174,47 +913,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.74940991402,
-          42.4849014282
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66049-01",
         "codeInsee": "66049",
-        "dateMiseAJour": "2006-03-31",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Céret",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "rue Pierre Rameil",
+          "Ligne": "Place Henri Guitard",
           "CodePostal": "66400",
-          "NomCommune": "CERET",
-          "Localisation": {
-            "Latitude": "42.4849014282",
-            "Longitude": "2.74940991402",
-            "Précision": "6"
-          }
+          "NomCommune": "Céret"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 87 45 94",
-          "Url": "http://www.pijceret.fr.st"
+          "Téléphone": "04 68 21 20 66",
+          "Email": "t.simonetti@vallespir.com"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
                 "début": "08:00:00",
-                "fin": "12:00:00"
-              },
-              {
+                "fin": "14:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "12:00:00",
+                  "fin": "14:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "12:00:00",
+                "fin": "14:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "12:00:00",
+                  "fin": "14:00:00"
+                },
+                {
+                  "début": "16:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1230,23 +1004,28 @@
       "properties": {
         "id": "cij-66171-01",
         "codeInsee": "66171",
-        "dateMiseAJour": "2011-10-13",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Cyprien",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Place de l'Hôtel de Ville",
+          "Ligne": "Place de l'Hôtel-de-Ville",
           "CodePostal": "66750",
-          "NomCommune": "ST CYPRIEN",
+          "NomCommune": "Saint-Cyprien",
           "Localisation": {
             "Latitude": "45.5234985352",
             "Longitude": "4.21615982056",
             "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 37 68 31"
+          "Téléphone": "04 68 37 68 31",
+          "Email": "saje.saintcyprien@gmail.com",
+          "Url": "http://www.saint-cyprien.com"
         },
         "Ouverture": {
           "PlageJ": {
@@ -1278,13 +1057,13 @@
       "properties": {
         "id": "cij-66021-01",
         "codeInsee": "66021",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bompas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "93, avenue du Haut-Vernet",
+          "Ligne": "93 avenue du Haut-Vernet",
           "CodePostal": "66430",
           "NomCommune": "Bompas",
           "Localisation": {
@@ -1297,8 +1076,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 63 01 93",
-          "Télécopie": "+33 4 68 63 01 93",
+          "Téléphone": "04 68 63 01 93",
           "Email": "pijbompas@orange.fr",
           "Url": "http://www.cidj.com"
         },
@@ -1332,7 +1110,7 @@
       "properties": {
         "id": "cij-66037-01",
         "codeInsee": "66037",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Canet-en-Roussillon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1352,7 +1130,6 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 68 86 71 74",
-          "Télécopie": "04 68 86 71 85",
           "Email": "mdj@canetenroussillon.fr",
           "Url": "http://www.mairie-canet-en-roussillon.fr"
         },
@@ -1372,7 +1149,8 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:30:00"
-              }
+              },
+              "Note": "Accueil ouvert l'après-midi pendant les congés scolaires, contacter l'accueil pour vérifier les horaires d'ouverture."
             },
             {
               "début": "samedi",
@@ -1391,14 +1169,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6630005,
-          42.4750904
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66003-01",
         "codeInsee": "66003",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Amélie-les-Bains",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1406,35 +1184,89 @@
           "type": "géopostale",
           "Ligne": "Chemin de la Piscine",
           "CodePostal": "66110",
-          "NomCommune": "Amélie-les-Bains",
-          "Localisation": {
-            "Latitude": "42.4750904",
-            "Longitude": "2.6630005",
-            "Précision": "6"
-          },
+          "NomCommune": "Amélie-les-Bains Palalda",
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 87 85 79",
+          "Téléphone": "04 68 87 85 79",
           "Email": "service.jeunesse.amelie@haut-vallespir.fr",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
+            "début": "mardi",
+            "fin": "samedi",
             "PlageH": [
               {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               },
               {
-                "début": "15:00:00",
-                "fin": "16:30:00"
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
             ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9856252,
+          42.7727992
+        ]
+      },
+      "properties": {
+        "id": "cij-66180-01",
+        "codeInsee": "66180",
+        "dateMiseAJour": "2017-10-09",
+        "pivotLocal": "cij",
+        "Nom": "Point information jeunesse - Saint-Laurent-de-la-Salanque",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": [
+          {
+            "type": "physique",
+            "Ligne": "20 avenue Joffre",
+            "CodePostal": "66250",
+            "NomCommune": "Saint-Laurent-de-la-Salanque",
+            "Localisation": {
+              "Latitude": "42.7727992",
+              "Longitude": "2.9856252",
+              "Précision": "6"
+            },
+            "Accessibilité": {
+              "type": "ACC"
+            }
+          },
+          {
+            "type": "postale",
+            "Ligne": [
+              "Mairie de Saint-Laurent-de-la-Salanque",
+              "Avenue Urbain-Paret"
+            ],
+            "CodePostal": "66250",
+            "NomCommune": "Saint-Laurent-de-la-Salanque"
+          }
+        ],
+        "CoordonnéesNum": {
+          "Téléphone": "04 68 28 03 11",
+          "Télécopie": "04 68 62 22 96",
+          "Email": "pij@saint-laurent-de-la-salanque.fr",
+          "Url": "http://www.saint-laurent-salanque.com"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "13:00:00",
+              "fin": "19:00:00"
+            }
           }
         }
       }
@@ -1451,7 +1283,7 @@
       "properties": {
         "id": "cij-66008-01",
         "codeInsee": "66008",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Argelès-sur-Mer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1472,18 +1304,26 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "vendredi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
             },
             {
               "début": "samedi",
@@ -1495,23 +1335,17 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "19:00:00"
+                  "fin": "18:00:00"
                 }
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }
@@ -1529,7 +1363,7 @@
       "properties": {
         "id": "cij-66065-01",
         "codeInsee": "66065",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Centre information jeunesse - Elne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1559,22 +1393,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": [
@@ -1601,119 +1419,22 @@
                   "fin": "18:00:00"
                 }
               ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.388688,
-          42.5477272
-        ]
-      },
-      "properties": {
-        "id": "cij-66222-01",
-        "codeInsee": "66222",
-        "dateMiseAJour": "2014-12-16",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Vernet-les-Bains",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "10, boulevard Clemenceau",
-          "CodePostal": "66820",
-          "NomCommune": "Vernet-les-Bains",
-          "Localisation": {
-            "Latitude": "42.5477272",
-            "Longitude": "2.388688",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "NAC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 05 76 40",
-          "Email": "pijvernetlesbains@orange.fr",
-          "Url": "http://www.vernet-les-bains.fr"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ],
-              "Note": "Coupure de 16h à 17h30."
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:45:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
             },
             {
               "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ],
-              "Note": "Coupure de 16h à 17h30."
-            },
-            {
-              "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ]
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }
@@ -1731,7 +1452,7 @@
       "properties": {
         "id": "cij-66002-01",
         "codeInsee": "66002",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Alénya",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1742,15 +1463,19 @@
             "Espace Claude Simon"
           ],
           "CodePostal": "66200",
-          "NomCommune": "Alenya",
+          "NomCommune": "Alénya",
           "Localisation": {
             "Latitude": "42.6382293701",
             "Longitude": "2.98099708557",
             "Précision": "4"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 22 83 98",
+          "Téléphone": "04 68 22 83 98",
+          "Email": "pij@alenya.fr",
           "Url": "http://www.alenya.fr"
         },
         "Ouverture": {
@@ -1777,7 +1502,7 @@
       "properties": {
         "id": "cij-66148-01",
         "codeInsee": "66148",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Port-Vendres",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1785,7 +1510,7 @@
           "type": "géopostale",
           "Ligne": [
             "Planète point jeunes",
-            "14, boulevard Joseph-Parès"
+            "14 boulevard Joseph-Parès"
           ],
           "CodePostal": "66660",
           "NomCommune": "Port-Vendres",
@@ -1799,9 +1524,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 82 26 43",
-          "Télécopie": "+33 4 68 82 26 43",
-          "Email": "pij.port-vendres@cc-alberescotevermeille.com",
+          "Téléphone": "04 68 82 26 43",
+          "Télécopie": "04 68 82 26 43",
+          "Email": "pij.port-vendres@cc-acvi.com",
           "Url": "http://www.cc-alberes-cote-vermeille.fr"
         },
         "Ouverture": {
@@ -1821,13 +1546,20 @@
               ]
             },
             {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
-              },
-              "Note": "Permanence de la MLJ le 1er et 3e mardi du mois de 9h à 12h."
+              }
             },
             {
               "début": "mercredi",
@@ -1841,16 +1573,7 @@
                   "début": "14:00:00",
                   "fin": "18:00:00"
                 }
-              ],
-              "Note": "Accueil ouvert pendant les congés scolaires du lundi au vendredi de 9h à 12h et de 14h à 18h."
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
+              ]
             }
           ]
         }
@@ -1868,14 +1591,14 @@
       "properties": {
         "id": "cij-66227-01",
         "codeInsee": "66227",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Villeneuve-de-la-Raho",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": [
           {
             "type": "physique",
-            "Ligne": "1, avenue du Roussillon",
+            "Ligne": "1 avenue du Roussillon",
             "CodePostal": "66180",
             "NomCommune": "Villeneuve-de-la-Raho",
             "Localisation": {
@@ -1889,25 +1612,27 @@
           },
           {
             "type": "postale",
-            "Ligne": "1, avenue du Général-de-Gaulle",
+            "Ligne": "1 avenue du Général-de-Gaulle",
             "CodePostal": "66180",
-            "NomCommune": "Villeneuve-de-la-Raho",
-            "Localisation": {
-              "Latitude": "42.6415251",
-              "Longitude": "2.8741752",
-              "Précision": "6"
-            }
+            "NomCommune": "Villeneuve-de-la-Raho"
           }
         ],
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 55 83 09",
-          "Télécopie": "+33 4 58 55 94 07",
+          "Téléphone": "04 68 55 83 09",
           "Email": "pij66180@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -1925,7 +1650,7 @@
               "fin": "samedi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:30:00"
+                "fin": "18:00:00"
               }
             }
           ]
@@ -1944,7 +1669,7 @@
       "properties": {
         "id": "cij-66016-01",
         "codeInsee": "66016",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Banyuls-sur-Mer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1963,29 +1688,15 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 88 31 97",
-          "Télécopie": "+33 4 68 21 79 32",
-          "Email": "mjc.banyuls@wanadoo.fr"
+          "Téléphone": "04 68 88 31 97",
+          "Télécopie": "04 68 21 79 32",
+          "Email": "pij.banyuls@gmail.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "samedi",
               "fin": "samedi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -2012,6 +1723,20 @@
                 "début": "14:00:00",
                 "fin": "19:00:00"
               }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -2022,14 +1747,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.47984004021,
-          42.4034996033
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-66150-01",
         "codeInsee": "66150",
-        "dateMiseAJour": "2006-03-31",
+        "dateMiseAJour": "2017-10-10",
         "pivotLocal": "cij",
         "Nom": "Point Information Jeunesse - Prats - Mollo",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2040,31 +1765,20 @@
             "Centre d'Animation"
           ],
           "CodePostal": "66230",
-          "NomCommune": "PRATS DE MOLLO LA PRESTE",
-          "Localisation": {
-            "Latitude": "42.4034996033",
-            "Longitude": "2.47984004021",
-            "Précision": "4"
-          }
+          "NomCommune": "Prats de Mollo-la-Preste"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 39 94 65",
+          "Téléphone": "04 68 39 94 65",
           "Url": "http://www.cidj.com"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
-            "fin": "samedi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            ]
+            "début": "mercredi",
+            "fin": "mercredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
           }
         }
       }

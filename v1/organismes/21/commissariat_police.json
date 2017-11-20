@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 80 68 04 66",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 80 68 04 66"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -63,10 +65,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 80 44 55 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 80 44 55 00"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -100,7 +104,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 80 25 09 25",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 80 25 09 25"
+          },
           "Télécopie": "03 80 24 95 52",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -156,7 +163,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 80 54 03 60",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "03 80 54 03 60"
+          },
           "Télécopie": "03 80 54 03 60",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },

@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.05157,
+          48.780578
+        ]
+      },
+      "properties": {
+        "id": "msap-22162-01",
+        "codeInsee": "22162",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Paimpol",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "Centre Henri Dunant",
+          "CodePostal": "22500",
+          "NomCommune": "Paimpol",
+          "Localisation": {
+            "Latitude": "48.780578",
+            "Longitude": "-3.05157",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 96 20 20 80",
+          "Email": "msap.paimpol@gp3a.bzh",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/paimpol"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermeture à 16h30 le vendredi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.987301,
           48.632267
         ]
@@ -63,6 +114,35 @@
         },
         "CoordonnéesNum": {
           "Url": "https://www.maisondeservicesaupublic.fr/content/cavan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.521439,
+          48.295608
+        ]
+      },
+      "properties": {
+        "id": "msap-22046-01",
+        "codeInsee": "22046",
+        "dateMiseAJour": "2017-10-17",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Le Mené",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "La croix Jeanne Even",
+          "CodePostal": "22330",
+          "NomCommune": "Collinée",
+          "Localisation": {
+            "Latitude": "48.295608",
+            "Longitude": "-2.521439",
+            "Précision": "8"
+          }
         }
       }
     },

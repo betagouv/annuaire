@@ -70,9 +70,9 @@
       "properties": {
         "id": "crib-57463-01",
         "codeInsee": "57463",
-        "dateMiseAJour": "2017-03-31",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "crib",
-        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Cojep de Metz",
+        "Nom": "Centre de ressources et d'information des bénévoles (Crib) - Metz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -90,48 +90,18 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "03 87 69 04 85",
-          "Email": "info@cojepmoselle.org"
+          "Téléphone": "03 87 69 04 50",
+          "Email": "projet@cribij.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "13:30:00",
+              "fin": "17:00:00"
             }
-          ]
+          }
         }
       }
     }

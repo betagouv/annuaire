@@ -13,17 +13,14 @@
       "properties": {
         "id": "tresorerie-57306-01",
         "codeInsee": "57306",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Hayange",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "29 rue Clemenceau",
-            "BP 40515"
-          ],
-          "CodePostal": "57701",
+          "Ligne": "place Nicolas Schneider",
+          "CodePostal": "57705",
           "NomCommune": "Hayange Cedex",
           "Localisation": {
             "Latitude": "49.3284171",
@@ -86,7 +83,7 @@
       "properties": {
         "id": "tresorerie-57433-01",
         "codeInsee": "57433",
-        "dateMiseAJour": "2015-09-09",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Maizières-lès-Metz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -108,6 +105,54 @@
           "Téléphone": "+33 3 87 80 55 52",
           "Email": "t057025@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:50:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:50:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -123,7 +168,7 @@
       "properties": {
         "id": "tresorerie-57226-01",
         "codeInsee": "57226",
-        "dateMiseAJour": "2015-09-09",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Fontoy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -142,6 +187,32 @@
           "Téléphone": "+33 3 82 84 82 82",
           "Email": "t057018@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -402,9 +473,9 @@
       "properties": {
         "id": "tresorerie-57556-01",
         "codeInsee": "57556",
-        "dateMiseAJour": "2015-09-09",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
-        "Nom": "Trésorerie de Puttelange-aux-Lacs",
+        "Nom": "Trésorerie de Puttelange-Sarralbe",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -421,6 +492,38 @@
           "Téléphone": "+33 3 87 09 60 20",
           "Email": "t057111@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1080,7 +1183,7 @@
       "properties": {
         "id": "tresorerie-57209-01",
         "codeInsee": "57209",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Faulquemont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1110,7 +1213,7 @@
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "09:00:00",
+                "début": "09:30:00",
                 "fin": "12:00:00"
               }
             },
@@ -1119,7 +1222,7 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "09:30:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -1133,7 +1236,7 @@
               "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "09:00:00",
+                  "début": "09:30:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -1649,7 +1752,7 @@
       "properties": {
         "id": "tresorerie-57177-01",
         "codeInsee": "57177",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-18",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie du Sud Saulnois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1673,14 +1776,24 @@
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "12:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
             }
-          }
+          ]
         }
       }
     },
@@ -1785,7 +1898,7 @@
       "properties": {
         "id": "tresorerie-57011-01",
         "codeInsee": "57011",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie d'Albestroff",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1807,6 +1920,54 @@
           "Téléphone": "03 87 01 60 76",
           "Email": "t057001@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -1914,7 +2075,7 @@
       "properties": {
         "id": "tresorerie-57089-01",
         "codeInsee": "57089",
-        "dateMiseAJour": "2015-09-09",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Bitche",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1936,6 +2097,38 @@
           "Téléphone": "+33 3 87 96 00 25",
           "Email": "t057101@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -2008,59 +2201,6 @@
               ]
             }
           ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1759945,
-          49.1247392
-        ]
-      },
-      "properties": {
-        "id": "tresorerie-57463-04",
-        "codeInsee": "57463",
-        "dateMiseAJour": "2015-07-06",
-        "pivotLocal": "tresorerie",
-        "Nom": "Paierie régionale - Lorraine",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "1 place Gabriel-Hocquard",
-            "BP 81085"
-          ],
-          "CodePostal": "57036",
-          "NomCommune": "Metz Cedex 1",
-          "Localisation": {
-            "Latitude": "49.1247392",
-            "Longitude": "6.1759945",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 3 87 33 60 47",
-          "Email": "t057080@dgfip.finances.gouv.fr",
-          "Url": "http://www.impots.gouv.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "16:00:00"
-              }
-            ]
-          }
         }
       }
     },
@@ -2313,7 +2453,7 @@
       "properties": {
         "id": "tresorerie-57012-01",
         "codeInsee": "57012",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie d'Algrange",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2343,12 +2483,12 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "lundi",
               "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
-                  "fin": "12:00:00"
+                  "fin": "12:15:00"
                 },
                 {
                   "début": "13:30:00",
@@ -2358,17 +2498,11 @@
             },
             {
               "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ]
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }

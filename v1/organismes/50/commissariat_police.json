@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 33 91 27 50",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 33 91 27 50"
+          },
           "Télécopie": "02 33 50 89 80",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -85,7 +88,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 33 76 57 57",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 33 76 57 57"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -131,7 +137,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 33 88 76 76",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 33 88 76 76"
+          },
           "Télécopie": "02 33 44 16 17",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -184,7 +193,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 33 72 68 00",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 33 72 68 00"
+          },
           "Télécopie": "02 33 72 68 36",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
@@ -234,10 +246,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 87 87 52 80",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 87 87 52 80"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -271,10 +285,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 33 93 86 42",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 33 93 86 42"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

@@ -168,6 +168,87 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.319,
+          47.548495
+        ]
+      },
+      "properties": {
+        "id": "msap-37062-01",
+        "codeInsee": "37062",
+        "dateMiseAJour": "2017-10-20",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Château-La-Vallière",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "21 avenue du Général Leclerc",
+          "CodePostal": "37330",
+          "NomCommune": "Château-la-Vallière",
+          "Localisation": {
+            "Latitude": "47.548495",
+            "Longitude": "0.319",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 24 25 22",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/chateau-la-valliere"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.182013,
           47.210157
         ]
@@ -340,9 +421,9 @@
       "properties": {
         "id": "msap-37189-01",
         "codeInsee": "37189",
-        "dateMiseAJour": "2016-09-09",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Communauté de communes Tourraine sud - Preuilly-sur-Claise",
+        "Nom": "Maison de services au public - Communauté de Communes  de la Touraine du Sud - Preuilly-sur-Claise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "physique",
@@ -485,9 +566,9 @@
       "properties": {
         "id": "msap-37130-01",
         "codeInsee": "37130",
-        "dateMiseAJour": "2016-10-24",
+        "dateMiseAJour": "2017-11-06",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Grand Ligueillois",
+        "Nom": "Maison de services au public - Communauté de Communes de la Touraine du Sud - Ligueil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "physique",
@@ -613,6 +694,161 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.827299,
+          47.388299
+        ]
+      },
+      "properties": {
+        "id": "msap-37156-01",
+        "codeInsee": "37156",
+        "dateMiseAJour": "2017-10-20",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Montlouis-sur-Loire",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "6 place François Mitterrand",
+          "CodePostal": "37270",
+          "NomCommune": "Montlouis-sur-Loire",
+          "Localisation": {
+            "Latitude": "47.388299",
+            "Longitude": "0.827299",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 45 85 30",
+          "Email": "msap@ville-montlouis-loire.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/montlouis-sur-loire"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.409817,
+          47.324476
+        ]
+      },
+      "properties": {
+        "id": "msap-37123-01",
+        "codeInsee": "37123",
+        "dateMiseAJour": "2017-10-20",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Langeais",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 Place du 14 juillet",
+          "CodePostal": "37130",
+          "NomCommune": "Langeais",
+          "Localisation": {
+            "Latitude": "47.324476",
+            "Longitude": "0.409817",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 96 90 89",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/langeais"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.660691,
           47.346975
         ]
@@ -680,6 +916,89 @@
             }
           ]
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.998569,
+          47.130176
+        ]
+      },
+      "properties": {
+        "id": "msap-37132-01",
+        "codeInsee": "37132",
+        "dateMiseAJour": "2017-11-06",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Communauté de Communes  de la Touraine du Sud - Loches",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "7 rue de Tours",
+          "CodePostal": "37600",
+          "NomCommune": "Loches",
+          "Localisation": {
+            "Latitude": "47.130176",
+            "Longitude": "0.998569",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 47 19 82 36",
+          "Email": "msap@lochessudtouraine.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/loches-loches-sud-touraine"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "16:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
+        },
+        "Commentaire": "Mardi matin et vendredi après midi : UNIQUEMENT sur rendez-vous au sein de la MSAP ou dans les mairies de votre domicile si vous ne pouvez vous déplacer"
       }
     },
     {

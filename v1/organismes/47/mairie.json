@@ -14995,14 +14995,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.780543029308,
-          44.1297912598
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-47279-01",
         "codeInsee": "47279",
-        "dateMiseAJour": "2016-02-08",
+        "dateMiseAJour": "2017-10-17",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Saint-Sixte",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15011,35 +15011,17 @@
           "Ligne": "Place de la Batellerie",
           "CodePostal": "47220",
           "NomCommune": "Saint-Sixte",
-          "Localisation": {
-            "Latitude": "44.1297912598",
-            "Longitude": "0.780543029308",
-            "Précision": "4"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 53 87 31 60",
-          "Email": "mairiestsixte47@wanadoo.fr"
+          "Téléphone": "05 53 87 31 60",
+          "Email": "mairiestsixte47@wanadoo.fr",
+          "Url": "http://st-sixte-47.fr/"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -15049,8 +15031,22 @@
                   "fin": "12:30:00"
                 },
                 {
-                  "début": "13:30:00",
-                  "fin": "18:00:00"
+                  "début": "13:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:30:00"
                 }
               ]
             }
@@ -17351,32 +17347,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.026060000062,
-          44.4482002258
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-47224-01",
         "codeInsee": "47224",
-        "dateMiseAJour": "2017-04-25",
+        "dateMiseAJour": "2017-10-18",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Romestaing",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "bourg",
+          "Ligne": "Le Bourg",
           "CodePostal": "47250",
-          "NomCommune": "Romestaing",
-          "Localisation": {
-            "Latitude": "44.4482002258",
-            "Longitude": "0.026060000062",
-            "Précision": "6"
-          }
+          "NomCommune": "Romestaing"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 9 62 08 29 46",
-          "Télécopie": "+33 5 53 94 27 10",
-          "Email": "mairiederomestaing@wanadoo.fr",
+          "Téléphone": "05 53 94 51 05",
+          "Email": "mairiederomestaing@lgtel.fr",
           "Url": "http://www.romestaing.fr"
         },
         "Ouverture": {

@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.023839,
+          47.60211
+        ]
+      },
+      "properties": {
+        "id": "msap-41106-01",
+        "codeInsee": "41106",
+        "dateMiseAJour": "2017-11-06",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Coeur de Sologne",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "34 rue Durfort de Duras",
+          "CodePostal": "41600",
+          "NomCommune": "Lamotte-Beuvron",
+          "Localisation": {
+            "Latitude": "47.60211",
+            "Longitude": "2.023839",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 54 94 82 98",
+          "Email": "msap@coeurdesologne.com",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/coeur-de-sologne"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Fermé le jeudi après-midi"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.052899,
           47.424913
         ]

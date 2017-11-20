@@ -550,6 +550,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.8929,
+          49.368809
+        ]
+      },
+      "properties": {
+        "id": "msap-54029-01",
+        "codeInsee": "54029",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public ( Bureau de Poste) - Audun-le-Roman",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue des clairs chênes",
+          "CodePostal": "54560",
+          "NomCommune": "Audun-le-Roman",
+          "Localisation": {
+            "Latitude": "49.368809",
+            "Longitude": "5.8929",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Email": "msap.audun-le-roman@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/audun-le-roman-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.891115,
           48.501006
         ]

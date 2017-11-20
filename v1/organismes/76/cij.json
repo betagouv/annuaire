@@ -13,18 +13,15 @@
       "properties": {
         "id": "cij-76655-01",
         "codeInsee": "76655",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Valéry-en-Caux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Espace public du Littoral",
-            "Place de la Gare"
-          ],
-          "CodePostal": "76460",
-          "NomCommune": "Saint-Valery-en-Caux",
+          "Ligne": "11 bis route de Barville",
+          "CodePostal": "76450",
+          "NomCommune": "Cany-Barville",
           "Localisation": {
             "Latitude": "49.8621349",
             "Longitude": "0.7132262",
@@ -35,26 +32,59 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 57 92 03",
-          "Télécopie": "+33 2 35 57 92 01",
+          "Téléphone": "06 03 48 64 80",
           "Email": "pij@cote-albatre.com",
           "Url": "http://www.cote-albatre.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              },
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
                 "début": "13:30:00",
-                "fin": "17:30:00"
+                "fin": "18:30:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -70,9 +100,9 @@
       "properties": {
         "id": "cij-76322-01",
         "codeInsee": "76322",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Grand-Quevilly",
+        "Nom": "Point information jeunesse - Le Grand-Quevilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -127,13 +157,13 @@
       "properties": {
         "id": "cij-76231-01",
         "codeInsee": "76231",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Elbeuf",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "61, cours Carnot",
+          "Ligne": "61 cours Carnot",
           "CodePostal": "76500",
           "NomCommune": "Elbeuf",
           "Localisation": {
@@ -146,8 +176,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 32 96 02 70",
-          "Email": "pij.elbeuf@animelbeuf.fr",
+          "Téléphone": "02 32 96 02 70",
+          "Email": "bij.elbeuf@animelbeuf.fr",
           "Url": "http://www.animelbeuf.fr"
         },
         "Ouverture": {
@@ -157,21 +187,51 @@
               "fin": "lundi",
               "PlageH": [
                 {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
                 },
                 {
-                  "début": "14:00:00",
+                  "début": "13:30:00",
                   "fin": "17:00:00"
                 }
               ]
             },
             {
               "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
+                "début": "09:30:00",
+                "fin": "12:30:00"
               }
             }
           ]
@@ -190,7 +250,7 @@
       "properties": {
         "id": "cij-76319-01",
         "codeInsee": "76319",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Grand-Couronne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -220,20 +280,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:45:00",
-                  "fin": "16:45:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -254,6 +300,20 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:45:00",
+                  "fin": "16:45:00"
+                }
+              ]
             },
             {
               "début": "jeudi",
@@ -286,26 +346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.382901,
-          49.756569
+          0.3829114,
+          49.7564098
         ]
       },
       "properties": {
         "id": "cij-76259-01",
         "codeInsee": "76259",
-        "dateMiseAJour": "2017-09-15",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Fécamp",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "10 place du Général Leclerc",
+          "Ligne": "10 place du Général-Leclerc",
           "CodePostal": "76400",
           "NomCommune": "Fécamp",
           "Localisation": {
-            "Latitude": "49.756569",
-            "Longitude": "0.382901",
-            "Précision": "6"
+            "Latitude": "49.7564098",
+            "Longitude": "0.3829114",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
@@ -314,8 +374,9 @@
         "CoordonnéesNum": {
           "Téléphone": "06 70 75 19 72",
           "Email": "pij@ville-fecamp.fr",
-          "Url": "http://www.ville-fecamp.fr/Le-Point-Information-Jeunesse-2511.html"
-        }
+          "Url": "http://www.ville-fecamp.fr"
+        },
+        "Commentaire": "Pas d'horaire."
       }
     },
     {
@@ -330,7 +391,7 @@
       "properties": {
         "id": "cij-76681-01",
         "codeInsee": "76681",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Sotteville-lès-Rouen",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -352,8 +413,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 63 62 39",
-          "Télécopie": "+33 2 35 62 35 57",
+          "Téléphone": "02 35 63 62 39",
+          "Télécopie": "02 35 62 35 57",
           "Email": "d.djema.jeunesse@mairie-sotteville-les-rouen.fr",
           "Url": "http://www.mairie-soteville-les-rouen.fr"
         },
@@ -374,7 +435,7 @@
                 "début": "15:00:00",
                 "fin": "18:00:00"
               },
-              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h"
+              "Note": "Accueil ouvert pendant les vacances scolaires du lundi au vendredi de 9h à 12h et de 14h à 17h."
             },
             {
               "début": "mercredi",
@@ -383,7 +444,7 @@
                 "début": "14:00:00",
                 "fin": "18:00:00"
               },
-              "Note": "Accueil ouvert uniquement sur rendez-vous"
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
             }
           ]
         }
@@ -401,7 +462,7 @@
       "properties": {
         "id": "cij-76575-01",
         "codeInsee": "76575",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Saint-Étienne-du-Rouvray - La Station",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -442,22 +503,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "16:30:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:30:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": [
@@ -470,6 +515,22 @@
                   "fin": "19:00:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:30:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }
@@ -480,14 +541,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.270617008209,
-          49.6334991455
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-76196-01",
         "codeInsee": "76196",
-        "dateMiseAJour": "2011-09-02",
+        "dateMiseAJour": "2017-10-12",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Criquetot l'Esneval",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -498,30 +559,19 @@
             "route de vergetot"
           ],
           "CodePostal": "76280",
-          "NomCommune": "CRIQUETOT L ESNEVAL",
-          "Localisation": {
-            "Latitude": "49.6334991455",
-            "Longitude": "0.270617008209",
-            "Précision": "6"
-          }
+          "NomCommune": "Criquetot l'Esneval"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 27 28 08"
+          "Téléphone": "02 35 27 28 08"
         },
         "Ouverture": {
           "PlageJ": {
             "début": "lundi",
-            "fin": "mardi",
-            "PlageH": [
-              {
-                "début": "09:30:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            ]
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "12:00:00"
+            }
           }
         }
       }
@@ -538,13 +588,13 @@
       "properties": {
         "id": "cij-76351-01",
         "codeInsee": "76351",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Le Havre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2, rue Léon-Gautier",
+          "Ligne": "2 rue Léon-Gautier",
           "CodePostal": "76600",
           "NomCommune": "Le Havre",
           "Localisation": {
@@ -557,8 +607,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 19 49 84",
-          "Email": "bij@lehavre.fr",
+          "Téléphone": "02 35 19 49 84",
+          "Email": "nadia.gaillard@lehavre.fr",
           "Url": "http://www.lehavre.fr"
         },
         "Ouverture": {
@@ -568,7 +618,7 @@
               "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -590,7 +640,7 @@
               "fin": "mercredi",
               "PlageH": [
                 {
-                  "début": "08:30:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -615,9 +665,9 @@
       "properties": {
         "id": "cij-76540-01",
         "codeInsee": "76540",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Centre régional information jeunesse - Normandie Rouen",
+        "Nom": "Centre régional information jeunesse - Normandie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -636,7 +686,7 @@
         "CoordonnéesNum": {
           "Téléphone": "02 32 10 49 49",
           "Télécopie": "02 35 15 57 22",
-          "Email": "contact@crij-haute-normandie.org",
+          "Email": "contact@crijnormandierouen.fr",
           "Url": "http://www.crijnormandierouen.fr"
         },
         "Ouverture": {
@@ -669,7 +719,7 @@
       "properties": {
         "id": "cij-76255-01",
         "codeInsee": "76255",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Eu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -698,14 +748,38 @@
           "Url": "http://www.centredesfontaines.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "mardi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "14:00:00",
-              "fin": "18:00:00"
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:30:00"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     },
@@ -721,7 +795,7 @@
       "properties": {
         "id": "cij-76164-01",
         "codeInsee": "76164",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Caudebec-en-Caux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -748,14 +822,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:30:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "vendredi",
               "PlageH": [
@@ -768,6 +834,14 @@
                   "fin": "17:30:00"
                 }
               ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "18:30:00"
+              }
             }
           ]
         }
@@ -785,18 +859,19 @@
       "properties": {
         "id": "cij-76476-01",
         "codeInsee": "76476",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Notre-Dame-de-Gravenchon",
+        "Nom": "Point information jeunesse - Port-Jérôme-sur-Seine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "Notre-Dame-de-Gravenchon",
             "Centre communal d'action sociale Arpège",
             "14 rue Émile-Zola"
           ],
           "CodePostal": "76330",
-          "NomCommune": "Notre-Dame-de-Gravenchon",
+          "NomCommune": "Port-Jérôme-sur-Seine",
           "Localisation": {
             "Latitude": "49.4899852",
             "Longitude": "0.5724337",
@@ -809,42 +884,23 @@
         "CoordonnéesNum": {
           "Téléphone": "02 32 84 12 50",
           "Télécopie": "02 35 31 30 97",
-          "Email": "centre_socialndg@yahoo.fr"
+          "Email": "e.gault@pj2s.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "16:00:00"
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               },
-              "Note": "Accueil ouvert uniquement sur rendez-vous de 9h à 12h."
-            },
-            {
-              "début": "mardi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
+              {
                 "début": "14:00:00",
-                "fin": "16:00:00"
+                "fin": "16:30:00"
               }
-            }
-          ]
+            ]
+          }
         }
       }
     },
@@ -853,14 +909,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1911374,
-          49.5078915
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-76341-01",
         "codeInsee": "76341",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "cij",
         "Nom": "Bureau information jeunesse - Harfleur",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -869,11 +925,6 @@
           "Ligne": "4 avenue du Président-René-Coty",
           "CodePostal": "76700",
           "NomCommune": "Harfleur",
-          "Localisation": {
-            "Latitude": "49.5078915",
-            "Longitude": "0.1911374",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -886,34 +937,28 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "13:30:00",
+                "début": "14:00:00",
                 "fin": "17:30:00"
               }
             },
             {
               "début": "lundi",
-              "fin": "mardi",
+              "fin": "lundi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
+                "début": "09:00:00",
+                "fin": "13:00:00"
               }
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:30:00"
+              }
             }
           ]
         }
@@ -924,14 +969,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.570084,
-          49.527709
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-76384-01",
         "codeInsee": "76384",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Lillebonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -943,11 +988,6 @@
           ],
           "CodePostal": "76170",
           "NomCommune": "Lillebonne",
-          "Localisation": {
-            "Latitude": "49.527709",
-            "Longitude": "0.570084",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -961,36 +1001,46 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "18:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -1008,7 +1058,7 @@
       "properties": {
         "id": "cij-76305-01",
         "codeInsee": "76305",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Gonfreville-l'Orcher",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1074,75 +1124,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1829084,
-          49.7714635
-        ]
-      },
-      "properties": {
-        "id": "cij-76321-01",
-        "codeInsee": "76321",
-        "dateMiseAJour": "2012-12-20",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Les Grandes-Ventes",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": "2, place de l'Église",
-          "CodePostal": "76950",
-          "NomCommune": "Les Grandes-Ventes",
-          "Localisation": {
-            "Latitude": "49.7714635",
-            "Longitude": "1.1829084",
-            "Précision": "6"
-          },
-          "Accessibilité": {
-            "type": "NAC"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 85 99 85",
-          "Télécopie": "+33 2 35 04 32 57",
-          "Email": "mlr@talou.org"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "16:00:00"
-                }
-              ]
-            },
-            {
-              "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.4658299,
           49.5809229
         ]
@@ -1150,7 +1131,7 @@
       "properties": {
         "id": "cij-76114-01",
         "codeInsee": "76114",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bolbec",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1175,7 +1156,7 @@
         "CoordonnéesNum": {
           "Téléphone": "02 35 31 05 35",
           "Télécopie": "02 35 31 43 36",
-          "Email": "mjcbolbec.pij@wanadoo.fr",
+          "Email": "contact@mjc.bolbec.fr",
           "Url": "http://www.mjc-bolbec.fr"
         },
         "Ouverture": {
@@ -1202,7 +1183,7 @@
       "properties": {
         "id": "cij-76447-01",
         "codeInsee": "76447",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Montivilliers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1210,7 +1191,7 @@
           "type": "géopostale",
           "Ligne": [
             "Service enfance jeunesse scolaire",
-            "34, rue du Pont-Callouard"
+            "34 rue du Pont-Callouard"
           ],
           "CodePostal": "76290",
           "NomCommune": "Montivilliers",
@@ -1224,8 +1205,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 30 96 45",
-          "Télécopie": "+33 2 35 30 96 56",
+          "Téléphone": "02 35 30 96 45",
+          "Télécopie": "02 35 30 96 56",
           "Email": "jeunesse@ville-montivilliers.fr",
           "Url": "http://www.ville-montivilliers.fr"
         },
@@ -1235,7 +1216,7 @@
               "début": "lundi",
               "fin": "mardi",
               "PlageH": {
-                "début": "08:15:00",
+                "début": "08:00:00",
                 "fin": "17:00:00"
               }
             },

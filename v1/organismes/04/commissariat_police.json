@@ -32,7 +32,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 92 70 17 74",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 92 70 17 74"
+          },
           "Télécopie": "04 92 70 17 16",
           "Email": "ddsp04-csp-manosque@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
@@ -86,12 +89,14 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 92 30 86 60",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "04 92 30 86 60"
+          },
           "Télécopie": "04 92 32 41 32",
           "Email": "ddsp04@interieur.gouv.fr",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

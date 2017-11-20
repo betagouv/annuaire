@@ -150,6 +150,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.367563,
+          49.51652
+        ]
+      },
+      "properties": {
+        "id": "msap-55351-01",
+        "codeInsee": "55351",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Montmédy",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 Place Wilson",
+          "CodePostal": "55600",
+          "NomCommune": "Montmédy",
+          "Localisation": {
+            "Latitude": "49.51652",
+            "Longitude": "5.367563",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 80 01 01",
+          "Email": "csc.msap@orange.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/montmedy"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506097,
           48.513434
         ]
@@ -175,6 +209,56 @@
         "CoordonnéesNum": {
           "Email": "msap.gondrecourt-le-chateau@laposte.fr",
           "Url": "https://www.maisondeservicesaupublic.fr/content/gondrecourt-le-chateau-bureau-de-poste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.322107,
+          48.688122
+        ]
+      },
+      "properties": {
+        "id": "msap-55291-01",
+        "codeInsee": "55291",
+        "dateMiseAJour": "2017-10-24",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Ligny-en-Barrois",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "12-14 rue des Etats-Unis",
+          "CodePostal": "55500",
+          "NomCommune": "Ligny-en-Barrois",
+          "Localisation": {
+            "Latitude": "48.688122",
+            "Longitude": "5.322107",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "03 29 78 29 60",
+          "Email": "msap@cias.meusegrandsud.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr/content/ligny-en-barrois"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
+              }
+            ]
+          }
         }
       }
     },

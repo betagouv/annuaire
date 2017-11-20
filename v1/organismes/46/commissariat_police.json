@@ -32,11 +32,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 65 23 17 17",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "05 65 23 17 17"
+          },
           "Télécopie": "05 65 35 37 10",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     }
   ]

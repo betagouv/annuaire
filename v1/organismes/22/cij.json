@@ -13,7 +13,7 @@
       "properties": {
         "id": "cij-22194-01",
         "codeInsee": "22194",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plestin-les-Grèves",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -32,12 +32,21 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 54 11 10",
+          "Téléphone": "02 96 54 11 10",
           "Email": "pij@plestinlesgreves.com",
           "Url": "http://www.ij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "15:30:00",
+                "fin": "18:30:00"
+              },
+              "Note": "Accueil fermé pendant les vacances scolaires."
+            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -64,15 +73,6 @@
                 "fin": "12:00:00"
               },
               "Note": "Accueil fermé pendant les vacances scolaires."
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Accueil fermé pendant les vacances scolaires."
             }
           ]
         }
@@ -90,16 +90,15 @@
       "properties": {
         "id": "cij-22070-01",
         "codeInsee": "22070",
-        "dateMiseAJour": "2012-12-20",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Guingamp",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Mission locale",
-            "Bâtiment Guingamp-Émergence",
-            "10, rue du 48e-Régiment-d'Infanterie"
+            "2 boulevard Mendes France",
+            "Pole jeunesse de Guingamp"
           ],
           "CodePostal": "22200",
           "NomCommune": "Guingamp",
@@ -109,15 +108,12 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC",
-            "$t": "ascenseur"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 40 17 30",
-          "Télécopie": "+33 2 96 40 17 39",
-          "Email": "guingamp@mloca.fr",
-          "Url": "http://www.crij-bretagne.com"
+          "Téléphone": "02 96 43 73 98",
+          "Email": "pij.guingamp@gp3a.bzh"
         },
         "Ouverture": {
           "PlageJ": [
@@ -158,14 +154,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4447037,
-          48.8108488
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-22168-01",
         "codeInsee": "22168",
-        "dateMiseAJour": "2011-10-13",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Perros-Guirec",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -176,34 +172,29 @@
             "16 place du Sergent l'Hévéder"
           ],
           "CodePostal": "22700",
-          "NomCommune": "PERROS GUIREC",
-          "Localisation": {
-            "Latitude": "48.8108488",
-            "Longitude": "-3.4447037",
-            "Précision": "9"
-          }
+          "NomCommune": "Perros-Guirec"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 49 81 00",
-          "Email": "celine.colin@mairie-perros-guirec.fr",
+          "Téléphone": "02 96 49 81 00",
+          "Email": "enfancejeunesse@perros-guirec.com",
           "Url": "http://www.crij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
               }
             },
             {
@@ -224,77 +215,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4677425,
-          48.7463302
+          -3.4607234,
+          48.7303074
         ]
       },
       "properties": {
         "id": "cij-22113-01",
         "codeInsee": "22113",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Lannion",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Boulevard d'Armor",
+          "Ligne": [
+            "Espace Sainte-Anne",
+            "2 rue Kéranpont"
+          ],
           "CodePostal": "22300",
           "NomCommune": "Lannion",
           "Localisation": {
-            "Latitude": "48.7463302",
-            "Longitude": "-3.4677425",
-            "Précision": "6"
+            "Latitude": "48.7303074",
+            "Longitude": "-3.4607234",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 48 47 36",
+          "Téléphone": "06 77 82 47 23",
           "Email": "pij@ville-lannion.fr",
           "Url": "http://www.crij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "13:15:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "19:00:00"
+                }
+              ]
             },
             {
               "début": "samedi",
               "fin": "samedi",
-              "PlageH": {
-                "début": "13:15:00",
-                "fin": "18:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -312,7 +294,7 @@
       "properties": {
         "id": "cij-22215-01",
         "codeInsee": "22215",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ploufragan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -411,7 +393,7 @@
       "properties": {
         "id": "cij-22360-01",
         "codeInsee": "22360",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Trégueux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -433,20 +415,21 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 71 36 17",
-          "Télécopie": "+33 2 96 71 05 08",
+          "Téléphone": "02 96 71 36 17",
+          "Télécopie": "02 96 71 05 08",
           "Email": "mguimard@ville-tregueux.fr",
           "Url": "http://www.tregueux.org"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "16:00:00",
                 "fin": "18:00:00"
-              }
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous pendant les congés scolaires et rendez-vous possible hors des horaires habituels."
             },
             {
               "début": "mercredi",
@@ -463,13 +446,12 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "16:00:00",
                 "fin": "18:00:00"
-              },
-              "Note": "Accueil ouvert uniquement sur rendez-vous pendant les congés scolaires."
+              }
             }
           ]
         }
@@ -480,35 +462,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.7566963,
-          48.3462729
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-22203-01",
         "codeInsee": "22203",
-        "dateMiseAJour": "2017-08-24",
+        "dateMiseAJour": "2017-10-20",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ploeuc-L'Hermitage",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Point information jeunesse du Centre Armor",
-            "24 place Louis Morel"
-          ],
+          "Ligne": "11 A rue de l'Eglise",
           "CodePostal": "22150",
-          "NomCommune": "Ploeuc-L'Hermitage",
-          "Localisation": {
-            "Latitude": "48.3462729",
-            "Longitude": "-2.7566963",
-            "Précision": "9"
-          }
+          "NomCommune": "Ploeuc-L'Hermitage"
         },
         "CoordonnéesNum": {
           "Téléphone": "02 96 64 26 33",
-          "Email": "jeunesse@cap4.com",
-          "Url": "http://www.cap4.com/Point-information-jeunesse_111.html"
+          "Email": "jeunesse@syndicat-de-lorge.fr",
+          "Url": "http://www.ploeuclhermitage.bzh"
         },
         "Ouverture": {
           "PlageJ": [
@@ -517,17 +491,22 @@
               "fin": "vendredi",
               "PlageH": {
                 "début": "16:00:00",
-                "fin": "18:00:00"
+                "fin": "19:00:00"
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "16:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "2ème et 4ème samedi du mois Vacances scolaire : Mercredi et vendredi de 16h à 18h"
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
             }
           ]
         }
@@ -538,35 +517,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.47371280193,
-          48.6117443747
+          null,
+          null
         ]
       },
       "properties": {
         "id": "cij-22207-01",
         "codeInsee": "22207",
-        "dateMiseAJour": "2017-03-27",
+        "dateMiseAJour": "2017-10-24",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plouaret",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Communauté de communes de Beg Ar C'hra",
+            "CIAS Lannion-Trégor communauté",
             "Rue Louis Prigent",
             "BP 4"
           ],
           "CodePostal": "22420",
-          "NomCommune": "PLOUARET",
-          "Localisation": {
-            "Latitude": "48.6117443747",
-            "Longitude": "-3.47371280193",
-            "Précision": "9"
-          }
+          "NomCommune": "Plouaret"
         },
         "CoordonnéesNum": {
           "Téléphone": "02 96 05 55 88",
-          "Télécopie": "02 96 38 35 19",
           "Email": "pij@lannion-tregor.com",
           "Url": "http://www.crij-bretagne.com"
         },
@@ -632,7 +605,7 @@
       "properties": {
         "id": "cij-22020-01",
         "codeInsee": "22020",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Broons",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -655,29 +628,28 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 96 84 73 36",
-          "Télécopie": "02 96 84 67 90",
           "Email": "oiscl@wanadoo.fr",
           "Url": "http://www.crij-bretagne.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              },
-              "Note": "Accueil ouvert jeudi de 9h à 12h et vendredi de 14h à 16h pendant les vacances scolaires."
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
-                "fin": "18:00:00"
+                "fin": "17:30:00"
               },
-              "Note": "Accueil ouvert mardi et mercredi de 14h à 18h pendant les vacances scolaires."
+              "Note": "Accueil ouvert mardi et mercredi de 14h à 17h pendant les vacances scolaire."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              },
+              "Note": "Accueil ouvert jeudi de 9h à 12h et vendredi de 14h à 17h pendant les vacances scolaires."
             }
           ]
         }
@@ -695,13 +667,13 @@
       "properties": {
         "id": "cij-22362-01",
         "codeInsee": "22362",
-        "dateMiseAJour": "2014-12-16",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Tréguier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2 bis, rue Pasteur",
+          "Ligne": "2 bis rue Pasteur",
           "CodePostal": "22220",
           "NomCommune": "Tréguier",
           "Localisation": {
@@ -714,128 +686,65 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 92 97 60",
+          "Téléphone": "02 96 92 97 60",
           "Email": "pij.maisondesassos@orange.fr",
-          "Url": "http://www.ij-bretagne.com"
-        },
-        "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:30:00"
-              },
-              "Note": "Accueil ouvert uniquement sur rendez-vous."
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:30:00"
-              },
-              "Note": "Accueil ouvert uniquement sur rendez-vous."
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7528433,
-          48.1795477
-        ]
-      },
-      "properties": {
-        "id": "cij-22136-01",
-        "codeInsee": "22136",
-        "dateMiseAJour": "2011-10-13",
-        "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Loudéac - La Cidéral",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "géopostale",
-          "Ligne": [
-            "1 rue de la Chesnaie",
-            "Point information jeunesse du CIAS de la Cidéral"
-          ],
-          "CodePostal": "22600",
-          "NomCommune": "LOUDEAC",
-          "Localisation": {
-            "Latitude": "48.1795477",
-            "Longitude": "-2.7528433",
-            "Précision": "9"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "+33 2 96 28 65 89",
-          "Télécopie": "+33 2 96 28 15 31",
-          "Email": "pij@cideral.fr",
-          "Url": "http://www.ij-bretagne.com/blogs/loudeac"
+          "Url": "http://www.ville-treguier.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
               "fin": "lundi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Uniquement en auto-documentation."
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "17:45:00"
+                }
+              ]
             },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "15:00:00",
-                "fin": "17:30:00"
+                "fin": "17:45:00"
               },
-              "Note": "Auto-documentation de 8h30 à 17h30."
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": [
                 {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
                 },
                 {
-                  "début": "10:00:00",
-                  "fin": "12:30:00"
+                  "début": "15:00:00",
+                  "fin": "17:45:00"
                 }
-              ],
-              "Note": "Auto-documentation de 8h30 à 17h30."
+              ]
             },
             {
               "début": "jeudi",
               "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ],
-              "Note": "Uniquement en auto-documentation."
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "17:45:00"
+              },
+              "Note": "Accueil ouvert uniquement sur rendez-vous."
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "13:00:00",
-                "fin": "17:30:00"
-              },
-              "Note": "Auto-documentation de 8h30 à 17h."
+                "début": "10:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -853,15 +762,15 @@
       "properties": {
         "id": "cij-22121-01",
         "codeInsee": "22121",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Lanvollon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "Leff Armor communauté",
             "Rue du Moulin-de-Blanchardeau",
-            "Communauté de communes Lanvollon-Plouha",
             "CS 636"
           ],
           "CodePostal": "22290",
@@ -878,8 +787,8 @@
         "CoordonnéesNum": {
           "Téléphone": "02 96 70 17 04",
           "Télécopie": "02 96 70 29 18",
-          "Email": "jeunesse@cc-lanvollon-plouha.fr",
-          "Url": "http://www.cc-lanvollon-plouha.com"
+          "Email": "jeunesse@leffarmor.fr",
+          "Url": "http://www.leffcommunaute.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -888,14 +797,14 @@
             "PlageH": [
               {
                 "début": "09:00:00",
-                "fin": "12:30:00"
+                "fin": "12:00:00"
               },
               {
-                "début": "13:30:00",
-                "fin": "17:30:00"
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             ],
-            "Note": "Accueil possible sur rendez-vous de 9h à 12h30 et de 13h30 à 17h30."
+            "Note": "Accueil ouvert uniquement sur rendez-vous."
           }
         }
       }
@@ -935,22 +844,6 @@
           "Téléphone": "02 96 43 35 08",
           "Email": "pij@cc-belle-isle-en-terre.fr",
           "Url": "http://www.cc-belle-isle-en-terre.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
         }
       }
     },
@@ -966,7 +859,7 @@
       "properties": {
         "id": "cij-22187-01",
         "codeInsee": "22187",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-23",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plérin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -974,7 +867,7 @@
           "type": "géopostale",
           "Ligne": [
             "Centre social",
-            "7 rue de la Croix-Mérovingienne"
+            "rue de la Croix"
           ],
           "CodePostal": "22190",
           "NomCommune": "Plérin",
@@ -988,80 +881,35 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 74 68 51",
-          "Télécopie": "02 96 74 76 53",
-          "Email": "centre.social.plerin@cnafmail.fr",
-          "Url": "http://www.crij-bretagne.com"
+          "Téléphone": "02 96 79 98 84",
+          "Email": "pij@ville-plerin.fr",
+          "Url": "http://www.ville-plerin.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "mercredi",
               "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert de 9h à 12h et de 14h à 17h pendant les congés scolaires."
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert de 9h à 12h et de 14h à 17h pendant les congés scolaires."
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
             },
             {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
+                "début": "10:00:00",
+                "fin": "12:00:00"
               }
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert de 9h à 12h et de 14h à 17h pendant les congés scolaires."
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert de 9h à 12h et de 14h à 17h pendant les congés scolaires."
+              "PlageH": {
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
             }
           ]
         }
@@ -1072,60 +920,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.9887685,
-          48.5389037
+          -2.980197,
+          48.5396
         ]
       },
       "properties": {
         "id": "cij-22206-01",
         "codeInsee": "22206",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-19",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Plouagat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Le Leff Communauté",
-              "40 bis rue de Saint-Brieuc"
-            ],
-            "CodePostal": "22170",
-            "NomCommune": "Plouagat",
-            "Localisation": {
-              "Latitude": "48.5389037",
-              "Longitude": "-2.9887685",
-              "Précision": "6"
-            },
-            "Accessibilité": {
-              "type": "ACC"
-            }
+        "Adresse": {
+          "type": "physique",
+          "Ligne": "1 rue du Collège",
+          "CodePostal": "22170",
+          "NomCommune": "Plouagat",
+          "Localisation": {
+            "Latitude": "48.5396",
+            "Longitude": "-2.980197",
+            "Précision": "6"
           },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Communauté de commune du Leff Communauté",
-              "31 rue de la Gare",
-              "BP 6"
-            ],
-            "CodePostal": "22170",
-            "NomCommune": "Châtelaudren",
-            "Localisation": {
-              "Latitude": "48.5372371",
-              "Longitude": "-2.9722838",
-              "Précision": "6"
-            }
+          "Accessibilité": {
+            "type": "ACC"
           }
-        ],
+        },
         "CoordonnéesNum": {
-          "Téléphone": "02 96 79 79 12",
-          "Télécopie": "02 96 79 77 78",
-          "Email": "cdc@leffcommunaute.fr",
+          "Téléphone": "02 96 79 79 20",
+          "Email": "pierre.collet@leffcommunaute.fr",
           "Url": "http://www.cdc-chatelaudren-plouagat.com"
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "lundi",
+            "début": "mardi",
             "fin": "vendredi",
             "PlageH": [
               {
@@ -1134,7 +961,7 @@
               },
               {
                 "début": "14:00:00",
-                "fin": "17:00:00"
+                "fin": "18:00:00"
               }
             ]
           }
@@ -1153,18 +980,18 @@
       "properties": {
         "id": "cij-22093-01",
         "codeInsee": "22093",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Point information jeunesse - Lamballe",
+        "Nom": "Point information jeunesse - Lamballe-Terre-et-Mer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Espace Lamballe Communauté",
+            "Espace Lamballe Terre et Mer",
             "41 rue Saint-Martin"
           ],
           "CodePostal": "22400",
-          "NomCommune": "Lamballe",
+          "NomCommune": "Lamballe-Terre-et-Mer",
           "Localisation": {
             "Latitude": "48.4725188",
             "Longitude": "-2.5179934",
@@ -1176,11 +1003,25 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 96 50 87 90",
-          "Email": "pij@lamballe-communaute.fr",
+          "Email": "pij@lamballe-terre-mer.bzh",
           "Url": "http://www.ij-bretagne.com/lamballe"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
             {
               "début": "vendredi",
               "fin": "vendredi",
@@ -1197,20 +1038,6 @@
                 "fin": "12:00:00"
               },
               "Note": "Accueil ouvert uniquement les deux premiers samedis du mois."
-            },
-            {
-              "début": "mardi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "10:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
             }
           ]
         }
@@ -1228,7 +1055,7 @@
       "properties": {
         "id": "cij-22038-01",
         "codeInsee": "22038",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Châtelaudren - Plouagat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1248,7 +1075,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "02 96 79 79 12",
-          "Email": "pierre.collet@leffcommunaute.fr",
+          "Email": "jeunesse@leffarmor.fr",
           "Url": "http://www.le-pass-age.fr"
         },
         "Ouverture": {

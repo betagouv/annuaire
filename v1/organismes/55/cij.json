@@ -13,9 +13,9 @@
       "properties": {
         "id": "cij-55427-01",
         "codeInsee": "55427",
-        "dateMiseAJour": "2015-05-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
-        "Nom": "Kiosque information jeunesse - Revigny",
+        "Nom": "Kiosque information jeunesse - Revigny-sur-Ornain",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -32,8 +32,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 29 78 76 73",
-          "Télécopie": "+33 3 29 70 83 72",
+          "Téléphone": "03 29 78 76 73",
+          "Télécopie": "03 29 70 83 72",
           "Email": "relais-emploi@copary.fr",
           "Url": "http://www.jeunesenlorraine.org"
         },
@@ -41,7 +41,7 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mercredi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -56,20 +56,6 @@
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -161,7 +147,7 @@
       "properties": {
         "id": "cij-55029-01",
         "codeInsee": "55029",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Bar-le-Duc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -186,19 +172,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:45:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "17:45:00"
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -217,14 +203,14 @@
       "properties": {
         "id": "cij-55122-01",
         "codeInsee": "55122",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Commercy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Mission locale du Sud - Meusien",
+            "Mission locale du Sud-Meusien",
             "54 bis avenue Stanislas"
           ],
           "CodePostal": "55200",
@@ -241,7 +227,7 @@
         "CoordonnéesNum": {
           "Téléphone": "03 29 91 07 07",
           "Télécopie": "03 29 91 04 18",
-          "Email": "mission.locale.cy@wanadoo.fr",
+          "Email": "c.germain.mlsm@orange.fr",
           "Url": "http://www.jeunesenlorraine.org"
         },
         "Ouverture": {
@@ -284,13 +270,13 @@
       "properties": {
         "id": "cij-55291-01",
         "codeInsee": "55291",
-        "dateMiseAJour": "2015-05-06",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Point information jeunesse - Ligny-en-Barrois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "7, rue Jules-Ferry",
+          "Ligne": "7 rue Jules-Ferry",
           "CodePostal": "55500",
           "NomCommune": "Ligny-en-Barrois",
           "Localisation": {
@@ -303,7 +289,7 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 29 78 28 59",
+          "Téléphone": "03 29 78 28 59",
           "Email": "afort@lignyenbarrois.fr",
           "Url": "http://www.jeunesenlorraine.org"
         },
@@ -355,7 +341,7 @@
       "properties": {
         "id": "cij-55117-01",
         "codeInsee": "55117",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-10-09",
         "pivotLocal": "cij",
         "Nom": "Kiosque information jeunesse - Clermont-en-Argonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -374,7 +360,8 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "ACC",
+            "$t": "rampe"
           }
         },
         "CoordonnéesNum": {
@@ -389,7 +376,7 @@
             "fin": "vendredi",
             "PlageH": {
               "début": "13:00:00",
-              "fin": "16:30:00"
+              "fin": "16:00:00"
             },
             "Note": "Accueil ouvert uniquement sur rendez-vous du lundi au jeudi."
           }

@@ -29,10 +29,12 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 54 43 15 58",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 54 43 15 58"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
-        },
-        "Commentaire": "Appeler le 17 en cas d'urgence"
+        }
       }
     },
     {
@@ -66,7 +68,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 54 55 17 78",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 54 55 17 78"
+          },
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
         "Ouverture": {
@@ -118,7 +123,10 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 54 73 41 40",
+          "Téléphone": {
+            "coût": "appeler le 17 en cas d'urgence",
+            "$t": "02 54 73 41 40"
+          },
           "Télécopie": "02 54 73 21 44",
           "Url": "http://www.police-nationale.interieur.gouv.fr"
         },
