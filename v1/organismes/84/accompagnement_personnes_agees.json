@@ -6,38 +6,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.835063,
-          43.951921
+          4.872298,
+          43.981232
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-84007-01",
         "codeInsee": "84007",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-960",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Avignon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour La Maison",
-            "Jean Touraille",
-            "31 route de Morières"
+            "La maison Jean-Touraille",
+            "Accueil de jour",
+            "615 chemin des Petits-Rougiers"
           ],
-          "CodePostal": "84000",
-          "NomCommune": "Avignon",
+          "CodePostal": "84130",
+          "NomCommune": "Le Pontet",
           "Localisation": {
-            "Latitude": "43.951921",
-            "Longitude": "4.835063",
+            "Latitude": "43.981232",
+            "Longitude": "4.872298",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 32 74 17 84",
-          "Email": "maisonjeantouraille@gmail.com"
+          "Téléphone": "04 32 74 17 84",
+          "Email": "maisonjeantouraille@gmail.com",
+          "Url": "http://www.francealzheimer84.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
       }
     },
     {
@@ -45,14 +57,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.049389,
-          43.919865
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-84054-01",
         "codeInsee": "84054",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-961",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - L'Isle-sur-la-Sorgue",
@@ -66,15 +78,13 @@
             "BP 58"
           ],
           "CodePostal": "84800",
-          "NomCommune": "L'Isle-sur-la-Sorgue",
-          "Localisation": {
-            "Latitude": "43.919865",
-            "Longitude": "5.049389",
-            "Précision": "8"
-          }
+          "NomCommune": "L'Isle-sur-la-Sorgue"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 21 34 00",
+          "Téléphone": {
+            "coût": "04 90 20 84 24",
+            "$t": "04 90 21 34 00"
+          },
           "Email": "hl.is.direction@wanadoo.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."

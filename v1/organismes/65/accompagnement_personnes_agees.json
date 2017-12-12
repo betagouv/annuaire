@@ -13,16 +13,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-65440-01",
         "codeInsee": "65440",
-        "dateMiseAJour": "2015-08-11",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "Clic-1201",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Tarbes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "2 rue de l'Ayguerote",
-            "Plateforme d'accompagnement et de répit des Hautes-Pyrénées"
+            "Plateforme d'accompagnement et de répit des Hautes-Pyrénées",
+            "Site de l'Ayguerote",
+            "2 rue de l'Ayguerote"
           ],
           "CodePostal": "65000",
           "NomCommune": "Tarbes",
@@ -30,12 +30,26 @@
             "Latitude": "43.234393",
             "Longitude": "0.065956",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 62 54 66 60"
+          "Téléphone": "05 62 54 66 60",
+          "Email": "lzeriouh@ch-tarbes-vic.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
       }
     }
   ]

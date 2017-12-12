@@ -13,17 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-56024-01",
         "codeInsee": "56024",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-919",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bréhan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
             "EHPAD Barr-Héol",
-            "Lieu-dit La Touche Aguesse",
-            "BP 11"
+            "58 rue Jean-de-Beaumanoir"
           ],
           "CodePostal": "56580",
           "NomCommune": "Bréhan",
@@ -31,12 +29,33 @@
             "Latitude": "48.057201",
             "Longitude": "-2.689558",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 38 80 06"
+          "Téléphone": "02 97 38 80 06",
+          "Télécopie": "02 97 38 87 53",
+          "Email": "accueil@barr-heol.fr",
+          "Url": "http://www.barr-heol.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -44,35 +63,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.736239,
-          47.658948
+          -2.7367612,
+          47.6596525
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-56260-01",
         "codeInsee": "56260",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-918",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vannes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "EHPAD Beaupré-Lalande",
-            "26 rue du RICM"
-          ],
+          "Ligne": "6 rue Charles-Levens",
           "CodePostal": "56000",
           "NomCommune": "Vannes",
           "Localisation": {
-            "Latitude": "47.658948",
-            "Longitude": "-2.736239",
+            "Latitude": "47.6596525",
+            "Longitude": "-2.7367612",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 97 01 37 30",
-          "Email": "beauprelalande@mutualite56.fr"
+          "Téléphone": "02 97 01 38 75",
+          "Email": "contact@lerepit.fr",
+          "Url": "http://www.lerepit.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }

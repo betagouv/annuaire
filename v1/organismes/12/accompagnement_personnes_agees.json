@@ -13,9 +13,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-12151-01",
         "codeInsee": "12151",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-866",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Montézic",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -27,13 +26,27 @@
             "Latitude": "44.709419",
             "Longitude": "2.640329",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 65 44 89 42",
-          "Email": "pascale.lord@levaladou.com"
+          "Téléphone": "05 65 44 89 42",
+          "Email": "contact@levaladou.com",
+          "Url": "http://www.levaladou.com"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "jeudi",
+            "PlageH": {
+              "début": "14:30:00",
+              "fin": "16:30:00"
+            },
+            "Note": "Accueil ouvert uniquement sur rendez-vous le matin."
+          }
+        }
       }
     },
     {
@@ -48,16 +61,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-12145-01",
         "codeInsee": "12145",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-865",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millau",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Les Cheveux d'Ange",
+            "EHPAD Les Cheveux d'Ange",
             "26 rue Lucien-Costes"
           ],
           "CodePostal": "12100",
@@ -66,13 +77,34 @@
             "Latitude": "44.10556",
             "Longitude": "3.083003",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 65 58 44 20",
-          "Email": "plateformerepit.lescheveuxdange@orange.fr"
+          "Téléphone": "05 65 58 44 20",
+          "Télécopie": "05 65 58 44 21",
+          "Email": "plateformerepit.lescheveuxdange@orange.fr",
+          "Url": "http://www.umm.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            ],
+            "Note": "Accueil préférable sur rendez-vous."
+          }
+        }
       }
     }
   ]

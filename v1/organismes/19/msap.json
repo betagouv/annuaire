@@ -13,25 +13,28 @@
       "properties": {
         "id": "msap-19261-01",
         "codeInsee": "19261",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Sornac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "1 rue de la république",
+          "type": "géopostale",
+          "Ligne": "1 rue de la République",
           "CodePostal": "19290",
           "NomCommune": "Sornac",
           "Localisation": {
             "Latitude": "45.6667",
             "Longitude": "2.193418",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 19 07 81 62",
           "Email": "maisondepartementsornac@correze.fr",
-          "Url": "http://www.correze.fr/actions-sociales-sante-et-familles/les-sites-de-proximite/les-maisons-du-departement/"
+          "Url": "http://www.correze.fractions-sociales-sante-et-familles/les-sites-de-proximite/les-maisons-du-departement"
         },
         "Ouverture": {
           "PlageJ": [
@@ -72,32 +75,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.838249,
-          44.978231
+          1.76370819,
+          44.9700968
         ]
       },
       "properties": {
         "id": "msap-19019-01",
         "codeInsee": "19019",
-        "dateMiseAJour": "2016-10-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Beaulieu",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Rue Mombrial",
           "CodePostal": "19120",
           "NomCommune": "Beaulieu-sur-Dordogne",
           "Localisation": {
-            "Latitude": "44.978231",
-            "Longitude": "1.838249",
-            "Précision": "1"
+            "Latitude": "44.9700968",
+            "Longitude": "1.76370819",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 55 25 76 12",
-          "Email": "rsp.mairieayen@orange.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/beaulieu"
+          "Téléphone": "05 19 07 81 12",
+          "Email": "maisondepartementbeaulieu@correze.fr",
+          "Url": "http://www.correze.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -122,48 +128,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.098499,
-          45.138481
+          2.0985008,
+          45.1384834
         ]
       },
       "properties": {
         "id": "msap-19237-01",
         "codeInsee": "19237",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Saint-Privat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "23 rue de la Xaintrie",
           "CodePostal": "19220",
           "NomCommune": "Saint-Privat",
           "Localisation": {
-            "Latitude": "45.138481",
-            "Longitude": "2.098499",
+            "Latitude": "45.1384834",
+            "Longitude": "2.0985008",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 19 07 81 10",
           "Email": "nvidal@correze.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-privat"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "mardi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -179,120 +204,138 @@
       "properties": {
         "id": "msap-19202-01",
         "codeInsee": "19202",
-        "dateMiseAJour": "2017-02-06",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Sainte-Fereole",
+        "Nom": "Maison de services au public - Sainte-Féréole",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "4 rue du 14 Juillet",
+          "Ligne": [
+            "Bureau de poste",
+            "4 rue du 14-Juillet"
+          ],
           "CodePostal": "19270",
           "NomCommune": "Sainte-Féréole",
           "Localisation": {
             "Latitude": "45.228067",
             "Longitude": "1.581188",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "05 55 85 74 00",
           "Email": "msap.ste-fereole@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/sainte-fereole-bureau-de-poste"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.926797,
-          45.598004
-        ]
-      },
-      "properties": {
-        "id": "msap-19033-01",
-        "codeInsee": "19033",
-        "dateMiseAJour": "2016-10-25",
-        "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Bugeat",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "physique",
-          "Ligne": "9 rue de la République",
-          "CodePostal": "19170",
-          "NomCommune": "Bugeat",
-          "Localisation": {
-            "Latitude": "45.598004",
-            "Longitude": "1.926797",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Email": "msap.bugeat@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/bugeat-bureau-de-poste"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.326359,
-          45.24653
-        ]
-      },
-      "properties": {
-        "id": "msap-19015-01",
-        "codeInsee": "19015",
-        "dateMiseAJour": "2016-09-02",
-        "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Ayen",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "physique",
-          "Ligne": "41 place Louis Mareuse",
-          "CodePostal": "19310",
-          "NomCommune": "Ayen",
-          "Localisation": {
-            "Latitude": "45.24653",
-            "Longitude": "1.326359",
-            "Précision": "8"
-          }
-        },
-        "CoordonnéesNum": {
-          "Téléphone": "05 55 25 76 12",
-          "Email": "rsp.mairieayen@orange.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/ayen"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "16:30:00"
+                  "début": "13:30:00",
+                  "fin": "15:00:00"
                 }
               ]
             },
             {
-              "début": "mardi",
+              "début": "lundi",
               "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "après-midi sur rendez-vous"
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:00:00"
+                }
+              ]
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:15:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:45:00"
+                }
+              ],
+              "Note": "Heure précise de fermeture : 17h50."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.926671,
+          45.597879
+        ]
+      },
+      "properties": {
+        "id": "msap-19033-01",
+        "codeInsee": "19033",
+        "dateMiseAJour": "2017-11-13",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Bugeat",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "9 rue de la République"
+          ],
+          "CodePostal": "19170",
+          "NomCommune": "Bugeat",
+          "Localisation": {
+            "Latitude": "45.597879",
+            "Longitude": "1.926671",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 95 50 00",
+          "Email": "msap.bugeat@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -311,9 +354,50 @@
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
-            },
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3262796,
+          45.2465746
+        ]
+      },
+      "properties": {
+        "id": "msap-19015-01",
+        "codeInsee": "19015",
+        "dateMiseAJour": "2017-11-13",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Ayen",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "41 place Louis-Mareuse",
+          "CodePostal": "19310",
+          "NomCommune": "Ayen",
+          "Localisation": {
+            "Latitude": "45.2465746",
+            "Longitude": "1.3262796",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "05 55 25 76 12",
+          "Email": "rsp.mairieayen@orange.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
             {
-              "début": "vendredi",
+              "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -324,16 +408,16 @@
                   "début": "14:00:00",
                   "fin": "16:30:00"
                 }
-              ]
+              ],
+              "Note": "Accueil ouvert uniquement sur rendez-vous le mardi et le jeudi après-midi."
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
-              },
-              "Note": "après-midi sur rendez-vous"
+              }
             }
           ]
         }
@@ -351,12 +435,12 @@
       "properties": {
         "id": "msap-19080-01",
         "codeInsee": "19080",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Eygurande",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "2 rue de l'Église",
           "CodePostal": "19340",
           "NomCommune": "Eygurande",
@@ -364,28 +448,47 @@
             "Latitude": "45.662037",
             "Longitude": "2.451717",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 19 07 81 72",
           "Email": "ldesseauve@correze.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/eygurande"
+          "Url": "http://www.correze.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -401,30 +504,64 @@
       "properties": {
         "id": "msap-19062-01",
         "codeInsee": "19062",
-        "dateMiseAJour": "2017-02-06",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Corrèze",
+        "Nom": "Maison de services au public - Corrèze",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "place de la mairie",
+          "Ligne": [
+            "Bureau de poste",
+            "Place de la Mairie"
+          ],
           "CodePostal": "19800",
           "NomCommune": "Corrèze",
           "Localisation": {
             "Latitude": "45.372183",
             "Longitude": "1.874326",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 55 21 30 58",
           "Email": "msap.correze@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/correze-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "jeudi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:45:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
               "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -461,30 +598,64 @@
       "properties": {
         "id": "msap-19124-01",
         "codeInsee": "19124",
-        "dateMiseAJour": "2017-02-06",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Mansac",
+        "Nom": "Maison de services au public - Mansac",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "23 rue principe",
+          "Ligne": [
+            "Bureau de poste",
+            "23 rue Principale"
+          ],
           "CodePostal": "19520",
           "NomCommune": "Manzac",
           "Localisation": {
             "Latitude": "45.141687",
             "Longitude": "1.365369",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 55 85 20 00",
           "Email": "msap.mansac@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/mansac-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
               "fin": "vendredi",
               "PlageH": [
                 {
@@ -514,32 +685,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.720712,
-          45.583325
+          1.720728,
+          45.583304
         ]
       },
       "properties": {
         "id": "msap-19036-01",
         "codeInsee": "19036",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Chamberet",
+        "Nom": "Maison de services au public - Chamberet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Place du Monument",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "Place du Monument"
+          ],
           "CodePostal": "19370",
           "NomCommune": "Chamberet",
           "Localisation": {
-            "Latitude": "45.583325",
-            "Longitude": "1.720712",
-            "Précision": "1"
+            "Latitude": "45.583304",
+            "Longitude": "1.720728",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 55 38 32 73",
           "Email": "msap.chamberet@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/chamberet-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -574,48 +751,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.723123,
-          45.123831
+          1.7232982,
+          45.1242065
         ]
       },
       "properties": {
         "id": "msap-19023-01",
         "codeInsee": "19023",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Beynat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Place du Foirail",
           "CodePostal": "19190",
           "NomCommune": "Beynat",
           "Localisation": {
-            "Latitude": "45.123831",
-            "Longitude": "1.723123",
-            "Précision": "1"
+            "Latitude": "45.1242065",
+            "Longitude": "1.7232982",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "05 19 07 81 21",
           "Email": "nderieux@correze.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/beynat"
+          "Url": "http://www.correze.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
-          }
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     }

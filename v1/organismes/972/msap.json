@@ -13,15 +13,18 @@
       "properties": {
         "id": "msap-97233-01",
         "codeInsee": "97233",
-        "dateMiseAJour": "2017-02-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Le Morne Vert",
+        "Nom": "Maison de services au public - Le Morne-Vert",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "place de la Chapelle",
+          "Ligne": [
+            "Bureau de poste",
+            "Place de la Chapelle"
+          ],
           "CodePostal": "97226",
-          "NomCommune": "Morne-Vert",
+          "NomCommune": "Le Morne-Vert",
           "Localisation": {
             "Latitude": "14.708149",
             "Longitude": "-61.144404",
@@ -30,7 +33,7 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.le-morne-vert@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/le-morne-vert-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.frcontent/le-morne-vert-bureau-de-poste"
         },
         "Ouverture": {
           "PlageJ": [

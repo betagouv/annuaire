@@ -13,25 +13,31 @@
       "properties": {
         "id": "msap-93051-01",
         "codeInsee": "93051",
-        "dateMiseAJour": "2016-11-17",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Point information médiation multi services - Noisy-Le-Grand",
+        "Nom": "Maison de services au public - Noisy-Le-Grand",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "11-15 Mail Fedérico Garci Lorca",
+          "type": "géopostale",
+          "Ligne": [
+            "Point information médiation multi-services",
+            "11-15 mail Fedérico-Garcia-Lorca"
+          ],
           "CodePostal": "93160",
           "NomCommune": "Noisy-le-Grand",
           "Localisation": {
             "Latitude": "48.839011",
             "Longitude": "2.557824",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "01 43 05 18 89",
           "Email": "lucile.le-terrier@pimms.org",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/noisy-le-grand"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -96,32 +102,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.519045,
-          48.946221
+          2.519077,
+          48.946207
         ]
       },
       "properties": {
         "id": "msap-93071-01",
         "codeInsee": "93071",
-        "dateMiseAJour": "2016-11-17",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Point information médiation multi services - Sevran",
+        "Nom": "Maison de services au public - Sevran",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "4 allée La Pérouse",
+          "type": "géopostale",
+          "Ligne": [
+            "Point information médiation multi-services",
+            "4 allée La-Pérouse"
+          ],
           "CodePostal": "93270",
           "NomCommune": "Sevran",
           "Localisation": {
-            "Latitude": "48.946221",
-            "Longitude": "2.519045",
+            "Latitude": "48.946207",
+            "Longitude": "2.519077",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "01 82 37 01 80",
           "Email": "sevran@pimms.org",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-sevran"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [

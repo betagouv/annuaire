@@ -10386,14 +10386,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.78064000607,
-          47.9986991882
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-45055-01",
         "codeInsee": "45055",
-        "dateMiseAJour": "2017-05-10",
+        "dateMiseAJour": "2017-11-09",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bricy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10402,11 +10402,6 @@
           "Ligne": "Place de la Mairie",
           "CodePostal": "45310",
           "NomCommune": "Bricy",
-          "Localisation": {
-            "Latitude": "47.9986991882",
-            "Longitude": "1.78064000607",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -10420,7 +10415,15 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "14:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
                 {

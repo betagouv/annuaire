@@ -13,15 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-31555-01",
         "codeInsee": "31555",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-890",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Toulouse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD domaine de la Cadène",
+            "EHPAD",
+            "Domaine de la Cadène",
             "15 impasse de la Cadène"
           ],
           "CodePostal": "31200",
@@ -30,11 +30,16 @@
             "Latitude": "43.657151",
             "Longitude": "1.424926",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 61 13 73 27",
-          "Email": "domainedelacadene@orange.fr"
+          "Téléphone": "05 61 13 73 27",
+          "Télécopie": "05 34 40 45 58",
+          "Email": "domainedelacadene@orange.fr",
+          "Url": "http://domainedelacadene.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }
@@ -51,16 +56,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-31565-01",
         "codeInsee": "31565",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-891",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Valentine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "SICASMIR de Saint-Gaudens",
+            "Accueil de jour",
             "1 chemin Ample"
           ],
           "CodePostal": "31800",
@@ -69,11 +73,15 @@
             "Latitude": "43.090603",
             "Longitude": "0.706688",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 62 00 15 65",
-          "Email": "centredejour@sicasmir.fr"
+          "Téléphone": "05 62 00 15 65",
+          "Email": "centredejour@sicasmir.fr",
+          "Url": "http://www.sicasmir.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }

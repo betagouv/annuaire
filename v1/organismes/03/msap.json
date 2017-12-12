@@ -13,25 +13,28 @@
       "properties": {
         "id": "msap-03103-01",
         "codeInsee": "03103",
-        "dateMiseAJour": "2016-09-02",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Le Donjon Val Libre",
+        "Nom": "Maison de services au public - Le Donjon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "5 Parc le Plessis",
+          "type": "géopostale",
+          "Ligne": "Rue de l'Épine",
           "CodePostal": "03130",
           "NomCommune": "Le Donjon",
           "Localisation": {
             "Latitude": "46.351035",
             "Longitude": "3.797097",
             "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 99 69 89",
-          "Email": "rsp-ledonjonvallibre@orange.fr",
-          "Url": "http://www.cc-donjonvallibre.fr/vie-pratique/vos-d%C3%A9marches-administratives/la-maison-de-services-au-public/"
+          "Email": "msap-le-donjon@interco-abl.fr",
+          "Url": "http://www.cc-donjonvallibre.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -63,25 +66,31 @@
       "properties": {
         "id": "msap-03107-01",
         "codeInsee": "03107",
-        "dateMiseAJour": "2016-09-02",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Communauté de communes Sioule, Colettes et Bouble - Ebreuil",
+        "Nom": "Maison de services au public - Ébreuil",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "21 Allée du Chemin de Fer",
+          "type": "géopostale",
+          "Ligne": [
+            "Saint-Pourçain-Sioule-Limagne",
+            "21 allée du Chemin-de-Fer"
+          ],
           "CodePostal": "03450",
           "NomCommune": "Ébreuil",
           "Localisation": {
             "Latitude": "46.1178",
             "Longitude": "3.090237",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 58 43 65",
           "Email": "rsp.animation@orange.fr",
-          "Url": "http://www.cc-valdesioule.fr/vivre/etre-accueilli"
+          "Url": "http://www.cc-valdesioule.frvivre/maison-de-services-au-public"
         },
         "Ouverture": {
           "PlageJ": [
@@ -104,7 +113,7 @@
               "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "11:00:00"
+                "fin": "12:30:00"
               }
             },
             {
@@ -138,32 +147,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.631069,
-          46.167398
+          2.631051,
+          46.167202
         ]
       },
       "properties": {
         "id": "msap-03161-01",
         "codeInsee": "03161",
-        "dateMiseAJour": "2016-09-02",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Marcillat-en-Combraille",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Place Pierre Bitard",
+          "type": "géopostale",
+          "Ligne": "Place Pierre-Bitard",
           "CodePostal": "03420",
           "NomCommune": "Marcillat-en-Combraille",
           "Localisation": {
-            "Latitude": "46.167398",
-            "Longitude": "2.631069",
+            "Latitude": "46.167202",
+            "Longitude": "2.631051",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 51 10 20",
           "Email": "marcillatrelaisservicespublics@orange.fr",
-          "Url": "http://www.comcom-marcillatcombraille.fr/spip.php?rubrique16"
+          "Url": "http://www.comcom-marcillatcombraille.frspip.php?rubrique16"
         },
         "Ouverture": {
           "PlageJ": {
@@ -188,32 +200,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.056285,
-          46.41024
+          3.056289,
+          46.41023
         ]
       },
       "properties": {
         "id": "msap-03183-01",
         "codeInsee": "03183",
-        "dateMiseAJour": "2016-10-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Bocage Sud - Le Montet",
+        "Nom": "Maison de services au public - Le Montet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "1 place du 8 mai",
+          "type": "géopostale",
+          "Ligne": "1 place du 8-mai",
           "CodePostal": "03240",
           "NomCommune": "Le Montet",
           "Localisation": {
-            "Latitude": "46.41024",
-            "Longitude": "3.056285",
-            "Précision": "6"
+            "Latitude": "46.41023",
+            "Longitude": "3.056289",
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 47 37 76",
           "Email": "comcom-bocagesud@wanadoo.fr",
-          "Url": "http://bocagesud.weebly.com/"
+          "Url": "https://bocagesud.weebly.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -269,24 +281,57 @@
       "properties": {
         "id": "msap-03048-01",
         "codeInsee": "03048",
-        "dateMiseAJour": "2017-01-04",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Cérilly",
+        "Nom": "Maison de services au public - Cérilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "58 avenue Jean Jaurès",
+          "Ligne": [
+            "Bureau de poste",
+            "58 avenue Jean-Jaurès"
+          ],
           "CodePostal": "03350",
           "NomCommune": "Cérilly",
           "Localisation": {
             "Latitude": "46.6183",
             "Longitude": "2.818687",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 70 67 38 07",
           "Email": "msap.cerilly@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/cerilly-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -302,35 +347,71 @@
       "properties": {
         "id": "msap-03165-01",
         "codeInsee": "03165",
-        "dateMiseAJour": "2016-09-02",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Montagne Bourbonnaise",
+        "Nom": "Maison de services au public - Le Mayet-de-Montagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "26 rue Roger Dégoulange",
+          "type": "géopostale",
+          "Ligne": [
+            "Montagne bourbonnaise",
+            "26 rue Roger-Dégoulange"
+          ],
           "CodePostal": "03250",
           "NomCommune": "Le Mayet-de-Montagne",
           "Localisation": {
             "Latitude": "46.071842",
             "Longitude": "3.663998",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 59 36 67",
-          "Email": "com.com@wanadoo.fr",
-          "Url": "http://www.montagne-bourbonnaise-auvergne.com/"
+          "Email": "m.gaime@vichy-communaute.fr",
+          "Url": "http://www.montagne-bourbonnaise-auvergne.com"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "08:30:00",
-              "fin": "17:00:00"
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:15:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:15:00"
+              }
             }
-          }
+          ]
         }
       }
     },
@@ -346,13 +427,16 @@
       "properties": {
         "id": "msap-03297-01",
         "codeInsee": "03297",
-        "dateMiseAJour": "2017-01-04",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Vallon En Sully",
+        "Nom": "Maison de services au public - Vallon-En-Sully",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "rue Paul Constans",
+          "Ligne": [
+            "Bureau de poste",
+            "Rue Paul-Constans"
+          ],
           "CodePostal": "03190",
           "NomCommune": "Vallon-en-Sully",
           "Localisation": {
@@ -363,7 +447,33 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.vallon-en-sully@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/vallon-en-sully-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -372,52 +482,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.639078,
-          46.250161
+          3.638916,
+          46.25001
         ]
       },
       "properties": {
         "id": "msap-03138-01",
         "codeInsee": "03138",
-        "dateMiseAJour": "2016-09-28",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pays de Lapalisse",
+        "Nom": "Maison de services au public - Lapalisse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Boulevard de l'Hôtel de Ville",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays de Lapalisse",
+            "Boulevard de l'Hôtel-de-Ville"
+          ],
           "CodePostal": "03120",
           "NomCommune": "Lapalisse",
           "Localisation": {
-            "Latitude": "46.250161",
-            "Longitude": "3.639078",
+            "Latitude": "46.25001",
+            "Longitude": "3.638916",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 99 76 17",
           "Email": "rsp@cc-paysdelapalisse.fr",
-          "Url": "http://www.cc-paysdelapalisse.fr/vivre/vie-pratique/relais-de-services-publics.html"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "mardi",
               "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "08:00:00",
@@ -442,6 +544,20 @@
                   "fin": "16:30:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
             }
           ]
         }
@@ -452,32 +568,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.474836,
-          46.373515
+          2.475088,
+          46.373174
         ]
       },
       "properties": {
         "id": "msap-03128-01",
         "codeInsee": "03128",
-        "dateMiseAJour": "2016-10-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pays d'Huriel",
+        "Nom": "Maison de services au public - Huriel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "6, rue des Calaubys",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays de Huriel",
+            "6 rue des Calaubys"
+          ],
           "CodePostal": "03380",
           "NomCommune": "Huriel",
           "Localisation": {
-            "Latitude": "46.373515",
-            "Longitude": "2.474836",
+            "Latitude": "46.373174",
+            "Longitude": "2.475088",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 70 09 33 25",
           "Email": "maison.services.huriel@orange.fr",
-          "Url": "http://www.cc-pays-huriel.com/"
+          "Url": "http://www.cc-pays-huriel.com"
         },
         "Ouverture": {
           "PlageJ": [

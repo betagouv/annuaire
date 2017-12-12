@@ -1160,7 +1160,7 @@
       "properties": {
         "id": "tresorerie-88196-01",
         "codeInsee": "88196",
-        "dateMiseAJour": "2016-12-19",
+        "dateMiseAJour": "2017-12-05",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Gérardmer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1189,30 +1189,32 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:00:00"
-                }
-              ]
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "lundi",
               "fin": "mardi",
               "PlageH": [
                 {
-                  "début": "08:00:00",
+                  "début": "08:30:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "16:30:00"
+                  "fin": "16:15:00"
                 }
               ]
             },
@@ -1221,12 +1223,12 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "08:00:00",
+                  "début": "08:30:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "13:30:00",
-                  "fin": "16:30:00"
+                  "fin": "16:15:00"
                 }
               ]
             }
@@ -1621,7 +1623,7 @@
       "properties": {
         "id": "tresorerie-88372-01",
         "codeInsee": "88372",
-        "dateMiseAJour": "2016-01-22",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Raon-l'Étape",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1645,21 +1647,44 @@
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "jeudi",
-            "PlageH": [
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:00:00"
-              },
-              {
-                "début": "13:15:00",
-                "fin": "16:00:00"
               }
-            ],
-            "Note": "Fermé le lundi après-midi. Mêmes horaires pour le standard téléphonique"
-          }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:15:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1783,14 +1808,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.633798,
-          48.3471804
+          null,
+          null
         ]
       },
       "properties": {
         "id": "tresorerie-88367-01",
         "codeInsee": "88367",
-        "dateMiseAJour": "2016-01-22",
+        "dateMiseAJour": "2017-12-05",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Rambervillers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1801,34 +1826,38 @@
             "BP 71"
           ],
           "CodePostal": "88700",
-          "NomCommune": "Rambervillers",
-          "Localisation": {
-            "Latitude": "48.3471804",
-            "Longitude": "6.633798",
-            "Précision": "8"
-          }
+          "NomCommune": "Rambervillers"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 29 65 04 03",
+          "Téléphone": "03 29 65 04 03",
           "Email": "t088034@dgfip.finances.gouv.fr",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "jeudi",
-            "PlageH": [
-              {
-                "début": "08:00:00",
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
                 "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:00:00"
               }
-            ],
-            "Note": "Mêmes horaires pour le standard téléphonique"
-          }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },

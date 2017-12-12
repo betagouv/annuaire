@@ -285,7 +285,7 @@
       "properties": {
         "id": "mairie-74057-01",
         "codeInsee": "74057",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Champanges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -312,16 +312,16 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
               }
             },
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
@@ -757,7 +757,7 @@
       "properties": {
         "id": "mairie-74077-01",
         "codeInsee": "74077",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Clarafond-Arcine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -784,22 +784,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
               "début": "lundi",
-              "fin": "mardi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "08:00:00",
@@ -812,11 +798,19 @@
               ]
             },
             {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "jeudi",
-              "fin": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
-                  "début": "08:00:00",
+                  "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
@@ -1044,7 +1038,7 @@
       "properties": {
         "id": "mairie-74102-01",
         "codeInsee": "74102",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Dingy-Saint-Clair",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1137,7 +1131,7 @@
       "properties": {
         "id": "mairie-74076-01",
         "codeInsee": "74076",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Choisy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1164,19 +1158,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -1277,7 +1271,7 @@
       "properties": {
         "id": "mairie-74078-01",
         "codeInsee": "74078",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Clermont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1297,15 +1291,22 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 50 69 63 69",
-          "Télécopie": "04 50 69 46 39",
           "Email": "clermont.mairie74@wanadoo.fr",
           "Url": "http://www.clermont74.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -1320,16 +1321,8 @@
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -1351,7 +1344,7 @@
       "properties": {
         "id": "mairie-74073-01",
         "codeInsee": "74073",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chevenoz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1369,7 +1362,7 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -1380,8 +1373,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -1394,8 +1387,8 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -1516,47 +1509,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.26745,
-          46.3273
+          6.2660319,
+          46.3220699
         ]
       },
       "properties": {
         "id": "mairie-74070-01",
         "codeInsee": "74070",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chens-sur-Léman",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "1053 rue du Léman",
+          "Ligne": "167 chemin des Crêts",
           "CodePostal": "74140",
           "NomCommune": "Chens-sur-Léman",
           "Localisation": {
-            "Latitude": "46.3273",
-            "Longitude": "6.26745",
-            "Précision": "4"
+            "Latitude": "46.3220699",
+            "Longitude": "6.2660319",
+            "Précision": "8"
           },
           "Accessibilité": {
             "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 94 04 23",
-          "Télécopie": "+33 4 50 94 25 07",
+          "Téléphone": "04 50 94 04 23",
+          "Télécopie": "04 50 94 25 07",
           "Email": "info@chenssurleman.fr",
-          "Url": "http://www.cc-baschablais.fr"
+          "Url": "http://www.chens-sur-Léman.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -1572,8 +1557,16 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -1594,11 +1587,11 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "08:00:00",
-                "fin": "11:30:00"
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -1762,7 +1755,7 @@
       "properties": {
         "id": "mairie-74069-01",
         "codeInsee": "74069",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chênex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1807,8 +1800,8 @@
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
+                "début": "13:00:00",
+                "fin": "16:00:00"
               }
             }
           ]
@@ -2564,7 +2557,7 @@
       "properties": {
         "id": "mairie-74074-01",
         "codeInsee": "74074",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chevrier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2579,29 +2572,30 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 50 04 37 45",
-          "Email": "mairie@chevrier.fr"
+          "Email": "mairie@chevrier.fr",
+          "Url": "http://www.chevrier.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "11:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -2935,7 +2929,7 @@
       "properties": {
         "id": "mairie-74108-01",
         "codeInsee": "74108",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Duingt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -2962,27 +2956,11 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "08:30:00",
+                "fin": "12:00:00"
               }
             },
             {
@@ -2994,11 +2972,27 @@
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -3399,7 +3393,7 @@
       "properties": {
         "id": "mairie-74042-01",
         "codeInsee": "74042",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bonneville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3457,7 +3451,7 @@
       "properties": {
         "id": "mairie-74043-01",
         "codeInsee": "74043",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bons-en-Chablais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3543,7 +3537,7 @@
       "properties": {
         "id": "mairie-74050-01",
         "codeInsee": "74050",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Burdignin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3570,19 +3564,11 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
-                "fin": "11:00:00"
+                "fin": "10:15:00"
               }
             },
             {
@@ -3591,6 +3577,14 @@
               "PlageH": {
                 "début": "15:00:00",
                 "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
               }
             }
           ]
@@ -3749,14 +3743,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          6.341375,
+          46.1281
         ]
       },
       "properties": {
         "id": "mairie-74087-01",
         "codeInsee": "74087",
-        "dateMiseAJour": "2017-09-14",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Contamine-sur-Arve",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3765,6 +3759,11 @@
           "Ligne": "11 impasse des Croses",
           "CodePostal": "74130",
           "NomCommune": "Contamine-sur-Arve",
+          "Localisation": {
+            "Latitude": "46.1281",
+            "Longitude": "6.341375",
+            "Précision": "8"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -3778,14 +3777,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": [
@@ -3798,6 +3789,14 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
             },
             {
               "début": "mercredi",
@@ -3838,7 +3837,7 @@
       "properties": {
         "id": "mairie-74033-01",
         "codeInsee": "74033",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bernex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -3865,8 +3864,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -3879,8 +3878,8 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -3992,7 +3991,7 @@
       "properties": {
         "id": "mairie-74066-01",
         "codeInsee": "74066",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chavannaz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4019,19 +4018,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "17:00:00",
                 "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
               }
             }
           ]
@@ -4372,7 +4371,7 @@
       "properties": {
         "id": "mairie-74036-01",
         "codeInsee": "74036",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bluffy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4388,7 +4387,7 @@
           },
           "Accessibilité": {
             "type": "ACC",
-            "$t": "de plain-pied"
+            "$t": "plain-pied"
           }
         },
         "CoordonnéesNum": {
@@ -4400,16 +4399,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -4422,8 +4413,16 @@
               ]
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -4610,7 +4609,7 @@
       "properties": {
         "id": "mairie-74015-01",
         "codeInsee": "74015",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Arbusigny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4761,7 +4760,7 @@
       "properties": {
         "id": "mairie-74016-01",
         "codeInsee": "74016",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Archamps",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4796,8 +4795,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -4812,24 +4811,24 @@
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mardi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
@@ -4984,7 +4983,7 @@
       "properties": {
         "id": "mairie-74003-01",
         "codeInsee": "74003",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Alex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5012,7 +5011,15 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "lundi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -5023,14 +5030,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "mardi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -5048,7 +5047,7 @@
       "properties": {
         "id": "mairie-74037-01",
         "codeInsee": "74037",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Boëge",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5075,14 +5074,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:30:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -5108,6 +5099,14 @@
             {
               "début": "mardi",
               "fin": "jeudi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "11:30:00"
@@ -5715,7 +5714,7 @@
       "properties": {
         "id": "mairie-74082-01",
         "codeInsee": "74082",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Collonges-sous-Salève",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5767,12 +5766,13 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "samedi",
+              "fin": "samedi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              },
+              "Note": "Accueil fermé en juillet-août."
             },
             {
               "début": "vendredi",
@@ -5783,13 +5783,12 @@
               }
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:00:00"
-              },
-              "Note": "Accueil fermé en juillet-août."
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
             }
           ]
         }
@@ -5867,7 +5866,7 @@
       "properties": {
         "id": "mairie-74029-01",
         "codeInsee": "74029",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bassy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5924,7 +5923,7 @@
       "properties": {
         "id": "mairie-74055-01",
         "codeInsee": "74055",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Challonges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -5949,11 +5948,11 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
+                "début": "15:00:00",
+                "fin": "19:00:00"
               }
             },
             {
@@ -5965,11 +5964,11 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "15:00:00",
-                "fin": "19:00:00"
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             }
           ]
@@ -6082,7 +6081,7 @@
       "properties": {
         "id": "mairie-74063-01",
         "codeInsee": "74063",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Châtel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6097,31 +6096,17 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 73 23 98",
-          "Télécopie": "+33 4 50 73 27 48",
+          "Téléphone": "04 50 73 23 98",
+          "Télécopie": "04 50 73 27 48",
           "Email": "mairie@mairiedechatel.fr",
           "Url": "http://www.mairiedechatel.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
-            },
             {
               "début": "lundi",
               "fin": "jeudi",
@@ -6133,6 +6118,20 @@
                 {
                   "début": "13:30:00",
                   "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
                 }
               ]
             }
@@ -6839,7 +6838,7 @@
       "properties": {
         "id": "mairie-74088-01",
         "codeInsee": "74088",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Copponex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -6866,14 +6865,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -6887,6 +6878,14 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -7258,7 +7257,7 @@
       "properties": {
         "id": "mairie-74051-01",
         "codeInsee": "74051",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cercier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -7293,19 +7292,11 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
                 "début": "08:30:00",
-                "fin": "12:00:00"
+                "fin": "11:30:00"
               }
             }
           ]
@@ -8424,7 +8415,7 @@
       "properties": {
         "id": "mairie-74007-01",
         "codeInsee": "74007",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Amancy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9262,7 +9253,7 @@
       "properties": {
         "id": "mairie-74127-01",
         "codeInsee": "74127",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Féternes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9289,8 +9280,8 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "mercredi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
@@ -9311,8 +9302,8 @@
               ]
             },
             {
-              "début": "mercredi",
-              "fin": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "13:30:00",
                 "fin": "17:00:00"
@@ -9331,14 +9322,6 @@
                   "fin": "17:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              }
             }
           ]
         }
@@ -9514,13 +9497,16 @@
       "properties": {
         "id": "mairie-74099-01",
         "codeInsee": "74099",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Demi-Quartier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "28 place de l'Église",
+          "Ligne": [
+            "28 place de l'Église",
+            "BP 130"
+          ],
           "CodePostal": "74120",
           "NomCommune": "Megève",
           "Localisation": {
@@ -9541,14 +9527,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:30:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -9561,6 +9539,14 @@
                   "fin": "16:30:00"
                 }
               ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
             }
           ]
         }
@@ -9718,7 +9704,7 @@
       "properties": {
         "id": "mairie-74090-01",
         "codeInsee": "74090",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cornier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -9861,7 +9847,7 @@
       "properties": {
         "id": "mairie-74002-01",
         "codeInsee": "74002",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Alby-sur-Chéran",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10005,7 +9991,7 @@
       "properties": {
         "id": "mairie-74038-01",
         "codeInsee": "74038",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bogève",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10020,7 +10006,7 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "ACC"
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
@@ -10031,14 +10017,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -10053,6 +10031,14 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             },
             {
@@ -10079,7 +10065,7 @@
       "properties": {
         "id": "mairie-74061-01",
         "codeInsee": "74061",
-        "dateMiseAJour": "2017-05-24",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chapeiry",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10144,7 +10130,7 @@
       "properties": {
         "id": "mairie-74095-01",
         "codeInsee": "74095",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Crempigny-Bonneguête",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10159,12 +10145,11 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 50 69 61 60",
-          "Télécopie": "04 50 23 48 82",
           "Email": "mairie-crempigny.bonneguete@orange.fr",
           "Url": "http://www.crempigny-bonneguete.fr"
         },
@@ -10185,7 +10170,7 @@
                 "début": "18:00:00",
                 "fin": "19:00:00"
               },
-              "Note": "Permanence téléphonique le mardi et le jeudi de 14h à 19h30 et le mercredi de 8h30 à 12h. Permanence du maire le jeudi de 17h à 19h."
+              "Note": "Permanence téléphonique le mardi et le jeudi de 14h à 19h30. Permanence du maire le jeudi de 17h à 19h."
             }
           ]
         }
@@ -10203,7 +10188,7 @@
       "properties": {
         "id": "mairie-74041-01",
         "codeInsee": "74041",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bonnevaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10417,7 +10402,7 @@
       "properties": {
         "id": "mairie-74106-01",
         "codeInsee": "74106",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Draillant",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10587,13 +10572,13 @@
       "properties": {
         "id": "mairie-74062-01",
         "codeInsee": "74062",
-        "dateMiseAJour": "2014-12-04",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Charvonnex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "585, route du Chef-lieu",
+          "Ligne": "585 route du Chef-Lieu",
           "CodePostal": "74370",
           "NomCommune": "Charvonnex",
           "Localisation": {
@@ -10606,26 +10591,26 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 60 32 48",
-          "Télécopie": "+33 4 50 60 82 01",
+          "Téléphone": "04 50 60 32 48",
+          "Télécopie": "04 50 60 82 01",
           "Email": "contact@charvonnex.com",
           "Url": "http://www.mairie-charvonnex.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "16:00:00",
                 "fin": "18:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
-                "début": "16:00:00",
+                "début": "14:00:00",
                 "fin": "18:00:00"
               }
             },
@@ -10638,10 +10623,10 @@
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "16:00:00",
                 "fin": "18:00:00"
               }
             }
@@ -10747,7 +10732,7 @@
       "properties": {
         "id": "mairie-74094-01",
         "codeInsee": "74094",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cranves-Sales",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10774,15 +10759,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              },
-              "Note": "Accueil ouvert uniquement pour l'état civil."
-            },
-            {
               "début": "mardi",
               "fin": "vendredi",
               "PlageH": [
@@ -10795,6 +10771,15 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil ouvert uniquement pour l'état civil."
             },
             {
               "début": "lundi",
@@ -10895,7 +10880,7 @@
       "properties": {
         "id": "mairie-74013-01",
         "codeInsee": "74013",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Anthy-sur-Léman",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -10981,9 +10966,9 @@
       "properties": {
         "id": "mairie-74282-05",
         "codeInsee": "74282",
-        "dateMiseAJour": "2017-03-29",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
-        "Nom": "Mairie déléguée de Saint-Martin-Bellevue",
+        "Nom": "Mairie de Fillière",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -11005,21 +10990,13 @@
         "CoordonnéesNum": {
           "Téléphone": "04 50 60 32 04",
           "Télécopie": "04 50 60 80 19",
-          "Email": "mairie@stmartin-bellevue.fr",
-          "Url": "http://www.stmartin-bellevue.fr"
+          "Email": "accueil.stmartin-bellevue@commune-filliere.fr",
+          "Url": "http://www.commune-filliere.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -11045,18 +11022,9 @@
                   "fin": "19:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              }
             }
           ]
-        },
-        "Commentaire": "Le 1er janvier 2017, la commune nouvelle de Fillière est créée en lieu et place des communes d'Aviernoz, d'Evires, des Ollières, de Saint-Martin-Bellevue et de Thorens-Glières (canton d'Annecy-le-Vieux, arrondissement d'Annecy)."
+        }
       }
     },
     {
@@ -11071,7 +11039,7 @@
       "properties": {
         "id": "mairie-74098-01",
         "codeInsee": "74098",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cuvat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11137,7 +11105,7 @@
       "properties": {
         "id": "mairie-74018-01",
         "codeInsee": "74018",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Arenthon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11360,7 +11328,7 @@
       "properties": {
         "id": "mairie-74083-01",
         "codeInsee": "74083",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Combloux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11375,7 +11343,8 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "DEM",
+            "$t": "sonnette"
           }
         },
         "CoordonnéesNum": {
@@ -11394,14 +11363,6 @@
               }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "jeudi",
               "PlageH": [
@@ -11414,6 +11375,14 @@
                   "fin": "17:00:00"
                 }
               ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -11431,7 +11400,7 @@
       "properties": {
         "id": "mairie-74064-01",
         "codeInsee": "74064",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Châtillon-sur-Cluses",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11458,14 +11427,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
@@ -11486,6 +11447,14 @@
                   "fin": "18:00:00"
                 }
               ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -11625,26 +11594,32 @@
       "properties": {
         "id": "mairie-74024-01",
         "codeInsee": "74024",
-        "dateMiseAJour": "2017-01-27",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
-        "Nom": "Mairie de Ayse",
+        "Nom": "Mairie d'Ayse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Le Bourg",
+            "3 route de Marignier",
             "BP 55"
           ],
           "CodePostal": "74130",
-          "NomCommune": "AYSE",
+          "NomCommune": "Ayse",
           "Localisation": {
             "Latitude": "46.082621",
             "Longitude": "6.437595",
             "Précision": "6"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 50 97 04 21"
+          "Téléphone": "04 50 97 04 21",
+          "Télécopie": "04 50 25 28 42",
+          "Email": "info@ayze.fr",
+          "Url": "http://www.ayze.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -11680,7 +11655,7 @@
               "début": "samedi",
               "fin": "samedi",
               "PlageH": {
-                "début": "08:00:00",
+                "début": "08:30:00",
                 "fin": "12:00:00"
               }
             }
@@ -11700,7 +11675,7 @@
       "properties": {
         "id": "mairie-74075-01",
         "codeInsee": "74075",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11718,28 +11693,28 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "DEM",
+            "$t": "téléphoner au préalable"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 50 22 91 03",
-          "Télécopie": "04 50 22 67 14",
           "Email": "secretariat@chilly.fr",
           "Url": "http://www.chilly.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "mardi",
+              "début": "jeudi",
+              "fin": "samedi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "samedi",
+              "début": "lundi",
+              "fin": "mardi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -12017,7 +11992,7 @@
       "properties": {
         "id": "mairie-74097-01",
         "codeInsee": "74097",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cusy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12044,6 +12019,22 @@
         "Ouverture": {
           "PlageJ": [
             {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": [
@@ -12056,22 +12047,6 @@
                   "fin": "20:00:00"
                 }
               ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "12:00:00"
-              }
             }
           ]
         }
@@ -12158,7 +12133,7 @@
       "properties": {
         "id": "mairie-74056-01",
         "codeInsee": "74056",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chamonix-Mont-Blanc",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12168,8 +12143,8 @@
             "38 place de l'Église",
             "BP 89"
           ],
-          "CodePostal": "74400",
-          "NomCommune": "Chamonix-Mont-Blanc",
+          "CodePostal": "74402",
+          "NomCommune": "Chamonix Cedex",
           "Localisation": {
             "Latitude": "45.9238165999",
             "Longitude": "6.86932469999",
@@ -12308,7 +12283,7 @@
       "properties": {
         "id": "mairie-74124-01",
         "codeInsee": "74124",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Feigères",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12339,14 +12314,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "17:00:00",
-                "fin": "19:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
@@ -12355,18 +12322,26 @@
               }
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "10:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
                 "début": "08:15:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "17:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "10:00:00",
                 "fin": "12:00:00"
               }
             },
@@ -12453,7 +12428,7 @@
       "properties": {
         "id": "mairie-74052-01",
         "codeInsee": "74052",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cernex",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -12765,15 +12740,15 @@
       "properties": {
         "id": "mairie-74267-01",
         "codeInsee": "74267",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "mairie",
-        "Nom": "Mairie de Sévrier",
+        "Nom": "Mairie de Sevrier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "2000 route d'Albertville",
           "CodePostal": "74320",
-          "NomCommune": "Sévrier",
+          "NomCommune": "Sevrier",
           "Localisation": {
             "Latitude": "45.8664767",
             "Longitude": "6.1400012",
@@ -12976,7 +12951,7 @@
       "properties": {
         "id": "mairie-74068-01",
         "codeInsee": "74068",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chêne-en-Semine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13099,7 +13074,7 @@
       "properties": {
         "id": "mairie-74086-01",
         "codeInsee": "74086",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Contamine-Sarzin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13118,22 +13093,13 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 77 81 73",
-          "Télécopie": "+33 4 50 51 93 59",
+          "Téléphone": "04 50 77 81 73",
+          "Télécopie": "04 50 51 93 59",
           "Email": "mairie@contamine-sarzin.fr",
           "Url": "http://www.contamine-sarzin.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              },
-              "Note": "Accueil ouvert uniquement le 3e samedi de chaque mois."
-            },
             {
               "début": "mardi",
               "fin": "mardi",
@@ -13149,6 +13115,15 @@
                 "début": "16:00:00",
                 "fin": "19:00:00"
               }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil ouvert uniquement le 3e samedi de chaque mois."
             }
           ]
         }
@@ -13253,16 +13228,13 @@
       "properties": {
         "id": "mairie-74096-01",
         "codeInsee": "74096",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cruseilles",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "192 route de l'Usine",
-            "BP 5"
-          ],
+          "Ligne": "192 route de l'Usine",
           "CodePostal": "74350",
           "NomCommune": "Cruseilles",
           "Localisation": {
@@ -13563,7 +13535,7 @@
       "properties": {
         "id": "mairie-74071-01",
         "codeInsee": "74071",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chessenaz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13578,12 +13550,11 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 50 32 22 31",
-          "Télécopie": "04 50 32 22 31",
           "Email": "mairie.chessenaz@wanadoo.fr"
         },
         "Ouverture": {
@@ -13687,7 +13658,7 @@
       "properties": {
         "id": "mairie-74005-01",
         "codeInsee": "74005",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Allinges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13879,7 +13850,7 @@
       "properties": {
         "id": "mairie-74081-01",
         "codeInsee": "74081",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cluses",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13909,29 +13880,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Accueil ouvert jusqu'à 19h uniquement pour l'état civil."
-            },
-            {
               "début": "lundi",
               "fin": "vendredi",
               "PlageH": [
@@ -13943,7 +13891,16 @@
                   "début": "13:30:00",
                   "fin": "17:30:00"
                 }
-              ]
+              ],
+              "Note": "Accueil ouvert le vendredi jusqu'à 19h uniquement pour l'état civil."
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             }
           ]
         }
@@ -13954,14 +13911,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          6.054923,
+          45.788296
         ]
       },
       "properties": {
         "id": "mairie-74004-01",
         "codeInsee": "74004",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Allèves",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -13970,6 +13927,11 @@
           "Ligne": "Place de la Mairie",
           "CodePostal": "74540",
           "NomCommune": "Allèves",
+          "Localisation": {
+            "Latitude": "45.788296",
+            "Longitude": "6.054923",
+            "Précision": "8"
+          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -13982,19 +13944,19 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "15:30:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
-                "début": "15:30:00",
+                "début": "14:30:00",
                 "fin": "18:30:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "14:30:00",
+                "fin": "18:00:00"
               }
             }
           ]
@@ -14477,7 +14439,7 @@
       "properties": {
         "id": "mairie-74128-01",
         "codeInsee": "74128",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Fillinges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -14555,7 +14517,7 @@
       "properties": {
         "id": "mairie-74006-01",
         "codeInsee": "74006",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Allonzier-la-Caille",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15104,7 +15066,7 @@
       "properties": {
         "id": "mairie-74040-01",
         "codeInsee": "74040",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Bonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15155,6 +15117,14 @@
             {
               "début": "mercredi",
               "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "09:00:00",
@@ -15162,25 +15132,23 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "17:00:00"
+                  "fin": "19:00:00"
                 }
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
             }
           ]
         }
@@ -15428,7 +15396,7 @@
       "properties": {
         "id": "mairie-74025-01",
         "codeInsee": "74025",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Ballaison",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15449,7 +15417,8 @@
         "CoordonnéesNum": {
           "Téléphone": "04 50 94 18 71",
           "Télécopie": "04 50 94 30 27",
-          "Email": "accueil@ballaison.fr"
+          "Email": "accueil@ballaison.fr",
+          "Url": "http://www.ballaison.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -15496,7 +15465,7 @@
                   "fin": "18:30:00"
                 }
               ],
-              "Note": "Permanence urbanisme de 17h30 à 18h30 sans rendez-vous."
+              "Note": "Permanence urbanisme de 17h30 à 18h30 sur rendez-vous."
             },
             {
               "début": "samedi",
@@ -15523,7 +15492,7 @@
       "properties": {
         "id": "mairie-74072-01",
         "codeInsee": "74072",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chevaline",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15544,22 +15513,27 @@
         "CoordonnéesNum": {
           "Téléphone": "04 50 44 30 87",
           "Télécopie": "04 50 44 82 57",
-          "Email": "chevaline@wanadoo.fr",
-          "Url": "http://www.pays-de-faverges.com"
+          "Email": "chevaline@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              }
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:30:00"
+                }
+              ]
             },
             {
-              "début": "mardi",
-              "fin": "mercredi",
+              "début": "vendredi",
+              "fin": "vendredi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "11:30:00"
@@ -15580,18 +15554,12 @@
               ]
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "11:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "18:30:00"
-                }
-              ]
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
             }
           ]
         }
@@ -15886,7 +15854,7 @@
       "properties": {
         "id": "mairie-74107-01",
         "codeInsee": "74107",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Droisy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15901,12 +15869,11 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 69 62 02",
-          "Télécopie": "+33 4 50 69 62 02",
+          "Téléphone": "04 50 69 62 02",
           "Email": "accueil@droisy74.fr"
         },
         "Ouverture": {
@@ -16674,7 +16641,7 @@
       "properties": {
         "id": "mairie-74067-01",
         "codeInsee": "74067",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chavanod",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -16942,7 +16909,7 @@
       "properties": {
         "id": "mairie-74001-01",
         "codeInsee": "74001",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Abondance",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17105,7 +17072,7 @@
       "properties": {
         "id": "mairie-74020-01",
         "codeInsee": "74020",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Armoy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17120,7 +17087,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -17131,6 +17098,14 @@
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:00:00"
+              }
+            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -17145,14 +17120,6 @@
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "11:00:00"
               }
             }
           ]
@@ -17522,7 +17489,7 @@
       "properties": {
         "id": "mairie-74008-01",
         "codeInsee": "74008",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Ambilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17771,7 +17738,7 @@
       "properties": {
         "id": "mairie-74053-01",
         "codeInsee": "74053",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cervens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17991,7 +17958,7 @@
       "properties": {
         "id": "mairie-74031-01",
         "codeInsee": "74031",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Beaumont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18009,7 +17976,8 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC",
+            "$t": "rampe provisoire"
           }
         },
         "CoordonnéesNum": {
@@ -18020,14 +17988,6 @@
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
             {
               "début": "jeudi",
               "fin": "jeudi",
@@ -18042,6 +18002,14 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             },
             {
@@ -18068,7 +18036,7 @@
       "properties": {
         "id": "mairie-74089-01",
         "codeInsee": "74089",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Cordon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18083,7 +18051,7 @@
             "Précision": "6"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -18202,7 +18170,7 @@
       "properties": {
         "id": "mairie-74012-01",
         "codeInsee": "74012",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Annemasse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18226,7 +18194,7 @@
         "CoordonnéesNum": {
           "Téléphone": "04 50 95 07 00",
           "Télécopie": "04 50 95 07 01",
-          "Email": "dg@mairie-annemasse.fr",
+          "Email": "direction.generale@annemasse.fr",
           "Url": "http://www.annemasse.fr"
         },
         "Ouverture": {
@@ -18244,15 +18212,6 @@
                   "fin": "17:00:00"
                 }
               ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement pour l'état civil et les cartes d'identité."
             },
             {
               "début": "mardi",
@@ -18289,6 +18248,15 @@
                 "début": "09:00:00",
                 "fin": "17:00:00"
               }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement pour l'état civil et les cartes d'identité."
             }
           ]
         }
@@ -18499,7 +18467,7 @@
       "properties": {
         "id": "mairie-74009-01",
         "codeInsee": "74009",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Andilly",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18517,7 +18485,7 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -18538,16 +18506,16 @@
               "Note": "Accueil fermé le 4e samedi du mois."
             },
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
@@ -18702,7 +18670,7 @@
       "properties": {
         "id": "mairie-74122-01",
         "codeInsee": "74122",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Faucigny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18925,7 +18893,7 @@
       "properties": {
         "id": "mairie-74014-01",
         "codeInsee": "74014",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Arâches-la-Frasse",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18984,7 +18952,7 @@
       "properties": {
         "id": "mairie-74046-01",
         "codeInsee": "74046",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Boussy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -18999,7 +18967,7 @@
             "Précision": "8"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
@@ -19034,55 +19002,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.20478010178,
-          45.8287010193
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-74111-01",
         "codeInsee": "74111",
-        "dateMiseAJour": "2014-12-04",
+        "dateMiseAJour": "2017-11-24",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Entrevernes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "81, route des Droblesses",
+          "Ligne": "81 route des Droblesses",
           "CodePostal": "74410",
           "NomCommune": "Entrevernes",
-          "Localisation": {
-            "Latitude": "45.8287010193",
-            "Longitude": "6.20478010178",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 68 59 04",
-          "Télécopie": "+33 4 50 68 59 04",
-          "Email": "mairie-entrevernes74@wanadoo.fr"
+          "Téléphone": "04 50 68 59 04",
+          "Télécopie": "04 50 68 59 04",
+          "Email": "mairie@entrevernes74.fr"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:30:00"
-              }
+          "PlageJ": {
+            "début": "vendredi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "14:00:00",
+              "fin": "16:30:00"
             }
-          ]
+          }
         }
       }
     },
@@ -19098,7 +19051,7 @@
       "properties": {
         "id": "mairie-74101-01",
         "codeInsee": "74101",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Dingy-en-Vuache",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19127,7 +19080,7 @@
               "début": "lundi",
               "fin": "lundi",
               "PlageH": {
-                "début": "10:30:00",
+                "début": "13:00:00",
                 "fin": "15:00:00"
               }
             },
@@ -19137,22 +19090,15 @@
               "PlageH": {
                 "début": "16:00:00",
                 "fin": "19:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "10:30:00",
-                "fin": "15:00:00"
-              }
+              },
+              "Note": "Le service de l'urbanisme est fermé le mardi. L'adresse mail concernant l'urbanisme est urbanisme@dingy-en-vuache.fr"
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "15:00:00",
-                "fin": "18:00:00"
+                "fin": "17:30:00"
               }
             }
           ]
@@ -19310,7 +19256,7 @@
       "properties": {
         "id": "mairie-74048-01",
         "codeInsee": "74048",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Brenthonne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19336,22 +19282,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
@@ -19365,6 +19295,22 @@
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
               }
             }
           ]
@@ -19607,13 +19553,13 @@
       "properties": {
         "id": "mairie-74021-01",
         "codeInsee": "74021",
-        "dateMiseAJour": "2014-12-04",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie d'Arthaz-Pont-Notre-Dame",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "94, route Pont-Notre-Dame",
+          "Ligne": "94 route Pont-Notre-Dame",
           "CodePostal": "74380",
           "NomCommune": "Arthaz-Pont-Notre-Dame",
           "Localisation": {
@@ -19626,9 +19572,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 36 01 78",
-          "Télécopie": "+33 4 50 36 05 11",
-          "Email": "mairie.arthaz@wanadoo.fr",
+          "Téléphone": "04 50 36 01 78",
+          "Télécopie": "04 50 36 05 11",
+          "Email": "mairie@arthazpnd.fr",
           "Url": "http://www.arthaz-pont-notre-dame.fr"
         },
         "Ouverture": {
@@ -19650,19 +19596,19 @@
               }
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "mardi",
               "fin": "mardi",
               "PlageH": {
                 "début": "14:00:00",
                 "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             },
             {
@@ -19977,7 +19923,7 @@
       "properties": {
         "id": "mairie-74103-01",
         "codeInsee": "74103",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Domancy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -20071,7 +20017,7 @@
       "properties": {
         "id": "mairie-74100-01",
         "codeInsee": "74100",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Desingy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -20086,16 +20032,24 @@
             "Précision": "4"
           },
           "Accessibilité": {
-            "type": "NAC"
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 69 43 80",
-          "Télécopie": "+33 4 50 69 68 07",
+          "Téléphone": "04 50 69 43 80",
+          "Télécopie": "04 50 69 68 07",
           "Email": "mairiedesingy@orange.fr"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
             {
               "début": "samedi",
               "fin": "samedi",
@@ -20107,14 +20061,6 @@
             {
               "début": "jeudi",
               "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
               "PlageH": {
                 "début": "08:30:00",
                 "fin": "12:00:00"
@@ -20495,7 +20441,7 @@
       "properties": {
         "id": "mairie-74065-01",
         "codeInsee": "74065",
-        "dateMiseAJour": "2015-07-08",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chaumont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -20514,8 +20460,8 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 50 44 73 01",
-          "Télécopie": "+33 4 50 44 86 64",
+          "Téléphone": "04 50 44 73 01",
+          "Télécopie": "04 50 44 86 64",
           "Email": "mairie.chaumont74@wanadoo.fr",
           "Url": "http://www.chaumont-74.fr"
         },
@@ -21044,7 +20990,7 @@
       "properties": {
         "id": "mairie-74104-01",
         "codeInsee": "74104",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Doussard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -21174,7 +21120,7 @@
       "properties": {
         "id": "mairie-74105-01",
         "codeInsee": "74105",
-        "dateMiseAJour": "2016-12-16",
+        "dateMiseAJour": "2017-12-06",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Douvaine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -21201,37 +21147,6 @@
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "16:30:00"
-                }
-              ]
-            },
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              "Note": "Accueil ouvert uniquement pour les cartes d'identité, les passeports et les vignettes pour la déchèterie."
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
               "début": "lundi",
               "fin": "mercredi",
               "PlageH": [
@@ -21242,6 +21157,37 @@
                 {
                   "début": "13:30:00",
                   "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil ouvert uniquement pour les cartes d'identité, les passeports et les vignettes pour la déchetterie."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
                 }
               ]
             }
