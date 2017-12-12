@@ -13,16 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-13001-01",
         "codeInsee": "13001",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-868",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Aix-en-Provence",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil thérapeutique de jour",
             "Association Aix Alzheimer",
+            "Accueil thérapeutique de jour",
             "32 avenue Sainte-Victoire"
           ],
           "CodePostal": "13090",
@@ -31,10 +30,13 @@
             "Latitude": "43.532075",
             "Longitude": "5.455484",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 42 23 42 49",
+          "Téléphone": "04 42 23 42 49",
           "Email": "francealzheimerbdr@orange.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
@@ -45,14 +47,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.355792,
-          43.369829
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-13215-01",
         "codeInsee": "13215",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-867",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Marseille",
@@ -66,15 +68,10 @@
             "6 impasse du terminus"
           ],
           "CodePostal": "13015",
-          "NomCommune": "Marseille",
-          "Localisation": {
-            "Latitude": "43.369829",
-            "Longitude": "5.355792",
-            "Précision": "8"
-          }
+          "NomCommune": "Marseille"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 91 65 55 55",
+          "Téléphone": "04 91 65 55 55",
           "Email": "alzheimeraidants13@orange.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
@@ -85,39 +82,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.985207,
-          43.501966
+          4.968038,
+          43.515942
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-13047-01",
         "codeInsee": "13047",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-871",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Istres",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
-            "A.R.F",
             "Association Le Maillon",
-            "1 allée de l'Aventin"
+            "Accueil de jour",
+            "Le Boucassan",
+            "9 avenue de Planes"
           ],
           "CodePostal": "13800",
           "NomCommune": "Istres",
           "Localisation": {
-            "Latitude": "43.501966",
-            "Longitude": "4.985207",
+            "Latitude": "43.515942",
+            "Longitude": "4.968038",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 42 11 83 44",
+          "Téléphone": "04 42 11 83 44",
           "Email": "lemaillon777@orange.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -125,14 +139,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.631865,
-          43.67358
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-13004-01",
         "codeInsee": "13004",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-869",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Arles",
@@ -144,15 +158,10 @@
             "3 avenue des alyscamps"
           ],
           "CodePostal": "13200",
-          "NomCommune": "Arles",
-          "Localisation": {
-            "Latitude": "43.67358",
-            "Longitude": "4.631865",
-            "Précision": "8"
-          }
+          "NomCommune": "Arles"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 90 18 97 40",
+          "Téléphone": "04 90 93 85 55",
           "Email": "mr-jcalment@ch-arles.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
@@ -163,37 +172,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.563417,
-          43.291513
+          5.5691635,
+          43.2921984
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-13005-01",
         "codeInsee": "13005",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-870",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Aubagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Centre Hospitalier Edmond-Garcin",
-            "179 avenue des soeurs Gastine"
+            "Le fil rouge Alzheimer",
+            "1 boulevard Jean-Jaurès"
           ],
           "CodePostal": "13400",
           "NomCommune": "Aubagne",
           "Localisation": {
-            "Latitude": "43.291513",
-            "Longitude": "5.563417",
+            "Latitude": "43.2921984",
+            "Longitude": "5.5691635",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 42 84 70 00"
+          "Téléphone": "04 42 18 19 05",
+          "Télécopie": "04 42 18 19 18",
+          "Email": "filrougealzheimer@gmail.com",
+          "Url": "http://www.filrougealzheimer.org"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
       }
     }
   ]

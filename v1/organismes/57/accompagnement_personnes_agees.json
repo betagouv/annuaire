@@ -13,29 +13,48 @@
       "properties": {
         "id": "accompagnement_personnes_agees-57162-01",
         "codeInsee": "57162",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-920",
-        "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cuvry",
+        "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Jouy-aux-Arches",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Résidence Hygie",
-            "1 Allée du Haut Rozin"
+            "Bâtiment Technisud",
+            "11 Rue Saussaie-en-Mi-Terre"
           ],
-          "CodePostal": "57420",
-          "NomCommune": "Cuvry",
+          "CodePostal": "57130",
+          "NomCommune": "Jouy-aux-Arches",
           "Localisation": {
             "Latitude": "49.042385",
             "Longitude": "6.153429",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 87 38 11 30"
+          "Téléphone": "03 87 38 93 87",
+          "Télécopie": "03 87 69 76 87",
+          "Email": "repit57@fondation-bompard.asso.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
       }
     }
   ]

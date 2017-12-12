@@ -6,37 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.230326,
-          48.846457
+          2.2325713,
+          48.846624
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-92012-01",
         "codeInsee": "92012",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-969",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Boulogne-Billancourt",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Centre de gérontologie",
-            "Les Abondances",
-            "56 rue des Abondances"
+            "Centre de gérontologie Les Abondances",
+            "49 rue Saint-Denis"
           ],
           "CodePostal": "92100",
           "NomCommune": "Boulogne-Billancourt",
           "Localisation": {
-            "Latitude": "48.846457",
-            "Longitude": "2.230326",
+            "Latitude": "48.846624",
+            "Longitude": "2.2325713",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 41 22 56 56"
+          "Téléphone": "01 41 22 57 51",
+          "Email": "plateformeaidants@lesabondances.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     },
     {
@@ -51,16 +62,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-92075-01",
         "codeInsee": "92075",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-970",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vanves",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
-            "Odilon-Lannelongue",
+            "Accueil de jour Odilon-Lannelongue",
             "29 rue Diderot"
           ],
           "CodePostal": "92170",
@@ -69,13 +78,26 @@
             "Latitude": "48.817502",
             "Longitude": "2.288334",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 46 42 31 52",
-          "Email": "dir.institut.lannelongue@wanadoo.fr"
+          "Téléphone": "01 46 42 31 52",
+          "Email": "contact@fondation-odilon-lannelongue.fr",
+          "Url": "http://www.fondation-odilon-lannelongue.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "16:00:00"
+            }
+          }
+        }
       }
     },
     {
@@ -83,38 +105,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.264875,
-          48.910873
+          2.2651034,
+          48.9107724
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-92009-01",
         "codeInsee": "92009",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-971",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bois-Colombes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": [
-            "Accueil de jour Les Camélias",
-            "EHPAD Aulagnier d'Asnières",
-            "15-17  rue Maurice-Pelletier"
-          ],
+          "Ligne": "15-17 rue Maurice-Pelletier",
           "CodePostal": "92270",
           "NomCommune": "Bois-Colombes",
           "Localisation": {
-            "Latitude": "48.910873",
-            "Longitude": "2.264875",
+            "Latitude": "48.9107724",
+            "Longitude": "2.2651034",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 46 52 03 16",
-          "Email": "aulagnier.fondation@orange.fr"
+          "Téléphone": "01 47 81 90 11",
+          "Email": "plateforme-repit-aidants@fondation-aulagnier.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     }
   ]

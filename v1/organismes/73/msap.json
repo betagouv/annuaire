@@ -6,51 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.944239,
-          45.786192
+          5.946195,
+          45.785408
         ]
       },
       "properties": {
         "id": "msap-73010-01",
         "codeInsee": "73010",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Communauté de communes du canton d'Albens - Albens",
+        "Nom": "Maison de services au public - Albens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Centre administratif",
+          "type": "géopostale",
+          "Ligne": [
+            "Albens-Entrelacs",
+            "60 rue Joseph-Michaud"
+          ],
           "CodePostal": "73410",
-          "NomCommune": "Entrelacs",
+          "NomCommune": "Albens",
           "Localisation": {
-            "Latitude": "45.786192",
-            "Longitude": "5.944239",
+            "Latitude": "45.785408",
+            "Longitude": "5.946195",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "33 4 79 63 09 44",
-          "Email": "emploi@cc-cantonalbens.fr",
-          "Url": "http://www.cc-cantonalbens.fr/ccalb/index-accueil.php?lan_code=0"
+          "Téléphone": "04 79 63 89 46",
+          "Email": "msap.albanais@grand-lac.fr",
+          "Url": "https://www.maisondeservicesaupublic.frcontent/albensentrelacs"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "11:30:00"
-              }
-            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -72,6 +59,14 @@
                 "début": "08:30:00",
                 "fin": "16:30:00"
               }
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
             }
           ]
         }
@@ -82,35 +77,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.301582,
-          45.543527
+          6.30171889,
+          45.5434738
         ]
       },
       "properties": {
         "id": "msap-73002-01",
         "codeInsee": "73002",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Aiguebelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
-            "Association Animation du canton",
+            "Association animation du canton",
             "Grande rue"
           ],
           "CodePostal": "73220",
           "NomCommune": "Aiguebelle",
           "Localisation": {
-            "Latitude": "45.543527",
-            "Longitude": "6.301582",
+            "Latitude": "45.5434738",
+            "Longitude": "6.30171889",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 36 37 27",
           "Email": "al.chataux@aacaiguebelle.com",
-          "Url": "http://www.aacaiguebelle.com/?page_id=116"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -167,35 +165,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.659565,
-          45.193802
+          6.6597982,
+          45.1938419
         ]
       },
       "properties": {
         "id": "msap-73157-01",
         "codeInsee": "73157",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public -  Modane",
+        "Nom": "Maison de services au public - Modane",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
-            "9 place Sommeiller",
-            "Maison Cantonale"
+            "Communauté de communes haute Maurienne Vanoise",
+            "Maison cantonale",
+            "9 place Sommeiller"
           ],
           "CodePostal": "73500",
           "NomCommune": "Modane",
           "Localisation": {
-            "Latitude": "45.193802",
-            "Longitude": "6.659565",
+            "Latitude": "45.1938419",
+            "Longitude": "6.6597982",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 05 26 67",
-          "Email": "maison-cantonale@canton-de-modane.com",
-          "Url": "http://www.terramodana.com/"
+          "Email": "info@cchmv.fr",
+          "Url": "http://www.cchautemaurienne.com"
         },
         "Ouverture": {
           "PlageJ": {
@@ -220,31 +222,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.721587,
-          45.381107
+          6.721524,
+          45.381647
         ]
       },
       "properties": {
         "id": "msap-73206-01",
         "codeInsee": "73206",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Pralognan-la-Vanoise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Avenue de Chasseforêt",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "203 avenue de Chasseforêt"
+          ],
           "CodePostal": "73710",
           "NomCommune": "Pralognan-la-Vanoise",
           "Localisation": {
-            "Latitude": "45.381107",
-            "Longitude": "6.721587",
+            "Latitude": "45.381647",
+            "Longitude": "6.721524",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 79 08 71 58",
           "Email": "msap.pralognan-la-vanoise@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/pralognan-la-vanoise-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "12:00:00"
+            }
+          }
         }
       }
     },
@@ -260,12 +279,12 @@
       "properties": {
         "id": "msap-73257-01",
         "codeInsee": "73257",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Saint-Martin-de-Belleville",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Galerie de l'Adret",
           "CodePostal": "73440",
           "NomCommune": "Saint-Martin-de-Belleville",
@@ -278,7 +297,7 @@
         "CoordonnéesNum": {
           "Téléphone": "04 79 00 23 20",
           "Email": "saisonniers@lesbelleville.fr",
-          "Url": "http://www.mairie-tignes.fr/fr/information/69463/espace-saisonniers"
+          "Url": "http://www.mairie-tignes.frfrinformation/69463/espace-saisonniers"
         },
         "Ouverture": {
           "PlageJ": {
@@ -310,13 +329,13 @@
       "properties": {
         "id": "msap-73024-01",
         "codeInsee": "73024",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Valmorel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "immeuble le Bercail",
+          "type": "géopostale",
+          "Ligne": "Immeuble le Bercail",
           "CodePostal": "73260",
           "NomCommune": "Avanchers-Valmorel",
           "Localisation": {
@@ -328,7 +347,68 @@
         "CoordonnéesNum": {
           "Téléphone": "04 79 09 82 57",
           "Email": "espacesaisonvalmorel@orange.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/espace-saisonniers-valmorel"
+          "Url": "https://www.maisondeservicesaupublic.frcontent/espace-saisonniers-valmorel"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "10:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
+                }
+              ],
+              "Note": "Horaires inter-saison du lundi au vendredi de 9h00 à 12h00 et de 13h30 à 17h00"
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "15:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -337,45 +417,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.847425,
-          45.811839
+          5.851443,
+          45.821622
         ]
       },
       "properties": {
         "id": "msap-73085-01",
         "codeInsee": "73085",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public -  Chindrieux",
+        "Nom": "Maison de services au public - Chindrieux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Chemin des Choîtres",
+          "type": "géopostale",
+          "Ligne": [
+            "Centre socio-culturel ALCC",
+            "Chemin des Cloîtres"
+          ],
           "CodePostal": "73310",
           "NomCommune": "Chindrieux",
           "Localisation": {
-            "Latitude": "45.811839",
-            "Longitude": "5.847425",
+            "Latitude": "45.821622",
+            "Longitude": "5.851443",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 54 52 54",
           "Email": "accueil@alcc73.fr",
-          "Url": "http://www.alcc73.fr/msap/"
+          "Url": "http://www.alcc73.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
                 "début": "09:00:00",
                 "fin": "12:00:00"
               }
             },
             {
-              "début": "mardi",
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -401,20 +501,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "jeudi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "18:00:00"
-                }
-              ]
             }
           ]
         }
@@ -432,13 +518,13 @@
       "properties": {
         "id": "msap-73081-01",
         "codeInsee": "73081",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Le Châtelard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "rue du Capitaine De Courson",
+          "type": "géopostale",
+          "Ligne": "Rue du Capitaine-de-Courson",
           "CodePostal": "73630",
           "NomCommune": "Le Châtelard",
           "Localisation": {
@@ -450,10 +536,24 @@
         "CoordonnéesNum": {
           "Téléphone": "04 79 54 87 64",
           "Email": "info@amisdesbauges.org",
-          "Url": "http://www.amisdesbauges.org/emploi-services/"
+          "Url": "http://www.amisdesbauges.org"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
             {
               "début": "lundi",
               "fin": "lundi",
@@ -481,26 +581,12 @@
               "fin": "jeudi",
               "PlageH": [
                 {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": [
-                {
                   "début": "09:00:00",
                   "fin": "12:00:00"
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "17:00:00"
+                  "fin": "17:30:00"
                 }
               ]
             }
@@ -520,12 +606,12 @@
       "properties": {
         "id": "msap-73304-01",
         "codeInsee": "73304",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Val-d'Isère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
             "Maison de Val",
             "Route de la Balme"
@@ -541,7 +627,7 @@
         "CoordonnéesNum": {
           "Téléphone": "04 79 06 84 78",
           "Email": "contact@vievaldis.com",
-          "Url": "http://www.vievaldis.com/"
+          "Url": "http://www.vievaldis.com"
         },
         "Ouverture": {
           "PlageJ": [
@@ -557,7 +643,17 @@
                   "début": "15:00:00",
                   "fin": "18:00:00"
                 }
-              ]
+              ],
+              "Note": "Horaires d'hiver de 9h à 12h et de 15h à 18h."
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "15:00:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Horaires d'hiver de 15h à 19h."
             },
             {
               "début": "jeudi",
@@ -571,15 +667,8 @@
                   "début": "15:00:00",
                   "fin": "18:00:00"
                 }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "15:00:00",
-                "fin": "18:00:00"
-              }
+              ],
+              "Note": "Horaires d'hiver de 9h à 12h et de 15h à 18h."
             },
             {
               "début": "vendredi",
@@ -587,7 +676,8 @@
               "PlageH": {
                 "début": "10:00:00",
                 "fin": "12:00:00"
-              }
+              },
+              "Note": "Horaires d'hiver de 9h à 13h et de 13h30 à 16h."
             }
           ]
         }
@@ -605,9 +695,9 @@
       "properties": {
         "id": "msap-73143-01",
         "codeInsee": "73143",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public Lanslebourg Mont Cenis",
+        "Nom": "Maison de services au public - Lanslebourg-Mont-Cenis",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
@@ -622,8 +712,41 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 05 90 78",
-          "Email": "contact@cchautemaurienne.com",
-          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          "Email": "k.longueville@cchmv.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ],
+              "Note": "Uniquement jusqu'au 13 avril."
+            }
+          ]
         }
       }
     },
@@ -632,35 +755,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.573014,
-          45.71757
+          5.43857679,
+          46.5732504
         ]
       },
       "properties": {
         "id": "msap-73034-01",
         "codeInsee": "73034",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Beaufort",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": [
-            "Association d'animation du Beaufortain",
-            "Rue du Confluent"
-          ],
-          "CodePostal": "73270",
+          "type": "géopostale",
+          "Ligne": "10 Grande rue",
+          "CodePostal": "39190",
           "NomCommune": "Beaufort",
           "Localisation": {
-            "Latitude": "45.71757",
-            "Longitude": "6.573014",
+            "Latitude": "46.5732504",
+            "Longitude": "5.43857679",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "04 79 38 33 90",
-          "Email": "aabeaufortain@wanadoo.fr",
-          "Url": "http://www.aabeaufortain.org/"
+          "Téléphone": "03 84 48 45 45",
+          "Email": "pole@adessur.fr",
+          "Url": "http://www.accueil-sud-revermont.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -673,7 +796,7 @@
               },
               {
                 "début": "13:30:00",
-                "fin": "18:00:00"
+                "fin": "17:00:00"
               }
             ]
           }
@@ -686,31 +809,32 @@
         "type": "Point",
         "coordinates": [
           6.514906,
-          45.818382
+          45.8183971
         ]
       },
       "properties": {
         "id": "msap-73114-01",
         "codeInsee": "73114",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Flumet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "147 rue du Mont Blanc",
+          "type": "géopostale",
+          "Ligne": "147 rue du Mont-Blanc",
           "CodePostal": "73590",
           "NomCommune": "Flumet",
           "Localisation": {
-            "Latitude": "45.818382",
+            "Latitude": "45.8183971",
             "Longitude": "6.514906",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 31 80 04",
+          "Télécopie": "09 74 44 28 80",
           "Email": "vivreenvaldarly@gmail.com",
-          "Url": "http://vivre-en-valdarly.fr/servicevva/relais-services-publics/"
+          "Url": "http://vivre-en-valdarly.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -766,13 +890,13 @@
       "properties": {
         "id": "msap-73055-01",
         "codeInsee": "73055",
-        "dateMiseAJour": "2017-01-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public ( Bureau de Poste ) - Bozel",
+        "Nom": "Maison de services au public - Bozel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "rue Emile Machet",
+          "Ligne": "Rue Emile-Machet",
           "CodePostal": "73350",
           "NomCommune": "Bozel",
           "Localisation": {
@@ -782,8 +906,35 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 79 55 00 70",
           "Email": "msap.bozel@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/bozel-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -792,32 +943,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.51122,
-          45.499721
+          6.473625,
+          45.532064
         ]
       },
       "properties": {
         "id": "msap-73187-01",
         "codeInsee": "73187",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - La Lechère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Place de la Gare",
           "CodePostal": "73260",
           "NomCommune": "La Léchère",
           "Localisation": {
-            "Latitude": "45.499721",
-            "Longitude": "6.51122",
+            "Latitude": "45.532064",
+            "Longitude": "6.473625",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 09 63 77",
           "Email": "maisondesservices@lalechere.fr",
-          "Url": "http://www.lalechere.fr/"
+          "Url": "http://www.lalechere.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -860,50 +1014,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.631882,
-          45.433864
+          6.64678819,
+          45.38864479
         ]
       },
       "properties": {
         "id": "msap-73227-01",
         "codeInsee": "73227",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Saint-Bon-Tarentaise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Immeuble la Saretta",
+          "type": "géopostale",
+          "Ligne": [
+            "Espace Emploi Formation Courchevel",
+            "Immeuble La Saretta"
+          ],
           "CodePostal": "73120",
           "NomCommune": "Saint-Bon-Tarentaise",
           "Localisation": {
-            "Latitude": "45.433864",
-            "Longitude": "6.631882",
-            "Précision": "1"
+            "Latitude": "45.38864479",
+            "Longitude": "6.64678819",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 00 01 01",
           "Email": "eef@mairie-courchevel.com",
-          "Url": "http://www.espaceemploi.mairie-courchevel.fr/"
+          "Url": "http://www.espaceemploi.mairie-courchevel.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
               "fin": "jeudi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              }
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ],
+              "Note": "Horaires d'été : accueil ouvert du lundi au jeudi de 9h à 12h30 et 13h30 à 17h et le vendredi de 9h à 13h."
             },
             {
               "début": "vendredi",
               "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "13:00:00"
-              }
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
             }
           ]
         }
@@ -921,25 +1094,28 @@
       "properties": {
         "id": "msap-73150-01",
         "codeInsee": "73150",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public La Plagne",
+        "Nom": "Maison de services au public - La Plagne",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Salle omnisports-Plagne Centre",
+          "Ligne": "Salle omnisports Plagne-Centre",
           "CodePostal": "73210",
           "NomCommune": "Mâcot-la-Plagne",
           "Localisation": {
             "Latitude": "45.554755",
             "Longitude": "6.670354",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 09 20 85",
           "Email": "saisonniers-sigp@la-plagne.com",
-          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -958,19 +1134,12 @@
               ]
             },
             {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
-                }
-              ],
-              "Note": "Uniquement sur rendez-vous l'après-midi"
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             },
             {
               "début": "jeudi",
@@ -987,12 +1156,19 @@
               ]
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              }
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ],
+              "Note": "Accueil uniquement sur rendez-vous l'après-midi."
             }
           ]
         }
@@ -1010,13 +1186,16 @@
       "properties": {
         "id": "msap-73274-01",
         "codeInsee": "73274",
-        "dateMiseAJour": "2017-01-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public ( Bureau de Poste ) - Saint-Pierre d'Entremont",
+        "Nom": "Maison de services au public - Saint-Pierre-d'Entremont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "chef Lieu",
+          "Ligne": [
+            "Bureau de poste",
+            "Chef-lieu"
+          ],
           "CodePostal": "73670",
           "NomCommune": "Saint-Pierre-d'Entremont",
           "Localisation": {
@@ -1027,7 +1206,33 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.saint-pierre-d-entremont@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-pierre-dentremont-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -1037,39 +1242,57 @@
         "type": "Point",
         "coordinates": [
           6.918327,
-          45.484059
+          45.484062
         ]
       },
       "properties": {
         "id": "msap-73296-01",
         "codeInsee": "73296",
-        "dateMiseAJour": "2016-09-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public -  Tignes",
+        "Nom": "Maison de services au public - Tignes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
-            "Espace Saisonniers",
-            "Le Glattier"
+            "Le Glattier",
+            "Espace saisonniers"
           ],
           "CodePostal": "73320",
           "NomCommune": "Tignes",
           "Localisation": {
-            "Latitude": "45.484059",
+            "Latitude": "45.484062",
             "Longitude": "6.918327",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 40 09 89",
           "Email": "espacesaisonniers@tignes.net",
-          "Url": "http://www.mairie-tignes.fr/fr/information/69463/espace-saisonniers"
+          "Url": "http://www.mairie-tignes.frfrinformation/69463/espace-saisonniers"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ],
+              "Note": "Horaires d'hiver de 9h à 12h et de 14h à 19h."
+            },
+            {
+              "début": "mardi",
               "fin": "mardi",
               "PlageH": [
                 {
@@ -1080,15 +1303,17 @@
                   "début": "14:00:00",
                   "fin": "19:00:00"
                 }
-              ]
+              ],
+              "Note": "Horaires d'hiver de 9h à 12h et de 14h à 19h."
             },
             {
               "début": "mercredi",
               "fin": "mercredi",
               "PlageH": {
-                "début": "14:00:00",
-                "fin": "19:00:00"
-              }
+                "début": "13:30:00",
+                "fin": "18:00:00"
+              },
+              "Note": "Horaires d'hiver de 14h à 19h."
             },
             {
               "début": "jeudi",
@@ -1102,7 +1327,8 @@
                   "début": "14:00:00",
                   "fin": "19:00:00"
                 }
-              ]
+              ],
+              "Note": "Horaires d'hiver de 9h à 12h et de 14h à 19h."
             }
           ]
         }
@@ -1120,13 +1346,13 @@
       "properties": {
         "id": "msap-73146-01",
         "codeInsee": "73146",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public Lescheraines",
+        "Nom": "Maison de services au public - Lescheraines",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le pont",
+          "Ligne": "Le Pont",
           "CodePostal": "73340",
           "NomCommune": "Lescheraines",
           "Localisation": {
@@ -1136,8 +1362,35 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 79 63 31 08",
           "Email": "msap.lescheraines@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -1146,32 +1399,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.117796,
-          45.459672
+          6.1198626,
+          45.4619206
         ]
       },
       "properties": {
         "id": "msap-73215-01",
         "codeInsee": "73215",
-        "dateMiseAJour": "2016-11-18",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - La Rochette",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Allée des grillons",
+          "type": "géopostale",
+          "Ligne": "Allée des Grillons",
           "CodePostal": "73110",
           "NomCommune": "La Rochette",
           "Localisation": {
-            "Latitude": "45.459672",
-            "Longitude": "6.117796",
-            "Précision": "1"
+            "Latitude": "45.4619206",
+            "Longitude": "6.1198626",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 79 65 36 02",
           "Email": "cvallaise@la-rochette.com",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/la-rochette-coeur-de-savoie"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -1203,15 +1459,15 @@
       "properties": {
         "id": "msap-73181-01",
         "codeInsee": "73181",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-10",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public Moûtiers",
+        "Nom": "Maison de services au public - Moûtiers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "70 rue du Pain de Mai",
           "CodePostal": "73600",
-          "NomCommune": "Moutiers",
+          "NomCommune": "Moûtiers",
           "Localisation": {
             "Latitude": "45.483644",
             "Longitude": "6.53392",
@@ -1221,7 +1477,7 @@
         "CoordonnéesNum": {
           "Téléphone": "04 79 00 08 35",
           "Email": "maisondesservices@moutiers.org",
-          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          "Url": "https://www.maisondeservicesaupublic.fr/content/moutiers"
         },
         "Ouverture": {
           "PlageJ": [

@@ -6,31 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.174052,
-          47.538688
+          7.1741914,
+          47.5386021
         ]
       },
       "properties": {
         "id": "msap-68305-01",
         "codeInsee": "68305",
-        "dateMiseAJour": "2016-11-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Seppois-le-Bas",
+        "Nom": "Maison de services au public - Seppois-le-Bas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "32 rue du GMA",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "32 rue du GMA"
+          ],
           "CodePostal": "68580",
           "NomCommune": "Seppois-le-Bas",
           "Localisation": {
-            "Latitude": "47.538688",
-            "Longitude": "7.174052",
+            "Latitude": "47.5386021",
+            "Longitude": "7.1741914",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.seppois-le-bas@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/seppois-le-bas-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -39,34 +98,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.469225,
-          48.103427
+          7.4693207,
+          48.1036689
         ]
       },
       "properties": {
         "id": "msap-68227-01",
         "codeInsee": "68227",
-        "dateMiseAJour": "2016-11-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Muntzenheim",
+        "Nom": "Maison de services au public - Muntzenheim",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
-            "12 rue de Colmar",
-            "59 Grande Rue"
+            "Bureau de poste",
+            "2 rue de Colmar"
           ],
           "CodePostal": "68320",
           "NomCommune": "Muntzenheim",
           "Localisation": {
-            "Latitude": "48.103427",
-            "Longitude": "7.469225",
+            "Latitude": "48.1036689",
+            "Longitude": "7.4693207",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.muntzenheim@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/muntzenheim-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -75,31 +160,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.299638,
-          48.165814
+          7.2996713,
+          48.1658962
         ]
       },
       "properties": {
         "id": "msap-68277-01",
         "codeInsee": "68277",
-        "dateMiseAJour": "2016-11-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Riquewihr",
+        "Nom": "Maison de services au public - Riquewihr",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "2 place Fernand Zeyer",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "2 place Fernand-Zeyer"
+          ],
           "CodePostal": "68340",
           "NomCommune": "Riquewihr",
           "Localisation": {
-            "Latitude": "48.165814",
-            "Longitude": "7.299638",
+            "Latitude": "48.1658962",
+            "Longitude": "7.2996713",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.riquewihr@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/riquewihr-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -108,31 +244,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.506629,
-          47.787231
+          7.5052803,
+          47.7851107
         ]
       },
       "properties": {
         "id": "msap-68253-01",
         "codeInsee": "68253",
-        "dateMiseAJour": "2016-11-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Ottmarsheim",
+        "Nom": "Maison de services au public - Ottmarsheim",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Rue du Général de Gaulle",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "1 rue du Général-de-Gaulle"
+          ],
           "CodePostal": "68490",
           "NomCommune": "Ottmarsheim",
           "Localisation": {
-            "Latitude": "47.787231",
-            "Longitude": "7.506629",
-            "Précision": "6"
+            "Latitude": "47.7851107",
+            "Longitude": "7.5052803",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "03 89 83 28 90",
           "Email": "msap.ottmarsheim@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/ottmarsheim-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:15:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:15:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -148,13 +317,16 @@
       "properties": {
         "id": "msap-68089-01",
         "codeInsee": "68089",
-        "dateMiseAJour": "2016-11-15",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Fellering",
+        "Nom": "Maison de services au public - Fellering",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "59 Grande Rue",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "59 Grande rue"
+          ],
           "CodePostal": "68470",
           "NomCommune": "Fellering",
           "Localisation": {
@@ -165,7 +337,55 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.fellering@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/fellering-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
         }
       }
     }

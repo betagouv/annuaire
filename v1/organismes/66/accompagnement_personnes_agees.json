@@ -13,18 +13,17 @@
       "properties": {
         "id": "accompagnement_personnes_agees-66136-01",
         "codeInsee": "66136",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-932",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Perpignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "France Alzheimer Po",
+            "Le Grand Platane",
             "Accueil thérapeutique de jour",
-            "Le grand-platane",
-            "France Alzheimer Catalogne",
-            "10 rue Vincent -d'Indy"
+            "10 rue Vincent-d'Indy"
           ],
           "CodePostal": "66000",
           "NomCommune": "Perpignan",
@@ -32,13 +31,26 @@
             "Latitude": "42.70536",
             "Longitude": "2.893615",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 52 22 22",
+          "Téléphone": "04 68 52 22 22",
+          "Télécopie": "04 68 28 62 77",
           "Email": "francealzheimer-catalogne@wanadoo.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     },
     {
@@ -53,16 +65,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-66108-01",
         "codeInsee": "66108",
-        "dateMiseAJour": "2016-05-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-933",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "15 rue Hermès",
-            "Lotissement Zac Los Palaus"
+            "Accueil de jour",
+            "Lotissement ZAC Los Palaus",
+            "15 rue Hermès"
           ],
           "CodePostal": "66170",
           "NomCommune": "Millas",
@@ -70,13 +82,17 @@
             "Latitude": "42.6881002",
             "Longitude": "2.7072916",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 66 02 02",
-          "Email": "residenceforcareal@wanadoo.fr"
+          "Téléphone": "04 68 66 02 02",
+          "Email": "grandplatanemillas@gmail.com",
+          "Url": "http://www.legrandplatane.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place.\nAccueil de jour Alzheimer à la même adresse."
+        "Commentaire": "Accueil ouvert uniquement sur rendez-vous, contacter le 0468522222."
       }
     },
     {
@@ -91,16 +107,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-66149-01",
         "codeInsee": "66149",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-987",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Prades",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Guy-Malé",
+            "EHPAD Guy-Malé",
             "Centre hospitalier",
             "1 rue de la Basse"
           ],
@@ -110,13 +124,28 @@
             "Latitude": "42.618293",
             "Longitude": "2.424575",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 96 00 88",
-          "Email": "m.retraite@hopital-prades"
+          "Téléphone": "04 68 96 00 88",
+          "Télécopie": "04 68 96 57 85",
+          "Email": "m.retraite@hopital-prades.fr",
+          "Url": "http://hopital-prades.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "18:00:00"
+            },
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
       }
     },
     {
@@ -131,18 +160,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-66108-02",
         "codeInsee": "66108",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-986",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millas",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
+            "Résidence Força Real",
             "Accueil de jour",
-            "Résidence",
-            "Força Real",
-            "10 allée Edmond-Michelet"
+            "3 allée Edmond-Michelet"
           ],
           "CodePostal": "66170",
           "NomCommune": "Millas",
@@ -150,13 +177,33 @@
             "Latitude": "42.689959",
             "Longitude": "2.695244",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 84 61 00",
-          "Email": "residenceforcareal@wanadoo.fr"
+          "Téléphone": "04 68 84 61 00",
+          "Télécopie": "04 68 84 61 89",
+          "Email": "residenceforcareal@wanadoo.fr",
+          "Url": "http://ehpad-millas.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
       }
     }
   ]

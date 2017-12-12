@@ -6,47 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.629622,
-          48.40265
+          -0.6299328,
+          48.4036901
         ]
       },
       "properties": {
         "id": "msap-53003-01",
         "codeInsee": "53003",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Ambrières-les-Vallées",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "2 place du Château",
+          "type": "géopostale",
+          "Ligne": "6 place du Château",
           "CodePostal": "53300",
           "NomCommune": "Ambrières-les-Vallées",
           "Localisation": {
-            "Latitude": "48.40265",
-            "Longitude": "-0.629622",
+            "Latitude": "48.4036901",
+            "Longitude": "-0.6299328",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "02 43 08 01 79",
           "Email": "directiontechnique@cc-bocagemayennais.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/ambrieres-les-vallees"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
                 "début": "14:00:00",
                 "fin": "17:00:00"
               }
-            ]
-          }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -62,25 +73,28 @@
       "properties": {
         "id": "msap-53096-01",
         "codeInsee": "53096",
-        "dateMiseAJour": "2016-09-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Ernée",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Parc d'Activités de la Querminais",
+          "type": "géopostale",
+          "Ligne": "Parc d'activités de la Querminais",
           "CodePostal": "53500",
           "NomCommune": "Ernée",
           "Localisation": {
             "Latitude": "48.29056",
             "Longitude": "-0.917808",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 05 46 31",
-          "Email": "emploiformation@lernee.fr",
-          "Url": "http://www.cc-lernee.fr/centre-de-ressources-relais-services-publics_permanences-des-partenaires-de-l-emploi-la-formation-l-action-sociale.phtml"
+          "Email": "msap@lernee.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -121,32 +135,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.813794,
-          48.410632
+          -0.8129509,
+          48.4118489
         ]
       },
       "properties": {
         "id": "msap-53107-01",
         "codeInsee": "53107",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Gorron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "2 rue Magenta",
+          "type": "géopostale",
+          "Ligne": "Place de la Mairie",
           "CodePostal": "53120",
           "NomCommune": "Gorron",
           "Localisation": {
-            "Latitude": "48.410632",
-            "Longitude": "-0.813794",
+            "Latitude": "48.4118489",
+            "Longitude": "-0.8129509",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 30 10 58",
-          "Email": "pij@gorron.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/gorron"
+          "Email": "msap@gorron.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -154,8 +171,8 @@
             "fin": "vendredi",
             "PlageH": [
               {
-                "début": "08:45:00",
-                "fin": "12:00:00"
+                "début": "08:30:00",
+                "fin": "12:15:00"
               },
               {
                 "début": "13:30:00",
@@ -171,32 +188,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.933632,
-          48.070126
+          -0.929679,
+          48.070419
         ]
       },
       "properties": {
         "id": "msap-53137-01",
         "codeInsee": "53137",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pays de Loiron",
+        "Nom": "Maison de services au public - Loiron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Maison de Pays - Espace Tertiel",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays de Loiron",
+            "La Chapelle-du-Chêne"
+          ],
           "CodePostal": "53320",
           "NomCommune": "Loiron",
           "Localisation": {
-            "Latitude": "48.070126",
-            "Longitude": "-0.933632",
+            "Latitude": "48.070419",
+            "Longitude": "-0.929679",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 43 02 19 31 02 43 02 43 93",
-          "Email": "entreprises@cc-paysdeloiron.fr",
-          "Url": "http://www.cc-paysdeloiron.fr/"
+          "Téléphone": "02 43 02 19 31",
+          "Email": "msap@cc-paysdeloiron.fr",
+          "Url": "http://www.cc-paysdeloiron.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -221,64 +244,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.950253,
-          47.848036
+          -0.955696,
+          47.849337
         ]
       },
       "properties": {
         "id": "msap-53084-01",
         "codeInsee": "53084",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Craon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Place du Maréchal Leclerc",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays de Craon",
+            "29 rue de la Libération"
+          ],
           "CodePostal": "53400",
           "NomCommune": "Craon",
           "Localisation": {
-            "Latitude": "47.848036",
-            "Longitude": "-0.950253",
-            "Précision": "1"
-          }
-        },
-        "CoordonnéesNum": {
-          "Url": "https://www.maisondeservicesaupublic.fr/content/pays-de-craon"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.243782,
-          48.44039
-        ]
-      },
-      "properties": {
-        "id": "msap-53185-01",
-        "codeInsee": "53185",
-        "dateMiseAJour": "2016-11-07",
-        "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pré-en-Pail-Saint-Samson",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": {
-          "type": "physique",
-          "Ligne": "1 rue de la Corniche de Pail",
-          "CodePostal": "53140",
-          "NomCommune": "Pré-en-Pail",
-          "Localisation": {
-            "Latitude": "48.44039",
-            "Longitude": "-0.243782",
+            "Latitude": "47.849337",
+            "Longitude": "-0.955696",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "02 43 04 63 75",
-          "Email": "rsp@cc-montdesavaloirs.fr",
-          "Url": "http://www.cc-montdesavaloirs.fr/maisons-de-services-au-public-msap_maison-de-services-au-public-a-pre-en-pail.phtml"
+          "Téléphone": "02 43 09 09 65",
+          "Email": "msap@cias.paysdecraon.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -287,14 +284,80 @@
             "PlageH": [
               {
                 "début": "09:00:00",
-                "fin": "12:30:00"
+                "fin": "12:00:00"
               },
               {
-                "début": "13:30:00",
-                "fin": "17:30:00"
+                "début": "14:00:00",
+                "fin": "17:00:00"
               }
             ]
           }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200806,
+          48.455353
+        ]
+      },
+      "properties": {
+        "id": "msap-53185-01",
+        "codeInsee": "53185",
+        "dateMiseAJour": "2017-11-13",
+        "pivotLocal": "msap",
+        "Nom": "Maison de services au public - Pré-en-Pail-Saint-Samson",
+        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
+        "Adresse": {
+          "type": "géopostale",
+          "Ligne": "1 rue de la Corniche-de-Pail",
+          "CodePostal": "53140",
+          "NomCommune": "Pré-en-Pail",
+          "Localisation": {
+            "Latitude": "48.455353",
+            "Longitude": "-0.200806",
+            "Précision": "8"
+          }
+        },
+        "CoordonnéesNum": {
+          "Téléphone": "02 43 04 63 75",
+          "Email": "rsp@cc-montdesavaloirs.fr",
+          "Url": "http://www.cc-montdesavaloirs.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -310,25 +373,28 @@
       "properties": {
         "id": "msap-53271-01",
         "codeInsee": "53271",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Villaines-la-Juhel",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "17 boulevard du Général De Gaulle",
+          "type": "géopostale",
+          "Ligne": "17 boulevard du Général-de-Gaulle",
           "CodePostal": "53700",
           "NomCommune": "Villaines-la-Juhel",
           "Localisation": {
             "Latitude": "48.339427",
             "Longitude": "-0.281233",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 30 13 13",
           "Email": "centre.ressources@cc-montdesavaloirs.fr",
-          "Url": "http://www.cc-montdesavaloirs.fr/maisons-de-services-au-public-msap_centre-de-ressources-maison-de-services-au-public.phtml"
+          "Url": "http://www.cc-montdesavaloirs.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -341,7 +407,7 @@
               },
               {
                 "début": "13:30:00",
-                "fin": "17:00:00"
+                "fin": "17:30:00"
               }
             ]
           }
@@ -353,32 +419,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.542428,
-          47.949466
+          -0.543607,
+          47.953482
         ]
       },
       "properties": {
         "id": "msap-53152-01",
         "codeInsee": "53152",
-        "dateMiseAJour": "2016-09-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pays de Meslay-Grez",
+        "Nom": "Maison de services au public - Meslay-du-Maine",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "1 voie de la Guiternière",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays de Meslay-Grez",
+            "1 voie de la Guiternière"
+          ],
           "CodePostal": "53170",
           "NomCommune": "Meslay-du-Maine",
           "Localisation": {
-            "Latitude": "47.949466",
-            "Longitude": "-0.542428",
+            "Latitude": "47.953482",
+            "Longitude": "-0.543607",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 64 24 06",
           "Email": "msap@paysmeslaygrez.fr",
-          "Url": "http://www.paysmeslaygrez.fr/HABITER/Services-aux-particuliers2/Demarches-Administratives"
+          "Url": "http://www.paysmeslaygrez.frHABITER/Services-aux-particuliers2/Demarches-Administratives"
         },
         "Ouverture": {
           "PlageJ": {
@@ -403,51 +475,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.496704,
-          48.437978
+          -0.496703,
+          48.4379826
         ]
       },
       "properties": {
         "id": "msap-53127-01",
         "codeInsee": "53127",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Mayenne Communauté",
+        "Nom": "Maison de services au public - Lassay-les-Châteaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "15 Grande Rue",
+          "type": "géopostale",
+          "Ligne": [
+            "Mayenne communauté",
+            "15 Grande rue"
+          ],
           "CodePostal": "53110",
           "NomCommune": "Lassay-les-Châteaux",
           "Localisation": {
-            "Latitude": "48.437978",
-            "Longitude": "-0.496704",
+            "Latitude": "48.4379826",
+            "Longitude": "-0.496703",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 00 16 36",
           "Email": "msap@mayennecommunaute.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/maison-de-service-public-mayenne-communaute"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mercredi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "08:30:00",
                   "fin": "12:30:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
                 }
-              ]
+              ],
+              "Note": "Accueil ouvert le jeudi uniquement sur rendez-vous."
             },
             {
-              "début": "jeudi",
+              "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "08:30:00",
@@ -470,43 +549,46 @@
       "properties": {
         "id": "msap-53097-01",
         "codeInsee": "53097",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public -  Évron",
+        "Nom": "Maison de services au public - Évron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "4 rue de Hertford",
+          "type": "géopostale",
+          "Ligne": "Rue de Hertford",
           "CodePostal": "53600",
           "NomCommune": "Évron",
           "Localisation": {
             "Latitude": "48.156406",
             "Longitude": "-0.400982",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 01 78 03",
-          "Email": "accueil@evron.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/evron"
+          "Email": "msap@evron.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "lundi",
+              "fin": "mardi",
               "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
+                "début": "08:30:00",
+                "fin": "12:30:00"
               }
             },
             {
-              "début": "mardi",
-              "fin": "vendredi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": [
                 {
-                  "début": "08:45:00",
-                  "fin": "12:15:00"
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
                 },
                 {
                   "début": "13:30:00",
@@ -515,11 +597,19 @@
               ]
             },
             {
-              "début": "samedi",
-              "fin": "samedi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:00:00"
+                "début": "08:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
             }
           ]
@@ -531,35 +621,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.36549,
-          48.25146
+          -0.364552,
+          48.251584
         ]
       },
       "properties": {
         "id": "msap-53016-01",
         "codeInsee": "53016",
-        "dateMiseAJour": "2016-11-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Coëvrons à Bais",
+        "Nom": "Maison de services au public - Bais",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "2 avenue Auguste Janvier",
-          "CodePostal": "53160",
+          "type": "géopostale",
+          "Ligne": [
+            "Les Coëvrons",
+            "2 avenue Auguste-Janvier"
+          ],
+          "CodePostal": "56160",
           "NomCommune": "Bais",
           "Localisation": {
-            "Latitude": "48.25146",
-            "Longitude": "-0.36549",
+            "Latitude": "48.251584",
+            "Longitude": "-0.364552",
             "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "02 43 37 71 00",
-          "Email": "rsp-bais@coevrons.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/coevrons-bais"
+          "Email": "msap-bais@coevrons.fr",
+          "Url": "https://www.maisondeservicesaupublic.frcontent/coevrons-bais"
         },
         "Ouverture": {
           "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            },
             {
               "début": "lundi",
               "fin": "mardi",
@@ -589,25 +696,11 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "13:30:00",
-                  "fin": "17:30:00"
-                }
-              ]
-            },
-            {
               "début": "vendredi",
               "fin": "vendredi",
               "PlageH": {
                 "début": "08:30:00",
-                "fin": "12:30:00"
+                "fin": "12:00:00"
               }
             }
           ]

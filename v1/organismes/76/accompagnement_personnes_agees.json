@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.101512,
-          49.378953
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-76575-01",
         "codeInsee": "76575",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-15",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-952",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Étienne-du-Rouvray",
@@ -21,19 +21,14 @@
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD Michel Grandpierre",
-            "Avenue du Val-l'Abbé"
+            "1 bis Avenue du Val-l'Abbé",
+            "EHPAD Michel Grandpierre"
           ],
           "CodePostal": "76800",
-          "NomCommune": "Saint-Étienne-du-Rouvray",
-          "Localisation": {
-            "Latitude": "49.378953",
-            "Longitude": "1.101512",
-            "Précision": "8"
-          }
+          "NomCommune": "Saint-Étienne-du-Rouvray"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 32 19 00 10"
+          "Téléphone": "02 32 19 00 10"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }
@@ -43,14 +38,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.265039,
-          49.642412
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-76196-01",
         "codeInsee": "76196",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-950",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Criquetot-l'Esneval",
@@ -63,15 +58,13 @@
             "4 route de Turretot"
           ],
           "CodePostal": "76280",
-          "NomCommune": "Criquetot-l'Esneval",
-          "Localisation": {
-            "Latitude": "49.642412",
-            "Longitude": "0.265039",
-            "Précision": "8"
-          }
+          "NomCommune": "Criquetot-l'Esneval"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 35 10 21 00",
+          "Téléphone": {
+            "coût": "02 35 29 46 01",
+            "$t": "02 35 10 21 00"
+          },
           "Email": "mdr.lapommeraie@wanadoo.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
@@ -89,16 +82,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-76331-01",
         "codeInsee": "76331",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-951",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Grugny",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
             "EHPAD",
-            "Etablissement public départemental de Grugny",
+            "Établissement public départemental de Grugny",
             "634 rue André-Martin"
           ],
           "CodePostal": "76690",
@@ -107,12 +99,26 @@
             "Latitude": "49.620869",
             "Longitude": "1.103224",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 32 93 80 00"
+          "Téléphone": "02 32 93 83 53",
+          "Télécopie": "02 32 93 83 39",
+          "Email": "loasis@epd-grugny.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     }
   ]

@@ -13,7 +13,7 @@
       "properties": {
         "id": "pmi-24311-01",
         "codeInsee": "24311",
-        "dateMiseAJour": "2017-02-21",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "pmi",
         "Nom": "Centre de protection maternelle et infantile (PMI) de Nontron",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -36,7 +36,7 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 53 02 07 06",
-          "Url": "https://www.dordogne.frservir_les_citoyens/solidarite/enfance_&_jeunesse/protection_maternelle_et_infantile_(pmi)/466"
+          "Url": "https://www.dordogne.fr/servir_les_citoyens/solidarite/enfance_&_jeunesse/protection_maternelle_et_infantile_(pmi)/466"
         },
         "Ouverture": {
           "PlageJ": {
@@ -124,9 +124,9 @@
       "properties": {
         "id": "pmi-24037-01",
         "codeInsee": "24037",
-        "dateMiseAJour": "2017-02-21",
+        "dateMiseAJour": "2017-12-01",
         "pivotLocal": "pmi",
-        "Nom": "Centre de protection maternelle et infantile (PMI) de Bergerac",
+        "Nom": "Centre de protection maternelle et infantile (PMI) de Bergerac - Valette",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": [
           {
@@ -333,75 +333,6 @@
               "début": "08:30:00",
               "fin": "17:30:00"
             }
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.480719000101,
-          44.8538017273
-        ]
-      },
-      "properties": {
-        "id": "pmi-24037-02",
-        "codeInsee": "24037",
-        "dateMiseAJour": "2017-02-21",
-        "pivotLocal": "pmi",
-        "Nom": "Centre de protection maternelle et infantile (PMI) de Bergerac",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Annexe de la maison du département",
-              "2 rue Valette"
-            ],
-            "CodePostal": "24100",
-            "NomCommune": "Bergerac",
-            "Localisation": {
-              "Latitude": "44.8538017273",
-              "Longitude": "0.480719000101",
-              "Précision": "8"
-            },
-            "Accessibilité": {
-              "type": "ACC",
-              "$t": "rampe d'accès et ascenseur"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Maison du département",
-              "16 boulevard Maine-de-Biran"
-            ],
-            "CodePostal": "24100",
-            "NomCommune": "Bergerac"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": "05 53 02 04 41",
-          "Télécopie": "01 57 67 29 05",
-          "Email": "s.leroy@dordogne.fr",
-          "Url": "http://www.cg24.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
-            ]
           }
         }
       }

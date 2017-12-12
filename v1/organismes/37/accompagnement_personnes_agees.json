@@ -52,16 +52,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-37003-01",
         "codeInsee": "37003",
-        "dateMiseAJour": "2015-07-13",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "CLIC-1137",
-        "Nom": "Point d'information local dédié aux personnes âgées - Amboise",
+        "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Amboise",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "9, rue Grégoire-de-Tours",
-            "Maison Départementale de la Solidarité"
+            "Maison départementale de la solidarité",
+            "9 rue Grégoire-de-Tours"
           ],
           "CodePostal": "37400",
           "NomCommune": "Amboise",
@@ -69,11 +68,15 @@
             "Latitude": "47.407596",
             "Longitude": "0.988439",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 47 30 48 48",
-          "Url": "http://www.touraine-reperage.fr/"
+          "Téléphone": "02 47 30 48 48",
+          "Télécopie": "02 47 39 72 80",
+          "Url": "http://www.departement-touraine.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -82,16 +85,15 @@
             "PlageH": [
               {
                 "début": "09:00:00",
-                "fin": "12:00:00"
+                "fin": "12:30:00"
               },
               {
-                "début": "14:00:00",
+                "début": "13:30:00",
                 "fin": "17:00:00"
               }
             ]
           }
-        },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        }
       }
     }
   ]

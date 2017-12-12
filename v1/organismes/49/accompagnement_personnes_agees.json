@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.885368,
-          47.060985
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-49099-01",
         "codeInsee": "49099",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-913",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cholet",
@@ -25,15 +25,10 @@
             "23 rue Trémolière"
           ],
           "CodePostal": "49300",
-          "NomCommune": "Cholet",
-          "Localisation": {
-            "Latitude": "47.060985",
-            "Longitude": "-0.885368",
-            "Précision": "8"
-          }
+          "NomCommune": "Cholet"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 9 60 14 84 58",
+          "Téléphone": "02 41 75 49 33",
           "Email": "contact.relais-presence@orange.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
@@ -51,9 +46,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-49007-01",
         "codeInsee": "49007",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-911",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Angers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -68,12 +62,16 @@
             "Latitude": "47.458795",
             "Longitude": "-0.546475",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 41 24 15 30"
-        },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          "Téléphone": "02 41 24 15 26",
+          "Email": "celine.lemercier@ville.angers.fr",
+          "Url": "http://www.angers.frvie-pratique/vie-quotidienne/social-sante/le-ccas"
+        }
       }
     },
     {
@@ -88,9 +86,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-49160-01",
         "codeInsee": "49160",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-907",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Fresne-sur-Loire",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -100,18 +97,47 @@
             "5 chemin des Moncellières"
           ],
           "CodePostal": "49123",
-          "NomCommune": "Le Fresne-sur-Loire",
+          "NomCommune": "Ingrandes-le-Fresne-sur-Loire",
           "Localisation": {
             "Latitude": "47.403035",
             "Longitude": "-0.9281",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 41 39 21 13",
+          "Téléphone": "02 41 39 21 13",
+          "Télécopie": "02 41 39 41 19",
           "Email": "lesmoncellieres@wanadoo.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "18:00:00"
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {
@@ -126,17 +152,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-49018-01",
         "codeInsee": "49018",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-912",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Baugé-en-Anjou",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
-            "Résidence Anne de Melun",
-            "11 rue du Docteur Zamenhof"
+            "Accord'Ages",
+            "11 rue du Docteur-Zamenhof"
           ],
           "CodePostal": "49150",
           "NomCommune": "Baugé-en-Anjou",
@@ -144,13 +168,33 @@
             "Latitude": "47.544",
             "Longitude": "-0.098602",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 41 89 55 10",
-          "Email": "contact@accord-ages.fr"
+          "Téléphone": "02 41 89 55 10",
+          "Email": "contact@accord-ages.fr",
+          "Url": "http://www.accord-ages.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "17:00:00"
+              }
+            ],
+            "Note": "Accueil sur rendez-vous uniquement."
+          }
+        }
       }
     }
   ]

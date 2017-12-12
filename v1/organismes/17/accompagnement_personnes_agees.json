@@ -13,17 +13,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-17300-01",
         "codeInsee": "17300",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-875",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - La Rochelle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "Relais des Familles",
             "Escale",
+            "Accueil de jour",
             "68 rue des Cordeliers"
           ],
           "CodePostal": "17000",
@@ -32,13 +31,32 @@
             "Latitude": "46.166017",
             "Longitude": "-1.141771",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 46 42 48 09",
+          "Téléphone": "05 46 42 48 09",
+          "Télécopie": "05 46 67 97 87",
           "Email": "escale@worldonline.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "08:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
       }
     }
   ]

@@ -13,15 +13,19 @@
       "properties": {
         "id": "msap-44021-01",
         "codeInsee": "44021",
-        "dateMiseAJour": "2017-01-11",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Bourgneuf-en-Retz",
+        "Nom": "Maison de services au public - Villeneuve-en-Retz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "15 rue de la Taillée",
+          "Ligne": [
+            "Bourgneuf-en-Retz",
+            "Bureau de poste",
+            "15 rue de la Taillée"
+          ],
           "CodePostal": "44580",
-          "NomCommune": "Bourgneuf-en-Retz",
+          "NomCommune": "Villeneuve-en-Retz",
           "Localisation": {
             "Latitude": "47.042549",
             "Longitude": "-1.954567",
@@ -29,8 +33,35 @@
           }
         },
         "CoordonnéesNum": {
-          "Email": "msap.bourgneuf-en-retz@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/bourgneuf-en-retz-bureau-de-poste"
+          "Téléphone": "02 40 21 44 85",
+          "Email": "msap.villeneuve-en-retz@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:45:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -46,13 +77,16 @@
       "properties": {
         "id": "msap-44068-01",
         "codeInsee": "44068",
-        "dateMiseAJour": "2016-11-03",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Guenrouet",
+        "Nom": "Maison de services au public - Guenrouet",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "4 rue de la Roche buttée",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "4 rue de la Roche-Buttée"
+          ],
           "CodePostal": "44530",
           "NomCommune": "Guenrouet",
           "Localisation": {
@@ -63,7 +97,43 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.guenrouet@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/guenrouet-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "16:45:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -79,13 +149,16 @@
       "properties": {
         "id": "msap-44175-01",
         "codeInsee": "44175",
-        "dateMiseAJour": "2017-01-11",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Saint Lyphard",
+        "Nom": "Maison de services au public - Saint-Lyphard",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "2 rue de la Brière",
+          "Ligne": [
+            "Bureau de poste",
+            "2 rue de la Brière"
+          ],
           "CodePostal": "44410",
           "NomCommune": "Saint-Lyphard",
           "Localisation": {
@@ -95,8 +168,35 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "02 40 91 43 01",
           "Email": "msap.saint-lyphard@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/saint-lyphard-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -105,42 +205,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.296064,
-          47.517576
+          -1.2960640000000012,
+          47.517577
         ]
       },
       "properties": {
         "id": "msap-44144-01",
         "codeInsee": "44144",
-        "dateMiseAJour": "2016-09-12",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Riaillé",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "182 rue du Cèdre",
           "CodePostal": "44440",
           "NomCommune": "Riaillé",
           "Localisation": {
-            "Latitude": "47.517576",
-            "Longitude": "-1.296064",
+            "Latitude": "47.517577",
+            "Longitude": "-1.2960640000000012",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 97 35 23",
+          "Téléphone": "02 40 97 35 23",
           "Email": "contact@maison-services-riaille.com",
-          "Url": "http://www.maison-services-riaille.com/"
+          "Url": "http://www.maison-services-riaille.com"
         },
         "Ouverture": {
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "12:30:00"
-              }
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
             },
             {
               "début": "jeudi",
@@ -152,7 +261,7 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "18:00:00"
+                  "fin": "17:00:00"
                 }
               ]
             },

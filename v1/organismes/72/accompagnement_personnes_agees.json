@@ -13,16 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-72181-01",
         "codeInsee": "72181",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-990",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Mans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "La Maison Myosotis",
+            "Accueil de jour",
             "13 rue de Flore"
           ],
           "CodePostal": "72000",
@@ -31,13 +30,31 @@
             "Latitude": "48.007196",
             "Longitude": "0.207755",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 43 76 85 04",
-          "Email": "reposance@wanadoo.fr"
+          "Téléphone": "02 43 76 85 04",
+          "Email": "accueilmyosotis@lareposance.net"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -52,16 +69,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-72181-02",
         "codeInsee": "72181",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-941",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Mans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "La Reposance",
+            "EHPAD La Reposance",
             "1 place du Cantal"
           ],
           "CodePostal": "72000",
@@ -70,13 +85,32 @@
             "Latitude": "47.99358",
             "Longitude": "0.221997",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 43 84 27 71",
+          "Téléphone": "02 43 84 27 71",
+          "Télécopie": "02 43 75 43 56",
           "Email": "accueil@lareposance.net"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "13:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            ]
+          }
+        }
       }
     }
   ]

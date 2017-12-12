@@ -4848,7 +4848,7 @@
       "properties": {
         "id": "mairie-11180-01",
         "codeInsee": "11180",
-        "dateMiseAJour": "2016-07-06",
+        "dateMiseAJour": "2017-12-05",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Labastide-Esparbairenque",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -4895,7 +4895,8 @@
               }
             }
           ]
-        }
+        },
+        "Commentaire": "Horaires accueil téléphonique : Lundi : 8h30 à 12h00 /13h00 à 16h 00\nVendredi : 8h00 à 16h00"
       }
     },
     {
@@ -11581,14 +11582,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.04244995117,
-          42.9347991943
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-11249-01",
         "codeInsee": "11249",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Montjardin",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -11597,11 +11598,6 @@
           "Ligne": "2 route de Chalabre",
           "CodePostal": "11230",
           "NomCommune": "Montjardin",
-          "Localisation": {
-            "Latitude": "42.9347991943",
-            "Longitude": "2.04244995117",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -14449,14 +14445,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.59770989418,
-          43.1855010986
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-11122-01",
         "codeInsee": "11122",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-11-17",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Douzens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -14465,11 +14461,6 @@
           "Ligne": "5 rue de la Mairie",
           "CodePostal": "11700",
           "NomCommune": "Douzens",
-          "Localisation": {
-            "Latitude": "43.1855010986",
-            "Longitude": "2.59770989418",
-            "Précision": "8"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -14477,7 +14468,8 @@
         "CoordonnéesNum": {
           "Téléphone": "04 68 79 10 06",
           "Télécopie": "04 68 78 61 30",
-          "Email": "mairiededouzens@orange.fr"
+          "Email": "mairiededouzens@orange.fr",
+          "Url": "https://www.mairie-douzens.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -14499,7 +14491,7 @@
                 },
                 {
                   "début": "14:00:00",
-                  "fin": "19:00:00"
+                  "fin": "18:00:00"
                 }
               ]
             },
@@ -15137,7 +15129,7 @@
       "properties": {
         "id": "mairie-11314-01",
         "codeInsee": "11314",
-        "dateMiseAJour": "2016-07-06",
+        "dateMiseAJour": "2017-11-30",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Rieux-en-Val",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -15165,8 +15157,8 @@
             "début": "mardi",
             "fin": "jeudi",
             "PlageH": {
-              "début": "12:30:00",
-              "fin": "16:30:00"
+              "début": "13:45:00",
+              "fin": "17:45:00"
             }
           }
         }
@@ -17357,14 +17349,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.05922794342,
-          43.0046272278
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-11100-01",
         "codeInsee": "11100",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-11-27",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Corbières",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -17373,11 +17365,6 @@
           "Ligne": "La Leude",
           "CodePostal": "11230",
           "NomCommune": "Corbières",
-          "Localisation": {
-            "Latitude": "43.0046272278",
-            "Longitude": "2.05922794342",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
@@ -19933,14 +19920,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.60637497902,
-          42.9603614807
+          null,
+          null
         ]
       },
       "properties": {
         "id": "mairie-11117-01",
         "codeInsee": "11117",
-        "dateMiseAJour": "2007-11-09",
+        "dateMiseAJour": "2017-11-23",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Davejean",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -19948,16 +19935,13 @@
           "type": "géopostale",
           "Ligne": "1 place de la Mairie",
           "CodePostal": "11330",
-          "NomCommune": "DAVEJEAN",
-          "Localisation": {
-            "Latitude": "42.9603614807",
-            "Longitude": "2.60637497902",
-            "Précision": "4"
-          }
+          "NomCommune": "Davejean"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 68 70 01 48",
-          "Télécopie": "+33 4 68 70 04 22"
+          "Téléphone": "09 79 71 11 46",
+          "Télécopie": "04 68 70 04 22",
+          "Email": "mairiedavejean@orange.fr",
+          "Url": "http://www.ccrlcm.fr"
         },
         "Ouverture": {
           "PlageJ": [

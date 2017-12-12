@@ -13,25 +13,28 @@
       "properties": {
         "id": "msap-26165-01",
         "codeInsee": "26165",
-        "dateMiseAJour": "2017-01-10",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Livron-sur-Drôme",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "90 avenue Joseph Combier",
+          "Ligne": "90 avenue Joseph-Combier",
           "CodePostal": "26250",
           "NomCommune": "Livron-sur-Drôme",
           "Localisation": {
             "Latitude": "44.768695",
             "Longitude": "4.839932",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 69 11 00 57",
           "Email": "contactmsap@mairie-livron.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/livron-sur-drome"
+          "Url": "http://www.livron-sur-drome.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -56,7 +59,7 @@
                 "début": "13:00:00",
                 "fin": "17:00:00"
               },
-              "Note": "Permanence le 1er et 3ème jeudi du mois de 17 h à 19h"
+              "Note": "Accueil ouvert également le 1er et 3e jeudi du mois de 17h à 19h."
             },
             {
               "début": "vendredi",
@@ -81,31 +84,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.978866,
-          44.44333
+          4.97896839,
+          44.4434145
         ]
       },
       "properties": {
         "id": "msap-26348-01",
         "codeInsee": "26348",
-        "dateMiseAJour": "2016-10-27",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Taulignan",
+        "Nom": "Maison de services au public - Taulignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Place du 11 Novembre",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "Place du 11-Novembre"
+          ],
           "CodePostal": "26770",
           "NomCommune": "Taulignan",
           "Localisation": {
-            "Latitude": "44.44333",
-            "Longitude": "4.978866",
-            "Précision": "5"
+            "Latitude": "44.4434145",
+            "Longitude": "4.97896839",
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.taulignan@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/taulignan-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:30:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -114,30 +182,103 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.134112,
-          44.585537
+          5.13409,
+          44.585539
         ]
       },
       "properties": {
         "id": "msap-26056-01",
         "codeInsee": "26056",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Bourdeaux",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Route de Nyons",
           "CodePostal": "26460",
           "NomCommune": "Bourdeaux",
           "Localisation": {
-            "Latitude": "44.585537",
-            "Longitude": "5.134112",
+            "Latitude": "44.585539",
+            "Longitude": "5.13409",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Url": "https://www.maisondeservicesaupublic.fr/content/bourdeaux"
+          "Email": "msap.bourdeaux@laposte.fr",
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ],
+              "Note": "Accueil ouvert uniquement du 1er octobre au 31 mars."
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "11:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -153,25 +294,31 @@
       "properties": {
         "id": "msap-26289-01",
         "codeInsee": "26289",
-        "dateMiseAJour": "2017-02-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Le Forum Saillans",
+        "Nom": "Maison de services au public - Saillans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "13 rue Raoul Lambert",
+          "Ligne": [
+            "Le Forum",
+            "13 rue Raoul-Lambert"
+          ],
           "CodePostal": "26340",
           "NomCommune": "Saillans",
           "Localisation": {
             "Latitude": "44.697436",
             "Longitude": "5.197091",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 75 22 31 71",
           "Email": "contact@le-forum.info",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/le-forum-saillans"
+          "Url": "http://www.le-forum.info"
         },
         "Ouverture": {
           "PlageJ": [
@@ -249,12 +396,12 @@
       "properties": {
         "id": "msap-26113-01",
         "codeInsee": "26113",
-        "dateMiseAJour": "2016-10-14",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Diois",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "200 avenue de la Clairette",
           "CodePostal": "26150",
           "NomCommune": "Die",
@@ -262,32 +409,18 @@
             "Latitude": "44.760095",
             "Longitude": "5.35948",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 75 22 31 87",
           "Email": "epn.die@educagri.fr",
-          "Url": "http://www.cfppa-die.fr/presentation.html"
+          "Url": "http://www.cfppa-die.fr"
         },
         "Ouverture": {
           "PlageJ": [
-            {
-              "début": "samedi",
-              "fin": "samedi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "12:30:00"
-              },
-              "Note": "Ouverture uniquement des services administratifs, hors services scolaires."
-            },
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "12:30:00",
-                "fin": "17:30:00"
-              }
-            },
             {
               "début": "mardi",
               "fin": "mercredi",
@@ -309,6 +442,14 @@
                 "début": "09:00:00",
                 "fin": "13:00:00"
               }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "12:30:00",
+                "fin": "17:30:00"
+              }
             }
           ]
         }
@@ -326,13 +467,16 @@
       "properties": {
         "id": "msap-26149-01",
         "codeInsee": "26149",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Hostun Eymeux",
+        "Nom": "Maison de services au public - Hostun",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Avenue des Marronniers",
+          "Ligne": [
+            "Bureau de poste",
+            "Avenue des Marronniers"
+          ],
           "CodePostal": "26730",
           "NomCommune": "Hostun",
           "Localisation": {
@@ -343,7 +487,47 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.hostun-eymeux@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/hostun-eymeux-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -352,38 +536,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.291076,
-          45.015378
+          5.291075,
+          45.01538
         ]
       },
       "properties": {
         "id": "msap-26307-01",
         "codeInsee": "26307",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Pays du Royans",
+        "Nom": "Maison de services au public - Saint-Jean-en-Royans",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "78 rue Jean Jaurès",
+          "type": "géopostale",
+          "Ligne": [
+            "Pays du Royans",
+            "78 rue Jean-Jaurès"
+          ],
           "CodePostal": "26190",
           "NomCommune": "Saint-Jean-en-Royans",
           "Localisation": {
-            "Latitude": "45.015378",
-            "Longitude": "5.291076",
+            "Latitude": "45.01538",
+            "Longitude": "5.291075",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "06 42 48 95 87 04 75 05 21 12",
+          "Téléphone": "04 75 05 21 12",
           "Email": "mireille.crm@gmail.com",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/pays-du-royans"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "lundi",
-              "fin": "lundi",
+              "début": "jeudi",
+              "fin": "jeudi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -394,28 +584,6 @@
                   "fin": "17:30:00"
                 }
               ]
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:30:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "19:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "13:30:00",
-                "fin": "17:30:00"
-              }
             },
             {
               "début": "vendredi",
@@ -432,8 +600,30 @@
               ]
             },
             {
-              "début": "jeudi",
-              "fin": "jeudi",
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "13:30:00",
+                "fin": "17:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "19:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
               "PlageH": [
                 {
                   "début": "08:30:00",
@@ -454,31 +644,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.413963,
-          44.968933
+          6.8765657,
+          48.0038443
         ]
       },
       "properties": {
         "id": "msap-26074-01",
         "codeInsee": "26074",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public -  La Chapelle-en-Vercors",
+        "Nom": "Maison de services au public - La Chapelle-en-Vercors",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Square du Champ de Mars",
+          "type": "géopostale",
+          "Ligne": "Square du Champs-de-Mars",
           "CodePostal": "26420",
           "NomCommune": "La Chapelle-en-Vercors",
           "Localisation": {
-            "Latitude": "44.968933",
-            "Longitude": "5.413963",
-            "Précision": "1"
+            "Latitude": "48.0038443",
+            "Longitude": "6.8765657",
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.la-chapelle-en-vercors@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/la-chapelle-en-vercors"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -487,32 +703,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.536715,
-          44.204651
+          5.5362668,
+          44.204522
         ]
       },
       "properties": {
         "id": "msap-26340-01",
         "codeInsee": "26340",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Hautes Baronnies",
+        "Nom": "Maison de services au public - Séderon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "6 allée du 10 août 1944",
+          "type": "géopostale",
+          "Ligne": "6 allée du 10-Août-1944",
           "CodePostal": "26560",
           "NomCommune": "Séderon",
           "Localisation": {
-            "Latitude": "44.204651",
-            "Longitude": "5.536715",
-            "Précision": "1"
+            "Latitude": "44.204522",
+            "Longitude": "5.5362668",
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 75 28 51 05",
           "Email": "msap.hautesbaronnies@orange.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/hautes-baronnies"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -544,12 +760,12 @@
       "properties": {
         "id": "msap-26288-01",
         "codeInsee": "26288",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Vallée de l'Eygues",
+        "Nom": "Maison de services au public - Sahune",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "285 rue du village",
           "CodePostal": "26510",
           "NomCommune": "Sahune",
@@ -560,7 +776,43 @@
           }
         },
         "CoordonnéesNum": {
-          "Url": "https://www.maisondeservicesaupublic.fr/content/vallee-de-leygues"
+          "Téléphone": "06 14 86 45 36",
+          "Email": "animation@aventic.org",
+          "Url": "http://www.aventic.org"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "17:00:00"
+              }
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "09:30:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "18:00:00",
+                  "fin": "20:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -570,31 +822,38 @@
         "type": "Point",
         "coordinates": [
           4.704757,
-          44.443437
+          44.443442
         ]
       },
       "properties": {
         "id": "msap-26116-01",
         "codeInsee": "26116",
-        "dateMiseAJour": "2016-09-08",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public - Point informations médiation multi services - Portes de Provence",
+        "Nom": "Maison de services au public - Donzère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "130 avenue de la Gare",
+          "type": "géopostale",
+          "Ligne": [
+            "Portes de Provence",
+            "Point informations médiation multi-services",
+            "130 avenue de la Gare"
+          ],
           "CodePostal": "26290",
           "NomCommune": "Donzère",
           "Localisation": {
-            "Latitude": "44.443437",
+            "Latitude": "44.443442",
             "Longitude": "4.704757",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 69 14 30 30",
           "Email": "msap.pimms@gmail.com",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/pimms-portes-de-provence-0"
+          "Url": "https://www.maisondeservicesaupublic.fr"
         },
         "Ouverture": {
           "PlageJ": [
@@ -642,15 +901,16 @@
       "properties": {
         "id": "msap-26148-01",
         "codeInsee": "26148",
-        "dateMiseAJour": "2016-10-14",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Hauterives",
+        "Nom": "Maison de services au public - Hauterives",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": [
+            "Bureau de poste",
             "Le Clos Cettier",
-            "14 Grande Rue"
+            "14 Grande rue"
           ],
           "CodePostal": "26390",
           "NomCommune": "Hauterives",
@@ -658,11 +918,77 @@
             "Latitude": "45.255134",
             "Longitude": "5.025353",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
           "Email": "msap.hauterives@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/hauterives-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:45:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mercredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              },
+              "Note": "Accueil fermé un samedi sur quatre."
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -678,13 +1004,16 @@
       "properties": {
         "id": "msap-26144-01",
         "codeInsee": "26144",
-        "dateMiseAJour": "2016-11-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Grane",
+        "Nom": "Maison de services au public - Grane",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "Le Bourg",
+          "Ligne": [
+            "Bureau de poste",
+            "Le Bourg"
+          ],
           "CodePostal": "26400",
           "NomCommune": "Grane",
           "Localisation": {
@@ -695,7 +1024,39 @@
         },
         "CoordonnéesNum": {
           "Email": "msap.grane@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/carte-msap"
+          "Url": "https://www.maisondeservicesaupublic.fr"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            }
+          ]
         }
       }
     }

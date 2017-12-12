@@ -297,14 +297,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8822843,
-          48.0712245
+          null,
+          null
         ]
       },
       "properties": {
         "id": "sip-88196-01",
         "codeInsee": "88196",
-        "dateMiseAJour": "2017-10-05",
+        "dateMiseAJour": "2017-12-05",
         "pivotLocal": "sip",
         "Nom": "Service des impôts des particuliers du centre des finances publiques de Gérardmer",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -316,36 +316,62 @@
           ],
           "CodePostal": "88407",
           "NomCommune": "Gérardmer  Cedex",
-          "Localisation": {
-            "Latitude": "48.0712245",
-            "Longitude": "6.8822843",
-            "Précision": "6"
-          },
           "Accessibilité": {
             "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 29 63 61 83",
-          "Télécopie": "+33 3 29 63 25 21",
+          "Téléphone": "03 29 63 61 83",
+          "Télécopie": "03 29 63 25 21",
           "Url": "http://www.impots.gouv.fr"
         },
         "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "vendredi",
-            "PlageH": [
-              {
-                "début": "08:45:00",
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "jeudi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
                 "fin": "12:00:00"
-              },
-              {
-                "début": "13:30:00",
-                "fin": "16:15:00"
               }
-            ],
-            "Note": "Fermé le mercredi après-midi."
-          }
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:15:00"
+                }
+              ]
+            }
+          ]
         },
         "Commentaire": "Pour contacter ce service par courriel, utilisez votre messagerie sécurisée disponible dans votre espace particulier sur le site impots.gouv.fr. Si vous ne disposez pas d'espace particulier, nous vous invitons à en créer un."
       }

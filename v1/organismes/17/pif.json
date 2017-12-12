@@ -53,11 +53,14 @@
         "codeInsee": "17300",
         "dateMiseAJour": "2017-09-11",
         "pivotLocal": "pif",
-        "Nom": "Point info famille de la mission locale de La Rochelle - Ré",
+        "Nom": "Point info famille de La Rochelle - Ré",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
-          "Ligne": "90 rue de Bel-air",
+          "Ligne": [
+            "Mission locale",
+            "90 rue de Bel-air"
+          ],
           "CodePostal": "17000",
           "NomCommune": "La Rochelle",
           "Localisation": {
@@ -68,9 +71,9 @@
         },
         "CoordonnéesNum": {
           "Téléphone": "05 46 27 65 20",
-          "Télécopie": "05 46 42 30 70"
-        },
-        "Commentaire": "Pas d'horaire"
+          "Télécopie": "05 46 42 30 70",
+          "Email": "contact@missionlocale.com"
+        }
       }
     },
     {

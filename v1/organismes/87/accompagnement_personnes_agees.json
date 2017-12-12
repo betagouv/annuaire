@@ -13,17 +13,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-87085-02",
         "codeInsee": "87085",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-963",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Limoges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
-            "Le Castel",
             "Soins et Santé",
+            "Le Castel",
+            "Accueil de jour",
             "43 rue de Nexon"
           ],
           "CodePostal": "87000",
@@ -32,12 +31,27 @@
             "Latitude": "45.817547",
             "Longitude": "1.263163",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 55 33 99 00"
+          "Téléphone": "05 55 33 99 00",
+          "Télécopie": "05 55 33 99 10",
+          "Email": "secretariat@soinsante-limoges.com",
+          "Url": "http://www.soinsante-limoges.com"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
       }
     },
     {
@@ -52,18 +66,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-87085-01",
         "codeInsee": "87085",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-964",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Limoges",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Les 5 Sens",
-            "45 rue Jean-de-Vienne",
-            "Landouge"
+            "EHPAD Les 5 Sens",
+            "Landouge",
+            "45 rue Jean-de-Vienne"
           ],
           "CodePostal": "87000",
           "NomCommune": "Limoges",
@@ -71,13 +83,26 @@
             "Latitude": "45.838288",
             "Longitude": "1.20015",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 5 19 99 24 48",
-          "Email": "les5sens@mutualitelimousine.fr"
+          "Téléphone": "05 19 99 99 99",
+          "Email": "evaasion@mutalitelimousine.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
       }
     }
   ]

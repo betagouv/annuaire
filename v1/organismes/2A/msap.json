@@ -13,24 +13,54 @@
       "properties": {
         "id": "msap-2A312-01",
         "codeInsee": "2A312",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Santa-Maria-Siché",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Quartier Nociarato",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "Quartier Nociarato"
+          ],
           "CodePostal": "20190",
           "NomCommune": "Santa-Maria-Siché",
           "Localisation": {
             "Latitude": "41.880342",
             "Longitude": "8.976358",
-            "Précision": "1"
+            "Précision": "8"
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 95 25 72 80",
           "Email": "msap.santa-maria-siche@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/santa-maria-siche-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.frcontent/santa-maria-siche-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "16:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -46,13 +76,16 @@
       "properties": {
         "id": "msap-2A211-01",
         "codeInsee": "2A211",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
-        "Nom": "Maison de services au public (Bureau de Poste) - Petroto Bicchisano",
+        "Nom": "Maison de services au public - Petreto-Bicchisano",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
-          "Ligne": "Rue de la Poste",
+          "type": "géopostale",
+          "Ligne": [
+            "Bureau de poste",
+            "Rue de la Poste"
+          ],
           "CodePostal": "20140",
           "NomCommune": "Petreto-Bicchisano",
           "Localisation": {
@@ -62,8 +95,57 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 95 24 31 29",
           "Email": "msap.petreto-bicchisano@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/petreto-biscchisano-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.frcontent/petreto-biscchisano-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "mercredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "14:30:00",
+                  "fin": "16:00:00"
+                }
+              ]
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
         }
       }
     },
@@ -79,12 +161,12 @@
       "properties": {
         "id": "msap-2A288-01",
         "codeInsee": "2A288",
-        "dateMiseAJour": "2016-09-07",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "msap",
         "Nom": "Maison de services au public - Sotta",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
-          "type": "physique",
+          "type": "géopostale",
           "Ligne": "Au Bourg",
           "CodePostal": "20146",
           "NomCommune": "Sotta",
@@ -95,8 +177,57 @@
           }
         },
         "CoordonnéesNum": {
+          "Téléphone": "04 95 71 21 04",
           "Email": "msap.sotta@laposte.fr",
-          "Url": "https://www.maisondeservicesaupublic.fr/content/sotta-bureau-de-poste"
+          "Url": "https://www.maisondeservicesaupublic.frcontent/sotta-bureau-de-poste"
+        },
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "jeudi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "mercredi",
+              "fin": "mercredi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "mardi",
+              "PlageH": [
+                {
+                  "début": "08:30:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "15:30:00"
+                }
+              ]
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "11:30:00"
+              }
+            }
+          ]
         }
       }
     }

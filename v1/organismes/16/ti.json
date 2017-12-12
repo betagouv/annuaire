@@ -83,7 +83,7 @@
       },
       "properties": {
         "codeInsee": "16102",
-        "dateMiseAJour": "2014-01-28",
+        "dateMiseAJour": "2017-11-16",
         "id": "ti-16102-01",
         "idPresta": "4cac9ed7293594648a00ee2e",
         "pivotLocal": "ti",
@@ -107,48 +107,20 @@
           "Sve": "http://www.justice.gouv.fr/sve"
         },
         "Ouverture": {
-          "PlageJ": [
-            {
-              "début": "lundi",
-              "fin": "lundi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
                 "début": "08:30:00",
-                "fin": "17:00:00"
+                "fin": "12:00:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:30:00"
               }
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
-              "fin": "jeudi",
-              "PlageH": {
-                "début": "08:30:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "vendredi",
-              "fin": "vendredi",
-              "PlageH": {
-                "début": "09:00:00",
-                "fin": "17:00:00"
-              }
-            }
-          ]
+            ]
+          }
         }
       }
     }

@@ -13,16 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-73031-01",
         "codeInsee": "73031",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-942",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bassens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
             "France Alzheimer Savoie",
-            "Allée du Château-de-Bressieux"
+            "11 avenue de Bassens"
           ],
           "CodePostal": "73000",
           "NomCommune": "Bassens",
@@ -30,13 +29,32 @@
             "Latitude": "45.586299",
             "Longitude": "5.940779",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 79 60 31 48",
+          "Téléphone": "04 79 60 31 48",
+          "Télécopie": "04 79 60 31 48",
           "Email": "francealzheimer.savoie@orange.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ]
+          }
+        }
       }
     },
     {
@@ -51,17 +69,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-73031-02",
         "codeInsee": "73031",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-991",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bassens",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "Association Alzheimer Savoie",
-            "Allée du Château de-Bressieux"
+            "Accueil de jour",
+            "Allée du Château-de-Bressieux"
           ],
           "CodePostal": "73000",
           "NomCommune": "Bassens",
@@ -69,10 +86,13 @@
             "Latitude": "45.586299",
             "Longitude": "5.940779",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "NAC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 79 60 51 83",
+          "Téléphone": "04 79 60 31 48",
           "Email": "alzheimer.savoie@wanadoo.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."

@@ -6,34 +6,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          3.874704,
+          43.618598
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-34172-01",
         "codeInsee": "34172",
-        "dateMiseAJour": "2017-01-23",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Montpellier",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "(entrée rue Turgot)",
-            "38 rue Lakanal",
             "Association Ciel Bleu",
-            "Plateforme Repairs"
+            "Plateforme Repairs",
+            "Entrée rue Turgot",
+            "38 rue Lakanal"
           ],
           "CodePostal": "34090",
-          "NomCommune": "Montpellier"
+          "NomCommune": "Montpellier",
+          "Localisation": {
+            "Latitude": "43.618598",
+            "Longitude": "3.874704",
+            "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
+          }
         },
         "CoordonnéesNum": {
           "Téléphone": "04 99 74 53 13",
           "Email": "plateforme.repairs@gmail.com",
-          "Url": "http://www.association-ciel-bleu.org/"
+          "Url": "http://www.association-ciel-bleu.org"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     },
     {
@@ -48,16 +65,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-34032-01",
         "codeInsee": "34032",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-895",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Béziers",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD La Pinède les Percalines-Calicots - Espace Perréal",
             "Centre hospitalier",
+            "Accueil de jour",
             "2 boulevard Ernest-Pérreal",
             "BP 740"
           ],
@@ -67,13 +83,25 @@
             "Latitude": "43.345854",
             "Longitude": "3.229983",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 67 35 75 00",
-          "Email": "direction@ch-beziers.fr"
+          "Téléphone": "06 30 25 03 60",
+          "Email": "para@ch-beziers.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "10:00:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
       }
     },
     {
@@ -88,16 +116,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-34108-01",
         "codeInsee": "34108",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-894",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Frontignan",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Les Muscades",
+            "EHPAD Les Muscades",
             "8 rue de la Glacière"
           ],
           "CodePostal": "34110",
@@ -106,13 +132,26 @@
             "Latitude": "43.423805",
             "Longitude": "3.724795",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 67 51 81 00",
+          "Téléphone": "04 67 51 81 00",
+          "Télécopie": "04 67 51 78 27",
           "Email": "direction@mr-frontignan.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "08:00:00",
+              "fin": "19:00:00"
+            }
+          }
+        }
       }
     }
   ]

@@ -13,9 +13,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-26281-01",
         "codeInsee": "26281",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-884",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Romans-sur-Isère",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -30,12 +29,25 @@
             "Latitude": "45.047934",
             "Longitude": "5.0445",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 4 75 47 76 31"
+          "Téléphone": "06 30 92 24 56",
+          "Email": "aj.lieudetre@lespepsra.org"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
       }
     }
   ]

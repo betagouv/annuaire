@@ -13,16 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-35238-01",
         "codeInsee": "35238",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-896",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Rennes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
             "EHPAD Saint-Cyr",
-            "59 rue papu"
+            "59 rue Papu"
           ],
           "CodePostal": "35000",
           "NomCommune": "Rennes",
@@ -30,13 +29,48 @@
             "Latitude": "48.111121",
             "Longitude": "-1.697283",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 99 59 48 80",
-          "Email": "accueil-stcyr@alfainfo.net"
+          "Téléphone": "02 99 59 48 80",
+          "Email": "accueil-stcyr@alfainfo.net",
+          "Url": "http://www.maisonsaintcyr.com"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "12:30:00"
+                },
+                {
+                  "début": "13:00:00",
+                  "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "09:00:00",
+                  "fin": "13:00:00"
+                },
+                {
+                  "début": "14:00:00",
+                  "fin": "17:30:00"
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {
@@ -51,16 +85,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-35294-01",
         "codeInsee": "35294",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-982",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Sainte-Marie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour autonome",
-            "Les coquelicots",
+            "Accueil de jour autonome Les Coquelicots",
             "9 rue de la Vilaine"
           ],
           "CodePostal": "35600",
@@ -69,10 +101,14 @@
             "Latitude": "47.694171",
             "Longitude": "-1.999348",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 99 71 21 21",
+          "Téléphone": "02 99 71 21 21",
+          "Télécopie": "02 99 71 68 77",
           "Email": "contact@assadredon.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."

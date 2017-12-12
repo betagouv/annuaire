@@ -13,15 +13,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-04070-01",
         "codeInsee": "04070",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-856",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Digne-les-Bains",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour - EHPAD Notre-Dame-du-Bourg",
+            "EHPAD Notre-Dame-du-Bourg",
+            "Accueil de jour",
             "2 avenue du Général-Leclerc"
           ],
           "CodePostal": "04000",
@@ -30,13 +30,26 @@
             "Latitude": "44.097486",
             "Longitude": "6.234488",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 6 07 47 16 27",
-          "Email": "ehpad-nd-du-bourg@wanadoo.fr"
+          "Téléphone": "06 07 47 16 27",
+          "Email": "accueildejour@nd-bourg.fr",
+          "Url": "http://www.association-saintmartin.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "16:30:00"
+            }
+          }
+        }
       }
     }
   ]

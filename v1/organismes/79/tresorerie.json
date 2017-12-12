@@ -13,15 +13,15 @@
       "properties": {
         "id": "tresorerie-79191-01",
         "codeInsee": "79191",
-        "dateMiseAJour": "2017-05-23",
+        "dateMiseAJour": "2017-11-10",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie hospitalière sud Deux-Sèvre",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": "40 avenue Charles de Gaulle",
-          "CodePostal": "79000",
-          "NomCommune": "Niort",
+          "CodePostal": "79021",
+          "NomCommune": "Niort Cedex",
           "Localisation": {
             "Latitude": "46.3166645",
             "Longitude": "-0.4577852",
@@ -44,7 +44,8 @@
                 "début": "13:00:00",
                 "fin": "16:00:00"
               }
-            ]
+            ],
+            "Note": "Fermé le mercredi"
           }
         }
       }
@@ -376,7 +377,7 @@
       "properties": {
         "id": "tresorerie-79191-02",
         "codeInsee": "79191",
-        "dateMiseAJour": "2017-05-18",
+        "dateMiseAJour": "2017-11-10",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Niort Sèvres et Amendes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -463,7 +464,8 @@
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Recouvrement des amendes : 05 49 78 71 54"
       }
     },
     {
@@ -558,7 +560,7 @@
       "properties": {
         "id": "tresorerie-79061-01",
         "codeInsee": "79061",
-        "dateMiseAJour": "2016-02-24",
+        "dateMiseAJour": "2017-11-10",
         "pivotLocal": "tresorerie",
         "Nom": "Trésorerie de Celles-sur-Belle",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -588,7 +590,7 @@
             "fin": "jeudi",
             "PlageH": [
               {
-                "début": "08:30:00",
+                "début": "09:00:00",
                 "fin": "12:00:00"
               },
               {

@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.097025,
-          49.060432
+          null,
+          null
         ]
       },
       "properties": {
         "id": "accompagnement_personnes_agees-95500-01",
         "codeInsee": "95500",
-        "dateMiseAJour": "2017-01-09",
+        "dateMiseAJour": "2017-11-16",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-997",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Pontoise",
@@ -21,17 +21,13 @@
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "EHPAD",
-            "Saint-Louis",
-            "2 boulevard de l'Hôpital"
+            "6 avenue de l'Ile de France",
+            "CS 90079 Pontoise",
+            "Centre Hospitalier René-Dubos",
+            "EHPAD Vert"
           ],
-          "CodePostal": "95300",
-          "NomCommune": "Pontoise",
-          "Localisation": {
-            "Latitude": "49.060432",
-            "Longitude": "2.097025",
-            "Précision": "8"
-          }
+          "CodePostal": "95303",
+          "NomCommune": "Cergy Pontoise Cedex"
         },
         "CoordonnéesNum": {
           "Téléphone": "01 30 75 49 96",
@@ -52,15 +48,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-95127-01",
         "codeInsee": "95127",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-977",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cergy",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Centre Hospitalier René-Dubos",
+            "Centre hospitalier René-Dubos",
             "6 avenue de l'Ile-de-France",
             "CS 90079 Pontoise"
           ],
@@ -70,13 +65,37 @@
             "Latitude": "49.05097",
             "Longitude": "2.100663",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 30 75 49 96",
+          "Téléphone": "01 30 75 49 96",
+          "Télécopie": "01 30 75 42 05",
           "Email": "plateforme.repit@ch-pontoise.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              }
+            },
+            {
+              "début": "lundi",
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              "Note": "Accueil possible également sur rendez-vous en dehors de ces horaires."
+            }
+          ]
+        }
       }
     },
     {
@@ -91,15 +110,14 @@
       "properties": {
         "id": "accompagnement_personnes_agees-95176-01",
         "codeInsee": "95176",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-976",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cormeilles-en-Parisis",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Maison de l?entraide",
+            "Maison de l'entraide",
             "81 rue de Saint-Germain"
           ],
           "CodePostal": "95240",
@@ -108,13 +126,33 @@
             "Latitude": "48.962922",
             "Longitude": "2.191052",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 39 78 54 51",
-          "Email": "maisondelentraide@zemgor.com"
+          "Téléphone": "01 39 78 54 51",
+          "Email": "maisondelentraide@zemgor.com",
+          "Url": "http://www.maisondel'entraide.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": [
+              {
+                "début": "09:30:00",
+                "fin": "12:30:00"
+              },
+              {
+                "début": "14:00:00",
+                "fin": "17:30:00"
+              }
+            ],
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          }
+        }
       }
     }
   ]

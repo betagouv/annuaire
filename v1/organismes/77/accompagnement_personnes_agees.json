@@ -13,17 +13,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-77470-01",
         "codeInsee": "77470",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-993",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Tournan-en-Brie",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "EHPAD",
             "Hôpital local",
+            "Accueil de jour",
             "99 rue de Paris"
           ],
           "CodePostal": "77220",
@@ -32,10 +31,16 @@
             "Latitude": "48.738814",
             "Longitude": "2.753562",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 64 42 18 00"
+          "Téléphone": "01 64 42 18 00",
+          "Télécopie": "01 64 06 46 13",
+          "Email": "accueil@epgtournan.fr",
+          "Url": "http://epgtdetournanenbrie.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }
@@ -52,17 +57,16 @@
       "properties": {
         "id": "accompagnement_personnes_agees-77014-01",
         "codeInsee": "77014",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-953",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Avon",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "EHPAD Les Jardins d'Eleusis",
-            "2 rue du Père-Maurice"
+            "Accueil de jour",
+            "41 avenue de Valvins"
           ],
           "CodePostal": "77210",
           "NomCommune": "Avon",
@@ -70,12 +74,25 @@
             "Latitude": "48.406041",
             "Longitude": "2.721823",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 60 72 74 72"
+          "Téléphone": "01 60 57 01 60",
+          "Email": "aj-eleusis-avon@domusvi.com"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "17:00:00"
+            }
+          }
+        }
       }
     }
   ]

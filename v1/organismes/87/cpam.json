@@ -463,7 +463,7 @@
       "properties": {
         "id": "cpam-87187-01",
         "codeInsee": "87187",
-        "dateMiseAJour": "2017-09-19",
+        "dateMiseAJour": "2017-12-01",
         "pivotLocal": "cpam",
         "Nom": "Caisse primaire d'assurance maladie (CPAM) de Haute-Vienne - accueil de Saint-Yrieix-la-Perche",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -500,34 +500,29 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "jeudi",
-              "PlageH": [
-                {
-                  "début": "09:00:00",
-                  "fin": "12:30:00"
-                },
-                {
-                  "début": "14:00:00",
-                  "fin": "17:30:00"
-                }
-              ]
+              "fin": "lundi",
+              "PlageH": {
+                "début": "09:00:00",
+                "fin": "12:00:00"
+              }
             },
             {
-              "début": "vendredi",
-              "fin": "vendredi",
+              "début": "mercredi",
+              "fin": "mercredi",
               "PlageH": [
                 {
                   "début": "09:00:00",
-                  "fin": "12:30:00"
+                  "fin": "12:00:00"
                 },
                 {
-                  "début": "14:00:00",
-                  "fin": "17:00:00"
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
                 }
               ]
             }
           ]
-        }
+        },
+        "Commentaire": "Point d'accès numérique disponible du lundi au vendredi de 9h à17h"
       }
     },
     {

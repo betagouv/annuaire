@@ -64,7 +64,7 @@
       },
       "properties": {
         "codeInsee": "24322",
-        "dateMiseAJour": "2014-01-28",
+        "dateMiseAJour": "2017-12-01",
         "id": "prudhommes-24322-01",
         "idPresta": "4cac9e86293594648a004c80",
         "pivotLocal": "prudhommes",
@@ -91,28 +91,6 @@
           "PlageJ": [
             {
               "début": "lundi",
-              "fin": "mardi",
-              "PlageH": [
-                {
-                  "début": "08:00:00",
-                  "fin": "12:00:00"
-                },
-                {
-                  "début": "13:00:00",
-                  "fin": "17:00:00"
-                }
-              ]
-            },
-            {
-              "début": "mercredi",
-              "fin": "mercredi",
-              "PlageH": {
-                "début": "08:00:00",
-                "fin": "17:00:00"
-              }
-            },
-            {
-              "début": "jeudi",
               "fin": "jeudi",
               "PlageH": [
                 {
@@ -120,8 +98,22 @@
                   "fin": "12:00:00"
                 },
                 {
-                  "début": "13:00:00",
+                  "début": "13:30:00",
                   "fin": "17:00:00"
+                }
+              ]
+            },
+            {
+              "début": "vendredi",
+              "fin": "vendredi",
+              "PlageH": [
+                {
+                  "début": "08:00:00",
+                  "fin": "12:00:00"
+                },
+                {
+                  "début": "13:30:00",
+                  "fin": "16:00:00"
                 }
               ]
             },

@@ -850,7 +850,7 @@
       "properties": {
         "id": "mairie-23060-01",
         "codeInsee": "23060",
-        "dateMiseAJour": "2017-07-10",
+        "dateMiseAJour": "2017-11-22",
         "pivotLocal": "mairie",
         "Nom": "Mairie de Chavanat",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -866,23 +866,26 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "05 55 66 67 49"
+          "Téléphone": "05 55 66 67 49",
+          "Télécopie": "05 55 66 67 49",
+          "Email": "mairie.chavanat@orange.fr",
+          "Url": "http://www.ciate.net"
         },
         "Ouverture": {
           "PlageJ": [
             {
-              "début": "mardi",
-              "fin": "mardi",
-              "PlageH": {
-                "début": "14:00:00",
-                "fin": "18:00:00"
-              }
-            },
-            {
               "début": "jeudi",
               "fin": "jeudi",
               "PlageH": {
-                "début": "14:00:00",
+                "début": "16:00:00",
+                "fin": "19:00:00"
+              }
+            },
+            {
+              "début": "mardi",
+              "fin": "mardi",
+              "PlageH": {
+                "début": "13:00:00",
                 "fin": "18:00:00"
               }
             },

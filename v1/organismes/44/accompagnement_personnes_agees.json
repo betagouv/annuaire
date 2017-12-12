@@ -13,7 +13,7 @@
       "properties": {
         "id": "accompagnement_personnes_agees-44053-01",
         "codeInsee": "44053",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-14",
         "pivotLocal": "accompagnement_personnes_agees",
         "idPresta": "clic-906",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Drefféac",
@@ -34,8 +34,9 @@
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 40 66 84 58",
-          "Email": "contact@alfarepit.fr"
+          "Téléphone": "02 40 66 94 58",
+          "Email": "contact@alfarepit.fr",
+          "Url": "http://www.alfarepit.fr"
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
       }
@@ -52,9 +53,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-44109-01",
         "codeInsee": "44109",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-905",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nantes",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -69,12 +69,36 @@
             "Latitude": "47.223822",
             "Longitude": "-1.543702",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 2 51 89 17 60"
+          "Téléphone": "02 51 89 17 60",
+          "Email": "maisondesaidants@mairie-nantes.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": [
+            {
+              "début": "lundi",
+              "fin": "vendredi",
+              "PlageH": {
+                "début": "14:00:00",
+                "fin": "18:00:00"
+              }
+            },
+            {
+              "début": "samedi",
+              "fin": "samedi",
+              "PlageH": {
+                "début": "08:30:00",
+                "fin": "12:00:00"
+              },
+              "Note": "Accueil uniquement le 1er samedi du mois."
+            }
+          ]
+        }
       }
     }
   ]

@@ -593,14 +593,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.898081,
-          49.092432
+          null,
+          null
         ]
       },
       "properties": {
         "id": "clic-51507-01",
         "codeInsee": "51507",
-        "dateMiseAJour": "2015-04-29",
+        "dateMiseAJour": "2017-11-30",
         "pivotLocal": "clic",
         "idPresta": "clic-399",
         "Nom": "Point d'information local dédié aux personnes âgées - Sainte-Menehould",
@@ -608,21 +608,15 @@
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Centre local d'information et de coordination MENOU",
-            "Place du Général-Leclerc"
+            "Groupe Buirette",
+            "Rue Renard"
           ],
           "CodePostal": "51800",
-          "NomCommune": "Sainte-Menehould",
-          "Localisation": {
-            "Latitude": "49.092432",
-            "Longitude": "4.898081",
-            "Précision": "8"
-          }
+          "NomCommune": "Sainte-Menehould"
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 3 26 53 91 36",
-          "Email": "clic.menou@wanadoo.fr",
-          "Url": "http://clicmenou.creakaz.net"
+          "Téléphone": "03 26 60 32 80",
+          "Email": "clic.menou@wanadoo.fr"
         },
         "Ouverture": {
           "PlageJ": {
@@ -634,10 +628,11 @@
                 "fin": "12:00:00"
               },
               {
-                "début": "14:00:00",
-                "fin": "18:00:00"
+                "début": "13:30:00",
+                "fin": "17:30:00"
               }
-            ]
+            ],
+            "Note": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
           }
         },
         "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."

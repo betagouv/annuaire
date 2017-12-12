@@ -13,9 +13,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-94074-01",
         "codeInsee": "94074",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-974",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Valenton",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -31,13 +30,28 @@
             "Latitude": "48.74857",
             "Longitude": "2.464999",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 56 87 21 31",
-          "Email": "lespastoureaux@orpea.net"
+          "Téléphone": "01 56 87 21 31",
+          "Télécopie": "01 53 87 21 30",
+          "Email": "lespastoureaux@orpea.net",
+          "Url": "http://www.orpea.com"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:00:00",
+              "fin": "17:00:00"
+            },
+            "Note": "Contacter l'accueil pour vérifier l'ouverture du service et prendre rendez-vous."
+          }
+        }
       }
     },
     {
@@ -52,9 +66,8 @@
       "properties": {
         "id": "accompagnement_personnes_agees-94076-01",
         "codeInsee": "94076",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-975",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Villejuif",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
@@ -69,13 +82,29 @@
             "Latitude": "48.794331",
             "Longitude": "2.362094",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 42 11 10 35",
-          "Email": "casa@delta7.asso.fr"
+          "Téléphone": {
+            "coût": "Numéro vert : service et appel gratuits.",
+            "$t": "08 00 87 77 07"
+          },
+          "Email": "par94@delta7.fr",
+          "Url": "http://www.delta7.asso.fr"
         },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+        "Ouverture": {
+          "PlageJ": {
+            "début": "lundi",
+            "fin": "vendredi",
+            "PlageH": {
+              "début": "09:30:00",
+              "fin": "17:30:00"
+            }
+          }
+        }
       }
     },
     {
@@ -90,16 +119,15 @@
       "properties": {
         "id": "accompagnement_personnes_agees-94068-01",
         "codeInsee": "94068",
-        "dateMiseAJour": "2015-04-30",
+        "dateMiseAJour": "2017-11-13",
         "pivotLocal": "accompagnement_personnes_agees",
-        "idPresta": "clic-973",
         "Nom": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Maur-des-Fossés",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": {
           "type": "géopostale",
           "Ligne": [
-            "Accueil de jour",
             "Résidence Abbaye des Bords de Marne",
+            "Accueil de jour",
             "3 impasse de l'Abbaye"
           ],
           "CodePostal": "94100",
@@ -108,13 +136,17 @@
             "Latitude": "48.813096",
             "Longitude": "2.474847",
             "Précision": "8"
+          },
+          "Accessibilité": {
+            "type": "ACC"
           }
         },
         "CoordonnéesNum": {
-          "Téléphone": "+33 1 55 12 17 20",
-          "Email": "ajour@abbaye-bdm.fr"
-        },
-        "Commentaire": "Téléphoner pour convenir d'un rendez-vous avant de se rendre sur place."
+          "Téléphone": "01 55 12 17 20",
+          "Télécopie": "01 42 83 63 33",
+          "Email": "ajour@abbaye-bdm.fr",
+          "Url": "http://www.abcd94.fr"
+        }
       }
     }
   ]

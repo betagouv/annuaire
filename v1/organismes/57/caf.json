@@ -13,7 +13,7 @@
       "properties": {
         "id": "caf-57177-01",
         "codeInsee": "57177",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-12-04",
         "pivotLocal": "caf",
         "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Dieuze",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -21,8 +21,8 @@
           {
             "type": "physique",
             "Ligne": [
-              "Maison des jeunes et de la culture",
-              "Impasse Jean-Laurain"
+              "Impasse Madeleine",
+              "Maison des jeunes et de la culture"
             ],
             "CodePostal": "57260",
             "NomCommune": "Dieuze",
@@ -80,7 +80,7 @@
       "properties": {
         "id": "caf-57463-01",
         "codeInsee": "57463",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-12-04",
         "pivotLocal": "caf",
         "Nom": "Caisse d'allocations familiales (Caf) de Moselle - siège de Metz",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -113,182 +113,9 @@
               "début": "08:30:00",
               "fin": "16:00:00"
             },
-            "Note": "Accueil ouvert uniquement sur rendez-vous mardi et jeudi et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+            "Note": "Accueil possible sur rendez-vous le mardi et le jeudi"
           }
         }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1743565,
-          49.2370029
-        ]
-      },
-      "properties": {
-        "id": "caf-57663-01",
-        "codeInsee": "57663",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Talange",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Mairie",
-              "46 Grand'rue"
-            ],
-            "CodePostal": "57525",
-            "NomCommune": "Talange",
-            "Localisation": {
-              "Latitude": "49.2370029",
-              "Longitude": "6.1743565",
-              "Précision": "4"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
-            "PlageH": {
-              "début": "09:00:00",
-              "fin": "11:30:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1053278,
-          49.3058373
-        ]
-      },
-      "properties": {
-        "id": "caf-57206-01",
-        "codeInsee": "57206",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Fameck",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Centre social",
-              "8 rue de Touraine"
-            ],
-            "CodePostal": "57290",
-            "NomCommune": "Fameck",
-            "Localisation": {
-              "Latitude": "49.3058373",
-              "Longitude": "6.1053278",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
-            "PlageH": {
-              "début": "14:00:00",
-              "fin": "16:00:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7802508,
-          49.14602
-        ]
-      },
-      "properties": {
-        "id": "caf-57240-01",
-        "codeInsee": "57240",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Freyming",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Centre social La Chapelle",
-              "Place de Paris"
-            ],
-            "CodePostal": "57800",
-            "NomCommune": "Freyming-Merlebach",
-            "Localisation": {
-              "Latitude": "49.14602",
-              "Longitude": "6.7802508",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Commentaire": "Permanence actuellement suspendue et accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
       }
     },
     {
@@ -303,7 +130,7 @@
       "properties": {
         "id": "caf-57227-01",
         "codeInsee": "57227",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-12-04",
         "pivotLocal": "caf",
         "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Forbach",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -352,7 +179,8 @@
             ],
             "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
           }
-        }
+        },
+        "Commentaire": "Antenne Caf actuellement en travaux. Accueil transféré à la mairie - \nAvenue Saint-Rémy Lundi et jeudi de 9h à 11h30 et de 13h30 à à 16h"
       }
     },
     {
@@ -421,179 +249,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.8779513,
-          49.1180776
-        ]
-      },
-      "properties": {
-        "id": "caf-57207-01",
-        "codeInsee": "57207",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Farébersviller",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Espace Fare",
-              "2 rue du Neufeld"
-            ],
-            "CodePostal": "57450",
-            "NomCommune": "Farébersviller",
-            "Localisation": {
-              "Latitude": "49.1180776",
-              "Longitude": "6.8779513",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Commentaire": "Permanence actuellement suspendue et Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6352988,
-          48.924134
-        ]
-      },
-      "properties": {
-        "id": "caf-57483-01",
-        "codeInsee": "57483",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Morhange",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Mairie",
-              "1 place Bérot"
-            ],
-            "CodePostal": "57340",
-            "NomCommune": "Morhange",
-            "Localisation": {
-              "Latitude": "48.924134",
-              "Longitude": "6.6352988",
-              "Précision": "4"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "vendredi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "09:00:00",
-              "fin": "11:30:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2571432,
-          48.7657673
-        ]
-      },
-      "properties": {
-        "id": "caf-57540-01",
-        "codeInsee": "57540",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Phalsbourg",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Maison des services Lobau",
-              "17 rue du Commandant-Taillant"
-            ],
-            "CodePostal": "57370",
-            "NomCommune": "Phalsbourg",
-            "Localisation": {
-              "Latitude": "48.7657673",
-              "Longitude": "7.2571432",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "vendredi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "13:30:00",
-              "fin": "15:15:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.957627,
           49.4729411
         ]
@@ -644,67 +299,6 @@
             "PlageH": {
               "début": "14:00:00",
               "fin": "15:45:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4979391,
-          49.1806824
-        ]
-      },
-      "properties": {
-        "id": "caf-57097-01",
-        "codeInsee": "57097",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Boulay",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Maison des services",
-              "8 rue du Général-Néwinger"
-            ],
-            "CodePostal": "57220",
-            "NomCommune": "Boulay",
-            "Localisation": {
-              "Latitude": "49.1806824",
-              "Longitude": "6.4979391",
-              "Précision": "4"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "lundi",
-            "fin": "lundi",
-            "PlageH": {
-              "début": "13:30:00",
-              "fin": "15:30:00"
             },
             "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
           }
@@ -803,17 +397,14 @@
       "properties": {
         "id": "caf-57160-01",
         "codeInsee": "57160",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-12-04",
         "pivotLocal": "caf",
         "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Creutzwald",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
         "Adresse": [
           {
             "type": "physique",
-            "Ligne": [
-              "Mairie",
-              "Place du Marché"
-            ],
+            "Ligne": "Antenne de Justice",
             "CodePostal": "57150",
             "NomCommune": "Creutzwald",
             "Localisation": {
@@ -841,75 +432,8 @@
         },
         "Ouverture": {
           "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
-            "PlageH": [
-              {
-                "début": "09:00:00",
-                "fin": "12:00:00"
-              },
-              {
-                "début": "14:00:00",
-                "fin": "16:00:00"
-              }
-            ],
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0655175,
-          49.3286684
-        ]
-      },
-      "properties": {
-        "id": "caf-57306-01",
-        "codeInsee": "57306",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Hayange",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Centre administratif",
-              "6 rue de la Fontaine"
-            ],
-            "CodePostal": "57700",
-            "NomCommune": "Hayange",
-            "Localisation": {
-              "Latitude": "49.3286684",
-              "Longitude": "6.0655175",
-              "Précision": "8"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "mercredi",
-            "fin": "mercredi",
+            "début": "mardi",
+            "fin": "mardi",
             "PlageH": [
               {
                 "début": "09:00:00",
@@ -1062,7 +586,7 @@
       "properties": {
         "id": "caf-57209-01",
         "codeInsee": "57209",
-        "dateMiseAJour": "2017-09-11",
+        "dateMiseAJour": "2017-12-04",
         "pivotLocal": "caf",
         "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Faulquemont",
         "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
@@ -1102,11 +626,17 @@
           "PlageJ": {
             "début": "vendredi",
             "fin": "vendredi",
-            "PlageH": {
-              "début": "13:30:00",
-              "fin": "16:00:00"
-            },
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
+            "PlageH": [
+              {
+                "début": "09:00:00",
+                "fin": "11:30:00"
+              },
+              {
+                "début": "13:30:00",
+                "fin": "16:00:00"
+              }
+            ],
+            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30. Permanence les 2ème et 4ème vendredis du mois"
           }
         }
       }
@@ -1256,67 +786,6 @@
                 "fin": "15:30:00"
               }
             ],
-            "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0297198,
-          49.0000477
-        ]
-      },
-      "properties": {
-        "id": "caf-57628-01",
-        "codeInsee": "57628",
-        "dateMiseAJour": "2017-09-11",
-        "pivotLocal": "caf",
-        "Nom": "Caisse d'allocations familiales (Caf) de Moselle - accueil de Sarralbe",
-        "EditeurSource": "La Direction de l'information légale et administrative (Premier ministre)",
-        "Adresse": [
-          {
-            "type": "physique",
-            "Ligne": [
-              "Mairie",
-              "1 place de la République"
-            ],
-            "CodePostal": "57430",
-            "NomCommune": "Sarralbe",
-            "Localisation": {
-              "Latitude": "49.0000477",
-              "Longitude": "7.0297198",
-              "Précision": "9"
-            }
-          },
-          {
-            "type": "postale",
-            "Ligne": [
-              "Caisse d'allocations familiales de Moselle",
-              "4 boulevard du Pontiffroy"
-            ],
-            "CodePostal": "57774",
-            "NomCommune": "Metz Cedex 9"
-          }
-        ],
-        "CoordonnéesNum": {
-          "Téléphone": {
-            "coût": "Numéro violet : service payant + prix d’un appel (dépend de votre opérateur, pour connaître le tarif écoutez le message en début d’appel)",
-            "$t": "08 10 25 57 10"
-          },
-          "Url": "https://www.caf.fr"
-        },
-        "Ouverture": {
-          "PlageJ": {
-            "début": "vendredi",
-            "fin": "vendredi",
-            "PlageH": {
-              "début": "09:00:00",
-              "fin": "11:30:00"
-            },
             "Note": "Accueil téléphonique du lundi au vendredi de 8h30 à 16h30."
           }
         }
